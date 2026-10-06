@@ -104,3 +104,7 @@ The scripts expect the private working copy's folder layout and cached pages, so
 - Episode data: Wikipedia contributors, [List of *Diners, Drive-Ins and Dives* episodes](https://en.wikipedia.org/wiki/List_of_Diners,_Drive-Ins_and_Dives_episodes) (CC BY-SA 4.0).
 - Restaurant details: [foodiepie.com](https://www.foodiepie.com), 15 years of one person's TV-watching. Thank you.
 - Classification: [TypeSafe Jev](https://typesafe.ai). Charts: [Remotion](https://www.remotion.dev) and [rough.js](https://roughjs.com).
+
+## License
+
+The code, docs, charts and our own labels are under the repo's [MIT License](../LICENSE). Wikipedia-derived data ([`data/wiki_appearances.csv`](data/wiki_appearances.csv), plus the seasons and air dates in [`data/triple_d_restaurants.csv`](data/triple_d_restaurants.csv)) remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): reuse it with attribution, and share adaptations under the same license.
