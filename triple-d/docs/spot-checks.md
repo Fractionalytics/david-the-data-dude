@@ -1,0 +1,25 @@
+# Spot-checks for triple-d
+
+> **Scope note:** this doc was written during the analysis, so its numbers cover all 1,634 restaurants, including the 74 outside the US. The charts and the Reel use only the 1,560 US restaurants (states, DC and Puerto Rico), so their numbers differ slightly.
+
+Each row lists what our data says and what to look up. Fill in **Verdict** with ✅ right, ❌ wrong (with a note) or 🤷 unclear. Rows are chosen to test a specific part of the pipeline.
+
+| # | Restaurant | Tests | Our data says | Look up | Verdict |
+|---|---|---|---|---|---|
+| 1 | **La Santisima Gourmet Taco Shop**, Phoenix AZ | Can a "dive" be detected from food-only descriptions? | Strict: **Other** (Jev 0.99 confident). Dive score 0.20. Forced: Drive-In. Open. | A Reddit commenter calls it a dive because of the neighborhood. Street View: is it a dive? Is there a walk-up window (which would justify Drive-In)? |🤷 IT's hard to tell because it burned down in 2025.|
+| 2 | **Bludso's**: Compton (S17) and Los Angeles "Bar & Que" (S34) | Over-merging | Merged into **one restaurant** with 2 appearances. | Same restaurant, or two separate places? |✅ (corrected) First answered "two separate places", then: Bludso's has three LA-area locations (La Brea, Santa Monica, Van Nuys). The S17 Compton original moved to La Brea, which is the S34 "Bar & Que", so one restaurant with two appearances is right. |
+| 3 | **Louie Mueller BBQ**, Taylor TX | Revisit merging | 3 appearances: 2007-05-28, 2014-06-21, 2021-06-25 (S1, S19, S34). Wikipedia spells it 2 ways. | Did it really air 3 times? |It really did air three times. |
+| 4 | **Aristo's** ("Artiso's" on Wikipedia), Salt Lake City | Manual match of a typo | One restaurant, S19 (2014) and S24 (2016). **Closed**. | Same place? Closed? | Same place. It closed in 2019. The owner now runs it as boutique aviation catering and concierge service. |
+| 5 | **Louie's**, Dallas TX | Highest-confidence Dive | **Dive**, dive score 0.94. | Is it a dive bar? |✅ |
+| 6 | **Pucker Wilson's**, Juneau AK | Jev-labeled Drive-In (no name rule) | **Drive-In**, drive-in score 0.93. |✅ Walk-up or truck? Seating? | It's basically a food truck or two in an open air environment where you park your car and go order. That seems to fit the definition we are using. |
+| 7 | **Jake's Good Eats**, Charlotte NC | Lowest-confidence call | **Dive** (confidence 0.14). Diner 0.43, Dive 0.54. **Closed**. | Your call: what was it? Closed? | I'd call it a dive since it was in a gas station. It has closed. |
+| 8 | **Barbecue King Drive-In**, Charlotte NC | Closed status from web research | **Closed** (after ~66 years). | News of the closing? | Appears to have closed in 2025 https://www.wcnc.com/article/life/food/charlottes-bar-b-q-king-will-close-doors/275-b00d624c-27a1-4d06-ab43-010a6fae9eb2 |
+| 9 | **Tap Tap Haitian Restaurant**, Miami Beach FL | Weakest closed evidence (a "Closed" label on a Food Network listing) | **Closed**. | Google/Yelp status | It closed in late 2018 or early 2019 https://www.miamiherald.com/entertainment/restaurants/article225574900.html |
+| 10 | **Guacaya Bistreaux**, Minneapolis MN | Sources disagree | **Closed** (Wikipedia). Web research found a 2026 article in the present tense. | Open or closed? | Closed. Evidence: https://www.startribune.com/guacaya-bistreaux-closed-minneapolis-restaurant-north-loop-pedro-wolcott/601338815 |
+| 11 | **Big Star Diner**, Bainbridge Island WA | Renamed restaurant | **Open** (now Madison Diner, same railcar). Diner. | Is Madison Diner the same place? | ✅ |
+| 12 | **Danger Dave's**, Bentonville AR | No description found | Other (from name only, confidence 0.16). Aired 2026-09-11. | What kind of place is it? | Hard to tell. Indoor/outdoor, live music. Instagram description says: "A little bit of honky tonk, a little bit playground, a little bit neighborhood bar, and a whole lot of fun." Not a drive-in, and not a diner, but possibly a dive. But very hard to classify.  |
+| 13 | **Cabbage Town Market**, Atlanta GA | Strict "Other" with a high dive score (0.71) | Strict: Other. Forced: Dive. | Market, or dive? | It's a market, not a dive. https://www.ajc.com/entertainment/celebrity-news/food-network-spotlights-cabbagetown-market/VL3OK5wDl69gXEp98FWdyO/. The show, which host Guy Fieri refers to as "Triple D," usually features, as its title suggests, diners, drive-thrus and hole-in-the-walls that feature over-the-top greasy chow. But Monday night's episode (10 p.m. on Food Network) is about more off-the-beaten path treats like fried quail on a cornmeal waffle and Frogmore Stew, which Fieri dutifully cooked up alongside Locke and Hanson. 'We're kinda famous for our burgers," she said, "but they wanted us to do something a little different.'
+|
+| 14 | **Season count** | Scope | Wikipedia: 44 seasons; we used 1–43, ending 2026-09-11. | Food Network's own season count, and why it differs | There are indeed 44 seasons. Season 44 just started on Friday, October 2. That should not be part of this analysis. |
+
+If more than 2 of rows 1, 5, 6, 7 and 13 come back ❌, revisit the definitions in `scripts/definitions.py` before making the video.

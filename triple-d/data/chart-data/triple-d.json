@@ -1,0 +1,1596 @@
+{
+ "scope": "us",
+ "uniqueRestaurants": 1560,
+ "appearances": {
+  "1": 1352,
+  "2": 184,
+  "3": 24
+ },
+ "totals": {
+  "strict": {
+   "Diner": 253,
+   "Drive-In": 97,
+   "Dive": 177,
+   "Other": 1033
+  },
+  "forced": {
+   "Diner": 457,
+   "Drive-In": 154,
+   "Dive": 500,
+   "Other": 449
+  },
+  "detailed": [
+   {
+    "category": "Diner",
+    "count": 253
+   },
+   {
+    "category": "Global kitchens",
+    "count": 207
+   },
+   {
+    "category": "Dive",
+    "count": 177
+   },
+   {
+    "category": "Mexican & Latin",
+    "count": 161
+   },
+   {
+    "category": "Pizza & Italian",
+    "count": 123
+   },
+   {
+    "category": "New American bistros",
+    "count": 107
+   },
+   {
+    "category": "BBQ & smokehouses",
+    "count": 99
+   },
+   {
+    "category": "Drive-In",
+    "count": 97
+   },
+   {
+    "category": "Sandwiches & delis",
+    "count": 82
+   },
+   {
+    "category": "Brewpubs & bars",
+    "count": 77
+   },
+   {
+    "category": "Southern, Cajun & soul",
+    "count": 68
+   },
+   {
+    "category": "Seafood",
+    "count": 45
+   },
+   {
+    "category": "Bakeries, cafes & desserts",
+    "count": 38
+   },
+   {
+    "category": "Butchers & markets",
+    "count": 16
+   },
+   {
+    "category": "Breakfast & brunch",
+    "count": 10
+   }
+  ]
+ },
+ "seasons": [
+  {
+   "season": 1,
+   "episodes": 12,
+   "restaurants": 37,
+   "strict": {
+    "Diner": 22,
+    "Drive-In": 8,
+    "Dive": 4,
+    "Other": 3
+   },
+   "forced": {
+    "Diner": 22,
+    "Drive-In": 8,
+    "Dive": 5,
+    "Other": 2
+   },
+   "detailed": {
+    "Diner": 22,
+    "Drive-In": 8,
+    "Dive": 4,
+    "BBQ & smokehouses": 2,
+    "Global kitchens": 1
+   },
+   "pctDDD": 91.9
+  },
+  {
+   "season": 2,
+   "episodes": 13,
+   "restaurants": 45,
+   "strict": {
+    "Diner": 22,
+    "Drive-In": 3,
+    "Dive": 11,
+    "Other": 9
+   },
+   "forced": {
+    "Diner": 22,
+    "Drive-In": 4,
+    "Dive": 16,
+    "Other": 3
+   },
+   "detailed": {
+    "Diner": 22,
+    "Dive": 11,
+    "Drive-In": 3,
+    "BBQ & smokehouses": 3,
+    "Seafood": 2,
+    "Mexican & Latin": 2,
+    "Global kitchens": 1,
+    "New American bistros": 1
+   },
+   "pctDDD": 80.0
+  },
+  {
+   "season": 3,
+   "episodes": 13,
+   "restaurants": 42,
+   "strict": {
+    "Diner": 16,
+    "Drive-In": 2,
+    "Dive": 9,
+    "Other": 15
+   },
+   "forced": {
+    "Diner": 20,
+    "Drive-In": 2,
+    "Dive": 16,
+    "Other": 4
+   },
+   "detailed": {
+    "Diner": 16,
+    "Dive": 9,
+    "BBQ & smokehouses": 7,
+    "Southern, Cajun & soul": 2,
+    "Mexican & Latin": 2,
+    "Drive-In": 2,
+    "New American bistros": 1,
+    "Global kitchens": 1,
+    "Seafood": 1,
+    "Sandwiches & delis": 1
+   },
+   "pctDDD": 64.3
+  },
+  {
+   "season": 4,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 12,
+    "Drive-In": 0,
+    "Dive": 10,
+    "Other": 17
+   },
+   "forced": {
+    "Diner": 16,
+    "Drive-In": 2,
+    "Dive": 17,
+    "Other": 4
+   },
+   "detailed": {
+    "Diner": 12,
+    "Dive": 10,
+    "Seafood": 3,
+    "Mexican & Latin": 3,
+    "Bakeries, cafes & desserts": 2,
+    "Southern, Cajun & soul": 2,
+    "Pizza & Italian": 2,
+    "Brewpubs & bars": 1,
+    "Butchers & markets": 1,
+    "Global kitchens": 1,
+    "Sandwiches & delis": 1,
+    "New American bistros": 1
+   },
+   "pctDDD": 56.4
+  },
+  {
+   "season": 5,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 13,
+    "Drive-In": 1,
+    "Dive": 7,
+    "Other": 18
+   },
+   "forced": {
+    "Diner": 15,
+    "Drive-In": 3,
+    "Dive": 17,
+    "Other": 4
+   },
+   "detailed": {
+    "Diner": 13,
+    "Dive": 7,
+    "Pizza & Italian": 6,
+    "Mexican & Latin": 5,
+    "BBQ & smokehouses": 4,
+    "Seafood": 1,
+    "Sandwiches & delis": 1,
+    "Drive-In": 1,
+    "Global kitchens": 1
+   },
+   "pctDDD": 53.8
+  },
+  {
+   "season": 6,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 11,
+    "Drive-In": 1,
+    "Dive": 8,
+    "Other": 19
+   },
+   "forced": {
+    "Diner": 16,
+    "Drive-In": 2,
+    "Dive": 17,
+    "Other": 4
+   },
+   "detailed": {
+    "Diner": 11,
+    "Dive": 8,
+    "Pizza & Italian": 5,
+    "Mexican & Latin": 4,
+    "Seafood": 3,
+    "Global kitchens": 3,
+    "Southern, Cajun & soul": 2,
+    "Sandwiches & delis": 1,
+    "Drive-In": 1,
+    "Butchers & markets": 1
+   },
+   "pctDDD": 51.3
+  },
+  {
+   "season": 7,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 10,
+    "Drive-In": 1,
+    "Dive": 8,
+    "Other": 20
+   },
+   "forced": {
+    "Diner": 14,
+    "Drive-In": 2,
+    "Dive": 15,
+    "Other": 8
+   },
+   "detailed": {
+    "Diner": 10,
+    "Dive": 8,
+    "Mexican & Latin": 5,
+    "Global kitchens": 5,
+    "Sandwiches & delis": 3,
+    "New American bistros": 2,
+    "BBQ & smokehouses": 2,
+    "Pizza & Italian": 2,
+    "Drive-In": 1,
+    "Seafood": 1
+   },
+   "pctDDD": 48.7
+  },
+  {
+   "season": 8,
+   "episodes": 11,
+   "restaurants": 34,
+   "strict": {
+    "Diner": 11,
+    "Drive-In": 3,
+    "Dive": 4,
+    "Other": 16
+   },
+   "forced": {
+    "Diner": 15,
+    "Drive-In": 4,
+    "Dive": 11,
+    "Other": 4
+   },
+   "detailed": {
+    "Diner": 11,
+    "Dive": 4,
+    "Sandwiches & delis": 3,
+    "Global kitchens": 3,
+    "Drive-In": 3,
+    "Seafood": 3,
+    "BBQ & smokehouses": 2,
+    "New American bistros": 2,
+    "Mexican & Latin": 2,
+    "Pizza & Italian": 1
+   },
+   "pctDDD": 52.9
+  },
+  {
+   "season": 9,
+   "episodes": 13,
+   "restaurants": 40,
+   "strict": {
+    "Diner": 9,
+    "Drive-In": 4,
+    "Dive": 6,
+    "Other": 21
+   },
+   "forced": {
+    "Diner": 14,
+    "Drive-In": 4,
+    "Dive": 15,
+    "Other": 7
+   },
+   "detailed": {
+    "Diner": 9,
+    "BBQ & smokehouses": 7,
+    "Dive": 6,
+    "Global kitchens": 4,
+    "Drive-In": 4,
+    "Pizza & Italian": 3,
+    "Southern, Cajun & soul": 3,
+    "Mexican & Latin": 2,
+    "New American bistros": 1,
+    "Sandwiches & delis": 1
+   },
+   "pctDDD": 47.5
+  },
+  {
+   "season": 10,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 12,
+    "Drive-In": 3,
+    "Dive": 8,
+    "Other": 16
+   },
+   "forced": {
+    "Diner": 16,
+    "Drive-In": 4,
+    "Dive": 14,
+    "Other": 5
+   },
+   "detailed": {
+    "Diner": 12,
+    "Dive": 8,
+    "Global kitchens": 5,
+    "Drive-In": 3,
+    "Pizza & Italian": 3,
+    "Mexican & Latin": 3,
+    "Southern, Cajun & soul": 2,
+    "New American bistros": 1,
+    "BBQ & smokehouses": 1,
+    "Sandwiches & delis": 1
+   },
+   "pctDDD": 59.0
+  },
+  {
+   "season": 11,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 18,
+    "Drive-In": 1,
+    "Dive": 4,
+    "Other": 16
+   },
+   "forced": {
+    "Diner": 26,
+    "Drive-In": 1,
+    "Dive": 9,
+    "Other": 3
+   },
+   "detailed": {
+    "Diner": 18,
+    "Dive": 4,
+    "Southern, Cajun & soul": 4,
+    "New American bistros": 3,
+    "Sandwiches & delis": 3,
+    "Brewpubs & bars": 1,
+    "Mexican & Latin": 1,
+    "BBQ & smokehouses": 1,
+    "Seafood": 1,
+    "Breakfast & brunch": 1,
+    "Drive-In": 1,
+    "Pizza & Italian": 1
+   },
+   "pctDDD": 59.0
+  },
+  {
+   "season": 12,
+   "episodes": 13,
+   "restaurants": 38,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 2,
+    "Dive": 5,
+    "Other": 27
+   },
+   "forced": {
+    "Diner": 14,
+    "Drive-In": 2,
+    "Dive": 13,
+    "Other": 9
+   },
+   "detailed": {
+    "Mexican & Latin": 9,
+    "New American bistros": 7,
+    "Dive": 5,
+    "Diner": 4,
+    "Global kitchens": 3,
+    "Southern, Cajun & soul": 3,
+    "Pizza & Italian": 2,
+    "Drive-In": 2,
+    "Brewpubs & bars": 1,
+    "BBQ & smokehouses": 1,
+    "Bakeries, cafes & desserts": 1
+   },
+   "pctDDD": 28.9
+  },
+  {
+   "season": 13,
+   "episodes": 13,
+   "restaurants": 30,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 2,
+    "Dive": 7,
+    "Other": 17
+   },
+   "forced": {
+    "Diner": 10,
+    "Drive-In": 2,
+    "Dive": 14,
+    "Other": 4
+   },
+   "detailed": {
+    "Dive": 7,
+    "Sandwiches & delis": 4,
+    "Diner": 4,
+    "Brewpubs & bars": 3,
+    "Mexican & Latin": 3,
+    "Southern, Cajun & soul": 2,
+    "Drive-In": 2,
+    "Pizza & Italian": 2,
+    "BBQ & smokehouses": 1,
+    "Seafood": 1,
+    "New American bistros": 1
+   },
+   "pctDDD": 43.3
+  },
+  {
+   "season": 14,
+   "episodes": 13,
+   "restaurants": 34,
+   "strict": {
+    "Diner": 7,
+    "Drive-In": 3,
+    "Dive": 4,
+    "Other": 20
+   },
+   "forced": {
+    "Diner": 10,
+    "Drive-In": 5,
+    "Dive": 8,
+    "Other": 11
+   },
+   "detailed": {
+    "Diner": 7,
+    "Global kitchens": 6,
+    "Dive": 4,
+    "New American bistros": 4,
+    "Pizza & Italian": 3,
+    "Drive-In": 3,
+    "BBQ & smokehouses": 3,
+    "Mexican & Latin": 2,
+    "Southern, Cajun & soul": 1,
+    "Brewpubs & bars": 1
+   },
+   "pctDDD": 41.2
+  },
+  {
+   "season": 15,
+   "episodes": 13,
+   "restaurants": 36,
+   "strict": {
+    "Diner": 3,
+    "Drive-In": 3,
+    "Dive": 4,
+    "Other": 26
+   },
+   "forced": {
+    "Diner": 8,
+    "Drive-In": 4,
+    "Dive": 15,
+    "Other": 9
+   },
+   "detailed": {
+    "Pizza & Italian": 6,
+    "Global kitchens": 4,
+    "Dive": 4,
+    "Mexican & Latin": 3,
+    "Diner": 3,
+    "Seafood": 3,
+    "Drive-In": 3,
+    "Sandwiches & delis": 2,
+    "Southern, Cajun & soul": 2,
+    "BBQ & smokehouses": 2,
+    "Brewpubs & bars": 2,
+    "New American bistros": 2
+   },
+   "pctDDD": 27.8
+  },
+  {
+   "season": 16,
+   "episodes": 13,
+   "restaurants": 25,
+   "strict": {
+    "Diner": 2,
+    "Drive-In": 0,
+    "Dive": 6,
+    "Other": 17
+   },
+   "forced": {
+    "Diner": 5,
+    "Drive-In": 1,
+    "Dive": 13,
+    "Other": 6
+   },
+   "detailed": {
+    "Dive": 6,
+    "Brewpubs & bars": 5,
+    "Global kitchens": 4,
+    "Southern, Cajun & soul": 2,
+    "Pizza & Italian": 2,
+    "Mexican & Latin": 2,
+    "Diner": 2,
+    "BBQ & smokehouses": 1,
+    "Seafood": 1
+   },
+   "pctDDD": 32.0
+  },
+  {
+   "season": 17,
+   "episodes": 13,
+   "restaurants": 31,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 0,
+    "Dive": 5,
+    "Other": 22
+   },
+   "forced": {
+    "Diner": 7,
+    "Drive-In": 0,
+    "Dive": 13,
+    "Other": 11
+   },
+   "detailed": {
+    "Dive": 5,
+    "Brewpubs & bars": 5,
+    "Diner": 4,
+    "Mexican & Latin": 4,
+    "BBQ & smokehouses": 3,
+    "Sandwiches & delis": 3,
+    "New American bistros": 2,
+    "Global kitchens": 2,
+    "Southern, Cajun & soul": 2,
+    "Pizza & Italian": 1
+   },
+   "pctDDD": 29.0
+  },
+  {
+   "season": 18,
+   "episodes": 13,
+   "restaurants": 33,
+   "strict": {
+    "Diner": 6,
+    "Drive-In": 2,
+    "Dive": 1,
+    "Other": 24
+   },
+   "forced": {
+    "Diner": 12,
+    "Drive-In": 5,
+    "Dive": 7,
+    "Other": 9
+   },
+   "detailed": {
+    "Diner": 6,
+    "Global kitchens": 4,
+    "Pizza & Italian": 4,
+    "BBQ & smokehouses": 4,
+    "Sandwiches & delis": 3,
+    "New American bistros": 3,
+    "Brewpubs & bars": 2,
+    "Southern, Cajun & soul": 2,
+    "Drive-In": 2,
+    "Mexican & Latin": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Dive": 1
+   },
+   "pctDDD": 27.3
+  },
+  {
+   "season": 19,
+   "episodes": 15,
+   "restaurants": 61,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 7,
+    "Dive": 4,
+    "Other": 46
+   },
+   "forced": {
+    "Diner": 15,
+    "Drive-In": 12,
+    "Dive": 13,
+    "Other": 21
+   },
+   "detailed": {
+    "New American bistros": 10,
+    "Global kitchens": 10,
+    "Drive-In": 7,
+    "Mexican & Latin": 6,
+    "Pizza & Italian": 5,
+    "BBQ & smokehouses": 4,
+    "Dive": 4,
+    "Diner": 4,
+    "Southern, Cajun & soul": 3,
+    "Butchers & markets": 3,
+    "Sandwiches & delis": 3,
+    "Bakeries, cafes & desserts": 1,
+    "Brewpubs & bars": 1
+   },
+   "pctDDD": 24.6
+  },
+  {
+   "season": 20,
+   "episodes": 5,
+   "restaurants": 15,
+   "strict": {
+    "Diner": 1,
+    "Drive-In": 0,
+    "Dive": 1,
+    "Other": 13
+   },
+   "forced": {
+    "Diner": 6,
+    "Drive-In": 0,
+    "Dive": 7,
+    "Other": 2
+   },
+   "detailed": {
+    "Brewpubs & bars": 4,
+    "Pizza & Italian": 3,
+    "Seafood": 1,
+    "Global kitchens": 1,
+    "Mexican & Latin": 1,
+    "Sandwiches & delis": 1,
+    "Diner": 1,
+    "Dive": 1,
+    "Breakfast & brunch": 1,
+    "New American bistros": 1
+   },
+   "pctDDD": 13.3
+  },
+  {
+   "season": 21,
+   "episodes": 18,
+   "restaurants": 75,
+   "strict": {
+    "Diner": 19,
+    "Drive-In": 6,
+    "Dive": 8,
+    "Other": 42
+   },
+   "forced": {
+    "Diner": 28,
+    "Drive-In": 8,
+    "Dive": 25,
+    "Other": 14
+   },
+   "detailed": {
+    "Diner": 19,
+    "Dive": 8,
+    "Global kitchens": 8,
+    "Southern, Cajun & soul": 6,
+    "Drive-In": 6,
+    "Pizza & Italian": 6,
+    "Mexican & Latin": 4,
+    "BBQ & smokehouses": 3,
+    "New American bistros": 3,
+    "Brewpubs & bars": 3,
+    "Seafood": 3,
+    "Sandwiches & delis": 2,
+    "Butchers & markets": 2,
+    "Breakfast & brunch": 1,
+    "Bakeries, cafes & desserts": 1
+   },
+   "pctDDD": 44.0
+  },
+  {
+   "season": 22,
+   "episodes": 15,
+   "restaurants": 43,
+   "strict": {
+    "Diner": 5,
+    "Drive-In": 6,
+    "Dive": 5,
+    "Other": 27
+   },
+   "forced": {
+    "Diner": 9,
+    "Drive-In": 9,
+    "Dive": 13,
+    "Other": 12
+   },
+   "detailed": {
+    "Drive-In": 6,
+    "Dive": 5,
+    "Diner": 5,
+    "Global kitchens": 5,
+    "Mexican & Latin": 5,
+    "Pizza & Italian": 5,
+    "BBQ & smokehouses": 4,
+    "New American bistros": 4,
+    "Brewpubs & bars": 2,
+    "Sandwiches & delis": 1,
+    "Southern, Cajun & soul": 1
+   },
+   "pctDDD": 37.2
+  },
+  {
+   "season": 23,
+   "episodes": 18,
+   "restaurants": 75,
+   "strict": {
+    "Diner": 18,
+    "Drive-In": 1,
+    "Dive": 9,
+    "Other": 47
+   },
+   "forced": {
+    "Diner": 32,
+    "Drive-In": 2,
+    "Dive": 20,
+    "Other": 21
+   },
+   "detailed": {
+    "Diner": 18,
+    "Dive": 9,
+    "Sandwiches & delis": 8,
+    "BBQ & smokehouses": 7,
+    "Mexican & Latin": 6,
+    "Pizza & Italian": 6,
+    "Global kitchens": 6,
+    "New American bistros": 4,
+    "Brewpubs & bars": 4,
+    "Southern, Cajun & soul": 2,
+    "Breakfast & brunch": 2,
+    "Bakeries, cafes & desserts": 1,
+    "Seafood": 1,
+    "Drive-In": 1
+   },
+   "pctDDD": 37.3
+  },
+  {
+   "season": 24,
+   "episodes": 16,
+   "restaurants": 51,
+   "strict": {
+    "Diner": 7,
+    "Drive-In": 4,
+    "Dive": 7,
+    "Other": 33
+   },
+   "forced": {
+    "Diner": 14,
+    "Drive-In": 6,
+    "Dive": 21,
+    "Other": 10
+   },
+   "detailed": {
+    "Diner": 7,
+    "Dive": 7,
+    "Global kitchens": 7,
+    "BBQ & smokehouses": 5,
+    "Seafood": 5,
+    "Drive-In": 4,
+    "Mexican & Latin": 4,
+    "Sandwiches & delis": 4,
+    "Southern, Cajun & soul": 2,
+    "Brewpubs & bars": 2,
+    "Bakeries, cafes & desserts": 1,
+    "Pizza & Italian": 1,
+    "Breakfast & brunch": 1,
+    "New American bistros": 1
+   },
+   "pctDDD": 35.3
+  },
+  {
+   "season": 25,
+   "episodes": 13,
+   "restaurants": 39,
+   "strict": {
+    "Diner": 5,
+    "Drive-In": 1,
+    "Dive": 1,
+    "Other": 32
+   },
+   "forced": {
+    "Diner": 12,
+    "Drive-In": 1,
+    "Dive": 11,
+    "Other": 15
+   },
+   "detailed": {
+    "Global kitchens": 11,
+    "Diner": 5,
+    "Brewpubs & bars": 4,
+    "New American bistros": 3,
+    "Pizza & Italian": 3,
+    "Sandwiches & delis": 3,
+    "BBQ & smokehouses": 2,
+    "Bakeries, cafes & desserts": 2,
+    "Drive-In": 1,
+    "Southern, Cajun & soul": 1,
+    "Butchers & markets": 1,
+    "Dive": 1,
+    "Mexican & Latin": 1,
+    "Breakfast & brunch": 1
+   },
+   "pctDDD": 17.9
+  },
+  {
+   "season": 26,
+   "episodes": 17,
+   "restaurants": 45,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 6,
+    "Dive": 3,
+    "Other": 32
+   },
+   "forced": {
+    "Diner": 13,
+    "Drive-In": 8,
+    "Dive": 10,
+    "Other": 14
+   },
+   "detailed": {
+    "Mexican & Latin": 7,
+    "New American bistros": 6,
+    "Drive-In": 6,
+    "Sandwiches & delis": 5,
+    "Diner": 4,
+    "Dive": 3,
+    "Global kitchens": 3,
+    "BBQ & smokehouses": 3,
+    "Seafood": 2,
+    "Brewpubs & bars": 2,
+    "Pizza & Italian": 2,
+    "Butchers & markets": 1,
+    "Bakeries, cafes & desserts": 1
+   },
+   "pctDDD": 28.9
+  },
+  {
+   "season": 27,
+   "episodes": 15,
+   "restaurants": 57,
+   "strict": {
+    "Diner": 3,
+    "Drive-In": 6,
+    "Dive": 8,
+    "Other": 40
+   },
+   "forced": {
+    "Diner": 9,
+    "Drive-In": 9,
+    "Dive": 27,
+    "Other": 12
+   },
+   "detailed": {
+    "Global kitchens": 17,
+    "Dive": 8,
+    "Drive-In": 6,
+    "Mexican & Latin": 6,
+    "BBQ & smokehouses": 5,
+    "Sandwiches & delis": 4,
+    "Diner": 3,
+    "Pizza & Italian": 3,
+    "New American bistros": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Seafood": 1,
+    "Brewpubs & bars": 1,
+    "Breakfast & brunch": 1
+   },
+   "pctDDD": 29.8
+  },
+  {
+   "season": 28,
+   "episodes": 19,
+   "restaurants": 57,
+   "strict": {
+    "Diner": 6,
+    "Drive-In": 1,
+    "Dive": 6,
+    "Other": 44
+   },
+   "forced": {
+    "Diner": 11,
+    "Drive-In": 3,
+    "Dive": 17,
+    "Other": 26
+   },
+   "detailed": {
+    "Global kitchens": 14,
+    "Mexican & Latin": 10,
+    "Dive": 6,
+    "Pizza & Italian": 6,
+    "Diner": 6,
+    "Seafood": 3,
+    "New American bistros": 3,
+    "BBQ & smokehouses": 2,
+    "Brewpubs & bars": 2,
+    "Bakeries, cafes & desserts": 2,
+    "Sandwiches & delis": 2,
+    "Drive-In": 1
+   },
+   "pctDDD": 22.8
+  },
+  {
+   "season": 29,
+   "episodes": 20,
+   "restaurants": 57,
+   "strict": {
+    "Diner": 5,
+    "Drive-In": 4,
+    "Dive": 5,
+    "Other": 43
+   },
+   "forced": {
+    "Diner": 14,
+    "Drive-In": 5,
+    "Dive": 20,
+    "Other": 18
+   },
+   "detailed": {
+    "Global kitchens": 7,
+    "Brewpubs & bars": 6,
+    "Mexican & Latin": 6,
+    "Pizza & Italian": 5,
+    "Southern, Cajun & soul": 5,
+    "Diner": 5,
+    "Dive": 5,
+    "Bakeries, cafes & desserts": 5,
+    "Drive-In": 4,
+    "New American bistros": 3,
+    "BBQ & smokehouses": 3,
+    "Sandwiches & delis": 2,
+    "Butchers & markets": 1
+   },
+   "pctDDD": 24.6
+  },
+  {
+   "season": 30,
+   "episodes": 19,
+   "restaurants": 53,
+   "strict": {
+    "Diner": 2,
+    "Drive-In": 2,
+    "Dive": 4,
+    "Other": 45
+   },
+   "forced": {
+    "Diner": 7,
+    "Drive-In": 3,
+    "Dive": 22,
+    "Other": 21
+   },
+   "detailed": {
+    "Global kitchens": 11,
+    "Mexican & Latin": 6,
+    "Pizza & Italian": 6,
+    "Sandwiches & delis": 5,
+    "BBQ & smokehouses": 5,
+    "Dive": 4,
+    "New American bistros": 4,
+    "Southern, Cajun & soul": 2,
+    "Seafood": 2,
+    "Drive-In": 2,
+    "Brewpubs & bars": 2,
+    "Diner": 2,
+    "Bakeries, cafes & desserts": 2
+   },
+   "pctDDD": 15.1
+  },
+  {
+   "season": 31,
+   "episodes": 13,
+   "restaurants": 35,
+   "strict": {
+    "Diner": 5,
+    "Drive-In": 4,
+    "Dive": 2,
+    "Other": 24
+   },
+   "forced": {
+    "Diner": 11,
+    "Drive-In": 5,
+    "Dive": 7,
+    "Other": 12
+   },
+   "detailed": {
+    "Diner": 5,
+    "Sandwiches & delis": 5,
+    "Mexican & Latin": 5,
+    "Drive-In": 4,
+    "BBQ & smokehouses": 3,
+    "Global kitchens": 3,
+    "Pizza & Italian": 2,
+    "Dive": 2,
+    "Southern, Cajun & soul": 2,
+    "Seafood": 2,
+    "Brewpubs & bars": 1,
+    "Bakeries, cafes & desserts": 1
+   },
+   "pctDDD": 31.4
+  },
+  {
+   "season": 32,
+   "episodes": 10,
+   "restaurants": 45,
+   "strict": {
+    "Diner": 4,
+    "Drive-In": 2,
+    "Dive": 13,
+    "Other": 26
+   },
+   "forced": {
+    "Diner": 10,
+    "Drive-In": 3,
+    "Dive": 19,
+    "Other": 13
+   },
+   "detailed": {
+    "Dive": 13,
+    "Pizza & Italian": 7,
+    "Global kitchens": 6,
+    "Diner": 4,
+    "New American bistros": 3,
+    "Mexican & Latin": 2,
+    "BBQ & smokehouses": 2,
+    "Drive-In": 2,
+    "Seafood": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Breakfast & brunch": 1,
+    "Brewpubs & bars": 1,
+    "Southern, Cajun & soul": 1,
+    "Sandwiches & delis": 1
+   },
+   "pctDDD": 42.2
+  },
+  {
+   "season": 33,
+   "episodes": 13,
+   "restaurants": 43,
+   "strict": {
+    "Diner": 3,
+    "Drive-In": 2,
+    "Dive": 4,
+    "Other": 34
+   },
+   "forced": {
+    "Diner": 8,
+    "Drive-In": 4,
+    "Dive": 11,
+    "Other": 20
+   },
+   "detailed": {
+    "Global kitchens": 7,
+    "Pizza & Italian": 6,
+    "Sandwiches & delis": 5,
+    "Dive": 4,
+    "New American bistros": 4,
+    "Mexican & Latin": 3,
+    "Diner": 3,
+    "Drive-In": 2,
+    "Seafood": 2,
+    "BBQ & smokehouses": 2,
+    "Bakeries, cafes & desserts": 2,
+    "Breakfast & brunch": 1,
+    "Southern, Cajun & soul": 1,
+    "Butchers & markets": 1
+   },
+   "pctDDD": 20.9
+  },
+  {
+   "season": 34,
+   "episodes": 18,
+   "restaurants": 57,
+   "strict": {
+    "Diner": 2,
+    "Drive-In": 3,
+    "Dive": 2,
+    "Other": 50
+   },
+   "forced": {
+    "Diner": 12,
+    "Drive-In": 6,
+    "Dive": 13,
+    "Other": 26
+   },
+   "detailed": {
+    "Mexican & Latin": 8,
+    "Pizza & Italian": 8,
+    "New American bistros": 8,
+    "Global kitchens": 8,
+    "Sandwiches & delis": 4,
+    "Southern, Cajun & soul": 4,
+    "BBQ & smokehouses": 3,
+    "Drive-In": 3,
+    "Brewpubs & bars": 3,
+    "Seafood": 2,
+    "Dive": 2,
+    "Diner": 2,
+    "Butchers & markets": 1,
+    "Breakfast & brunch": 1
+   },
+   "pctDDD": 12.3
+  },
+  {
+   "season": 35,
+   "episodes": 17,
+   "restaurants": 50,
+   "strict": {
+    "Diner": 5,
+    "Drive-In": 4,
+    "Dive": 5,
+    "Other": 36
+   },
+   "forced": {
+    "Diner": 10,
+    "Drive-In": 6,
+    "Dive": 16,
+    "Other": 18
+   },
+   "detailed": {
+    "Global kitchens": 11,
+    "Mexican & Latin": 9,
+    "Diner": 5,
+    "Dive": 5,
+    "Brewpubs & bars": 5,
+    "New American bistros": 4,
+    "Drive-In": 4,
+    "BBQ & smokehouses": 2,
+    "Sandwiches & delis": 2,
+    "Southern, Cajun & soul": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Butchers & markets": 1
+   },
+   "pctDDD": 28.0
+  },
+  {
+   "season": 36,
+   "episodes": 12,
+   "restaurants": 36,
+   "strict": {
+    "Diner": 0,
+    "Drive-In": 2,
+    "Dive": 5,
+    "Other": 29
+   },
+   "forced": {
+    "Diner": 5,
+    "Drive-In": 4,
+    "Dive": 11,
+    "Other": 16
+   },
+   "detailed": {
+    "Dive": 5,
+    "New American bistros": 5,
+    "Pizza & Italian": 4,
+    "Mexican & Latin": 4,
+    "Global kitchens": 4,
+    "Seafood": 2,
+    "BBQ & smokehouses": 2,
+    "Southern, Cajun & soul": 2,
+    "Sandwiches & delis": 2,
+    "Drive-In": 2,
+    "Bakeries, cafes & desserts": 2,
+    "Brewpubs & bars": 1,
+    "Breakfast & brunch": 1
+   },
+   "pctDDD": 19.4
+  },
+  {
+   "season": 37,
+   "episodes": 12,
+   "restaurants": 36,
+   "strict": {
+    "Diner": 2,
+    "Drive-In": 5,
+    "Dive": 0,
+    "Other": 29
+   },
+   "forced": {
+    "Diner": 7,
+    "Drive-In": 6,
+    "Dive": 6,
+    "Other": 17
+   },
+   "detailed": {
+    "Global kitchens": 8,
+    "Mexican & Latin": 6,
+    "Drive-In": 5,
+    "Pizza & Italian": 3,
+    "New American bistros": 3,
+    "BBQ & smokehouses": 3,
+    "Southern, Cajun & soul": 3,
+    "Bakeries, cafes & desserts": 2,
+    "Diner": 2,
+    "Butchers & markets": 1
+   },
+   "pctDDD": 19.4
+  },
+  {
+   "season": 38,
+   "episodes": 16,
+   "restaurants": 40,
+   "strict": {
+    "Diner": 0,
+    "Drive-In": 1,
+    "Dive": 2,
+    "Other": 37
+   },
+   "forced": {
+    "Diner": 6,
+    "Drive-In": 8,
+    "Dive": 13,
+    "Other": 13
+   },
+   "detailed": {
+    "New American bistros": 8,
+    "Mexican & Latin": 7,
+    "Global kitchens": 7,
+    "Pizza & Italian": 4,
+    "Brewpubs & bars": 4,
+    "Southern, Cajun & soul": 2,
+    "Sandwiches & delis": 2,
+    "Seafood": 2,
+    "Dive": 2,
+    "Drive-In": 1,
+    "Bakeries, cafes & desserts": 1
+   },
+   "pctDDD": 7.5
+  },
+  {
+   "season": 39,
+   "episodes": 8,
+   "restaurants": 22,
+   "strict": {
+    "Diner": 1,
+    "Drive-In": 1,
+    "Dive": 3,
+    "Other": 17
+   },
+   "forced": {
+    "Diner": 1,
+    "Drive-In": 4,
+    "Dive": 7,
+    "Other": 10
+   },
+   "detailed": {
+    "Global kitchens": 3,
+    "New American bistros": 3,
+    "Dive": 3,
+    "Pizza & Italian": 2,
+    "Brewpubs & bars": 2,
+    "Mexican & Latin": 2,
+    "Southern, Cajun & soul": 1,
+    "BBQ & smokehouses": 1,
+    "Drive-In": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Diner": 1,
+    "Butchers & markets": 1,
+    "Sandwiches & delis": 1
+   },
+   "pctDDD": 22.7
+  },
+  {
+   "season": 40,
+   "episodes": 15,
+   "restaurants": 45,
+   "strict": {
+    "Diner": 3,
+    "Drive-In": 2,
+    "Dive": 2,
+    "Other": 38
+   },
+   "forced": {
+    "Diner": 11,
+    "Drive-In": 4,
+    "Dive": 6,
+    "Other": 24
+   },
+   "detailed": {
+    "Global kitchens": 8,
+    "Mexican & Latin": 7,
+    "New American bistros": 5,
+    "Pizza & Italian": 4,
+    "Bakeries, cafes & desserts": 4,
+    "Southern, Cajun & soul": 4,
+    "Diner": 3,
+    "BBQ & smokehouses": 3,
+    "Brewpubs & bars": 2,
+    "Dive": 2,
+    "Drive-In": 2,
+    "Breakfast & brunch": 1
+   },
+   "pctDDD": 15.6
+  },
+  {
+   "season": 41,
+   "episodes": 12,
+   "restaurants": 36,
+   "strict": {
+    "Diner": 0,
+    "Drive-In": 1,
+    "Dive": 1,
+    "Other": 34
+   },
+   "forced": {
+    "Diner": 4,
+    "Drive-In": 8,
+    "Dive": 6,
+    "Other": 18
+   },
+   "detailed": {
+    "Bakeries, cafes & desserts": 6,
+    "Global kitchens": 5,
+    "Sandwiches & delis": 4,
+    "BBQ & smokehouses": 4,
+    "Mexican & Latin": 4,
+    "New American bistros": 3,
+    "Southern, Cajun & soul": 2,
+    "Pizza & Italian": 2,
+    "Butchers & markets": 2,
+    "Brewpubs & bars": 1,
+    "Seafood": 1,
+    "Dive": 1,
+    "Drive-In": 1
+   },
+   "pctDDD": 5.6
+  },
+  {
+   "season": 42,
+   "episodes": 12,
+   "restaurants": 28,
+   "strict": {
+    "Diner": 2,
+    "Drive-In": 1,
+    "Dive": 3,
+    "Other": 22
+   },
+   "forced": {
+    "Diner": 6,
+    "Drive-In": 1,
+    "Dive": 13,
+    "Other": 8
+   },
+   "detailed": {
+    "Global kitchens": 7,
+    "BBQ & smokehouses": 4,
+    "Brewpubs & bars": 3,
+    "Sandwiches & delis": 3,
+    "Dive": 3,
+    "Pizza & Italian": 2,
+    "Mexican & Latin": 2,
+    "Diner": 2,
+    "Southern, Cajun & soul": 1,
+    "Drive-In": 1
+   },
+   "pctDDD": 21.4
+  },
+  {
+   "season": 43,
+   "episodes": 11,
+   "restaurants": 32,
+   "strict": {
+    "Diner": 1,
+    "Drive-In": 2,
+    "Dive": 1,
+    "Other": 28
+   },
+   "forced": {
+    "Diner": 3,
+    "Drive-In": 4,
+    "Dive": 8,
+    "Other": 17
+   },
+   "detailed": {
+    "Global kitchens": 7,
+    "Mexican & Latin": 6,
+    "Pizza & Italian": 4,
+    "Sandwiches & delis": 2,
+    "BBQ & smokehouses": 2,
+    "Southern, Cajun & soul": 2,
+    "Brewpubs & bars": 2,
+    "Drive-In": 2,
+    "Diner": 1,
+    "Bakeries, cafes & desserts": 1,
+    "Butchers & markets": 1,
+    "Seafood": 1,
+    "Dive": 1
+   },
+   "pctDDD": 12.5
+  }
+ ],
+ "eras": [
+  {
+   "label": "S1-10",
+   "seasons": [
+    1,
+    10
+   ],
+   "restaurants": 393,
+   "detailed": {
+    "Diner": 138,
+    "Dive": 75,
+    "BBQ & smokehouses": 28,
+    "Mexican & Latin": 28,
+    "Drive-In": 26,
+    "Global kitchens": 25,
+    "Pizza & Italian": 22,
+    "Seafood": 14,
+    "Sandwiches & delis": 12,
+    "Southern, Cajun & soul": 11,
+    "New American bistros": 9,
+    "Bakeries, cafes & desserts": 2,
+    "Butchers & markets": 2,
+    "Brewpubs & bars": 1
+   }
+  },
+  {
+   "label": "S11-20",
+   "seasons": [
+    11,
+    20
+   ],
+   "restaurants": 342,
+   "detailed": {
+    "Diner": 53,
+    "Dive": 41,
+    "Global kitchens": 34,
+    "New American bistros": 33,
+    "Mexican & Latin": 32,
+    "Pizza & Italian": 29,
+    "Brewpubs & bars": 25,
+    "Southern, Cajun & soul": 21,
+    "BBQ & smokehouses": 20,
+    "Drive-In": 20,
+    "Sandwiches & delis": 19,
+    "Seafood": 7,
+    "Bakeries, cafes & desserts": 3,
+    "Butchers & markets": 3,
+    "Breakfast & brunch": 2
+   }
+  },
+  {
+   "label": "S21-30",
+   "seasons": [
+    21,
+    30
+   ],
+   "restaurants": 552,
+   "detailed": {
+    "Global kitchens": 89,
+    "Diner": 74,
+    "Dive": 56,
+    "Mexican & Latin": 55,
+    "Pizza & Italian": 43,
+    "BBQ & smokehouses": 39,
+    "Drive-In": 37,
+    "Sandwiches & delis": 36,
+    "New American bistros": 32,
+    "Brewpubs & bars": 28,
+    "Southern, Cajun & soul": 19,
+    "Seafood": 17,
+    "Bakeries, cafes & desserts": 16,
+    "Breakfast & brunch": 6,
+    "Butchers & markets": 5
+   }
+  },
+  {
+   "label": "S31-43",
+   "seasons": [
+    31,
+    43
+   ],
+   "restaurants": 505,
+   "detailed": {
+    "Global kitchens": 84,
+    "Mexican & Latin": 65,
+    "Pizza & Italian": 48,
+    "New American bistros": 46,
+    "Dive": 43,
+    "BBQ & smokehouses": 31,
+    "Sandwiches & delis": 31,
+    "Drive-In": 30,
+    "Diner": 28,
+    "Southern, Cajun & soul": 26,
+    "Brewpubs & bars": 25,
+    "Bakeries, cafes & desserts": 22,
+    "Seafood": 13,
+    "Butchers & markets": 8,
+    "Breakfast & brunch": 5
+   }
+  }
+ ],
+ "slopeEras": [
+  {
+   "label": "First 10",
+   "seasons": [
+    1,
+    10
+   ],
+   "restaurants": 393,
+   "detailed": {
+    "Diner": 138,
+    "Dive": 75,
+    "BBQ & smokehouses": 28,
+    "Mexican & Latin": 28,
+    "Drive-In": 26,
+    "Global kitchens": 25,
+    "Pizza & Italian": 22,
+    "Seafood": 14,
+    "Sandwiches & delis": 12,
+    "Southern, Cajun & soul": 11,
+    "New American bistros": 9,
+    "Bakeries, cafes & desserts": 2,
+    "Butchers & markets": 2,
+    "Brewpubs & bars": 1
+   }
+  },
+  {
+   "label": "Last 10",
+   "seasons": [
+    34,
+    43
+   ],
+   "restaurants": 382,
+   "detailed": {
+    "Global kitchens": 68,
+    "Mexican & Latin": 55,
+    "New American bistros": 39,
+    "Pizza & Italian": 33,
+    "BBQ & smokehouses": 24,
+    "Dive": 24,
+    "Brewpubs & bars": 23,
+    "Southern, Cajun & soul": 22,
+    "Drive-In": 22,
+    "Sandwiches & delis": 20,
+    "Bakeries, cafes & desserts": 18,
+    "Diner": 16,
+    "Seafood": 8,
+    "Butchers & markets": 7,
+    "Breakfast & brunch": 3
+   }
+  }
+ ]
+}

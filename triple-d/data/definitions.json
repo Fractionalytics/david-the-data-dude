@@ -1,0 +1,93 @@
+{
+  "definitions_version": "v2",
+  "model": "jev-1.13.0",
+  "categories": {
+    "Diner": "A casual, sit-down American eatery built around comfort food and quick table or counter service: counter seating or booths, breakfast served (often all day), short-order cooking, burgers, sandwiches, blue-plate specials. Includes classic chrome/railcar diners, luncheonettes, coffee shops, and family cafes serving breakfast and lunch.",
+    "Drive-In": "A place where food is ordered at a window, counter, or from a car and is typically eaten in the car, outdoors, or taken away: carhop drive-ins, drive-thrus, walk-up stands, roadside shacks, dairy bars, burger stands, and food trucks or carts. Little or no indoor table service.",
+    "Dive": "An unpretentious, no-frills joint with a gritty or worn-in character: a bar, tavern, or pub that serves food, or a tiny hole-in-the-wall eatery in an unremarkable location (strip mall, gas station, back of a market), including hole-in-the-wall taquerias and taco shops. Locals' spot, cheap, casual, often cash-only or quirky decor.",
+    "Other": "Does not fit Diner, Drive-In, or Dive: for example a full-service or upscale restaurant, bistro, brewery taproom, deli or market counter, bakery, pizzeria, BBQ or ethnic restaurant with conventional table service and no dive-like character."
+  },
+  "name_rules": [
+    {
+      "category": "Drive-In",
+      "regex": "\\bdrive[\\s-]?ins?\\b|\\bdrive[\\s-]?thru\\b",
+      "case_insensitive": true
+    },
+    {
+      "category": "Diner",
+      "regex": "\\bdiner\\b",
+      "case_insensitive": true
+    },
+    {
+      "category": "Dive",
+      "regex": "\\bdive\\b",
+      "case_insensitive": true
+    }
+  ],
+  "questions": {
+    "category": {
+      "type": "choice",
+      "instructions": "Based on the restaurant's name, Yelp categories, description, and signature dishes, which kind of place is this restaurant?",
+      "criteria": {
+        "Diner": "A casual, sit-down American eatery built around comfort food and quick table or counter service: counter seating or booths, breakfast served (often all day), short-order cooking, burgers, sandwiches, blue-plate specials. Includes classic chrome/railcar diners, luncheonettes, coffee shops, and family cafes serving breakfast and lunch.",
+        "Drive-In": "A place where food is ordered at a window, counter, or from a car and is typically eaten in the car, outdoors, or taken away: carhop drive-ins, drive-thrus, walk-up stands, roadside shacks, dairy bars, burger stands, and food trucks or carts. Little or no indoor table service.",
+        "Dive": "An unpretentious, no-frills joint with a gritty or worn-in character: a bar, tavern, or pub that serves food, or a tiny hole-in-the-wall eatery in an unremarkable location (strip mall, gas station, back of a market), including hole-in-the-wall taquerias and taco shops. Locals' spot, cheap, casual, often cash-only or quirky decor.",
+        "Other": "Does not fit Diner, Drive-In, or Dive: for example a full-service or upscale restaurant, bistro, brewery taproom, deli or market counter, bakery, pizzeria, BBQ or ethnic restaurant with conventional table service and no dive-like character."
+      }
+    },
+    "is_diner": {
+      "type": "noul",
+      "instructions": "Is this restaurant a diner? A diner is: A casual, sit-down American eatery built around comfort food and quick table or counter service: counter seating or booths, breakfast served (often all day), short-order cooking, burgers, sandwiches, blue-plate specials. Includes classic chrome/railcar diners, luncheonettes, coffee shops, and family cafes serving breakfast and lunch."
+    },
+    "is_drive_in": {
+      "type": "noul",
+      "instructions": "Is this restaurant a drive-in? A drive-in is: A place where food is ordered at a window, counter, or from a car and is typically eaten in the car, outdoors, or taken away: carhop drive-ins, drive-thrus, walk-up stands, roadside shacks, dairy bars, burger stands, and food trucks or carts. Little or no indoor table service."
+    },
+    "is_dive": {
+      "type": "noul",
+      "instructions": "Is this restaurant a dive? A dive is: An unpretentious, no-frills joint with a gritty or worn-in character: a bar, tavern, or pub that serves food, or a tiny hole-in-the-wall eatery in an unremarkable location (strip mall, gas station, back of a market), including hole-in-the-wall taquerias and taco shops. Locals' spot, cheap, casual, often cash-only or quirky decor."
+    }
+  },
+  "other_buckets": {
+    "buckets_version": "b1",
+    "asked_of": "restaurants whose strict classification is Other",
+    "buckets": {
+      "Sandwiches & delis": "Sandwich shops and delis where the sandwich is the main event: subs, hoagies, cheesesteaks, po'boys, Jewish or Italian delis.",
+      "BBQ & smokehouses": "Barbecue joints and smokehouses built around smoked meats: brisket, ribs, pulled pork, pitmasters.",
+      "Pizza & Italian": "Pizzerias and Italian or Italian-American restaurants: pizza, pasta, red-sauce classics.",
+      "Seafood": "Seafood-focused places: fish houses, crab, oyster, lobster or clam shacks, fish markets with a kitchen.",
+      "Mexican & Latin": "Mexican, Tex-Mex, Central and South American, Cuban, Puerto Rican and Caribbean restaurants.",
+      "Southern, Cajun & soul": "Southern comfort food, soul food, Cajun, Creole and Lowcountry cooking.",
+      "Global kitchens": "Cuisines from Europe, Asia, Africa, the Middle East, the Mediterranean or the Pacific Islands (Greek, Korean, Thai, Indian, Polish, German, Hawaiian, Ethiopian and so on), but not Italian or Latin American.",
+      "New American bistros": "Chef-driven, farm-to-table or creative New American restaurants and bistros, including small-plates and upscale-casual spots.",
+      "Brewpubs & bars": "Breweries, brewpubs, gastropubs, taverns, and cocktail or wine bars where the bar is central and the food is serious, without dive-bar grit.",
+      "Bakeries, cafes & desserts": "Bakeries, coffee shops and cafes, donut, pie, ice cream and dessert shops.",
+      "Breakfast & brunch": "Restaurants centered on breakfast or brunch (pancakes, biscuits, egg dishes) that are not classic diners.",
+      "Butchers & markets": "Butcher shops, markets, grocery or specialty food stores, cheese shops, food halls and farm stands with a food counter."
+    },
+    "questions": {
+      "bucket": {
+        "type": "choice",
+        "instructions": "This restaurant is not a classic diner, drive-in or dive. Based on its name, Yelp categories, description and signature dishes, which kind of restaurant is it? Choose its main specialty or format.",
+        "criteria": {
+          "Sandwiches & delis": "Sandwich shops and delis where the sandwich is the main event: subs, hoagies, cheesesteaks, po'boys, Jewish or Italian delis.",
+          "BBQ & smokehouses": "Barbecue joints and smokehouses built around smoked meats: brisket, ribs, pulled pork, pitmasters.",
+          "Pizza & Italian": "Pizzerias and Italian or Italian-American restaurants: pizza, pasta, red-sauce classics.",
+          "Seafood": "Seafood-focused places: fish houses, crab, oyster, lobster or clam shacks, fish markets with a kitchen.",
+          "Mexican & Latin": "Mexican, Tex-Mex, Central and South American, Cuban, Puerto Rican and Caribbean restaurants.",
+          "Southern, Cajun & soul": "Southern comfort food, soul food, Cajun, Creole and Lowcountry cooking.",
+          "Global kitchens": "Cuisines from Europe, Asia, Africa, the Middle East, the Mediterranean or the Pacific Islands (Greek, Korean, Thai, Indian, Polish, German, Hawaiian, Ethiopian and so on), but not Italian or Latin American.",
+          "New American bistros": "Chef-driven, farm-to-table or creative New American restaurants and bistros, including small-plates and upscale-casual spots.",
+          "Brewpubs & bars": "Breweries, brewpubs, gastropubs, taverns, and cocktail or wine bars where the bar is central and the food is serious, without dive-bar grit.",
+          "Bakeries, cafes & desserts": "Bakeries, coffee shops and cafes, donut, pie, ice cream and dessert shops.",
+          "Breakfast & brunch": "Restaurants centered on breakfast or brunch (pancakes, biscuits, egg dishes) that are not classic diners.",
+          "Butchers & markets": "Butcher shops, markets, grocery or specialty food stores, cheese shops, food halls and farm stands with a food counter."
+        }
+      }
+    }
+  },
+  "policies": {
+    "strict": "Name rule if one matches, else the Choice question's most likely of the four categories.",
+    "forced": "Name rule if one matches, else the most likely of Diner / Drive-In / Dive with Other excluded; if there is no unique best (all three 0.00), the restaurant stays Other."
+  }
+}
