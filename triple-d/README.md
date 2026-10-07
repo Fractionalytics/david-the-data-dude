@@ -4,7 +4,11 @@
 
 This folder is the behind-the-scenes companion to David the Data Dude's [Instagram Reel](https://www.instagram.com/reel/DeK1SQpS-qs/) on the question.
 
-**▶ [Watch the Reel on Instagram](https://www.instagram.com/reel/DeK1SQpS-qs/)**
+<p align="center">
+  <a href="https://www.instagram.com/reel/DeK1SQpS-qs/"><img src="cover.jpg" alt="Reel cover: DINERS, DRIVE-INS and DIVES each struck through in red marker" width="300"></a>
+  <br>
+  <b>▶ <a href="https://www.instagram.com/reel/DeK1SQpS-qs/">Watch the Reel on Instagram</a></b>
+</p>
 
 The Reel is under 3 minutes, so most of the work didn't make the cut. Everything is here: the data, the code, the AI classifier's raw answers, every chart, and the things we got wrong along the way.
 
