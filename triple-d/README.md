@@ -29,6 +29,24 @@ The Reel is under 3 minutes, so most of the work didn't make the cut. Everything
 
 That's consistent with America's broader shift toward global flavors, but note what this data measures: it shows what the show's producers chose to feature, not what diners ordered.
 
+## How we defined a diner, drive-in and dive
+
+There's no official definition of any of the three, so we wrote our own. These are the exact words the AI classifier was given (definitions version v2, also in [`data/definitions.json`](data/definitions.json)):
+
+> **Diner:** A casual, sit-down American eatery built around comfort food and quick table or counter service: counter seating or booths, breakfast served (often all day), short-order cooking, burgers, sandwiches, blue-plate specials. Includes classic chrome/railcar diners, luncheonettes, coffee shops, and family cafes serving breakfast and lunch.
+
+> **Drive-In:** A place where food is ordered at a window, counter, or from a car and is typically eaten in the car, outdoors, or taken away: carhop drive-ins, drive-thrus, walk-up stands, roadside shacks, dairy bars, burger stands, and food trucks or carts. Little or no indoor table service.
+
+> **Dive:** An unpretentious, no-frills joint with a gritty or worn-in character: a bar, tavern, or pub that serves food, or a tiny hole-in-the-wall eatery in an unremarkable location (strip mall, gas station, back of a market), including hole-in-the-wall taquerias and taco shops. Locals' spot, cheap, casual, often cash-only or quirky decor.
+
+> **Other:** Does not fit Diner, Drive-In, or Dive: for example a full-service or upscale restaurant, bistro, brewery taproom, deli or market counter, bakery, pizzeria, BBQ or ethnic restaurant with conventional table service and no dive-like character.
+
+Two notes on how these were applied:
+- **Names come first.** A restaurant with "Diner", "Drive-In" (or "Drive-Thru") or "Dive" in its name gets that label automatically, before the AI weighs in.
+- **The definitions changed once.** The first version of Dive didn't mention taquerias. After a spot-check, we broadened it to include hole-in-the-wall taquerias and taco shops, and re-ran every restaurant.
+
+"Dive" is the hardest call. It's mostly about atmosphere and neighborhood, while the descriptions the AI read are mostly about food.
+
 ## What's in the Reel
 
 | Clip | What it shows | Data |
