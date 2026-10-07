@@ -4,7 +4,7 @@ The data, code and charts behind David the Data Dude's videos. Each project fold
 
 | Project | Question | Video |
 |---|---|---|
-| [`triple-d/`](triple-d/) | *Diners, Drive-Ins and Dives* has featured about 1,600 restaurants. How many are actually diners, drive-ins or dives? | [Reel](https://www.instagram.com/reel/DeK1SQpS-qs/) |
+| [`triple-d/`](triple-d/) | *Diners, Drive-Ins and Dives* has featured about 1,600 restaurants. How many are actually diners, drive-ins or dives? | <a href="https://www.instagram.com/reel/DeK1SQpS-qs/"><img src="triple-d/cover.jpg" alt="Triple D Reel cover" width="90"></a><br>[Watch the Reel](https://www.instagram.com/reel/DeK1SQpS-qs/) |
 
 Made by [Fractionalytics](https://github.com/Fractionalytics).
 
