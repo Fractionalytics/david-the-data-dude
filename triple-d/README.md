@@ -4,7 +4,9 @@
 
 This folder is the behind-the-scenes companion to David the Data Dude's [Instagram Reel](https://www.instagram.com/reel/DeK1SQpS-qs/) on the question.
 
-**▶ [Watch the Reel on Instagram](https://www.instagram.com/reel/DeK1SQpS-qs/)** The Reel is under 3 minutes, so most of the work didn't make the cut. Everything is here: the data, the code, the AI classifier's raw answers, every chart, and the things we got wrong along the way.
+**▶ [Watch the Reel on Instagram](https://www.instagram.com/reel/DeK1SQpS-qs/)**
+
+The Reel is under 3 minutes, so most of the work didn't make the cut. Everything is here: the data, the code, the AI classifier's raw answers, every chart, and the things we got wrong along the way.
 
 ## The finding
 
