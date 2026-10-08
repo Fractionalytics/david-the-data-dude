@@ -1,0 +1,28 @@
+{
+ "project": "florida-alerts",
+ "total": 6,
+ "band": "moderate",
+ "dimensions": [
+  {
+   "name": "Acquisition",
+   "score": 2
+  },
+  {
+   "name": "Coverage",
+   "score": 2
+  },
+  {
+   "name": "Entity resolution",
+   "score": 0
+  },
+  {
+   "name": "Judgment",
+   "score": 1
+  },
+  {
+   "name": "Verification",
+   "score": 1
+  }
+ ],
+ "readmeVerdict": "Hard to get, easy to count."
+}

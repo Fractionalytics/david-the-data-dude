@@ -6,7 +6,7 @@ Copies only what is ours to share, or FDLE's / DOJ's own public figures:
 - data/: the processed tables, the hand-typed newsletter and press-release figures with their source quotes,
   FDLE's 197 success stories (FDLE's public text, no names), the chart data, and the case-level alerts
   COARSENED to year, month, age, sex, agency, recovery state and FDLE's direct/indirect mark.
-- scripts/, docs/ (data challenges, spot checks, the difficulty rubric), the Remotion source, the five
+- scripts/, docs/ (data challenges, back in my day, spot checks, the difficulty rubric), the Remotion source, the five
   chart MP4s, and the Reel cover.
 
 Deliberately NOT copied:
@@ -37,7 +37,7 @@ DATA = {
                 "silver_monthly_totals.csv"],
 }
 CASE_COLUMNS = ["year", "month", "row", "age", "sex", "agency", "recovered_state", "mark"]
-DOCS = ["data-challenges.md"]
+DOCS = ["data-challenges.md", "back-in-my-day.md"]
 VIDEO_FILES = ["package.json", "package-lock.json", "tsconfig.json", "remotion.config.ts", "render-all.mjs",
                "render-stills.mjs", "render-checks.mjs", "README.md", "zones.env"]
 

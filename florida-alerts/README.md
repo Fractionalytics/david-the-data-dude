@@ -86,7 +86,7 @@ The full story of what went wrong is in [`docs/data-challenges.md`](docs/data-ch
 | [`data/alerts_yearly_by_type.csv`](data/alerts_yearly_by_type.csv), [`data/alerts_yearly_direct.csv`](data/alerts_yearly_direct.csv), [`data/amber_national_yearly.csv`](data/amber_national_yearly.csv) | AMBER, Missing Child and Purple Alert figures (background; not in the Reel) |
 | [`data/chart-data/`](data/chart-data/) | The exact numbers the charts draw |
 | [`scripts/`](scripts/) | The Python pipeline: find and download the sources, parse, build the tables, export the chart data |
-| [`docs/`](docs/) | Data challenges (the "inside look"), spot checks and the difficulty rubric |
+| [`docs/`](docs/) | Data challenges (the "inside look"), a then-vs-now comparison with 2021 ([`back-in-my-day.md`](docs/back-in-my-day.md)), spot checks and the difficulty rubric |
 | [`video/`](video/), [`videos/`](videos/) | The Remotion project, and the five rendered charts (1080×1920 MP4) |
 
 **Degree of difficulty: 6/10.** Hard to get, easy to count. All PDFs, no single complete source, and data that stops in 2020. But once the numbers were out, counting them was simple. See the [rubric](docs/difficulty-rubric.md).

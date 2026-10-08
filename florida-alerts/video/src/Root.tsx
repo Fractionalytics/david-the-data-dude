@@ -7,6 +7,8 @@ import {AlertsYearsDots} from './charts/AlertsYearsDots';
 import {ChannelBars, FoundByBars} from './charts/StoryBars';
 import {RecoveryMap} from './charts/RecoveryMap';
 import {Takeaways} from './charts/Takeaways';
+import {CAROUSEL, DifficultyScorecard} from '@kit/scorecard';
+import difficulty from './data/difficulty.json';
 
 export const RemotionRoot: React.FC = () => (
 	<>
@@ -15,5 +17,7 @@ export const RemotionRoot: React.FC = () => (
 		<Composition id="card7-channels" component={ChannelBars} durationInFrames={durationOf(7)} {...VIDEO} />
 		<Composition id="card8-map" component={RecoveryMap} durationInFrames={durationOf(8)} {...VIDEO} />
 		<Composition id="card9-takeaways" component={Takeaways} durationInFrames={durationOf(9)} {...VIDEO} />
+		{/* "How I did it" carousel slides (1080×1350 stills). */}
+		<Composition id="carousel-difficulty" component={DifficultyScorecard} durationInFrames={1} {...CAROUSEL} defaultProps={{difficulty}} />
 	</>
 );
