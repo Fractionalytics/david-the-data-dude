@@ -1,0 +1,15 @@
+year,alert_type,alerts_issued,recovered,direct_recoveries,direct_share_stated,conflicting_sources,source_issue,page
+2020,AMBER,19.0,18.0,,,False,2021-Spring,1
+2020,Missing Child,33.0,30.0,,,True,2021-Spring,1
+2020,Silver,249.0,247.0,,,False,2021-Spring,1
+2021,AMBER,10.0,10.0,,,False,2022-Spring,1
+2021,Missing Child,48.0,43.0,,,False,2022-Spring,1
+2021,Silver,287.0,280.0,,,False,2022-Spring,1
+2022,AMBER,12.0,,5.0,,False,2023-Summer,4
+2022,Missing Child,55.0,,,,False,2023-Fall,3
+2023,AMBER,8.0,,,0.37,False,2024-Spring,5
+2023,Missing Child,58.0,,,,False,2024-Spring,5
+2023,Purple,202.0,,,,False,2024-Spring,5
+2023,Silver,212.0,,,,False,2024-Spring,5
+2025,AMBER,7.0,,,,False,2026-Summer,7
+2025,Missing Child,79.0,,,,False,2026-Summer,7

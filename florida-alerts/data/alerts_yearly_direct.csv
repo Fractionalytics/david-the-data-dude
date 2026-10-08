@@ -1,0 +1,4 @@
+year,alert_type,alerts_issued,recovered,direct_recoveries,direct_rate,source_issue
+2020,All (AMBER+Missing Child+Silver),301.0,295.0,38.0,0.126,2021-Spring
+2021,All (AMBER+Missing Child+Silver),345.0,333.0,31.0,0.09,2022-Spring
+2023,All (AMBER+Missing Child+Silver+Purple),480.0,,51.0,0.106,2024-Spring

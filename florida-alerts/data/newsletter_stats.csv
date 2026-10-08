@@ -1,0 +1,45 @@
+period_kind,period_start,period_end,alert_type,alerts_issued,recovered,direct_recoveries,direct_share_stated,source_issue,page,quote
+calendar_year,2020-01-01,2020-12-31,AMBER,19,18,,,2021-Spring,1,19 AMBER Alerts with EIGHTEEN Recoveries
+calendar_year,2020-01-01,2020-12-31,Missing Child,33,30,,,2021-Spring,1,33 Missing Child Alerts with THIRTY Recoveries
+calendar_year,2020-01-01,2020-12-31,Silver,249,247,,,2021-Spring,1,249 Silver Alerts with TWO HUNDRED FOURTY-SEVEN Recoveries
+calendar_year,2020-01-01,2020-12-31,All (AMBER+Missing Child+Silver),,,38,,2021-Spring,1,38 RECOVERIES WERE DIRECTLY ATTRIBUTED TO THE FLORIDA ALERT SYSTEM
+calendar_year,2020-01-01,2020-12-31,Missing Child,34,,,,2021-Fall,2,while 34 Missing Child Alerts and 19 AMBER Alerts were issued statewide
+calendar_year,2020-01-01,2020-12-31,AMBER,19,,,,2021-Fall,2,while 34 Missing Child Alerts and 19 AMBER Alerts were issued statewide
+partial_year,2021-01-01,2021-06-01,AMBER,5,4,,,2021-Summer,1,5 AMBER Alerts with Four Recoveries
+partial_year,2021-01-01,2021-06-01,Missing Child,27,22,,,2021-Summer,1,27 Missing Child Alerts with Twenty-two Recoveries
+partial_year,2021-01-01,2021-06-01,Silver,130,129,,,2021-Summer,1,130 Silver Alerts with One Hundred and Twenty-nine Recoveries
+partial_year,2021-01-01,2021-06-01,All (AMBER+Missing Child+Silver),,,15,,2021-Summer,1,15 RECOVERIES WERE DIRECTLY ATTRIBUTED TO THE FLORIDA ALERT SYSTEM
+partial_year,2021-01-01,2021-12-01,AMBER,10,10,,,2021-Fall,1,10 AMBER Alerts with 10 Recoveries in 2021
+partial_year,2021-01-01,2021-12-01,Missing Child,45,40,,,2021-Fall,1,45 Missing Child Alerts with 40 Recoveries in 2021
+partial_year,2021-01-01,2021-12-01,Silver,259,252,,,2021-Fall,1,259 Silver Alerts with 252 Recoveries in 2021
+partial_year,2021-01-01,2021-12-01,All (AMBER+Missing Child+Silver),,,30,,2021-Fall,1,"SO FAR IN 2021, 30 RECOVERIES WERE DIRECTLY ATTRIBUTED TO THE FLORIDA ALERT SYSTEM"
+calendar_year,2021-01-01,2021-12-31,AMBER,10,10,,,2022-Spring,1,10 AMBER Alerts with 10 Recoveries
+calendar_year,2021-01-01,2021-12-31,Missing Child,48,43,,,2022-Spring,1,48 Missing Child Alerts with 43 Recoveries
+calendar_year,2021-01-01,2021-12-31,Silver,287,280,,,2022-Spring,1,287 Silver Alerts with 280 Recoveries
+calendar_year,2021-01-01,2021-12-31,All (AMBER+Missing Child+Silver),,,31,,2022-Spring,1,"IN 2021, 31 RECOVERIES WERE DIRECTLY ATTRIBUTED TO THE FLORIDA ALERT SYSTEM"
+partial_year,2022-01-01,2022-06-14,AMBER,4,4,,,2022-Summer,1,4 AMBER Alerts with 4 Recoveries
+partial_year,2022-01-01,2022-06-14,Missing Child,19,19,,,2022-Summer,1,19 Missing Child Alerts with 19 Recoveries
+partial_year,2022-01-01,2022-06-14,Silver,119,119,,,2022-Summer,1,119 Silver Alerts with 119 Recoveries
+calendar_year,2022-01-01,2022-12-31,AMBER,12,,5,,2023-Summer,4,"In 2022, 5 of the 12 AMBER Alerts issued resulted in the direct recovery of a child"
+calendar_year,2022-01-01,2022-12-31,Missing Child,55,,,,2023-Fall,3,FDLE issued 55 Missing Child Alerts and 12 AMBER Alerts statewide
+calendar_year,2022-01-01,2022-12-31,AMBER,12,,,,2023-Fall,3,FDLE issued 55 Missing Child Alerts and 12 AMBER Alerts statewide
+quarter,2023-07-01,2023-09-30,AMBER,4,4,,,2023-Fall,3,4 AMBER Alerts issued & 4 resolved
+quarter,2023-07-01,2023-09-30,Missing Child,12,13,,,2023-Fall,3,12 Missing Child Alerts issued & 13 resolved
+quarter,2023-07-01,2023-09-30,Silver,54,53,,,2023-Fall,3,54 Silver Alerts issued & 53 resolved
+quarter,2023-07-01,2023-09-30,Purple,51,51,,,2023-Fall,3,51 Purple Alerts issued & 51 resolved
+calendar_year,2023-01-01,2023-12-31,AMBER,8,,,0.37,2024-Spring,5,8 AMBER Alerts Issued and 37% of the AMBER Alert recov
+calendar_year,2023-01-01,2023-12-31,Missing Child,58,,,,2024-Spring,5,58 Missing Child Alerts Issued
+calendar_year,2023-01-01,2023-12-31,Silver,212,,,,2024-Spring,5,212 Silver Alerts Issued
+calendar_year,2023-01-01,2023-12-31,Purple,202,,,,2024-Spring,5,202 Purple Alerts Issued
+calendar_year,2023-01-01,2023-12-31,All (AMBER+Missing Child+Silver+Purple),480,,51,0.11,2024-Spring,5,"51 of the 480 missing person alerts, or approximately 11%, of all alert types were directly recovered safely"
+quarter,2024-07-01,2024-09-30,AMBER,1,1,,,2024-Fall,3,1 AMBER Alert issued & 1 resolved
+quarter,2024-07-01,2024-09-30,Missing Child,21,20,,,2024-Fall,3,21 Missing Child Alerts issued & 20 resolved
+quarter,2024-07-01,2024-09-30,Silver (state),44,44,,,2024-Fall,3,44 State Silver Alerts issued & 44 resolved
+quarter,2024-07-01,2024-09-30,Purple (state),14,14,,,2024-Fall,3,14 State Purple Alerts issued & 14 resolved
+calendar_year,2025-01-01,2025-12-31,State alerts (unspecified types),323,321,,,2026-Summer,7,"Throughout the year 2025, MEPIC activated 323 state alerts, resulting in 321 missing people being recovered"
+calendar_year,2025-01-01,2025-12-31,Missing Child,79,,,,2026-Summer,7,"Separately, MEPIC issued 79 Missing Child Alerts and 7 AMBER Alerts statewide"
+calendar_year,2025-01-01,2025-12-31,AMBER,7,,,,2026-Summer,7,"Separately, MEPIC issued 79 Missing Child Alerts and 7 AMBER Alerts statewide"
+cumulative,2000-01-01,2020-10-01,AMBER,234,,73,,2020-Fall,5,234 AMBER Alerts Have Been Issued 73 of which directly aided in the recovery of children
+cumulative,2000-01-01,2021-12-01,AMBER,269,,77,,2021-Fall,2,"Since its inception, 269 AMBER Alerts have been issued, including 10 this year. Florida AMBER Alerts have directly aided in the rescue of 77 children."
+cumulative,2008-10-08,2021-10-08,Silver,2721,,268,,2021-Fall,8,"Since the program’s inception in 2008, 2,721 Silver Alerts have been issued, and Florida’s Silver Alert program has been directly responsible for 268 recoveries"
+cumulative,1983-01-01,2023-12-01,All (AMBER+Missing Child+Silver+Purple),4400,,1600,,2023-Fall,3,"Florida has activated over 4,400 AMBER, Missing Child, Silver and Purple alerts and more than 1,600 missing persons have been directly recovered"

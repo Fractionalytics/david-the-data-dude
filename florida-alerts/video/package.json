@@ -1,0 +1,30 @@
+{
+  "name": "florida-alerts-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "studio:zones": "remotion studio --env-file=zones.env",
+    "render": "remotion render",
+    "render:all": "node render-all.mjs",
+    "stills": "node render-stills.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.533",
+    "@remotion/google-fonts": "4.0.533",
+    "@remotion/paths": "4.0.533",
+    "d3-geo": "^3.1.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.533",
+    "roughjs": "^4.6.6",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/react": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "typescript": "^7.0.2"
+  }
+}

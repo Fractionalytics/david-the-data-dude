@@ -1,0 +1,95 @@
+{
+ "years": [
+  {
+   "year": 2011,
+   "alerts": 162
+  },
+  {
+   "year": 2012,
+   "alerts": 175
+  },
+  {
+   "year": 2013,
+   "alerts": 162
+  },
+  {
+   "year": 2014,
+   "alerts": 203
+  },
+  {
+   "year": 2015,
+   "alerts": 232
+  },
+  {
+   "year": 2016,
+   "alerts": 245
+  },
+  {
+   "year": 2017,
+   "alerts": 273
+  },
+  {
+   "year": 2018,
+   "alerts": 257
+  },
+  {
+   "year": 2019,
+   "alerts": 274
+  },
+  {
+   "year": 2020,
+   "alerts": 249
+  },
+  {
+   "year": 2021,
+   "alerts": 287
+  }
+ ],
+ "dots": {
+  "found": 98,
+  "direct": 11,
+  "foundSource": "527 of 536 found, 2020-2021",
+  "directSource": "222 of 2070, 2012-2020"
+ },
+ "foundBy": {
+  "citizen": 107,
+  "law_enforcement": 84,
+  "self": 3,
+  "unclear": 2,
+  "family": 1
+ },
+ "stories": 197,
+ "channels": {
+  "unspecified": 79,
+  "bolo_teletype": 54,
+  "highway_sign": 49,
+  "lottery": 14,
+  "plate_reader": 1
+ },
+ "states": {
+  "FL": 2035,
+  "GA": 82,
+  "AL": 22,
+  "SC": 14,
+  "NC": 8,
+  "TN": 6,
+  "NY": 5,
+  "VA": 4,
+  "OH": 4,
+  "NJ": 4,
+  "IL": 3,
+  "PA": 3,
+  "MD": 2,
+  "IN": 2,
+  "LA": 1,
+  "WA": 1,
+  "DE": 1,
+  "MS": 1,
+  "KY": 1,
+  "MN": 1,
+  "AZ": 1,
+  "IA": 1,
+  "MI": 1
+ },
+ "casesTotal": 2219
+}
