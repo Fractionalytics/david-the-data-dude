@@ -1,0 +1,657 @@
+{
+ "cutoff": "2026-10-09",
+ "switch": "2026-07-28",
+ "window_days": 74,
+ "eras": [
+  {
+   "era": 1,
+   "service": 4,
+   "total": 173
+  },
+  {
+   "era": 2,
+   "service": 5,
+   "total": 179
+  },
+  {
+   "era": 3,
+   "service": 30,
+   "total": 74
+  }
+ ],
+ "strip": [
+  {
+   "date": "2026-05-15",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-16",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-17",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-18",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-19",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-20",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-21",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-22",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-23",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-24",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-25",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-26",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-27",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-28",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-29",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-30",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-05-31",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-01",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-02",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-03",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-04",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-05",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-06",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-06-07",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-08",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-09",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-10",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-11",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-12",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-06-13",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-14",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-15",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-16",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-17",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-18",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-19",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-20",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-21",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-22",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-23",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-24",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-25",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-26",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-27",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-28",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-06-29",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-06-30",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-01",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-02",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-03",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-04",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-05",
+   "type": "Service"
+  },
+  {
+   "date": "2026-07-06",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-07-07",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-08",
+   "type": "Service"
+  },
+  {
+   "date": "2026-07-09",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-10",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-07-11",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-12",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-13",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-14",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-15",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-16",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-17",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-18",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-19",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-20",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-21",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-22",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-23",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-24",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-07-25",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-07-26",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-27",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-28",
+   "type": "Service"
+  },
+  {
+   "date": "2026-07-29",
+   "type": "Service"
+  },
+  {
+   "date": "2026-07-30",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-07-31",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-01",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-02",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-03",
+   "type": "Physical product"
+  },
+  {
+   "date": "2026-08-04",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-05",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-06",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-08-07",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-08",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-09",
+   "type": "Media, community & data"
+  },
+  {
+   "date": "2026-08-10",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-11",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-12",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-13",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-14",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-15",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-16",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-08-17",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-18",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-08-19",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-20",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-08-21",
+   "type": "Media, community & data"
+  },
+  {
+   "date": "2026-08-22",
+   "type": "Physical product"
+  },
+  {
+   "date": "2026-08-23",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-24",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-08-25",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-26",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-27",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-28",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-29",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-30",
+   "type": "Service"
+  },
+  {
+   "date": "2026-08-31",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-01",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-02",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-03",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-04",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-05",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-06",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-08",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "Physical product"
+  },
+  {
+   "date": "2026-09-10",
+   "type": "Media, community & data"
+  },
+  {
+   "date": "2026-09-11",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-12",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-13",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-15",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-09-16",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-09-17",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-18",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-19",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-09-20",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-21",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-22",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-24",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-25",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-09-26",
+   "type": "Service"
+  },
+  {
+   "date": "2026-09-27",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-28",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-09-29",
+   "type": "Media, community & data"
+  },
+  {
+   "date": "2026-09-30",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-10-01",
+   "type": "Service"
+  },
+  {
+   "date": "2026-10-02",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-10-03",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-10-04",
+   "type": "Marketplace"
+  },
+  {
+   "date": "2026-10-05",
+   "type": "Service"
+  },
+  {
+   "date": "2026-10-06",
+   "type": "Service"
+  },
+  {
+   "date": "2026-10-07",
+   "type": "Software / app"
+  },
+  {
+   "date": "2026-10-08",
+   "type": "Service"
+  },
+  {
+   "date": "2026-10-09",
+   "type": "Service"
+  }
+ ],
+ "seesaw": [
+  {
+   "month": "2026-08",
+   "service": 15,
+   "software": 8,
+   "total": 31
+  },
+  {
+   "month": "2026-09",
+   "service": 8,
+   "software": 15,
+   "total": 30
+  }
+ ],
+ "conveyor": [
+  "service",
+  "software",
+  "software",
+  "other",
+  "marketplace",
+  "software",
+  "service",
+  "service",
+  "software",
+  "marketplace",
+  "service",
+  "service",
+  "service",
+  "service",
+  "software",
+  "service",
+  "software",
+  "software",
+  "marketplace",
+  "software",
+  "other",
+  "marketplace",
+  "service",
+  "software",
+  "service"
+ ]
+}

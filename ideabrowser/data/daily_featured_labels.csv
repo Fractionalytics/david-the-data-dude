@@ -1,0 +1,427 @@
+date,era,business_type,business_type_confidence,who_pays,who_pays_confidence,industry,industry_confidence,ai_central,ai_central_confidence
+2025-07-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,No,0.95
+2025-07-30,1 (Jul 2025-Jan 2026),Software / app,0.54,Larger companies & institutions,1.0,"Work, hiring & careers",0.84,No,1.0
+2025-07-31,1 (Jul 2025-Jan 2026),Software / app,0.99,Consumers,1.0,Real estate & construction,0.7,Yes,1.0
+2025-08-01,1 (Jul 2025-Jan 2026),Software / app,0.95,Larger companies & institutions,1.0,Software & AI tools,0.35,No,0.62
+2025-08-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,"Work, hiring & careers",0.49,Yes,1.0
+2025-08-03,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.99,"Marketing, sales & media",1.0,Yes,1.0
+2025-08-04,1 (Jul 2025-Jan 2026),Service,1.0,Consumers,1.0,Other,0.57,No,1.0
+2025-08-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Fitness, wellness & beauty",1.0,Yes,1.0
+2025-08-06,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.73,Education & parenting,1.0,Yes,1.0
+2025-08-07,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.6,"Work, hiring & careers",1.0,Yes,1.0
+2025-08-08,1 (Jul 2025-Jan 2026),Marketplace,0.98,Consumers,1.0,"Travel, events & hospitality",1.0,No,1.0
+2025-08-09,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Travel, events & hospitality",0.98,No,1.0
+2025-08-10,1 (Jul 2025-Jan 2026),Physical product,1.0,Consumers,1.0,Home services & trades,0.98,No,0.97
+2025-08-11,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.39,"Work, hiring & careers",1.0,Yes,1.0
+2025-08-12,1 (Jul 2025-Jan 2026),Marketplace,1.0,Larger companies & institutions,0.95,"Work, hiring & careers",1.0,No,1.0
+2025-08-13,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Fitness, wellness & beauty",1.0,Yes,1.0
+2025-08-14,1 (Jul 2025-Jan 2026),Service,1.0,Consumers,1.0,Education & parenting,0.7,No,1.0
+2025-08-15,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.52,Health & medical,0.98,No,0.8
+2025-08-16,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.95,"Marketing, sales & media",0.79,No,0.98
+2025-08-17,1 (Jul 2025-Jan 2026),Marketplace,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.47,Yes,0.7
+2025-08-18,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,"Finance, insurance & legal",0.73,Yes,1.0
+2025-08-19,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,Home services & trades,0.99,Yes,1.0
+2025-08-20,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.87,Real estate & construction,1.0,Yes,0.83
+2025-08-21,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.52,Software & AI tools,0.95,No,1.0
+2025-08-22,1 (Jul 2025-Jan 2026),Software / app,0.95,Consumers,0.95,Automotive & transport,1.0,Yes,1.0
+2025-08-23,1 (Jul 2025-Jan 2026),Software / app,0.99,Solo professionals & creators,0.47,"Work, hiring & careers",1.0,Yes,1.0
+2025-08-24,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Fitness, wellness & beauty",0.99,Yes,1.0
+2025-08-25,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.96,Retail & e-commerce,1.0,Yes,1.0
+2025-08-26,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.46,"Marketing, sales & media",1.0,Yes,0.97
+2025-08-27,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.96,Software & AI tools,1.0,Yes,0.98
+2025-08-28,1 (Jul 2025-Jan 2026),Software / app,0.92,Small & local businesses,1.0,"Marketing, sales & media",1.0,No,1.0
+2025-08-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.73,Education & parenting,1.0,No,1.0
+2025-08-30,1 (Jul 2025-Jan 2026),Software / app,0.46,Consumers,0.39,Home services & trades,0.98,No,0.95
+2025-08-31,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,"Finance, insurance & legal",0.52,Yes,0.67
+2025-09-01,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.9,"Finance, insurance & legal",1.0,Yes,1.0
+2025-09-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.6,Retail & e-commerce,1.0,No,1.0
+2025-09-03,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.97,Home services & trades,0.91,No,1.0
+2025-09-04,1 (Jul 2025-Jan 2026),Software / app,0.47,Consumers,1.0,"Finance, insurance & legal",0.97,No,0.95
+2025-09-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.96,Health & medical,1.0,No,0.88
+2025-09-06,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.99,Retail & e-commerce,0.95,No,0.98
+2025-09-07,1 (Jul 2025-Jan 2026),Software / app,0.86,Consumers,1.0,Retail & e-commerce,0.72,No,0.98
+2025-09-08,1 (Jul 2025-Jan 2026),Software / app,0.99,Small & local businesses,0.71,Home services & trades,0.96,No,0.98
+2025-09-09,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,No,0.79
+2025-09-10,1 (Jul 2025-Jan 2026),Software / app,0.7,Consumers,0.73,"Fitness, wellness & beauty",0.4,No,0.95
+2025-09-11,1 (Jul 2025-Jan 2026),Software / app,0.9,Small & local businesses,0.92,Home services & trades,0.95,Yes,0.74
+2025-09-12,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.99,Food & restaurants,0.65,Yes,0.67
+2025-09-13,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,Food & restaurants,1.0,Yes,1.0
+2025-09-14,1 (Jul 2025-Jan 2026),Software / app,0.8,Small & local businesses,0.46,Home services & trades,1.0,Yes,0.95
+2025-09-15,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.94,Home services & trades,1.0,No,1.0
+2025-09-16,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.89,Home services & trades,0.96,No,0.91
+2025-09-17,1 (Jul 2025-Jan 2026),Service,1.0,Consumers,0.92,Automotive & transport,0.64,No,1.0
+2025-09-18,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,Home services & trades,1.0,No,0.41
+2025-09-19,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Home services & trades,0.77,Yes,1.0
+2025-09-20,1 (Jul 2025-Jan 2026),Software / app,0.99,Consumers,1.0,Home services & trades,0.89,Yes,0.94
+2025-09-21,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.85,"Marketing, sales & media",1.0,No,1.0
+2025-09-22,1 (Jul 2025-Jan 2026),Software / app,0.98,Solo professionals & creators,0.47,Education & parenting,1.0,No,1.0
+2025-09-23,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,Yes,1.0
+2025-09-24,1 (Jul 2025-Jan 2026),Software / app,0.93,Consumers,1.0,"Hobbies, collectibles & pets",1.0,No,0.79
+2025-09-25,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,"Marketing, sales & media",1.0,Yes,0.55
+2025-09-26,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.97,"Finance, insurance & legal",0.99,No,0.55
+2025-09-27,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,Real estate & construction,1.0,No,0.77
+2025-09-28,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.76,"Finance, insurance & legal",1.0,Yes,0.7
+2025-09-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.51,"Travel, events & hospitality",1.0,Yes,0.98
+2025-09-30,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.99,"Hobbies, collectibles & pets",1.0,Yes,0.3
+2025-10-01,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.47,"Marketing, sales & media",1.0,Yes,0.91
+2025-10-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.8,"Marketing, sales & media",1.0,Yes,0.92
+2025-10-03,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,"Marketing, sales & media",1.0,Yes,0.98
+2025-10-04,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.51,"Marketing, sales & media",0.48,Yes,0.76
+2025-10-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.66,Other,0.51,Yes,0.89
+2025-10-06,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Work, hiring & careers",0.93,Yes,0.53
+2025-10-07,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Finance, insurance & legal",0.37,No,0.89
+2025-10-08,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",1.0,Yes,1.0
+2025-10-09,1 (Jul 2025-Jan 2026),Software / app,0.99,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,Yes,1.0
+2025-10-10,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.9,Other,1.0,No,0.66
+2025-10-11,1 (Jul 2025-Jan 2026),Software / app,0.99,Consumers,1.0,"Finance, insurance & legal",0.78,No,1.0
+2025-10-12,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.61,"Work, hiring & careers",1.0,Yes,1.0
+2025-10-13,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.68,"Work, hiring & careers",0.74,Yes,0.95
+2025-10-14,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Health & medical,1.0,No,1.0
+2025-10-15,1 (Jul 2025-Jan 2026),Software / app,0.84,Consumers,1.0,"Travel, events & hospitality",0.71,No,0.97
+2025-10-16,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Finance, insurance & legal",1.0,No,0.58
+2025-10-17,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Health & medical,1.0,No,1.0
+2025-10-18,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,1.0,Education & parenting,1.0,No,1.0
+2025-10-19,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.85,"Fitness, wellness & beauty",0.98,No,1.0
+2025-10-20,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,Real estate & construction,1.0,No,1.0
+2025-10-21,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.33,Software & AI tools,1.0,No,1.0
+2025-10-22,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.87,"Hobbies, collectibles & pets",1.0,No,1.0
+2025-10-23,1 (Jul 2025-Jan 2026),Software / app,0.99,Small & local businesses,1.0,"Fitness, wellness & beauty",0.89,No,0.67
+2025-10-24,1 (Jul 2025-Jan 2026),Software / app,0.98,Small & local businesses,0.82,"Work, hiring & careers",1.0,Yes,0.95
+2025-10-25,1 (Jul 2025-Jan 2026),Software / app,0.94,Larger companies & institutions,0.55,Real estate & construction,1.0,Yes,0.95
+2025-10-26,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Work, hiring & careers",0.99,Yes,0.89
+2025-10-27,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.5,Real estate & construction,1.0,Yes,1.0
+2025-10-28,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.45,"Marketing, sales & media",0.57,Yes,1.0
+2025-10-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.22,"Work, hiring & careers",0.89,Yes,0.97
+2025-10-30,1 (Jul 2025-Jan 2026),Software / app,0.46,Larger companies & institutions,0.96,"Work, hiring & careers",1.0,No,1.0
+2025-10-31,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",0.73,Yes,0.55
+2025-11-01,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,Education & parenting,1.0,Yes,0.98
+2025-11-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.99,"Finance, insurance & legal",0.88,Yes,0.97
+2025-11-03,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,Education & parenting,0.99,Yes,0.43
+2025-11-04,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",0.93,No,0.89
+2025-11-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Finance, insurance & legal",0.98,Yes,1.0
+2025-11-06,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Work, hiring & careers",1.0,Yes,0.58
+2025-11-07,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.49,"Hobbies, collectibles & pets",0.61,No,1.0
+2025-11-08,1 (Jul 2025-Jan 2026),Software / app,0.99,Solo professionals & creators,1.0,Retail & e-commerce,0.98,No,0.99
+2025-11-09,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",0.99,Yes,0.98
+2025-11-10,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.45,"Marketing, sales & media",1.0,Yes,0.76
+2025-11-11,1 (Jul 2025-Jan 2026),Service,0.83,Small & local businesses,1.0,"Work, hiring & careers",0.72,No,0.58
+2025-11-12,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.71,"Marketing, sales & media",1.0,Yes,0.98
+2025-11-13,1 (Jul 2025-Jan 2026),Software / app,0.99,Small & local businesses,0.89,Other,0.74,No,0.95
+2025-11-14,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",1.0,No,1.0
+2025-11-15,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,Yes,0.31
+2025-11-22,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.69,Retail & e-commerce,0.75,Yes,0.4
+2025-11-24,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",0.99,Yes,0.73
+2025-11-25,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.97,"Finance, insurance & legal",1.0,No,1.0
+2025-11-26,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.97,"Fitness, wellness & beauty",0.97,Yes,0.48
+2025-11-27,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Education & parenting,1.0,No,0.76
+2025-11-28,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,Other,0.5,Yes,0.3
+2025-11-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Home services & trades,1.0,Yes,1.0
+2025-11-30,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.84,Food & restaurants,0.86,Yes,0.95
+2025-12-01,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.99,Real estate & construction,0.81,Yes,1.0
+2025-12-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.69,Education & parenting,0.93,No,1.0
+2025-12-03,1 (Jul 2025-Jan 2026),Software / app,0.98,Consumers,0.97,Health & medical,0.89,Yes,1.0
+2025-12-04,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.71,"Travel, events & hospitality",1.0,No,0.98
+2025-12-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.71,"Work, hiring & careers",1.0,No,0.51
+2025-12-06,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Hobbies, collectibles & pets",1.0,Yes,0.91
+2025-12-07,1 (Jul 2025-Jan 2026),Marketplace,1.0,Small & local businesses,0.86,"Marketing, sales & media",0.69,No,1.0
+2025-12-08,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Fitness, wellness & beauty",0.34,Yes,0.67
+2025-12-09,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Education & parenting,1.0,Yes,0.4
+2025-12-10,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.84,"Hobbies, collectibles & pets",0.97,Yes,0.77
+2025-12-11,1 (Jul 2025-Jan 2026),Software / app,0.99,Solo professionals & creators,0.92,"Marketing, sales & media",1.0,No,1.0
+2025-12-12,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.88,Yes,1.0
+2025-12-13,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.84,Yes,1.0
+2025-12-14,1 (Jul 2025-Jan 2026),Software / app,0.75,Consumers,0.56,Real estate & construction,1.0,No,0.79
+2025-12-15,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,Education & parenting,0.98,Yes,1.0
+2025-12-16,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Education & parenting,1.0,Yes,0.76
+2025-12-17,1 (Jul 2025-Jan 2026),Software / app,0.69,Solo professionals & creators,0.97,"Finance, insurance & legal",0.53,No,1.0
+2025-12-18,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,"Hobbies, collectibles & pets",1.0,No,0.98
+2025-12-19,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.99,Education & parenting,1.0,Yes,1.0
+2025-12-20,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,Yes,1.0
+2025-12-21,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.97,Retail & e-commerce,1.0,Yes,1.0
+2025-12-22,1 (Jul 2025-Jan 2026),Marketplace,0.89,Solo professionals & creators,0.78,Software & AI tools,0.99,No,0.97
+2025-12-23,1 (Jul 2025-Jan 2026),Software / app,0.99,Consumers,1.0,Automotive & transport,1.0,No,0.91
+2025-12-24,1 (Jul 2025-Jan 2026),Software / app,0.96,Consumers,1.0,Real estate & construction,0.66,No,0.98
+2025-12-25,1 (Jul 2025-Jan 2026),Physical product,1.0,Consumers,1.0,Education & parenting,1.0,No,1.0
+2025-12-26,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Home services & trades,0.86,No,0.97
+2025-12-27,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.3,Software & AI tools,0.71,Yes,1.0
+2025-12-28,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.64,Home services & trades,0.35,No,1.0
+2025-12-29,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Automotive & transport,0.61,No,1.0
+2025-12-30,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,1.0,"Finance, insurance & legal",0.83,No,1.0
+2025-12-31,1 (Jul 2025-Jan 2026),Software / app,0.93,Small & local businesses,1.0,"Work, hiring & careers",0.75,No,0.82
+2026-01-01,1 (Jul 2025-Jan 2026),Physical product,0.88,Consumers,1.0,Education & parenting,1.0,Yes,1.0
+2026-01-02,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Health & medical,0.91,Yes,1.0
+2026-01-03,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.99,Home services & trades,0.77,No,0.45
+2026-01-04,1 (Jul 2025-Jan 2026),Marketplace,1.0,Consumers,1.0,Automotive & transport,0.95,No,1.0
+2026-01-05,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.51,"Finance, insurance & legal",1.0,No,0.33
+2026-01-06,1 (Jul 2025-Jan 2026),Marketplace,0.99,Larger companies & institutions,0.79,"Work, hiring & careers",1.0,No,0.88
+2026-01-07,1 (Jul 2025-Jan 2026),Software / app,0.95,Consumers,0.62,"Finance, insurance & legal",0.99,No,0.98
+2026-01-08,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,1.0,Health & medical,1.0,Yes,0.7
+2026-01-09,1 (Jul 2025-Jan 2026),Software / app,0.6,Larger companies & institutions,0.8,"Marketing, sales & media",1.0,Yes,1.0
+2026-01-10,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.97,"Work, hiring & careers",1.0,No,0.97
+2026-01-11,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.57,"Marketing, sales & media",1.0,Yes,1.0
+2026-01-12,1 (Jul 2025-Jan 2026),Software / app,1.0,Larger companies & institutions,0.92,"Marketing, sales & media",1.0,No,0.73
+2026-01-13,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.61,Health & medical,1.0,No,0.66
+2026-01-14,1 (Jul 2025-Jan 2026),Software / app,0.99,Consumers,1.0,Retail & e-commerce,0.89,Yes,0.85
+2026-01-15,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.89,Education & parenting,1.0,Yes,1.0
+2026-01-16,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.96,Home services & trades,1.0,Yes,1.0
+2026-01-17,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.66,"Hobbies, collectibles & pets",0.96,Yes,1.0
+2026-01-18,1 (Jul 2025-Jan 2026),Marketplace,1.0,Consumers,0.84,Health & medical,0.49,No,0.86
+2026-01-19,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.97,Real estate & construction,1.0,No,0.52
+2026-01-20,1 (Jul 2025-Jan 2026),Software / app,1.0,Solo professionals & creators,0.81,Retail & e-commerce,0.91,Yes,1.0
+2026-01-21,1 (Jul 2025-Jan 2026),Software / app,0.86,Larger companies & institutions,0.39,Other,0.98,Yes,1.0
+2026-01-23,1 (Jul 2025-Jan 2026),Software / app,1.0,Consumers,0.56,"Work, hiring & careers",1.0,Yes,1.0
+2026-01-24,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,0.96,Automotive & transport,0.91,Yes,1.0
+2026-01-25,1 (Jul 2025-Jan 2026),Software / app,1.0,Small & local businesses,1.0,"Fitness, wellness & beauty",0.86,No,0.91
+2026-01-26,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Education & parenting,0.47,Yes,1.0
+2026-01-27,2 (Jan-Jul 2026),Software / app,0.99,Consumers,0.96,"Hobbies, collectibles & pets",0.99,Yes,0.98
+2026-01-28,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.89,Real estate & construction,1.0,Yes,1.0
+2026-01-29,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.84,Real estate & construction,0.72,Yes,1.0
+2026-01-30,2 (Jan-Jul 2026),Software / app,0.98,Larger companies & institutions,0.52,Health & medical,0.91,No,0.37
+2026-01-31,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.45,"Marketing, sales & media",0.78,Yes,0.64
+2026-02-01,2 (Jan-Jul 2026),Software / app,0.46,Consumers,0.99,Health & medical,0.8,Yes,0.34
+2026-02-02,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Automotive & transport,1.0,No,0.77
+2026-02-03,2 (Jan-Jul 2026),Physical product,0.87,Consumers,1.0,Home services & trades,0.61,No,1.0
+2026-02-04,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.92,"Hobbies, collectibles & pets",0.93,Yes,0.76
+2026-02-05,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.94,Retail & e-commerce,1.0,Yes,0.97
+2026-02-07,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Health & medical,0.96,No,0.62
+2026-02-08,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Education & parenting,0.99,No,1.0
+2026-02-09,2 (Jan-Jul 2026),Software / app,0.57,Consumers,0.59,"Finance, insurance & legal",0.81,No,1.0
+2026-02-10,2 (Jan-Jul 2026),Software / app,0.99,Not clear,0.56,"Finance, insurance & legal",0.65,No,1.0
+2026-02-11,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.26,Health & medical,0.95,No,1.0
+2026-02-12,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,0.9,Automotive & transport,0.96,No,1.0
+2026-02-13,2 (Jan-Jul 2026),"Media, community & data",0.23,Larger companies & institutions,1.0,Software & AI tools,0.97,Yes,1.0
+2026-02-14,2 (Jan-Jul 2026),Marketplace,0.96,Consumers,1.0,"Travel, events & hospitality",1.0,No,0.98
+2026-02-15,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.8,Real estate & construction,1.0,Yes,0.88
+2026-02-16,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.37,"Marketing, sales & media",1.0,Yes,0.18
+2026-02-17,2 (Jan-Jul 2026),Software / app,0.99,Solo professionals & creators,0.8,"Work, hiring & careers",0.62,Yes,0.94
+2026-02-18,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Finance, insurance & legal",1.0,No,0.85
+2026-02-19,2 (Jan-Jul 2026),Marketplace,1.0,Consumers,0.66,"Work, hiring & careers",1.0,No,0.91
+2026-02-20,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.5,Food & restaurants,0.65,No,1.0
+2026-02-21,2 (Jan-Jul 2026),Software / app,0.46,Consumers,1.0,Education & parenting,1.0,Yes,1.0
+2026-02-22,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.61,Other,0.53,Yes,1.0
+2026-02-23,2 (Jan-Jul 2026),Marketplace,1.0,Consumers,0.97,Home services & trades,1.0,No,1.0
+2026-02-24,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.64,Health & medical,1.0,Yes,1.0
+2026-02-25,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.94,Education & parenting,0.99,Yes,0.97
+2026-02-26,2 (Jan-Jul 2026),Marketplace,0.82,Small & local businesses,0.79,Home services & trades,0.74,No,0.79
+2026-02-27,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Fitness, wellness & beauty",0.48,Yes,0.53
+2026-02-28,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.89,"Finance, insurance & legal",1.0,No,1.0
+2026-03-01,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.99,Health & medical,0.86,No,0.46
+2026-03-02,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Other,0.4,Yes,0.83
+2026-03-03,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.71,Other,0.4,No,0.59
+2026-03-04,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.76,"Marketing, sales & media",0.95,No,0.78
+2026-03-05,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.65,Software & AI tools,0.9,Yes,1.0
+2026-03-06,2 (Jan-Jul 2026),Software / app,0.99,Small & local businesses,0.91,Other,0.52,Yes,1.0
+2026-03-07,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.94,"Travel, events & hospitality",0.79,Yes,0.92
+2026-03-08,2 (Jan-Jul 2026),Software / app,0.95,Small & local businesses,0.85,Automotive & transport,0.97,No,1.0
+2026-03-09,2 (Jan-Jul 2026),Marketplace,1.0,Solo professionals & creators,0.33,Software & AI tools,1.0,Yes,1.0
+2026-03-10,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,Health & medical,0.97,No,1.0
+2026-03-11,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Software & AI tools,0.52,Yes,0.55
+2026-03-12,2 (Jan-Jul 2026),Software / app,0.5,Consumers,0.84,"Finance, insurance & legal",1.0,No,0.92
+2026-03-13,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,0.35,Home services & trades,1.0,No,1.0
+2026-03-14,2 (Jan-Jul 2026),Software / app,0.99,Consumers,0.89,"Travel, events & hospitality",0.99,No,0.76
+2026-03-15,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.82,Health & medical,1.0,Yes,0.95
+2026-03-16,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Finance, insurance & legal",1.0,No,0.98
+2026-03-17,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",0.79,Yes,1.0
+2026-03-18,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.99,"Finance, insurance & legal",1.0,No,0.89
+2026-03-19,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.97,"Marketing, sales & media",1.0,Yes,1.0
+2026-03-20,2 (Jan-Jul 2026),Service,0.92,Consumers,0.97,Home services & trades,0.64,No,1.0
+2026-03-21,2 (Jan-Jul 2026),Software / app,0.99,Consumers,1.0,Education & parenting,0.57,Yes,1.0
+2026-03-22,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.96,"Travel, events & hospitality",1.0,No,0.95
+2026-03-23,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,"Finance, insurance & legal",0.86,Yes,1.0
+2026-03-24,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,0.9,"Travel, events & hospitality",0.82,No,1.0
+2026-03-25,2 (Jan-Jul 2026),Software / app,0.76,Small & local businesses,0.95,"Marketing, sales & media",0.88,No,1.0
+2026-03-26,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.62,Yes,1.0
+2026-03-27,2 (Jan-Jul 2026),Software / app,0.99,Consumers,0.9,"Finance, insurance & legal",0.99,No,0.8
+2026-03-28,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Travel, events & hospitality",0.8,No,1.0
+2026-03-29,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.94,"Fitness, wellness & beauty",0.97,Yes,1.0
+2026-03-30,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,Other,0.89,Yes,0.54
+2026-03-31,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Other,1.0,No,1.0
+2026-04-01,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.69,Software & AI tools,1.0,Yes,0.98
+2026-04-02,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.75,"Work, hiring & careers",1.0,Yes,1.0
+2026-04-03,2 (Jan-Jul 2026),Service,0.8,Consumers,0.99,Health & medical,0.5,No,0.62
+2026-04-04,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.99,"Marketing, sales & media",0.52,No,0.38
+2026-04-05,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,0.64,"Work, hiring & careers",0.94,No,0.66
+2026-04-06,2 (Jan-Jul 2026),Marketplace,1.0,Consumers,0.71,"Work, hiring & careers",0.42,No,1.0
+2026-04-07,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,No,0.97
+2026-04-08,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,1.0,"Work, hiring & careers",1.0,No,0.97
+2026-04-09,2 (Jan-Jul 2026),Software / app,0.99,Small & local businesses,1.0,Home services & trades,0.51,No,1.0
+2026-04-10,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Education & parenting,1.0,No,0.95
+2026-04-11,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.78,"Finance, insurance & legal",0.65,No,1.0
+2026-04-12,2 (Jan-Jul 2026),Service,0.99,Solo professionals & creators,0.76,Software & AI tools,0.59,No,1.0
+2026-04-13,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.96,"Marketing, sales & media",0.98,No,0.98
+2026-04-14,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.42,"Marketing, sales & media",1.0,Yes,0.71
+2026-04-15,2 (Jan-Jul 2026),Software / app,0.99,Small & local businesses,0.51,"Work, hiring & careers",0.54,No,1.0
+2026-04-16,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.94,Software & AI tools,1.0,No,0.72
+2026-04-18,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.99,Real estate & construction,1.0,No,0.77
+2026-04-19,2 (Jan-Jul 2026),Software / app,0.98,Consumers,0.25,Real estate & construction,1.0,Yes,0.23
+2026-04-20,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.81,Retail & e-commerce,1.0,No,1.0
+2026-04-21,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,1.0,Real estate & construction,0.95,No,0.98
+2026-04-22,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Finance, insurance & legal",0.98,Yes,1.0
+2026-04-23,2 (Jan-Jul 2026),Software / app,0.99,Larger companies & institutions,0.94,"Marketing, sales & media",0.99,Yes,0.38
+2026-04-24,2 (Jan-Jul 2026),Software / app,0.92,Consumers,0.96,Health & medical,0.55,No,0.98
+2026-04-25,2 (Jan-Jul 2026),Software / app,0.98,Solo professionals & creators,0.76,Software & AI tools,0.97,No,0.52
+2026-04-26,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,Food & restaurants,1.0,No,1.0
+2026-04-27,2 (Jan-Jul 2026),Software / app,0.92,Small & local businesses,1.0,Real estate & construction,0.89,No,0.35
+2026-04-28,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,Other,0.41,No,0.98
+2026-04-29,2 (Jan-Jul 2026),"Media, community & data",0.57,Larger companies & institutions,0.97,"Marketing, sales & media",0.95,No,1.0
+2026-04-30,2 (Jan-Jul 2026),Software / app,0.77,Solo professionals & creators,0.39,Software & AI tools,0.96,Yes,0.89
+2026-05-01,2 (Jan-Jul 2026),Software / app,0.66,Small & local businesses,0.97,Health & medical,0.99,Yes,0.69
+2026-05-04,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.68,"Travel, events & hospitality",1.0,Yes,0.41
+2026-05-05,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.91,Software & AI tools,1.0,No,0.37
+2026-05-06,2 (Jan-Jul 2026),Software / app,0.9,Small & local businesses,0.96,Retail & e-commerce,0.63,Yes,0.98
+2026-05-07,2 (Jan-Jul 2026),Software / app,0.88,Consumers,1.0,"Hobbies, collectibles & pets",1.0,Yes,0.92
+2026-05-08,2 (Jan-Jul 2026),Software / app,0.75,Not clear,0.64,"Marketing, sales & media",0.4,No,1.0
+2026-05-09,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.86,"Work, hiring & careers",0.98,No,0.91
+2026-05-10,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.42,"Marketing, sales & media",0.99,Yes,0.51
+2026-05-11,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.29,Software & AI tools,0.84,Yes,0.95
+2026-05-12,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.96,"Hobbies, collectibles & pets",1.0,Yes,1.0
+2026-05-13,2 (Jan-Jul 2026),Marketplace,0.45,Larger companies & institutions,0.9,"Marketing, sales & media",0.83,Yes,0.98
+2026-05-14,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.92,"Finance, insurance & legal",1.0,No,0.73
+2026-05-15,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.62,Software & AI tools,1.0,Yes,0.97
+2026-05-16,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.55,Real estate & construction,0.99,Yes,0.92
+2026-05-17,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.44,Real estate & construction,0.99,No,1.0
+2026-05-18,2 (Jan-Jul 2026),Software / app,0.92,Consumers,0.97,Health & medical,0.96,Yes,1.0
+2026-05-19,2 (Jan-Jul 2026),Software / app,1.0,Not clear,0.44,Software & AI tools,0.9,Yes,0.37
+2026-05-20,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",0.99,Yes,0.67
+2026-05-21,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.33,Education & parenting,0.74,No,1.0
+2026-05-22,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.77,"Finance, insurance & legal",1.0,Yes,0.97
+2026-05-23,2 (Jan-Jul 2026),Software / app,0.99,Solo professionals & creators,0.82,Retail & e-commerce,0.9,Yes,0.87
+2026-05-24,2 (Jan-Jul 2026),Software / app,0.68,Consumers,0.95,Home services & trades,0.88,No,1.0
+2026-05-25,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.82,Other,0.7,Yes,1.0
+2026-05-26,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.71,Retail & e-commerce,1.0,No,1.0
+2026-05-27,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,"Finance, insurance & legal",0.53,No,1.0
+2026-05-28,2 (Jan-Jul 2026),Software / app,1.0,Not clear,0.33,Health & medical,0.99,No,0.48
+2026-05-29,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Health & medical,0.49,Yes,0.48
+2026-05-30,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Education & parenting,1.0,No,1.0
+2026-05-31,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.8,"Marketing, sales & media",0.99,Yes,1.0
+2026-06-01,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.96,"Fitness, wellness & beauty",0.41,No,0.25
+2026-06-02,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.99,"Work, hiring & careers",0.99,Yes,1.0
+2026-06-03,2 (Jan-Jul 2026),Software / app,0.8,Small & local businesses,0.76,Retail & e-commerce,0.56,No,0.91
+2026-06-04,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,1.0,"Marketing, sales & media",1.0,Yes,0.7
+2026-06-05,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.45,Health & medical,1.0,No,0.97
+2026-06-06,2 (Jan-Jul 2026),Marketplace,0.99,Consumers,1.0,"Finance, insurance & legal",0.99,No,1.0
+2026-06-07,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Health & medical,1.0,No,1.0
+2026-06-08,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.41,Other,0.96,No,0.89
+2026-06-09,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.96,Health & medical,1.0,No,0.8
+2026-06-10,2 (Jan-Jul 2026),Software / app,0.81,Consumers,1.0,Real estate & construction,1.0,No,0.98
+2026-06-11,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.47,"Finance, insurance & legal",1.0,No,0.91
+2026-06-12,2 (Jan-Jul 2026),Marketplace,0.74,Consumers,0.91,Health & medical,1.0,No,1.0
+2026-06-13,2 (Jan-Jul 2026),Software / app,0.98,Consumers,0.76,Software & AI tools,0.57,Yes,0.51
+2026-06-14,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.4,Home services & trades,0.74,No,1.0
+2026-06-15,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.97,Health & medical,1.0,No,0.69
+2026-06-16,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,"Work, hiring & careers",0.33,Yes,0.27
+2026-06-17,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",0.75,Yes,0.85
+2026-06-18,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Finance, insurance & legal",1.0,No,0.98
+2026-06-19,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,Health & medical,0.99,Yes,1.0
+2026-06-20,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Other,0.45,No,0.31
+2026-06-21,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Health & medical,1.0,No,1.0
+2026-06-22,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Software & AI tools,0.87,No,1.0
+2026-06-23,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.99,Home services & trades,1.0,Yes,1.0
+2026-06-24,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,"Work, hiring & careers",0.8,Yes,0.97
+2026-06-25,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Education & parenting,1.0,No,1.0
+2026-06-26,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.95,"Marketing, sales & media",0.98,Yes,0.72
+2026-06-27,2 (Jan-Jul 2026),Software / app,0.96,Larger companies & institutions,1.0,Other,0.83,Yes,1.0
+2026-06-28,2 (Jan-Jul 2026),Marketplace,1.0,Solo professionals & creators,0.29,"Marketing, sales & media",1.0,No,1.0
+2026-06-29,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.45,"Marketing, sales & media",0.47,No,1.0
+2026-06-30,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.99,Software & AI tools,0.97,Yes,1.0
+2026-07-01,2 (Jan-Jul 2026),Software / app,0.94,Solo professionals & creators,0.9,Retail & e-commerce,0.94,No,1.0
+2026-07-02,2 (Jan-Jul 2026),Software / app,0.48,Small & local businesses,0.95,Other,0.63,Yes,0.98
+2026-07-03,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,1.0,Education & parenting,1.0,No,1.0
+2026-07-04,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.99,Retail & e-commerce,0.55,No,1.0
+2026-07-05,2 (Jan-Jul 2026),Service,0.9,Consumers,1.0,"Fitness, wellness & beauty",0.59,No,1.0
+2026-07-06,2 (Jan-Jul 2026),Marketplace,1.0,Small & local businesses,1.0,"Work, hiring & careers",0.53,Yes,0.82
+2026-07-07,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Work, hiring & careers",0.58,No,1.0
+2026-07-08,2 (Jan-Jul 2026),Service,0.86,Consumers,1.0,Health & medical,0.72,No,0.94
+2026-07-09,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.96,"Finance, insurance & legal",0.81,Yes,0.67
+2026-07-10,2 (Jan-Jul 2026),Marketplace,1.0,Solo professionals & creators,0.52,Retail & e-commerce,0.53,No,1.0
+2026-07-11,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.5,Food & restaurants,1.0,Yes,1.0
+2026-07-12,2 (Jan-Jul 2026),Software / app,1.0,Solo professionals & creators,0.7,"Marketing, sales & media",0.3,No,0.79
+2026-07-13,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Health & medical,0.66,Yes,0.72
+2026-07-14,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.97,Real estate & construction,0.94,No,1.0
+2026-07-15,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Travel, events & hospitality",1.0,Yes,0.52
+2026-07-16,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,"Fitness, wellness & beauty",1.0,No,0.66
+2026-07-17,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.97,Health & medical,0.78,No,0.25
+2026-07-18,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.44,Software & AI tools,0.62,Yes,1.0
+2026-07-19,2 (Jan-Jul 2026),Software / app,1.0,Consumers,0.97,Health & medical,0.99,No,0.89
+2026-07-20,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,0.44,"Finance, insurance & legal",1.0,Yes,0.53
+2026-07-21,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.95,Education & parenting,1.0,Yes,0.98
+2026-07-22,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.31,Health & medical,1.0,Yes,0.98
+2026-07-23,2 (Jan-Jul 2026),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",0.9,No,1.0
+2026-07-24,2 (Jan-Jul 2026),Marketplace,0.99,Small & local businesses,0.94,Home services & trades,0.62,No,1.0
+2026-07-25,2 (Jan-Jul 2026),Marketplace,0.39,Solo professionals & creators,0.95,"Marketing, sales & media",1.0,No,0.79
+2026-07-26,2 (Jan-Jul 2026),Software / app,1.0,Larger companies & institutions,0.7,Software & AI tools,1.0,Yes,1.0
+2026-07-27,2 (Jan-Jul 2026),Software / app,1.0,Consumers,1.0,Education & parenting,1.0,Yes,0.98
+2026-07-28,newsletter (Jul 28 2026 on),Service,0.4,Solo professionals & creators,1.0,"Work, hiring & careers",0.98,Yes,0.91
+2026-07-29,newsletter (Jul 28 2026 on),Service,1.0,Solo professionals & creators,0.92,"Marketing, sales & media",0.99,Yes,1.0
+2026-07-30,newsletter (Jul 28 2026 on),Software / app,1.0,Small & local businesses,0.73,"Marketing, sales & media",0.57,Yes,1.0
+2026-07-31,newsletter (Jul 28 2026 on),Software / app,1.0,Small & local businesses,0.8,"Finance, insurance & legal",0.72,Yes,1.0
+2026-08-01,newsletter (Jul 28 2026 on),Software / app,0.32,Consumers,1.0,"Finance, insurance & legal",1.0,Yes,0.95
+2026-08-02,newsletter (Jul 28 2026 on),Software / app,0.95,Solo professionals & creators,0.86,Software & AI tools,1.0,Yes,0.97
+2026-08-03,newsletter (Jul 28 2026 on),Physical product,0.29,Small & local businesses,0.31,"Fitness, wellness & beauty",0.93,No,1.0
+2026-08-04,newsletter (Jul 28 2026 on),Software / app,1.0,Larger companies & institutions,0.79,Software & AI tools,1.0,Yes,1.0
+2026-08-05,newsletter (Jul 28 2026 on),Service,1.0,Larger companies & institutions,0.45,"Finance, insurance & legal",1.0,Yes,1.0
+2026-08-06,newsletter (Jul 28 2026 on),Marketplace,0.89,Small & local businesses,0.8,Health & medical,0.62,No,0.92
+2026-08-07,newsletter (Jul 28 2026 on),Software / app,1.0,Not clear,0.37,Education & parenting,0.96,No,0.98
+2026-08-08,newsletter (Jul 28 2026 on),Software / app,1.0,Solo professionals & creators,0.97,Software & AI tools,0.42,Yes,1.0
+2026-08-09,newsletter (Jul 28 2026 on),"Media, community & data",0.45,Larger companies & institutions,0.87,"Marketing, sales & media",0.97,No,0.98
+2026-08-10,newsletter (Jul 28 2026 on),Service,0.81,Small & local businesses,1.0,Home services & trades,0.78,No,1.0
+2026-08-11,newsletter (Jul 28 2026 on),Service,0.93,Solo professionals & creators,0.75,"Finance, insurance & legal",0.99,No,0.56
+2026-08-12,newsletter (Jul 28 2026 on),Software / app,0.41,Larger companies & institutions,0.85,Software & AI tools,0.96,Yes,1.0
+2026-08-13,newsletter (Jul 28 2026 on),Service,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.89,No,1.0
+2026-08-14,newsletter (Jul 28 2026 on),Service,0.99,Consumers,1.0,Education & parenting,1.0,No,1.0
+2026-08-15,newsletter (Jul 28 2026 on),Service,0.99,Consumers,0.96,Automotive & transport,1.0,No,1.0
+2026-08-16,newsletter (Jul 28 2026 on),Marketplace,1.0,Consumers,0.97,Other,0.95,No,0.69
+2026-08-17,newsletter (Jul 28 2026 on),Software / app,0.75,Small & local businesses,1.0,"Finance, insurance & legal",1.0,Yes,0.3
+2026-08-18,newsletter (Jul 28 2026 on),Software / app,0.7,Small & local businesses,0.82,Food & restaurants,0.88,No,1.0
+2026-08-19,newsletter (Jul 28 2026 on),Service,0.64,Small & local businesses,0.97,Retail & e-commerce,1.0,Yes,1.0
+2026-08-20,newsletter (Jul 28 2026 on),Marketplace,0.42,Consumers,1.0,"Hobbies, collectibles & pets",1.0,No,0.98
+2026-08-21,newsletter (Jul 28 2026 on),"Media, community & data",1.0,Larger companies & institutions,0.75,Software & AI tools,0.94,No,0.95
+2026-08-22,newsletter (Jul 28 2026 on),Physical product,0.66,Consumers,1.0,"Hobbies, collectibles & pets",0.65,Yes,1.0
+2026-08-23,newsletter (Jul 28 2026 on),Service,0.72,Small & local businesses,1.0,"Work, hiring & careers",1.0,Yes,1.0
+2026-08-24,newsletter (Jul 28 2026 on),Marketplace,0.68,Larger companies & institutions,0.95,Real estate & construction,0.73,No,1.0
+2026-08-25,newsletter (Jul 28 2026 on),Service,1.0,Solo professionals & creators,0.96,Software & AI tools,0.55,Yes,0.88
+2026-08-26,newsletter (Jul 28 2026 on),Service,1.0,Consumers,0.61,"Work, hiring & careers",1.0,Yes,0.7
+2026-08-27,newsletter (Jul 28 2026 on),Service,1.0,Larger companies & institutions,0.81,"Marketing, sales & media",1.0,No,1.0
+2026-08-28,newsletter (Jul 28 2026 on),Service,0.98,Small & local businesses,0.97,Retail & e-commerce,1.0,No,1.0
+2026-08-29,newsletter (Jul 28 2026 on),Service,1.0,Solo professionals & creators,0.21,"Finance, insurance & legal",0.97,Yes,0.52
+2026-08-30,newsletter (Jul 28 2026 on),Service,1.0,Larger companies & institutions,1.0,Other,0.86,No,1.0
+2026-08-31,newsletter (Jul 28 2026 on),Service,0.44,Small & local businesses,0.75,Home services & trades,0.97,Yes,1.0
+2026-09-01,newsletter (Jul 28 2026 on),Service,0.66,Solo professionals & creators,0.71,"Work, hiring & careers",0.83,Yes,1.0
+2026-09-02,newsletter (Jul 28 2026 on),Software / app,0.54,Small & local businesses,0.82,Home services & trades,0.96,Yes,0.92
+2026-09-03,newsletter (Jul 28 2026 on),Service,0.84,Larger companies & institutions,0.86,"Marketing, sales & media",1.0,No,1.0
+2026-09-04,newsletter (Jul 28 2026 on),Service,0.57,Consumers,0.87,"Hobbies, collectibles & pets",1.0,No,1.0
+2026-09-05,newsletter (Jul 28 2026 on),Service,0.84,Small & local businesses,0.64,Health & medical,1.0,Yes,0.8
+2026-09-06,newsletter (Jul 28 2026 on),Software / app,0.96,Small & local businesses,0.97,"Marketing, sales & media",0.98,Yes,1.0
+2026-09-07,newsletter (Jul 28 2026 on),Software / app,0.4,Solo professionals & creators,0.95,"Marketing, sales & media",0.54,No,1.0
+2026-09-08,newsletter (Jul 28 2026 on),Service,0.5,Consumers,0.95,Education & parenting,0.96,No,0.55
+2026-09-09,newsletter (Jul 28 2026 on),Physical product,0.93,Consumers,1.0,"Hobbies, collectibles & pets",1.0,No,1.0
+2026-09-10,newsletter (Jul 28 2026 on),"Media, community & data",0.52,Larger companies & institutions,1.0,Software & AI tools,0.58,Yes,0.86
+2026-09-11,newsletter (Jul 28 2026 on),Service,0.76,Solo professionals & creators,0.56,Food & restaurants,0.94,No,1.0
+2026-09-12,newsletter (Jul 28 2026 on),Software / app,0.98,Small & local businesses,1.0,"Marketing, sales & media",0.77,Yes,0.92
+2026-09-13,newsletter (Jul 28 2026 on),Software / app,0.63,Consumers,0.4,"Work, hiring & careers",1.0,Yes,0.92
+2026-09-14,newsletter (Jul 28 2026 on),Service,0.5,Larger companies & institutions,0.69,Software & AI tools,0.65,No,0.3
+2026-09-15,newsletter (Jul 28 2026 on),Marketplace,0.9,Larger companies & institutions,0.71,"Marketing, sales & media",1.0,No,0.97
+2026-09-16,newsletter (Jul 28 2026 on),Marketplace,1.0,Consumers,1.0,"Hobbies, collectibles & pets",0.69,Yes,0.89
+2026-09-17,newsletter (Jul 28 2026 on),Software / app,1.0,Consumers,0.99,"Fitness, wellness & beauty",0.99,Yes,1.0
+2026-09-18,newsletter (Jul 28 2026 on),Software / app,0.66,Consumers,0.84,"Hobbies, collectibles & pets",0.99,No,1.0
+2026-09-19,newsletter (Jul 28 2026 on),Marketplace,0.51,Small & local businesses,0.97,"Travel, events & hospitality",1.0,No,1.0
+2026-09-20,newsletter (Jul 28 2026 on),Software / app,0.75,Consumers,1.0,"Finance, insurance & legal",0.36,No,1.0
+2026-09-21,newsletter (Jul 28 2026 on),Software / app,1.0,Small & local businesses,1.0,"Marketing, sales & media",0.91,No,1.0
+2026-09-22,newsletter (Jul 28 2026 on),Software / app,1.0,Consumers,0.99,"Finance, insurance & legal",0.8,No,0.98
+2026-09-23,newsletter (Jul 28 2026 on),Software / app,0.53,Solo professionals & creators,0.96,"Marketing, sales & media",0.71,No,1.0
+2026-09-24,newsletter (Jul 28 2026 on),Software / app,0.71,Larger companies & institutions,0.36,"Marketing, sales & media",0.46,No,1.0
+2026-09-25,newsletter (Jul 28 2026 on),Marketplace,0.71,Larger companies & institutions,1.0,Software & AI tools,0.91,Yes,0.62
+2026-09-26,newsletter (Jul 28 2026 on),Service,0.54,Consumers,1.0,Retail & e-commerce,0.7,No,0.98
+2026-09-27,newsletter (Jul 28 2026 on),Software / app,1.0,Small & local businesses,0.68,Real estate & construction,0.71,No,0.98
+2026-09-28,newsletter (Jul 28 2026 on),Software / app,0.6,Small & local businesses,1.0,Automotive & transport,0.99,No,1.0
+2026-09-29,newsletter (Jul 28 2026 on),"Media, community & data",0.54,Consumers,0.9,"Finance, insurance & legal",0.94,No,1.0
+2026-09-30,newsletter (Jul 28 2026 on),Software / app,0.89,Small & local businesses,1.0,Health & medical,0.95,Yes,1.0
+2026-10-01,newsletter (Jul 28 2026 on),Service,0.62,Solo professionals & creators,0.97,"Finance, insurance & legal",1.0,No,1.0
+2026-10-02,newsletter (Jul 28 2026 on),Marketplace,0.98,Solo professionals & creators,0.57,"Fitness, wellness & beauty",0.95,No,1.0
+2026-10-03,newsletter (Jul 28 2026 on),Marketplace,0.93,Small & local businesses,0.97,"Finance, insurance & legal",0.61,No,0.62
+2026-10-04,newsletter (Jul 28 2026 on),Marketplace,1.0,Small & local businesses,0.42,"Fitness, wellness & beauty",0.77,No,1.0
+2026-10-05,newsletter (Jul 28 2026 on),Service,0.82,Consumers,1.0,Education & parenting,1.0,Yes,0.98
+2026-10-06,newsletter (Jul 28 2026 on),Service,0.51,Small & local businesses,1.0,Food & restaurants,0.98,Yes,0.56
+2026-10-07,newsletter (Jul 28 2026 on),Software / app,1.0,Larger companies & institutions,0.51,Real estate & construction,0.97,Yes,1.0
+2026-10-08,newsletter (Jul 28 2026 on),Service,0.96,Consumers,1.0,Automotive & transport,1.0,No,1.0
+2026-10-09,newsletter (Jul 28 2026 on),Service,0.48,Larger companies & institutions,0.5,Software & AI tools,0.95,Yes,0.98

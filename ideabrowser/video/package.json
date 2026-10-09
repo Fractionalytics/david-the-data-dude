@@ -1,0 +1,24 @@
+{
+  "name": "ideabrowser-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "studio:zones": "remotion studio --env-file=zones.env",
+    "render": "remotion render",
+    "render:all": "node render-all.mjs",
+    "stills": "node render-stills.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.533",
+    "@remotion/google-fonts": "4.0.533",
+    "@remotion/paths": "4.0.533",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.533",
+    "roughjs": "^4.6.6"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
