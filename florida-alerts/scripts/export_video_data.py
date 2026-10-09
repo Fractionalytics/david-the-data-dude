@@ -48,6 +48,8 @@ out = {
     "channels": {k: int(v) for k, v in channels.items()},
     "states": {r.recovered_state: int(r.people) for r in states.itertuples()},
     "casesTotal": int(pd.read_csv(D / "interim" / "silver_monthly_cases.csv").shape[0]),
+    # Which 2011-2020 monthly reports were recovered from the Internet Archive (carousel slide 4).
+    "reportMonths": sorted([int(r.year), int(r.month)] for r in pd.read_csv(D / "interim" / "silver_monthly_totals.csv").itertuples()),
 }
 dest = P / "video" / "src" / "data" / "silver.json"
 dest.parent.mkdir(parents=True, exist_ok=True)

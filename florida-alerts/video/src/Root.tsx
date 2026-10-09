@@ -9,6 +9,8 @@ import {RecoveryMap} from './charts/RecoveryMap';
 import {Takeaways} from './charts/Takeaways';
 import {CAROUSEL, DifficultyScorecard} from '@kit/scorecard';
 import difficulty from './data/difficulty.json';
+import {ArchiveBeforeAfter} from './carousel/ArchiveBeforeAfter';
+import {ReelQr} from './carousel/ReelQr';
 
 export const RemotionRoot: React.FC = () => (
 	<>
@@ -19,5 +21,7 @@ export const RemotionRoot: React.FC = () => (
 		<Composition id="card9-takeaways" component={Takeaways} durationInFrames={durationOf(9)} {...VIDEO} />
 		{/* "How I did it" carousel slides (1080×1350 stills). */}
 		<Composition id="carousel-difficulty" component={DifficultyScorecard} durationInFrames={1} {...CAROUSEL} defaultProps={{difficulty}} />
+		<Composition id="carousel-04-archive" component={ArchiveBeforeAfter} durationInFrames={1} {...CAROUSEL} />
+		<Composition id="carousel-09-reel" component={ReelQr} durationInFrames={1} {...CAROUSEL} />
 	</>
 );

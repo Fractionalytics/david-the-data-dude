@@ -2,7 +2,7 @@
 
 **Five years ago (2021), this would have been about two weeks of evenings, and the hardest parts would probably have been skipped. This time it took about a day and a half from idea to a posted Reel and a public repo.**
 
-"Now" is measured from git history, file counts and the session itself. "Then" is an estimate, with the reasoning shown. Wall-clock time isn't effort. The 26.5 hours from scaffolding the project (October 7, 2:34 pm) to publishing it (October 8, 5:08 pm) include a night's sleep, David writing and rewriting the script, recording, and editing. Claude's time inside that window was a fraction of it.
+"Now" is measured from git history, file counts and the session itself. "Then" is an estimate, with the reasoning shown. Wall-clock time isn't effort. The 26.5 hours from scaffolding the project (October 7, 2:34 pm) to publishing it (October 8, 5:08 pm) include a night's sleep, David writing and rewriting the script, recording, and editing. Claude's time inside that window was a fraction of it. David worked on the project intermittently, between other things, and puts his activity time (the hands-on hours, as opposed to the elapsed time) at about an afternoon. Git can't measure that, so it's his estimate, not a receipt.
 
 ## Then vs. now
 
