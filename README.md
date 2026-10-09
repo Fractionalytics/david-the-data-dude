@@ -6,7 +6,7 @@ The data, code and charts behind David the Data Dude's videos. Each project fold
 |---|---|---|
 | [`triple-d/`](triple-d/) | *Diners, Drive-Ins and Dives* has featured about 1,600 restaurants. How many are actually diners, drive-ins or dives? | <a href="https://www.instagram.com/reel/DeK1SQpS-qs/"><img src="triple-d/cover.jpg" alt="Triple D Reel cover" width="90"></a><br>[Watch the Reel](https://www.instagram.com/reel/DeK1SQpS-qs/) |
 | [`florida-alerts/`](florida-alerts/) | Florida's Silver Alerts put a missing senior's car on highway signs. Do they actually find the person? | <a href="https://www.instagram.com/reel/DePwOM8S0_S/"><img src="florida-alerts/cover.jpg" alt="Florida Alerts Reel cover" width="90"></a><br>[Watch the Reel](https://www.instagram.com/reel/DePwOM8S0_S/) |
-| [`ideabrowser/`](ideabrowser/) | A startup-idea newsletter emails one featured idea a day. What kind of businesses does it recommend, and how has that changed? | Reel coming soon |
+| [`ideabrowser/`](ideabrowser/) | A startup-idea newsletter emails one featured idea a day. What kind of businesses does it recommend, and how has that changed? | [Watch the Reel](https://www.instagram.com/reel/DeSmb2hSPaw/) |
 
 Made by [Fractionalytics](https://github.com/Fractionalytics).
 

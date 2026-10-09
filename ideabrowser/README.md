@@ -2,10 +2,10 @@
 
 Ideabrowser emails one featured startup idea every day. Fourteen months of those emails sat in David's Gmail, so he treated the inbox as a database: every edition downloaded, every featured idea classified by an AI model, and the mix tracked over time.
 
-This folder is the behind-the-scenes companion to David the Data Dude's Instagram Reel on the question.
+This folder is the behind-the-scenes companion to David the Data Dude's [Instagram Reel](https://www.instagram.com/reel/DeSmb2hSPaw/) on the question.
 
-<!-- Reel cover thumbnail (about 300px, linking to the Reel) goes here once the Reel is posted. -->
-**▶ Reel: link coming soon.**
+<!-- Reel cover thumbnail (about 300px, linking to the Reel) goes here once David supplies cover.jpg. -->
+<p align="center"><b>▶ <a href="https://www.instagram.com/reel/DeSmb2hSPaw/">Watch the Reel on Instagram</a></b></p>
 
 ## The finding
 
