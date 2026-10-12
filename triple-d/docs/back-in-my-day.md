@@ -22,13 +22,13 @@
 ## What we'd have skipped
 
 - **The 278 restaurants foodiepie doesn't cover.** A 17% hole, mostly recent seasons. That would have quietly erased the end of the trend line, and the end of the trend line is the story.
-- **Confidence scores.** A 2021 classifier gives you a label. It doesn't tell you La Santisima is "Other at 99%" while Jake's Good Eats is a coin-flip "Dive".
+- **Confidence scores.** A 2021 classifier gives you a label. It doesn't tell you Louie's in Dallas is a "Dive at 100%" while Jake's Good Eats is a coin-flip "Dive".
 - **Two versions of the answer.** Strict and "if Guy had to pick" would have been one or the other, because labeling twice wasn't affordable.
 - **Catching our own mistakes.** The Artiso's/Aristo's typo, the Bludso's over-merge suspicion, and the "Dive" score that runs high for everything were found because checking was cheap.
 
 ## What didn't change
 
-- **Deciding what a "dive" is.** No tool did that. The definitions, the decision to keep "Other" large for the hook, and the call to research the gaps all came from me.
+- **Deciding what a "dive" is.** The AI drafted the definitions, but approving them was my call, and they changed once after the spot checks (version 2 counts hole-in-the-wall taquerias as Dives). The decision to keep "Other" large for the hook and the call to research the gaps also came from me.
 - **Knowing the data could lie.** The season-count mismatch, closed restaurants hidden by a toggle, and the descriptions being about food rather than the setting all needed a skeptical person asking "wait, is that right?"
 - **Spot-checking.** I still look restaurants up myself before anything goes in a video.
 

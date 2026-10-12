@@ -31,7 +31,7 @@ That's consistent with America's broader shift toward global flavors, but note w
 
 ## How we defined a diner, drive-in and dive
 
-There's no official definition of any of the three, so we wrote our own. These are the exact words the AI classifier was given (definitions version v2, also in [`data/definitions.json`](data/definitions.json)):
+There's no official definition of any of the three. The AI drafted ours and David approved them. These are the exact words the AI classifier was given (definitions version v2, also in [`data/definitions.json`](data/definitions.json)):
 
 > **Diner:** A casual, sit-down American eatery built around comfort food and quick table or counter service: counter seating or booths, breakfast served (often all day), short-order cooking, burgers, sandwiches, blue-plate specials. Includes classic chrome/railcar diners, luncheonettes, coffee shops, and family cafes serving breakfast and lunch.
 
@@ -58,6 +58,13 @@ Two notes on how these were applied:
 | [`then-now-slope-combined.mp4`](videos/then-now-slope-combined.mp4) + [still](videos/stills/then-now-slope-combined.png) | First 10 vs. last 10 seasons: Diners and Dives fall, Drive-Ins hold flat, Global & Latin rises | US only |
 
 The Reel used a file named `hook-line-new.mp4`. It's identical to `hook-line.mp4` here; it was a temporary name while the original file was locked.
+
+## How it was made: the carousel
+
+The follow-up ["how I did it" carousel](https://www.instagram.com/p/DeZ2urDFG_u/) goes back into the kitchen, Guy Fieri-style: eight slides walking through the recipe, from sourcing the ingredients to plating the charts.
+
+- [`carousel/`](carousel/): the eight slides as posted on Instagram (1080×1440).
+- [`carousel/triple-d-carousel.pdf`](carousel/triple-d-carousel.pdf): the same slides as a LinkedIn document.
 
 ## What we left on the cutting-room floor
 

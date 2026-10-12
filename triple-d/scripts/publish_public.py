@@ -4,11 +4,13 @@
 
 Copies only what is ours to share: our scripts, our docs, the final table (facts plus our
 labels), the Wikipedia-derived episode list (CC BY-SA), Jev's answers without the evidence it
-read, the chart data, the Remotion source, and the rendered videos and stills.
+read, the chart data, the Remotion source, the rendered videos and stills, and the posted
+carousel (8 Instagram slides and the LinkedIn PDF).
 
 Deliberately NOT copied: anything containing foodiepie's descriptions or Yelp's categories
 (data/raw, foodiepie_*.csv, restaurants.csv, jev_answers.jsonl, jev_buckets.jsonl), the
-agents' web-research notes, and the .env file. The public README.md is maintained by hand.
+agents' web-research notes, the .env file, and carousel/slides.md (David's interview notes and
+working drafts). The public README.md is maintained by hand.
 
 Writing files here publishes nothing; committing and pushing the public repo does.
 """
@@ -68,8 +70,12 @@ def main() -> None:
     out = ROOT / "video" / "out"
     n_mp4 = sync_dir(out, PUBLIC / "videos", "*.mp4")
     n_png = sync_dir(out / "stills", PUBLIC / "videos" / "stills", "*.png")
+
+    # Iteration 2: the posted carousel (the Instagram slides and the LinkedIn PDF), not its working notes.
+    n_slides = sync_dir(ROOT / "carousel" / "instagram", PUBLIC / "carousel", "*.png")
+    copy(ROOT / "carousel" / "triple-d-carousel.pdf", PUBLIC / "carousel" / "triple-d-carousel.pdf")
     print(f"published to {PUBLIC}: {len(SCRIPTS)} scripts, {n_docs + 1} docs, {n_src} video source files, "
-          f"{n_mp4} videos, {n_png} stills")
+          f"{n_mp4} videos, {n_png} stills, {n_slides} carousel slides + PDF")
 
 
 if __name__ == "__main__":

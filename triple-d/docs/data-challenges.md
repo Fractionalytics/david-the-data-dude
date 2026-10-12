@@ -47,7 +47,7 @@ The "inside look" behind the chart: what got in the way, in roughly the order it
 
 ## Classifying
 
-13. **Diner, Drive-In and Dive have no official definitions.** We wrote our own, and they're the biggest judgment call in the project. Is a hole-in-the-wall taqueria a dive, or only a bar? Is a food truck a drive-in?
+13. **Diner, Drive-In and Dive have no official definitions.** The AI drafted them and David approved them, and they're the biggest judgment call in the project. They changed once, after the spot checks: version 2 counts hole-in-the-wall taquerias as Dives. Is a hole-in-the-wall taqueria a dive, or only a bar? Is a food truck a drive-in?
 14. **Most places aren't any of the three.** Strictly applied, 67% of restaurants are "Other". We kept both versions: a strict one, and an "if Guy had to pick" one that forces every restaurant into one of the three.
 15. **The AI's yes/no scores can't be compared with each other.** We asked the classifier (TypeSafe's Jev) "is it a diner?", "a drive-in?" and "a dive?" separately. The dive score ran high for almost any casual place. Picking the highest score called 951 restaurants Dives, so the forced pick uses the classifier's head-to-head choice instead.
 16. **The computer picked "Diner" because it came first in the list.** When the classifier was sure a place was "Other", it gave Diner, Drive-In and Dive all 0% (it rounds to whole percentages). Asked to break that three-way tie, the code took the first column, so 495 restaurants became "Diners" by accident. They now stay "Other" in the forced version: Guy shrugs.
