@@ -61,7 +61,6 @@ def main() -> None:
     copy(REPO / "requirements.txt", PUBLIC / "scripts" / "requirements.txt")
 
     n_docs = sync_dir(ROOT / "docs", PUBLIC / "docs", "*.md")
-    copy(REPO / "docs" / "difficulty-rubric.md", PUBLIC / "docs" / "difficulty-rubric.md")
 
     n_src = sync_dir(ROOT / "video" / "src", PUBLIC / "video" / "src")
     for name in VIDEO_FILES:

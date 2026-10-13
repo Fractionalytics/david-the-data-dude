@@ -6,7 +6,7 @@ Copies only what is ours to share, or FDLE's / DOJ's own public figures:
 - data/: the processed tables, the hand-typed newsletter and press-release figures with their source quotes,
   FDLE's 197 success stories (FDLE's public text, no names), the chart data, and the case-level alerts
   COARSENED to year, month, age, sex, agency, recovery state and FDLE's direct/indirect mark.
-- scripts/, docs/ (data challenges, back in my day, spot checks, the difficulty rubric), the Remotion source, the five
+- scripts/, docs/ (data challenges, back in my day, spot checks), the Remotion source, the five
   chart MP4s, and the Reel cover.
 
 Deliberately NOT copied:
@@ -95,7 +95,6 @@ def main() -> None:
         shutil.rmtree(PUBLIC / "docs")
     for name in DOCS:
         copy(ROOT / "docs" / name, PUBLIC / "docs" / name)
-    copy(REPO / "docs" / "difficulty-rubric.md", PUBLIC / "docs" / "difficulty-rubric.md")
     spot = trim_spot_checks((ROOT / "docs" / "spot-checks.md").read_text(encoding="utf-8"))
     (PUBLIC / "docs" / "spot-checks.md").write_text(spot, encoding="utf-8")
 

@@ -111,11 +111,10 @@ The follow-up ["how I did it" carousel](https://www.instagram.com/p/DeZ2urDFG_u/
 | [`data/wiki_appearances.csv`](data/wiki_appearances.csv) | Every restaurant appearance, parsed from Wikipedia (CC BY-SA 4.0) |
 | [`data/chart-data/`](data/chart-data/) | The numbers behind the charts: US only (`triple-d.json`), plus an all-countries version for comparison |
 | [`scripts/`](scripts/) | The Python pipeline, in run order: fetch → parse → match → classify → classify_buckets → build_final → make_chart_data |
-| [`docs/`](docs/) | Data challenges (the "inside look"), spot-checks, ways to improve, a then-vs-now comparison and the difficulty rubric |
+| [`docs/`](docs/) | Data challenges (the "inside look"), spot-checks, ways to improve and a then-vs-now comparison |
 | [`video/`](video/) | The Remotion project that draws every chart |
 | [`videos/`](videos/) | Every rendered chart (1080×1920 MP4) and a [still](videos/stills/) of each one's final frame |
 
-**Degree of difficulty: 6/10.** The data was easy to get but hard to label; see the [rubric](docs/difficulty-rubric.md).
 
 ## What's not here, and why
 
