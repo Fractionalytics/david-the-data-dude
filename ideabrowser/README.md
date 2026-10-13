@@ -4,8 +4,11 @@ Ideabrowser emails one featured startup idea every day. Fourteen months of those
 
 This folder is the behind-the-scenes companion to David the Data Dude's [Instagram Reel](https://www.instagram.com/reel/DeSmb2hSPaw/) on the question.
 
-<!-- Reel cover thumbnail (about 300px, linking to the Reel) goes here once David supplies cover.jpg. -->
-<p align="center"><b>▶ <a href="https://www.instagram.com/reel/DeSmb2hSPaw/">Watch the Reel on Instagram</a></b></p>
+<p align="center">
+  <a href="https://www.instagram.com/reel/DeSmb2hSPaw/"><img src="cover.jpg" alt="Reel cover: idea boxes on a conveyor belt dropping into Services, Software, Marketplace and Other bins" width="300"></a>
+  <br>
+  <b>▶ <a href="https://www.instagram.com/reel/DeSmb2hSPaw/">Watch the Reel on Instagram</a></b>
+</p>
 
 ## The finding
 

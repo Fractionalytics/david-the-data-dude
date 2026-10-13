@@ -1,0 +1,18 @@
+{
+ "medicare": {
+  "radiologists": 12.8,
+  "physicians": 7.2
+ },
+ "pay": {
+  "radiologists": 49.4,
+  "physicians": 34.8
+ },
+ "fda": {
+  "all": 1614,
+  "radiology": 1230
+ },
+ "services": {
+  "radiologists": 10.0,
+  "physicians": 3.6
+ }
+}

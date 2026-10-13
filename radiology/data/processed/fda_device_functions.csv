@@ -1,0 +1,41 @@
+group,product_code,code_name,devices,first_year,latest_year
+detect,MYN,"Analyzer, Medical Image",43,1998,2026
+detect,QDQ,Radiological Computer Assisted Detection/Diagnosis Software For Lesions Suspicious For Cancer,36,2018,2026
+detect,POK,Computer-Assisted Diagnostic Software For Lesions Suspicious For Cancer,22,2017,2026
+detect,OEB,"Lung Computed Tomography System, Computer-Aided Detection",10,2016,2026
+detect,QBS,Radiological Computer Assisted Detection/Diagnosis Software For Fracture,10,2018,2026
+detect,QWO,Radiology Software For Referral Of Findings Related To Fibrotic Lung Disease.,4,2024,2025
+detect,SAO,Radiology Software For Opportunistic Evaluation Of Low Bone Mineral Density,3,2024,2026
+detect,SHE,Radiological Software System For Delivery Date Prediction,1,2026,2026
+detect,SEZ,Radiological Software Device To Predict Future Breast Cancer Risk,1,2025,2025
+measure,QIH,Automated Radiological Image Processing Software,305,2019,2026
+measure,LLZ,"System, Image Processing, Radiological",161,2008,2026
+measure,QHA,X-Ray Angiographic Imaging Based Coronary Vascular Simulation Software Device,2,2025,2025
+measure,PCS,Liver Iron Concentration Imaging Companion Diagnostic For Deferasirox,2,2018,2021
+measure,QVD,Radiological Machine Learning Based Quantitative Imaging Software With Change Control Plan,1,2023,2023
+other,NFJ,"System, Image Management, Ophthalmic",1,2015,2015
+scanner,IYN,"System, Imaging, Pulsed Doppler, Ultrasonic",124,2016,2026
+scanner,JAK,"System, X-Ray, Tomography, Computed",103,2014,2026
+scanner,LNH,"System, Nuclear Magnetic Resonance Imaging",100,2008,2026
+scanner,KPS,"System, Tomography, Computed, Emission",26,2018,2026
+scanner,OWB,Interventional Fluoroscopic X-Ray System,15,2016,2026
+scanner,IYO,"System, Imaging, Pulsed Echo, Ultrasonic",12,2017,2026
+scanner,QJU,Image Acquisition And/Or Optimization Guided By Artificial Intelligence,8,2020,2026
+scanner,KPR,"System, X-Ray, Stationary",6,2014,2025
+scanner,NQQ,"System, Imaging, Optical Coherence Tomography (Oct)",4,2018,2026
+scanner,JAA,"System, X-Ray, Fluoroscopic, Image-Intensified",4,2018,2025
+scanner,MQB,Solid State X-Ray Imager (Flat Panel/Digital Imager),3,2021,2022
+scanner,OUO,Tomographic Imager Combining Emission Computed Tomography With Nuclear Magnetic Resonance,2,2024,2026
+scanner,OTE,Digital Breast Tomosynthesis,2,2024,2025
+scanner,KGI,"Densitometer, Bone",2,2022,2025
+scanner,OXO,"Image-Intensified Fluoroscopic X-Ray System, Mobile",1,2025,2025
+scanner,SGH,Ultrasound Imaging For Vascular Access For Hemodialysis,1,2025,2025
+scanner,IZL,"System, X-Ray, Mobile",1,2022,2022
+scanner,QNK,Optoacoustic Imaging System,1,2021,2021
+therapy,QKB,Radiological Image Processing Software For Radiation Therapy,46,2018,2026
+therapy,MUJ,"System, Planning, Radiation Therapy Treatment",33,2019,2026
+therapy,QTZ,Radiological Image Processing Software For Ablation Therapy Planning And Evaluation,4,2023,2026
+therapy,IYE,"Accelerator, Linear, Medical",3,2020,2026
+therapy,LDK,"Device, Sensing, Optical Contour",1,2023,2023
+triage,QAS,Radiological Computer-Assisted Triage And Notification Software,86,2018,2026
+triage,QFM,Radiological Computer-Assisted Prioritization Software For Lesions,40,2019,2026

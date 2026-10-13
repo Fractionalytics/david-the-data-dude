@@ -1,0 +1,46 @@
+{
+ "surveys": [
+  {
+   "source": "Doximity",
+   "years": [
+    "2017",
+    "2025"
+   ],
+   "points": [
+    {
+     "report": "2017",
+     "radiology": 408000.0,
+     "average": 313542.0,
+     "multiple": 1.3
+    },
+    {
+     "report": "2026",
+     "radiology": 609684.0,
+     "average": 422625.0,
+     "multiple": 1.44
+    }
+   ]
+  },
+  {
+   "source": "Medscape",
+   "years": [
+    "2017",
+    "2025"
+   ],
+   "points": [
+    {
+     "report": "2018",
+     "radiology": 401000.0,
+     "average": 299000.0,
+     "multiple": 1.34
+    },
+    {
+     "report": "2026",
+     "radiology": 571000.0,
+     "average": 386000.0,
+     "multiple": 1.48
+    }
+   ]
+  }
+ ]
+}
