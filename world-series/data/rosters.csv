@@ -1,0 +1,89 @@
+team,slot,full_name,surname_type,birth_country,primary_pos,war_total
+Acquired/assigned,1B,Freddie Freeman,Acquired/assigned,USA,1B,2.74
+Acquired/assigned,3B,Cody Freeman,Acquired/assigned,USA,3B,0.14
+Acquired/assigned,OF,Ceddanne Rafaela,Acquired/assigned,Curacao,OF,5.7
+Acquired/assigned,OF,Tyler Freeman,Acquired/assigned,USA,OF,-2.0
+Cognominal,P,Jesús Luzardo,Cognominal,Peru,P,6.49
+Cognominal,P,Jacob Misiorowski,Cognominal,USA,P,6.46
+Cognominal,P,Sonny Gray,Cognominal,USA,P,4.31
+Cognominal,P,Michael King,Cognominal,USA,P,4.26
+Cognominal,C,Gabriel Moreno,Cognominal,Venezuela,C,6.68
+Cognominal,1B,Ty France,Cognominal,USA,1B,4.48
+Cognominal,2B,Cole Young,Cognominal,USA,2B,4.41
+Cognominal,3B,Ezequiel Duran,Cognominal,Dominican Republic,3B,4.23
+Cognominal,SS,Bobby Witt Jr.,Cognominal,USA,SS,6.72
+Cognominal,OF,Pete Crow-Armstrong,Cognominal,USA,OF,9.83
+Cognominal,OF,Mike Trout,Cognominal,USA,OF,4.05
+Cognominal,OF,Henry Bolte,Cognominal,USA,OF,3.29
+Cognominal,DH,Kyle Schwarber,Cognominal,USA,DH,2.58
+Compound,P,Simeon Woods Richardson,Compound,USA,P,-1.17
+Compound,2B,Isiah Kiner-Falefa,Compound,USA,2B,1.56
+Compound,3B,Christian Encarnacion-Strand,Compound,USA,3B,1.43
+Compound,P (flex),Joshua Kuroda-Grauer,Compound,USA,3B,0.55
+Occupational,P,Cam Schlittler,Occupational,USA,P,7.03
+Occupational,P,Zack Wheeler,Occupational,USA,P,6.04
+Occupational,P,Tarik Skubal,Occupational,USA,P,4.6
+Occupational,P,Cade Cavalli,Occupational,USA,P,3.74
+Occupational,C,Dillon Dingler,Occupational,USA,C,4.15
+Occupational,1B,Jake Bauers,Occupational,USA,1B,3.26
+Occupational,2B,Bryson Stott,Occupational,USA,2B,1.78
+Occupational,3B,Junior Caminero,Occupational,Dominican Republic,3B,5.74
+Occupational,SS,José Caballero,Occupational,Panama,SS,2.18
+Occupational,OF,Andy Pages,Occupational,Cuba,OF,5.99
+Occupational,OF,Jordan Walker,Occupational,USA,OF,3.27
+Occupational,OF,Ian Happ,Occupational,USA,OF,2.86
+Occupational,DH,Iván Herrera,Occupational,Panama,DH,2.85
+Ornamental/artificial,P,Cade Winquest,Ornamental/artificial,USA,P,-0.02
+Ornamental/artificial,P,Carson Palmquist,Ornamental/artificial,USA,P,-0.41
+Other,P,Dylan Cease,Other,USA,P,5.52
+Other,P,Bryan Woo,Other,USA,P,2.0
+Other,P,Trey Yesavage,Other,USA,P,1.97
+Other,P,Cal Quantrill,Other,Canada,P,1.96
+Other,C,Adley Rutschman,Other,USA,C,2.56
+Other,1B,Nolan Schanuel,Other,USA,1B,2.05
+Other,2B,Brice Turang,Other,USA,2B,7.34
+Other,3B,Zack Gelof,Other,USA,3B,3.5
+Other,SS,Christian Koss,Other,USA,SS,0.15
+Other,OF,Steven Kwan,Other,USA,OF,5.33
+Other,OF,Jackson Chourio,Other,Venezuela,OF,4.89
+Other,OF,Fernando Tatis Jr.,Other,Dominican Republic,OF,4.26
+Other,DH,Tommy Pham,Other,USA,DH,-0.38
+Patronage,P,Jack Sinclair,Patronage,USA,P,0.38
+Patronage,P,Yerry De los Santos,Patronage,Dominican Republic,P,0.25
+Patronage,P,Enmanuel De Jesus,Patronage,Venezuela,P,0.14
+Patronage,P,Winston Santos,Patronage,Dominican Republic,P,-0.06
+Patronage,1B,Deyvison De Los Santos,Patronage,Dominican Republic,1B,-0.61
+Patronage,3B,Amed Rosario,Patronage,Dominican Republic,3B,-0.18
+Patronage,SS,Elly De La Cruz,Patronage,Dominican Republic,SS,5.63
+Patronage,OF,Brett Bateman,Patronage,USA,OF,2.19
+Patronage,OF,Bryan De La Cruz,Patronage,Dominican Republic,OF,-0.11
+Patronage,OF,Trei Cruz,Patronage,Canada,OF,-0.31
+Patronage,C (flex),Gregory Santos,Patronage,Dominican Republic,P,-0.12
+Patronage,2B (flex),Félix Bautista,Patronage,Dominican Republic,P,-0.15
+Patronage,DH (flex),Enyel De Los Santos,Patronage,Dominican Republic,P,-0.31
+Patronymic,P,Cristopher Sánchez,Patronymic,Dominican Republic,P,8.08
+Patronymic,P,Eduardo Rodriguez,Patronymic,Venezuela,P,4.75
+Patronymic,P,Drew Rasmussen,Patronymic,USA,P,4.66
+Patronymic,P,Michael Wacha,Patronymic,USA,P,4.26
+Patronymic,C,Drake Baldwin,Patronymic,USA,C,3.89
+Patronymic,1B,Pete Alonso,Patronymic,USA,1B,4.94
+Patronymic,2B,Xavier Edwards,Patronymic,USA,2B,2.97
+Patronymic,3B,José Ramírez,Patronymic,Dominican Republic,3B,2.61
+Patronymic,SS,Kevin McGonigle,Patronymic,USA,SS,7.05
+Patronymic,OF,Michael Harris II,Patronymic,USA,OF,5.14
+Patronymic,OF,Corbin Carroll,Patronymic,USA,OF,4.91
+Patronymic,OF,Cody Bellinger,Patronymic,USA,OF,4.62
+Patronymic,DH,Yordan Alvarez,Patronymic,Cuba,DH,6.77
+Toponymic,P,Parker Messick,Toponymic,USA,P,6.34
+Toponymic,P,Yoshinobu Yamamoto,Toponymic,Japan,P,5.91
+Toponymic,P,Chris Sale,Toponymic,USA,P,5.48
+Toponymic,P,Chase Burns,Toponymic,Italy,P,4.7
+Toponymic,C,William Contreras,Toponymic,Venezuela,C,2.89
+Toponymic,1B,Willson Contreras,Toponymic,Venezuela,1B,4.56
+Toponymic,2B,Brandon Lowe,Toponymic,USA,2B,5.35
+Toponymic,3B,Alex Bregman,Toponymic,USA,3B,5.79
+Toponymic,SS,Jeremy Peña,Toponymic,Dominican Republic,SS,3.71
+Toponymic,OF,Wilyer Abreu,Toponymic,Venezuela,OF,5.85
+Toponymic,OF,Randy Arozarena,Toponymic,Cuba,OF,5.7
+Toponymic,OF,Seiya Suzuki,Toponymic,Japan,OF,5.12
+Toponymic,DH,Shohei Ohtani,Toponymic,Japan,DH,6.45

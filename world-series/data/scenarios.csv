@@ -1,0 +1,22 @@
+scenario,rank,team,roster_war
+as is,1,Toponymic,67.85
+as is,2,Cognominal,67.79
+as is,3,Patronymic,64.65
+Messick unknown,1,Cognominal,67.79
+Messick unknown,2,Toponymic,65.87
+Messick unknown,3,Patronymic,64.65
+Skubal Cognominal (Czech nickname 'plucked'),1,Cognominal,68.13
+Skubal Cognominal (Czech nickname 'plucked'),2,Toponymic,67.85
+Skubal Cognominal (Czech nickname 'plucked'),3,Patronymic,64.65
+Duran Patronymic (from the name Durand),1,Toponymic,67.85
+Duran Patronymic (from the name Durand),2,Patronymic,66.27
+Duran Patronymic (from the name Durand),3,Cognominal,65.8
+Bolte Patronymic (from the name Baldo),1,Toponymic,67.85
+Bolte Patronymic (from the name Baldo),2,Cognominal,67.16
+Bolte Patronymic (from the name Baldo),3,Patronymic,64.65
+"Skubal, Duran, Bolte by their sources",1,Toponymic,67.85
+"Skubal, Duran, Bolte by their sources",2,Patronymic,66.27
+"Skubal, Duran, Bolte by their sources",3,Cognominal,65.51
+those three + Messick unknown,1,Patronymic,66.27
+those three + Messick unknown,2,Toponymic,65.87
+those three + Messick unknown,3,Cognominal,65.51

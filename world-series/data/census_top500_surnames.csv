@@ -1,0 +1,501 @@
+rank,surname,count,pcthispanic,origin,language,language_confidence,surname_type,surname_type_confidence,team,has_etymology
+1,Smith,2442977,2.4,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+2,Johnson,1932812,2.36,English,British Isles,0.99,Patronymic,1.0,The Sons of Somebody,True
+3,Williams,1625252,2.49,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+4,Brown,1437026,2.52,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+5,Jones,1425470,2.29,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+6,Garcia,1166120,92.03,Spanish,Spanish or Portuguese,1.0,Patronymic,0.72,The Sons of Somebody,True
+7,Miller,1161437,2.17,English,British Isles,0.97,Occupational,1.0,The Jobs,True
+8,Davis,1116357,2.44,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+9,Rodriguez,1094924,93.77,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+10,Martinez,1060159,92.91,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+11,Hernandez,1043281,94.89,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+12,Lopez,874523,92.92,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+13,Gonzalez,841025,94.97,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+14,Wilson,801882,2.61,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+15,Anderson,784404,2.44,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+16,Thomas,756142,2.54,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+17,Taylor,751209,2.46,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+18,Moore,724374,2.34,English,British Isles,1.0,Toponymic,0.6,The Places,True
+19,Jackson,708099,2.5,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+20,Martin,702625,5.56,English,British Isles,0.99,Patronymic,0.97,The Sons of Somebody,True
+21,Lee,693023,1.89,English,British Isles,0.55,Toponymic,0.94,The Places,True
+22,Perez,681645,92.95,Spanish,Spanish or Portuguese,1.0,Patronymic,0.95,The Sons of Somebody,True
+23,Thompson,664644,2.49,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+24,White,660491,2.38,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+25,Harris,624252,2.26,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+26,Sanchez,612752,92.99,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+27,Clark,562679,2.58,English,British Isles,1.0,Occupational,0.98,The Jobs,True
+28,Ramirez,557423,94.48,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+29,Lewis,531781,2.58,English,British Isles,1.0,Patronymic,0.94,The Sons of Somebody,True
+30,Robinson,529821,2.61,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+31,Walker,523129,2.41,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+32,Young,484447,2.58,English,British Isles,1.0,Cognominal,0.98,The Nicknames,True
+33,Allen,482607,2.47,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+34,King,465422,2.55,English,British Isles,1.0,Cognominal,0.99,The Nicknames,True
+35,Wright,458980,2.36,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+36,Scott,439530,2.58,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+37,Torres,437813,92.16,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+38,Nguyen,437645,0.63,,Other,1.0,Patronymic,0.29,The Sons of Somebody,True
+39,Hill,434827,2.51,English,British Isles,1.0,Toponymic,1.0,The Places,True
+40,Flores,433969,91.94,Spanish,Spanish or Portuguese,1.0,Cognominal,0.39,The Nicknames,True
+41,Green,430182,2.64,English,British Isles,1.0,Toponymic,0.97,The Places,True
+42,Adams,427865,2.57,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+43,Nelson,424958,2.55,English,British Isles,0.97,Patronymic,1.0,The Sons of Somebody,True
+44,Baker,419586,2.28,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+45,Hall,407076,2.25,English,British Isles,1.0,Toponymic,1.0,The Places,True
+46,Rivera,391114,91.06,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+47,Campbell,386157,2.49,English,British Isles,1.0,Cognominal,0.51,The Nicknames,True
+48,Mitchell,384486,2.47,English,British Isles,1.0,Patronymic,0.98,The Sons of Somebody,True
+49,Carter,376966,2.34,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+50,Roberts,376774,2.4,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+51,Gomez,365655,92.6,Spanish,Spanish or Portuguese,1.0,Patronymic,0.99,The Sons of Somebody,True
+52,Phillips,360802,2.44,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+53,Evans,355593,2.39,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+54,Turner,348627,2.23,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+55,Diaz,347636,92.56,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+56,Parker,336221,2.26,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+57,Cruz,334201,87.88,Spanish,Spanish or Portuguese,1.0,Toponymic,0.65,The Places,True
+58,Edwards,332423,2.5,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+59,Collins,329770,2.47,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+60,Reyes,327904,88.58,Spanish,Spanish or Portuguese,1.0,Cognominal,0.62,The Nicknames,True
+61,Stewart,324957,2.49,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+62,Morris,318884,2.55,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+63,Morales,311777,93.23,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+64,Murphy,308417,2.34,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+65,Cook,302589,2.17,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+66,Rogers,302261,2.62,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+67,Gutierrez,293218,93.33,Spanish,Spanish or Portuguese,1.0,Patronymic,0.99,The Sons of Somebody,True
+68,Ortiz,286899,93.11,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+69,Morgan,286280,2.78,English,British Isles,1.0,Patronymic,0.84,The Sons of Somebody,True
+70,Cooper,280791,2.4,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+71,Peterson,278297,2.4,English,British Isles,0.73,Patronymic,1.0,The Sons of Somebody,True
+72,Bailey,277845,2.28,English,British Isles,1.0,Toponymic,0.51,The Places,True
+73,Reed,277030,2.22,English,British Isles,1.0,Toponymic,0.44,The Places,True
+74,Kelly,267394,2.69,English,British Isles,1.0,Patronymic,0.76,The Sons of Somebody,True
+75,Howard,264826,2.37,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+76,Ramos,263464,86.79,Spanish,Spanish or Portuguese,1.0,Toponymic,0.52,The Places,True
+77,Kim,262352,0.65,,Other,0.95,Cognominal,0.45,The Nicknames,True
+78,Cox,261231,2.33,English,British Isles,1.0,Patronymic,0.51,The Sons of Somebody,True
+79,Ward,260464,2.44,English,British Isles,1.0,Occupational,0.99,The Jobs,True
+80,Richardson,259798,2.65,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+81,Watson,252579,2.41,English,British Isles,1.0,Patronymic,0.92,The Sons of Somebody,True
+82,Brooks,251663,2.48,English,British Isles,1.0,Toponymic,1.0,The Places,True
+83,Chavez,250898,92.96,Spanish,Spanish or Portuguese,1.0,Toponymic,0.92,The Places,True
+84,Wood,250715,2.42,English,British Isles,1.0,Toponymic,1.0,The Places,True
+85,James,249379,3.08,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+86,Bennett,247599,2.5,English,British Isles,1.0,Patronymic,0.85,The Sons of Somebody,True
+87,Gray,246116,2.41,English,British Isles,1.0,Cognominal,0.79,The Nicknames,True
+88,Mendoza,242771,89.97,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+89,Ruiz,238234,92.89,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+90,Hughes,236271,2.47,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+91,Price,235251,2.24,English,British Isles,1.0,Patronymic,0.7,The Sons of Somebody,True
+92,Alvarez,233983,92.45,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+93,Castillo,230420,90.26,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+94,Sanders,230374,2.57,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+95,Patel,229973,0.44,,Other,0.97,Occupational,0.95,The Jobs,True
+96,Myers,229895,2.1,English,British Isles,0.75,Patronymic,0.78,The Sons of Somebody,True
+97,Long,229374,2.24,,Other,0.41,Cognominal,0.91,The Nicknames,True
+98,Ross,229368,2.75,English,British Isles,1.0,Toponymic,0.99,The Places,True
+99,Foster,227764,2.65,English,British Isles,1.0,Occupational,0.88,The Jobs,True
+100,Jimenez,227118,93.97,Spanish,Spanish or Portuguese,1.0,Patronymic,0.98,The Sons of Somebody,True
+101,Powell,224874,2.31,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+102,Jenkins,222653,2.07,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+103,Perry,221741,2.67,English,British Isles,1.0,Toponymic,1.0,The Places,True
+104,Russell,221558,2.46,English,British Isles,1.0,Cognominal,0.99,The Nicknames,True
+105,Sullivan,220990,2.39,English,British Isles,1.0,Patronymic,0.6,The Sons of Somebody,True
+106,Bell,220599,2.46,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+107,Coleman,219070,2.25,English,British Isles,1.0,Patronymic,0.55,The Sons of Somebody,True
+108,Butler,218847,2.35,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+109,Henderson,218393,2.51,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+110,Barnes,218241,2.33,English,British Isles,1.0,Toponymic,0.89,The Places,True
+111,Gonzales,214758,84.06,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+112,Fisher,214703,2.43,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+113,Vasquez,212781,93.17,Spanish,Spanish or Portuguese,1.0,Patronymic,0.97,The Sons of Somebody,True
+114,Simmons,210182,2.29,English,British Isles,1.0,Patronymic,0.79,The Sons of Somebody,True
+115,Romero,208614,88.5,Spanish,Spanish or Portuguese,1.0,Cognominal,0.4,The Nicknames,True
+116,Jordan,208403,4.11,English,British Isles,0.97,Patronymic,0.92,The Sons of Somebody,True
+117,Patterson,205423,2.43,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+118,Alexander,204621,3.17,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+119,Hamilton,201746,2.45,English,British Isles,1.0,Toponymic,1.0,The Places,True
+120,Graham,201159,2.55,English,British Isles,1.0,Toponymic,1.0,The Places,True
+121,Reynolds,200247,2.45,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+122,Griffin,198406,2.21,English,British Isles,1.0,Patronymic,0.65,The Sons of Somebody,True
+123,Wallace,197276,2.47,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+124,Moreno,196925,92.23,Spanish,Spanish or Portuguese,1.0,Cognominal,1.0,The Nicknames,True
+125,West,195818,2.45,English,British Isles,1.0,Toponymic,0.91,The Places,True
+126,Cole,195289,2.41,English,British Isles,1.0,Cognominal,0.66,The Nicknames,True
+127,Hayes,194246,2.29,English,British Isles,1.0,Toponymic,0.85,The Places,True
+128,Bryant,192773,2.21,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+129,Herrera,192711,93.03,Spanish,Spanish or Portuguese,1.0,Occupational,0.98,The Jobs,True
+130,Gibson,190667,2.31,English,British Isles,1.0,Patronymic,0.8,The Sons of Somebody,True
+131,Ellis,188968,2.73,English,British Isles,1.0,Patronymic,0.98,The Sons of Somebody,True
+132,Tran,188498,0.81,,Other,1.0,Toponymic,0.31,The Places,True
+133,Medina,188497,91.16,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+134,Aguilar,186512,93.32,Spanish,Spanish or Portuguese,1.0,Toponymic,0.98,The Places,True
+135,Stevens,185674,2.74,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+136,Murray,184910,2.6,English,British Isles,1.0,Toponymic,1.0,The Places,True
+137,Ford,184832,2.37,English,British Isles,1.0,Toponymic,0.99,The Places,True
+138,Castro,184134,87.42,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+139,Marshall,183922,2.58,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+140,Owens,182719,2.17,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+141,Harrison,181091,2.7,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+142,Fernandez,180842,83.58,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+143,Mcdonald,180497,2.73,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,False
+144,Woods,177425,2.35,English,British Isles,1.0,Toponymic,1.0,The Places,True
+145,Washington,177386,2.54,English,British Isles,1.0,Toponymic,1.0,The Places,True
+146,Kennedy,176865,2.45,English,British Isles,1.0,Patronymic,0.45,The Sons of Somebody,True
+147,Wells,176230,2.41,English,British Isles,1.0,Toponymic,1.0,The Places,True
+148,Vargas,173835,92.92,Spanish,Spanish or Portuguese,1.0,Toponymic,0.53,The Places,True
+149,Henry,170964,2.84,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+150,Chen,169580,0.52,,Other,1.0,Toponymic,0.6,The Places,True
+151,Freeman,169149,2.3,English,British Isles,1.0,Acquired/assigned,0.95,,True
+152,Webb,168878,2.29,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+153,Tucker,167446,2.35,English,British Isles,1.0,Occupational,0.99,The Jobs,True
+154,Guzman,167044,93.77,Spanish,Spanish or Portuguese,1.0,Patronymic,0.4,The Sons of Somebody,True
+155,Burns,165925,2.48,English,British Isles,1.0,Toponymic,0.98,The Places,True
+156,Crawford,164457,2.24,English,British Isles,1.0,Toponymic,1.0,The Places,True
+157,Olson,164035,2.03,,German or Dutch,0.73,Patronymic,1.0,The Sons of Somebody,True
+158,Simpson,163181,2.53,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+159,Porter,163054,2.45,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+160,Hunter,162440,2.41,English,British Isles,1.0,Occupational,0.99,The Jobs,True
+161,Gordon,161833,3.04,English,British Isles,1.0,Toponymic,1.0,The Places,True
+162,Mendez,161717,93.83,Spanish,Spanish or Portuguese,1.0,Patronymic,0.98,The Sons of Somebody,True
+163,Silva,161633,61.34,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+164,Shaw,160400,2.36,English,British Isles,1.0,Toponymic,1.0,The Places,True
+165,Snyder,160262,1.92,,German or Dutch,0.69,Occupational,1.0,The Jobs,True
+166,Mason,160213,2.41,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+167,Dixon,159480,2.49,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+168,Munoz,158483,93.48,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,False
+169,Hunt,158421,2.31,English,British Isles,1.0,Occupational,0.98,The Jobs,True
+170,Hicks,158320,2.13,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+171,Holmes,156780,2.38,English,British Isles,1.0,Toponymic,1.0,The Places,True
+172,Palmer,156601,2.87,English,British Isles,1.0,Cognominal,0.83,The Nicknames,True
+173,Wagner,155795,2.41,,German or Dutch,0.87,Occupational,1.0,The Jobs,True
+174,Black,154738,2.33,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+175,Robertson,153666,2.46,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+176,Boyd,153469,2.16,English,British Isles,1.0,Toponymic,0.47,The Places,True
+177,Rose,153397,2.96,English,British Isles,1.0,Toponymic,0.72,The Places,True
+178,Stone,153329,2.39,English,British Isles,1.0,Occupational,0.76,The Jobs,True
+179,Salazar,152703,91.65,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+180,Fox,152334,2.42,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+181,Warren,152147,2.33,English,British Isles,1.0,Toponymic,1.0,The Places,True
+182,Mills,151942,2.33,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+183,Meyer,150895,2.28,,German or Dutch,0.93,Occupational,0.94,The Jobs,True
+184,Rice,149500,2.33,English,British Isles,1.0,Patronymic,0.28,The Sons of Somebody,True
+185,Schmidt,147034,2.34,,German or Dutch,1.0,Occupational,1.0,The Jobs,True
+186,Garza,147005,92.49,Spanish,Spanish or Portuguese,1.0,Toponymic,0.29,The Places,False
+187,Daniels,146570,2.7,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+188,Ferguson,146426,2.53,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+189,Nichols,145584,2.43,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+190,Stephens,144646,2.54,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+191,Soto,144451,93.45,Spanish,Spanish or Portuguese,1.0,Toponymic,0.98,The Places,True
+192,Weaver,143837,2.12,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+193,Ryan,143452,2.55,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+194,Gardner,142894,2.29,English,British Isles,0.97,Occupational,0.85,The Jobs,False
+195,Payne,142601,2.42,English,British Isles,1.0,Occupational,0.62,The Jobs,True
+196,Grant,142277,2.79,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+197,Dunn,141427,2.25,English,British Isles,1.0,Patronymic,0.56,The Sons of Somebody,True
+198,Kelley,140693,2.18,English,British Isles,1.0,Patronymic,0.71,The Sons of Somebody,True
+199,Spencer,139951,2.67,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+200,Hawkins,139751,2.5,English,British Isles,1.0,Patronymic,0.88,The Sons of Somebody,True
+201,Arnold,138893,2.41,English,British Isles,0.71,Patronymic,0.94,The Sons of Somebody,True
+202,Pierce,138629,2.47,English,British Isles,1.0,Patronymic,0.91,The Sons of Somebody,True
+203,Vazquez,138322,95.75,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+204,Hansen,137977,2.54,,German or Dutch,0.95,Patronymic,1.0,The Sons of Somebody,True
+205,Peters,137513,2.55,English,British Isles,0.8,Patronymic,1.0,The Sons of Somebody,True
+206,Santos,137232,62.2,Spanish,Spanish or Portuguese,1.0,Patronage,0.97,,True
+207,Hart,137184,2.52,English,British Isles,1.0,Cognominal,0.94,The Nicknames,True
+208,Bradley,136720,2.34,English,British Isles,1.0,Toponymic,1.0,The Places,True
+209,Knight,136713,2.5,English,British Isles,1.0,Occupational,0.51,The Jobs,True
+210,Elliott,135765,2.21,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+211,Cunningham,135718,2.58,English,British Isles,1.0,Toponymic,1.0,The Places,True
+212,Duncan,135187,2.55,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+213,Armstrong,135044,2.79,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+214,Hudson,134963,2.2,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+215,Carroll,134317,2.36,English,British Isles,1.0,Patronymic,0.88,The Sons of Somebody,True
+216,Lane,134227,2.33,English,British Isles,1.0,Toponymic,1.0,The Places,True
+217,Riley,133872,2.48,English,British Isles,1.0,Toponymic,0.95,The Places,True
+218,Andrews,133799,2.57,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+219,Alvarado,133501,94.42,Spanish,Spanish or Portuguese,1.0,Toponymic,0.68,The Places,True
+220,Ray,133171,2.56,English,British Isles,0.99,Patronymic,0.74,The Sons of Somebody,True
+221,Delgado,132985,92.47,Spanish,Spanish or Portuguese,1.0,Cognominal,1.0,The Nicknames,True
+222,Berry,132812,2.53,English,British Isles,1.0,Toponymic,0.54,The Places,True
+223,Perkins,131440,2.37,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+224,Hoffman,131401,2.12,,German or Dutch,0.92,Occupational,0.97,The Jobs,True
+225,Johnston,131373,2.62,English,British Isles,1.0,Toponymic,0.9,The Places,True
+226,Matthews,131303,2.39,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+227,Pena,130776,92.5,Spanish,Spanish or Portuguese,0.99,Toponymic,0.65,The Places,True
+228,Richards,130529,2.81,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+229,Contreras,130164,94.64,Spanish,Spanish or Portuguese,1.0,Toponymic,0.99,The Places,True
+230,Willis,130152,2.31,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+231,Carpenter,129898,2.18,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+232,Lawrence,129699,2.5,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+233,Sandoval,128948,91.93,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+234,Guerrero,128677,92.27,Spanish,Spanish or Portuguese,1.0,Cognominal,0.67,The Nicknames,True
+235,George,128625,3.16,English,British Isles,1.0,Patronymic,0.94,The Sons of Somebody,True
+236,Chapman,127939,2.47,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+237,Rios,127794,93.61,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+238,Estrada,127470,92.86,Spanish,Spanish or Portuguese,1.0,Toponymic,0.93,The Places,True
+239,Ortega,127256,93.11,Spanish,Spanish or Portuguese,1.0,Toponymic,0.98,The Places,True
+240,Watkins,127083,2.09,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+241,Greene,126101,2.21,English,British Isles,1.0,Cognominal,0.95,The Nicknames,True
+242,Nunez,125350,92.72,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+243,Wheeler,125058,2.35,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+244,Valdez,124995,88.66,Spanish,Spanish or Portuguese,1.0,Toponymic,0.92,The Places,True
+245,Harper,124461,2.31,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+246,Burke,122877,2.41,English,British Isles,1.0,Toponymic,0.99,The Places,True
+247,Larson,122587,1.95,,German or Dutch,0.33,Patronymic,0.99,The Sons of Somebody,True
+248,Santiago,122212,88.06,Spanish,Spanish or Portuguese,1.0,Patronage,0.47,,True
+249,Maldonado,121526,93.71,Spanish,Spanish or Portuguese,1.0,Cognominal,0.83,The Nicknames,True
+250,Morrison,121130,2.49,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+251,Franklin,120621,2.7,English,British Isles,1.0,Occupational,0.29,The Jobs,True
+252,Carlson,120552,2.07,,German or Dutch,0.96,Patronymic,1.0,The Sons of Somebody,True
+253,Austin,119706,2.78,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+254,Dominguez,119304,93.09,Spanish,Spanish or Portuguese,1.0,Patronymic,1.0,The Sons of Somebody,True
+255,Carr,119076,2.41,English,British Isles,1.0,Toponymic,0.78,The Places,True
+256,Lawson,119053,2.2,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+257,Jacobs,118614,2.52,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+258,Obrien,118557,2.32,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,False
+259,Lynch,117708,2.52,English,British Isles,1.0,Patronymic,0.75,The Sons of Somebody,True
+260,Singh,116749,2.5,,Other,0.99,Cognominal,0.84,The Nicknames,True
+261,Vega,116673,92.68,Spanish,Spanish or Portuguese,1.0,Toponymic,0.99,The Places,True
+262,Bishop,116618,2.37,English,British Isles,1.0,Cognominal,0.79,The Nicknames,True
+263,Montgomery,115953,2.35,English,British Isles,0.96,Toponymic,1.0,The Places,True
+264,Oliver,115900,4.52,English,British Isles,0.99,Patronymic,0.98,The Sons of Somebody,True
+265,Jensen,115679,2.64,,German or Dutch,0.93,Patronymic,1.0,The Sons of Somebody,True
+266,Harvey,115662,2.52,English,British Isles,1.0,Patronymic,0.83,The Sons of Somebody,True
+267,Williamson,114959,2.27,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+268,Gilbert,114940,2.98,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+269,Dean,114030,2.63,English,British Isles,1.0,Toponymic,0.85,The Places,True
+270,Sims,113374,2.24,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+271,Espinoza,112154,94.91,Spanish,Spanish or Portuguese,0.96,Toponymic,0.48,The Places,True
+272,Howell,112041,2.46,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+273,Li,111786,0.63,,Other,1.0,Toponymic,0.7,The Places,True
+274,Wong,111371,4.0,,Other,1.0,Cognominal,0.62,The Nicknames,True
+275,Reid,111360,2.62,English,British Isles,1.0,Cognominal,0.98,The Nicknames,True
+276,Hanson,111144,2.11,English,British Isles,0.99,Patronymic,1.0,The Sons of Somebody,True
+277,Le,110967,0.75,,Other,0.99,Other,0.72,,True
+278,Mccoy,110744,2.64,English,British Isles,0.99,Patronymic,0.82,The Sons of Somebody,False
+279,Garrett,110697,2.2,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+280,Burton,110529,2.34,English,British Isles,1.0,Toponymic,1.0,The Places,True
+281,Fuller,110116,2.33,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+282,Wang,109883,0.35,,Other,1.0,Cognominal,0.51,The Nicknames,True
+283,Weber,109433,2.18,,German or Dutch,1.0,Occupational,1.0,The Jobs,True
+284,Welch,108987,2.55,English,British Isles,1.0,Cognominal,0.99,The Nicknames,True
+285,Rojas,108421,94.46,Spanish,Spanish or Portuguese,1.0,Cognominal,0.94,The Nicknames,True
+286,Lucas,107690,8.05,English,British Isles,0.88,Patronymic,1.0,The Sons of Somebody,True
+287,Marquez,107533,90.7,Spanish,Spanish or Portuguese,1.0,Patronymic,0.99,The Sons of Somebody,True
+288,Fields,107522,2.28,English,British Isles,0.97,Toponymic,0.83,The Places,False
+289,Park,106696,1.0,,Other,0.83,Toponymic,0.56,The Places,True
+290,Yang,106033,0.45,,Other,1.0,Toponymic,0.66,The Places,True
+291,Little,105936,2.01,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+292,Banks,105833,2.45,English,British Isles,1.0,Toponymic,1.0,The Places,True
+293,Padilla,105365,90.16,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+294,Day,105091,2.4,English,British Isles,1.0,Patronymic,0.38,The Sons of Somebody,True
+295,Walsh,105079,2.2,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+296,Bowman,105007,2.23,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+297,Schultz,104888,2.22,,German or Dutch,0.97,Occupational,1.0,The Jobs,True
+298,Luna,104518,88.78,Spanish,Spanish or Portuguese,1.0,Toponymic,0.82,The Places,True
+299,Fowler,104515,2.16,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+300,Mejia,104057,94.51,Spanish,Spanish or Portuguese,1.0,Patronymic,0.63,The Sons of Somebody,True
+301,Davidson,103930,2.35,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+302,Acosta,103418,89.48,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+303,Brewer,103318,2.19,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+304,May,103306,3.04,English,British Isles,1.0,Patronymic,0.56,The Sons of Somebody,True
+305,Holland,102538,2.37,,German or Dutch,0.41,Toponymic,1.0,The Places,True
+306,Juarez,101949,95.66,Spanish,Spanish or Portuguese,1.0,Patronymic,0.97,The Sons of Somebody,True
+307,Newman,101931,2.6,English,British Isles,1.0,Cognominal,0.74,The Nicknames,True
+308,Pearson,101836,2.24,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+309,Curtis,101801,2.57,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+310,Cortez,101694,89.65,Spanish,Spanish or Portuguese,1.0,Patronymic,0.38,The Sons of Somebody,True
+311,Douglas,101458,2.8,English,British Isles,1.0,Toponymic,1.0,The Places,True
+312,Schneider,101290,2.16,,German or Dutch,1.0,Occupational,1.0,The Jobs,True
+313,Joseph,100959,2.98,English,British Isles,0.95,Patronymic,0.99,The Sons of Somebody,True
+314,Barrett,100104,2.65,English,British Isles,1.0,Cognominal,0.57,The Nicknames,True
+315,Navarro,99807,88.14,Spanish,Spanish or Portuguese,1.0,Toponymic,0.64,The Places,True
+316,Figueroa,98468,92.82,Spanish,Spanish or Portuguese,1.0,Toponymic,0.99,The Places,True
+317,Keller,98268,2.26,,German or Dutch,0.85,Occupational,0.92,The Jobs,True
+318,Avila,97314,90.96,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+319,Wade,97040,2.34,English,British Isles,1.0,Toponymic,1.0,The Places,True
+320,Molina,96979,90.32,Spanish,Spanish or Portuguese,1.0,Occupational,0.97,The Jobs,True
+321,Stanley,96867,2.27,English,British Isles,1.0,Toponymic,1.0,The Places,True
+322,Hopkins,96810,2.14,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+323,Campos,96111,90.52,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+324,Barnett,95681,2.56,English,British Isles,1.0,Patronymic,0.37,The Sons of Somebody,True
+325,Bates,95622,2.41,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+326,Chambers,94988,2.47,English,British Isles,0.97,Occupational,0.94,The Jobs,False
+327,Caldwell,93944,2.29,English,British Isles,1.0,Toponymic,1.0,The Places,True
+328,Beck,93786,2.17,English,British Isles,0.88,Toponymic,0.78,The Places,True
+329,Lambert,93678,2.79,English,British Isles,0.99,Patronymic,0.94,The Sons of Somebody,True
+330,Miranda,93628,80.97,Spanish,Spanish or Portuguese,1.0,Toponymic,0.65,The Places,True
+331,Byrd,92904,2.11,English,British Isles,0.96,Cognominal,0.64,The Nicknames,False
+332,Craig,92507,2.37,English,British Isles,1.0,Toponymic,1.0,The Places,True
+333,Ayala,92463,94.25,Spanish,Spanish or Portuguese,0.99,Toponymic,1.0,The Places,True
+334,Lowe,92260,2.56,English,British Isles,1.0,Cognominal,0.54,The Nicknames,True
+335,Frazier,92152,2.27,English,British Isles,0.95,Patronymic,0.24,The Sons of Somebody,False
+336,Powers,91970,2.39,English,British Isles,1.0,Cognominal,0.65,The Nicknames,True
+337,Neal,91694,2.16,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+338,Leonard,91475,2.42,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+339,Gregory,91384,2.49,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+340,Carrillo,91129,93.33,Spanish,Spanish or Portuguese,1.0,Toponymic,0.38,The Places,True
+341,Sutton,90964,2.13,English,British Isles,1.0,Toponymic,1.0,The Places,True
+342,Fleming,90677,2.19,English,British Isles,0.97,Toponymic,0.27,The Places,True
+343,Rhodes,90670,2.17,English,British Isles,1.0,Toponymic,0.99,The Places,True
+344,Shelton,90517,2.23,English,British Isles,1.0,Toponymic,0.84,The Places,True
+345,Schwartz,90071,1.89,,German or Dutch,0.96,Cognominal,0.97,The Nicknames,True
+346,Norris,89796,2.2,English,British Isles,1.0,Cognominal,0.95,The Nicknames,True
+347,Jennings,89700,2.45,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+348,Watts,89649,2.26,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+349,Duran,89401,87.11,Spanish,Spanish or Portuguese,1.0,Cognominal,0.46,The Nicknames,True
+350,Walters,89376,2.63,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+351,Cohen,89091,3.29,,Other,0.63,Occupational,0.92,The Jobs,True
+352,Mcdaniel,88728,2.35,English,British Isles,0.97,Patronymic,0.87,The Sons of Somebody,False
+353,Moran,88615,30.81,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+354,Parks,88586,2.06,English,British Isles,1.0,Toponymic,0.79,The Places,True
+355,Steele,88230,2.43,English,British Isles,1.0,Occupational,0.79,The Jobs,True
+356,Vaughn,88060,2.27,English,British Isles,1.0,Cognominal,0.88,The Nicknames,True
+357,Becker,87859,2.33,,German or Dutch,0.72,Occupational,0.98,The Jobs,True
+358,Holt,87531,2.1,English,British Isles,1.0,Toponymic,1.0,The Places,True
+359,Deleon,87414,83.06,Spanish,Spanish or Portuguese,1.0,Patronymic,0.53,The Sons of Somebody,False
+360,Barker,87162,2.44,English,British Isles,1.0,Occupational,0.93,The Jobs,True
+361,Terry,87000,2.68,English,British Isles,0.99,Patronymic,0.99,The Sons of Somebody,True
+362,Hale,86618,2.42,English,British Isles,1.0,Toponymic,0.98,The Places,True
+363,Leon,86363,85.21,Spanish,Spanish or Portuguese,1.0,Toponymic,0.51,The Places,True
+364,Hail,86240,2.27,English,British Isles,0.61,Other,0.33,,False
+365,Benson,86081,2.41,English,British Isles,1.0,Toponymic,0.82,The Places,True
+366,Haynes,85974,2.47,English,British Isles,0.97,Patronymic,0.37,The Sons of Somebody,False
+367,Horton,85195,2.23,English,British Isles,1.0,Toponymic,1.0,The Places,True
+368,Miles,84942,2.44,English,British Isles,1.0,Patronymic,0.95,The Sons of Somebody,True
+369,Lyons,84516,2.34,English,British Isles,1.0,Toponymic,0.98,The Places,True
+370,Pham,84320,0.72,,Other,1.0,Toponymic,0.33,The Places,True
+371,Graves,84179,2.6,English,British Isles,1.0,Toponymic,0.54,The Places,True
+372,Bush,84018,2.29,English,British Isles,1.0,Toponymic,0.92,The Places,True
+373,Thornton,83967,2.06,English,British Isles,1.0,Toponymic,1.0,The Places,True
+374,Wolfe,83928,2.09,English,British Isles,0.96,Cognominal,0.93,The Nicknames,True
+375,Warner,83781,2.41,English,British Isles,0.95,Patronymic,0.92,The Sons of Somebody,True
+376,Cabrera,83621,91.02,Spanish,Spanish or Portuguese,1.0,Occupational,0.99,The Jobs,True
+377,Mckinney,83616,2.34,English,British Isles,0.96,Patronymic,0.49,The Sons of Somebody,False
+378,Mann,83510,2.66,English,British Isles,0.99,Patronymic,0.33,The Sons of Somebody,True
+379,Zimmerman,83265,1.85,,German or Dutch,0.97,Occupational,0.85,The Jobs,False
+380,Dawson,83182,2.33,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+381,Lara,83067,92.28,Spanish,Spanish or Portuguese,0.97,Patronymic,0.46,The Sons of Somebody,True
+382,Fletcher,83063,2.6,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+383,Page,82992,2.62,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+384,Mccarthy,82950,2.24,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,False
+385,Love,82873,2.53,English,British Isles,0.97,Cognominal,0.56,The Nicknames,False
+386,Robles,82458,91.78,Spanish,Spanish or Portuguese,1.0,Toponymic,0.71,The Places,True
+387,Cervantes,82161,95.31,Spanish,Spanish or Portuguese,1.0,Cognominal,0.28,The Nicknames,True
+388,Solis,82146,92.43,Spanish,Spanish or Portuguese,1.0,Cognominal,0.48,The Nicknames,True
+389,Erickson,82085,1.92,,German or Dutch,0.43,Patronymic,1.0,The Sons of Somebody,True
+390,Reeves,81978,2.71,English,British Isles,1.0,Occupational,0.88,The Jobs,True
+391,Chang,81939,3.71,,Other,1.0,Other,0.49,,True
+392,Klein,81471,2.3,,German or Dutch,0.99,Cognominal,1.0,The Nicknames,True
+393,Salinas,81156,92.88,Spanish,Spanish or Portuguese,1.0,Occupational,0.71,The Jobs,True
+394,Fuentes,81006,93.24,Spanish,Spanish or Portuguese,1.0,Toponymic,0.99,The Places,True
+395,Baldwin,80742,2.43,English,British Isles,1.0,Patronymic,0.68,The Sons of Somebody,True
+396,Daniel,80526,5.59,English,British Isles,0.97,Patronymic,1.0,The Sons of Somebody,True
+397,Simon,80460,7.06,English,British Isles,0.99,Patronymic,0.95,The Sons of Somebody,True
+398,Velasquez,80364,92.22,Spanish,Spanish or Portuguese,1.0,Patronymic,0.99,The Sons of Somebody,True
+399,Hardy,80252,2.22,English,British Isles,1.0,Cognominal,0.93,The Nicknames,True
+400,Higgins,79803,2.3,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+401,Aguirre,79517,92.94,Spanish,Spanish or Portuguese,0.99,Toponymic,0.45,The Places,True
+402,Lin,79508,0.47,,Other,0.99,Toponymic,0.97,The Places,True
+403,Cummings,79316,2.45,English,British Isles,1.0,Toponymic,0.98,The Places,True
+404,Chandler,79186,2.4,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+405,Sharp,78990,2.33,English,British Isles,1.0,Cognominal,1.0,The Nicknames,True
+406,Barber,78848,2.39,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+407,Bowen,78822,2.71,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+408,Ochoa,78677,94.09,Spanish,Spanish or Portuguese,1.0,Cognominal,0.67,The Nicknames,True
+409,Dennis,78482,2.88,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+410,Robbins,78381,2.06,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+411,Liu,78370,0.54,,Other,1.0,Other,0.38,,True
+412,Ramsey,78350,2.46,English,British Isles,1.0,Toponymic,1.0,The Places,True
+413,Francis,78327,3.78,English,British Isles,0.97,Patronymic,0.76,The Sons of Somebody,True
+414,Griffith,78260,2.56,English,British Isles,1.0,Patronymic,0.91,The Sons of Somebody,True
+415,Paul,78256,2.67,English,British Isles,0.95,Patronymic,0.95,The Sons of Somebody,True
+416,Blair,78026,2.53,English,British Isles,1.0,Toponymic,1.0,The Places,True
+417,Oconnor,77923,2.61,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,False
+418,Cardenas,77652,93.7,Spanish,Spanish or Portuguese,1.0,Toponymic,0.85,The Places,True
+419,Pacheco,77642,81.43,Spanish,Spanish or Portuguese,1.0,Toponymic,0.57,The Places,True
+420,Cross,77557,2.52,English,British Isles,1.0,Toponymic,0.99,The Places,True
+421,Calderon,77085,92.55,Spanish,Spanish or Portuguese,1.0,Occupational,0.67,The Jobs,True
+422,Quinn,76986,2.64,English,British Isles,1.0,Patronymic,0.91,The Sons of Somebody,True
+423,Moss,76908,2.28,English,British Isles,0.97,Toponymic,0.43,The Places,False
+424,Swanson,76897,2.1,English,British Isles,0.84,Patronymic,0.91,The Sons of Somebody,False
+425,Chan,76664,4.58,,Other,1.0,Other,0.43,,True
+426,Rivas,76205,93.67,Spanish,Spanish or Portuguese,1.0,Toponymic,0.92,The Places,False
+427,Khan,76171,2.2,,Other,0.95,Patronymic,0.54,The Sons of Somebody,True
+428,Rodgers,76095,2.69,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+429,Serrano,75996,90.34,Spanish,Spanish or Portuguese,1.0,Toponymic,0.76,The Places,True
+430,Fitzgerald,75356,2.22,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+431,Rosales,75185,93.21,Spanish,Spanish or Portuguese,1.0,Toponymic,0.84,The Places,True
+432,Stevenson,75169,2.7,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+433,Christensen,75143,2.38,,German or Dutch,0.92,Patronymic,1.0,The Sons of Somebody,True
+434,Manning,74949,2.36,English,British Isles,0.96,Patronymic,0.79,The Sons of Somebody,False
+435,Gill,74948,4.74,English,British Isles,0.99,Toponymic,0.56,The Places,True
+436,Curry,74919,2.52,English,British Isles,0.99,Patronymic,0.8,The Sons of Somebody,True
+437,Mclaughlin,74816,2.38,English,British Isles,0.99,Patronymic,0.93,The Sons of Somebody,False
+438,Harmon,74737,2.34,English,British Isles,1.0,Patronymic,0.87,The Sons of Somebody,True
+439,Mcgee,74542,2.32,English,British Isles,0.99,Patronymic,0.89,The Sons of Somebody,False
+440,Gross,74503,2.45,,German or Dutch,0.39,Cognominal,0.99,The Nicknames,True
+441,Doyle,74458,2.39,English,British Isles,1.0,Patronymic,0.99,The Sons of Somebody,True
+442,Garner,74324,2.34,English,British Isles,0.95,Occupational,0.31,The Jobs,False
+443,Newton,74092,2.56,English,British Isles,1.0,Toponymic,1.0,The Places,True
+444,Burgess,73931,2.17,English,British Isles,1.0,Occupational,0.61,The Jobs,True
+445,Reese,73919,2.62,English,British Isles,1.0,Patronymic,0.79,The Sons of Somebody,True
+446,Walton,73854,2.13,English,British Isles,1.0,Toponymic,0.97,The Places,True
+447,Blake,73797,2.68,English,British Isles,1.0,Cognominal,0.99,The Nicknames,True
+448,Trujillo,73664,89.14,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+449,Adkins,73599,1.72,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+450,Brady,73145,2.66,English,British Isles,1.0,Toponymic,0.65,The Places,True
+451,Goodman,73136,2.43,English,British Isles,0.99,Cognominal,0.82,The Nicknames,True
+452,Roman,72918,75.67,Spanish,Spanish or Portuguese,0.96,Cognominal,0.71,The Nicknames,True
+453,Webster,72625,2.51,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+454,Goodwin,72451,2.3,English,British Isles,1.0,Patronymic,0.89,The Sons of Somebody,True
+455,Fischer,72357,2.56,,German or Dutch,0.99,Occupational,1.0,The Jobs,True
+456,Huang,72328,0.4,,Other,1.0,Cognominal,0.94,The Nicknames,True
+457,Potter,72175,2.5,English,British Isles,1.0,Occupational,1.0,The Jobs,True
+458,Delacruz,72109,77.24,Spanish,Spanish or Portuguese,1.0,Patronage,1.0,,True
+459,Montoya,71844,88.44,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+460,Todd,71759,2.34,English,British Isles,1.0,Patronymic,0.53,The Sons of Somebody,True
+461,Wu,71721,0.48,,Other,1.0,Toponymic,0.53,The Places,True
+462,Hines,71717,2.25,English,British Isles,0.96,Patronymic,0.82,The Sons of Somebody,False
+463,Mullins,71646,1.74,English,British Isles,0.97,Patronymic,0.54,The Sons of Somebody,False
+464,Castaneda,71368,93.42,Spanish,Spanish or Portuguese,1.0,Toponymic,0.94,The Places,True
+465,Malone,71286,2.46,English,British Isles,1.0,Patronymic,0.92,The Sons of Somebody,True
+466,Cannon,71085,2.42,English,British Isles,1.0,Patronymic,0.66,The Sons of Somebody,True
+467,Tate,71058,2.12,English,British Isles,1.0,Cognominal,0.46,The Nicknames,True
+468,Mack,71056,2.37,English,British Isles,1.0,Patronymic,0.49,The Sons of Somebody,True
+469,Sherman,70502,2.33,English,British Isles,0.99,Occupational,1.0,The Jobs,True
+470,Hubbard,70362,2.15,English,British Isles,0.93,Patronymic,0.24,The Sons of Somebody,False
+471,Hodges,70223,2.57,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+472,Zhang,70125,0.15,,Other,1.0,Occupational,0.26,The Jobs,True
+473,Guerra,70071,86.59,Spanish,Spanish or Portuguese,1.0,Cognominal,0.84,The Nicknames,True
+474,Wolf,70031,2.16,,German or Dutch,0.71,Patronymic,0.57,The Sons of Somebody,True
+475,Valencia,70000,89.23,Spanish,Spanish or Portuguese,1.0,Toponymic,1.0,The Places,True
+476,Saunders,69943,2.62,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+476,Franco,69943,81.0,Spanish,Spanish or Portuguese,0.97,Cognominal,0.95,The Nicknames,True
+478,Rowe,69879,2.47,English,British Isles,1.0,Patronymic,0.3,The Sons of Somebody,True
+479,Gallagher,69834,2.5,English,British Isles,1.0,Patronymic,0.97,The Sons of Somebody,True
+480,Farmer,69617,2.07,English,British Isles,0.99,Occupational,1.0,The Jobs,False
+481,Hammond,69515,2.19,English,British Isles,1.0,Patronymic,1.0,The Sons of Somebody,True
+482,Hampton,69472,2.21,English,British Isles,1.0,Toponymic,1.0,The Places,True
+483,Townsend,69360,2.38,English,British Isles,1.0,Toponymic,1.0,The Places,True
+484,Ingram,69345,2.42,English,British Isles,1.0,Patronymic,0.91,The Sons of Somebody,True
+485,Wise,68649,2.38,English,British Isles,0.97,Cognominal,0.99,The Nicknames,False
+486,Gallegos,68373,90.89,Spanish,Spanish or Portuguese,1.0,Cognominal,0.83,The Nicknames,True
+487,Clarke,68281,3.56,English,British Isles,1.0,Occupational,0.97,The Jobs,True
+488,Barton,68233,3.12,English,British Isles,1.0,Toponymic,1.0,The Places,True
+489,Schroeder,67977,2.11,,German or Dutch,0.89,Occupational,0.89,The Jobs,True
+490,Maxwell,67961,2.74,English,British Isles,1.0,Toponymic,1.0,The Places,True
+491,Waters,67929,2.39,English,British Isles,1.0,Patronymic,0.55,The Sons of Somebody,True
+492,Logan,67909,3.21,English,British Isles,1.0,Toponymic,1.0,The Places,True
+493,Camacho,67893,89.56,Spanish,Spanish or Portuguese,1.0,Toponymic,0.92,The Places,True
+494,Strickland,67769,1.97,English,British Isles,1.0,Toponymic,1.0,The Places,True
+495,Norman,67704,2.44,English,British Isles,0.95,Cognominal,0.61,The Nicknames,True
+496,Person,67411,12.88,,German or Dutch,0.87,Patronymic,1.0,The Sons of Somebody,True
+497,Colon,67338,89.75,Spanish,Spanish or Portuguese,1.0,Toponymic,0.25,The Places,True
+498,Parsons,67310,2.27,English,British Isles,1.0,Occupational,0.81,The Jobs,True
+499,Frank,67304,2.68,English,British Isles,0.77,Cognominal,0.67,The Nicknames,True
+500,Harrington,66959,2.41,English,British Isles,1.0,Toponymic,0.93,The Places,True

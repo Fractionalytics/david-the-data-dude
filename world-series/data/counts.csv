@@ -1,0 +1,262 @@
+group_kind,group,type,known,jev_only,total
+all,All players,Patronymic,411,103,514
+all,All players,Cognominal,138,43,181
+all,All players,Ornamental/artificial,2,0,2
+all,All players,Acquired/assigned,4,0,4
+all,All players,Occupational,134,35,169
+all,All players,Toponymic,288,77,365
+all,All players,Patronage,8,6,14
+all,All players,Compound,4,0,4
+all,All players,Other,13,206,219
+region,USA/Canada,Patronymic,305,82,387
+region,USA/Canada,Cognominal,115,38,153
+region,USA/Canada,Ornamental/artificial,2,0,2
+region,USA/Canada,Acquired/assigned,3,0,3
+region,USA/Canada,Occupational,116,33,149
+region,USA/Canada,Toponymic,183,46,229
+region,USA/Canada,Patronage,3,0,3
+region,USA/Canada,Compound,4,0,4
+region,USA/Canada,Other,12,157,169
+region,Latin America & Caribbean,Patronymic,104,17,121
+region,Latin America & Caribbean,Cognominal,23,5,28
+region,Latin America & Caribbean,Ornamental/artificial,0,0,0
+region,Latin America & Caribbean,Acquired/assigned,1,0,1
+region,Latin America & Caribbean,Occupational,17,2,19
+region,Latin America & Caribbean,Toponymic,92,22,114
+region,Latin America & Caribbean,Patronage,5,6,11
+region,Latin America & Caribbean,Compound,0,0,0
+region,Latin America & Caribbean,Other,1,44,45
+region,Asia,Patronymic,0,0,0
+region,Asia,Cognominal,0,0,0
+region,Asia,Ornamental/artificial,0,0,0
+region,Asia,Acquired/assigned,0,0,0
+region,Asia,Occupational,1,0,1
+region,Asia,Toponymic,10,9,19
+region,Asia,Patronage,0,0,0
+region,Asia,Compound,0,0,0
+region,Asia,Other,0,4,4
+region,Europe,Patronymic,2,3,5
+region,Europe,Cognominal,0,0,0
+region,Europe,Ornamental/artificial,0,0,0
+region,Europe,Acquired/assigned,0,0,0
+region,Europe,Occupational,0,0,0
+region,Europe,Toponymic,1,0,1
+region,Europe,Patronage,0,0,0
+region,Europe,Compound,0,0,0
+region,Europe,Other,0,0,0
+region,Oceania,Patronymic,0,1,1
+region,Oceania,Cognominal,0,0,0
+region,Oceania,Ornamental/artificial,0,0,0
+region,Oceania,Acquired/assigned,0,0,0
+region,Oceania,Occupational,0,0,0
+region,Oceania,Toponymic,2,0,2
+region,Oceania,Patronage,0,0,0
+region,Oceania,Compound,0,0,0
+region,Oceania,Other,0,1,1
+country,USA,Patronymic,301,81,382
+country,USA,Cognominal,109,38,147
+country,USA,Ornamental/artificial,2,0,2
+country,USA,Acquired/assigned,3,0,3
+country,USA,Occupational,111,33,144
+country,USA,Toponymic,183,45,228
+country,USA,Patronage,2,0,2
+country,USA,Compound,4,0,4
+country,USA,Other,11,152,163
+country,Curacao,Patronymic,1,0,1
+country,Curacao,Cognominal,0,0,0
+country,Curacao,Ornamental/artificial,0,0,0
+country,Curacao,Acquired/assigned,1,0,1
+country,Curacao,Occupational,0,0,0
+country,Curacao,Toponymic,0,0,0
+country,Curacao,Patronage,0,0,0
+country,Curacao,Compound,0,0,0
+country,Curacao,Other,0,1,1
+country,Dominican Republic,Patronymic,47,8,55
+country,Dominican Republic,Cognominal,9,2,11
+country,Dominican Republic,Ornamental/artificial,0,0,0
+country,Dominican Republic,Acquired/assigned,0,0,0
+country,Dominican Republic,Occupational,6,0,6
+country,Dominican Republic,Toponymic,33,6,39
+country,Dominican Republic,Patronage,5,5,10
+country,Dominican Republic,Compound,0,0,0
+country,Dominican Republic,Other,0,18,18
+country,Venezuela,Patronymic,30,7,37
+country,Venezuela,Cognominal,5,1,6
+country,Venezuela,Ornamental/artificial,0,0,0
+country,Venezuela,Acquired/assigned,0,0,0
+country,Venezuela,Occupational,4,1,5
+country,Venezuela,Toponymic,22,6,28
+country,Venezuela,Patronage,0,1,1
+country,Venezuela,Compound,0,0,0
+country,Venezuela,Other,1,15,16
+country,Colombia,Patronymic,0,1,1
+country,Colombia,Cognominal,1,0,1
+country,Colombia,Ornamental/artificial,0,0,0
+country,Colombia,Acquired/assigned,0,0,0
+country,Colombia,Occupational,0,0,0
+country,Colombia,Toponymic,4,1,5
+country,Colombia,Patronage,0,0,0
+country,Colombia,Compound,0,0,0
+country,Colombia,Other,0,1,1
+country,Puerto Rico,Patronymic,10,1,11
+country,Puerto Rico,Cognominal,0,0,0
+country,Puerto Rico,Ornamental/artificial,0,0,0
+country,Puerto Rico,Acquired/assigned,0,0,0
+country,Puerto Rico,Occupational,2,1,3
+country,Puerto Rico,Toponymic,9,3,12
+country,Puerto Rico,Patronage,0,0,0
+country,Puerto Rico,Compound,0,0,0
+country,Puerto Rico,Other,0,1,1
+country,Cuba,Patronymic,7,0,7
+country,Cuba,Cognominal,4,2,6
+country,Cuba,Ornamental/artificial,0,0,0
+country,Cuba,Acquired/assigned,0,0,0
+country,Cuba,Occupational,2,0,2
+country,Cuba,Toponymic,10,3,13
+country,Cuba,Patronage,0,0,0
+country,Cuba,Compound,0,0,0
+country,Cuba,Other,0,3,3
+country,Japan,Patronymic,0,0,0
+country,Japan,Cognominal,0,0,0
+country,Japan,Ornamental/artificial,0,0,0
+country,Japan,Acquired/assigned,0,0,0
+country,Japan,Occupational,0,0,0
+country,Japan,Toponymic,10,3,13
+country,Japan,Patronage,0,0,0
+country,Japan,Compound,0,0,0
+country,Japan,Other,0,1,1
+country,Aruba,Patronymic,1,0,1
+country,Aruba,Cognominal,0,0,0
+country,Aruba,Ornamental/artificial,0,0,0
+country,Aruba,Acquired/assigned,0,0,0
+country,Aruba,Occupational,1,0,1
+country,Aruba,Toponymic,1,0,1
+country,Aruba,Patronage,0,0,0
+country,Aruba,Compound,0,0,0
+country,Aruba,Other,0,0,0
+country,Germany,Patronymic,1,1,2
+country,Germany,Cognominal,0,0,0
+country,Germany,Ornamental/artificial,0,0,0
+country,Germany,Acquired/assigned,0,0,0
+country,Germany,Occupational,0,0,0
+country,Germany,Toponymic,0,0,0
+country,Germany,Patronage,0,0,0
+country,Germany,Compound,0,0,0
+country,Germany,Other,0,0,0
+country,Canada,Patronymic,4,1,5
+country,Canada,Cognominal,6,0,6
+country,Canada,Ornamental/artificial,0,0,0
+country,Canada,Acquired/assigned,0,0,0
+country,Canada,Occupational,5,0,5
+country,Canada,Toponymic,0,1,1
+country,Canada,Patronage,1,0,1
+country,Canada,Compound,0,0,0
+country,Canada,Other,1,5,6
+country,Mexico,Patronymic,4,0,4
+country,Mexico,Cognominal,1,0,1
+country,Mexico,Ornamental/artificial,0,0,0
+country,Mexico,Acquired/assigned,0,0,0
+country,Mexico,Occupational,0,0,0
+country,Mexico,Toponymic,9,2,11
+country,Mexico,Patronage,0,0,0
+country,Mexico,Compound,0,0,0
+country,Mexico,Other,0,5,5
+country,Republic of Korea,Patronymic,0,0,0
+country,Republic of Korea,Cognominal,0,0,0
+country,Republic of Korea,Ornamental/artificial,0,0,0
+country,Republic of Korea,Acquired/assigned,0,0,0
+country,Republic of Korea,Occupational,1,0,1
+country,Republic of Korea,Toponymic,0,5,5
+country,Republic of Korea,Patronage,0,0,0
+country,Republic of Korea,Compound,0,0,0
+country,Republic of Korea,Other,0,1,1
+country,Panama,Patronymic,3,0,3
+country,Panama,Cognominal,1,0,1
+country,Panama,Ornamental/artificial,0,0,0
+country,Panama,Acquired/assigned,0,0,0
+country,Panama,Occupational,2,0,2
+country,Panama,Toponymic,2,0,2
+country,Panama,Patronage,0,0,0
+country,Panama,Compound,0,0,0
+country,Panama,Other,0,0,0
+country,Nicaragua,Patronymic,1,0,1
+country,Nicaragua,Cognominal,0,0,0
+country,Nicaragua,Ornamental/artificial,0,0,0
+country,Nicaragua,Acquired/assigned,0,0,0
+country,Nicaragua,Occupational,0,0,0
+country,Nicaragua,Toponymic,0,1,1
+country,Nicaragua,Patronage,0,0,0
+country,Nicaragua,Compound,0,0,0
+country,Nicaragua,Other,0,0,0
+country,Honduras,Patronymic,0,0,0
+country,Honduras,Cognominal,1,0,1
+country,Honduras,Ornamental/artificial,0,0,0
+country,Honduras,Acquired/assigned,0,0,0
+country,Honduras,Occupational,0,0,0
+country,Honduras,Toponymic,0,0,0
+country,Honduras,Patronage,0,0,0
+country,Honduras,Compound,0,0,0
+country,Honduras,Other,0,0,0
+country,United Kingdom,Patronymic,1,0,1
+country,United Kingdom,Cognominal,0,0,0
+country,United Kingdom,Ornamental/artificial,0,0,0
+country,United Kingdom,Acquired/assigned,0,0,0
+country,United Kingdom,Occupational,0,0,0
+country,United Kingdom,Toponymic,0,0,0
+country,United Kingdom,Patronage,0,0,0
+country,United Kingdom,Compound,0,0,0
+country,United Kingdom,Other,0,0,0
+country,Bahamas,Patronymic,0,0,0
+country,Bahamas,Cognominal,0,0,0
+country,Bahamas,Ornamental/artificial,0,0,0
+country,Bahamas,Acquired/assigned,0,0,0
+country,Bahamas,Occupational,0,0,0
+country,Bahamas,Toponymic,2,0,2
+country,Bahamas,Patronage,0,0,0
+country,Bahamas,Compound,0,0,0
+country,Bahamas,Other,0,0,0
+country,Peru,Patronymic,0,0,0
+country,Peru,Cognominal,1,0,1
+country,Peru,Ornamental/artificial,0,0,0
+country,Peru,Acquired/assigned,0,0,0
+country,Peru,Occupational,0,0,0
+country,Peru,Toponymic,0,0,0
+country,Peru,Patronage,0,0,0
+country,Peru,Compound,0,0,0
+country,Peru,Other,0,0,0
+country,Slovakia,Patronymic,0,1,1
+country,Slovakia,Cognominal,0,0,0
+country,Slovakia,Ornamental/artificial,0,0,0
+country,Slovakia,Acquired/assigned,0,0,0
+country,Slovakia,Occupational,0,0,0
+country,Slovakia,Toponymic,0,0,0
+country,Slovakia,Patronage,0,0,0
+country,Slovakia,Compound,0,0,0
+country,Slovakia,Other,0,0,0
+country,Australia,Patronymic,0,1,1
+country,Australia,Cognominal,0,0,0
+country,Australia,Ornamental/artificial,0,0,0
+country,Australia,Acquired/assigned,0,0,0
+country,Australia,Occupational,0,0,0
+country,Australia,Toponymic,2,0,2
+country,Australia,Patronage,0,0,0
+country,Australia,Compound,0,0,0
+country,Australia,Other,0,1,1
+country,Taiwan,Patronymic,0,0,0
+country,Taiwan,Cognominal,0,0,0
+country,Taiwan,Ornamental/artificial,0,0,0
+country,Taiwan,Acquired/assigned,0,0,0
+country,Taiwan,Occupational,0,0,0
+country,Taiwan,Toponymic,0,1,1
+country,Taiwan,Patronage,0,0,0
+country,Taiwan,Compound,0,0,0
+country,Taiwan,Other,0,2,2
+country,Italy,Patronymic,0,1,1
+country,Italy,Cognominal,0,0,0
+country,Italy,Ornamental/artificial,0,0,0
+country,Italy,Acquired/assigned,0,0,0
+country,Italy,Occupational,0,0,0
+country,Italy,Toponymic,1,0,1
+country,Italy,Patronage,0,0,0
+country,Italy,Compound,0,0,0
+country,Italy,Other,0,0,0

@@ -1,0 +1,118 @@
+group_kind,group,type,n,share
+all,All players,Patronymic,514,0.3491847826086957
+all,All players,Cognominal,181,0.12296195652173914
+all,All players,Ornamental/artificial,2,0.001358695652173913
+all,All players,Acquired/assigned,4,0.002717391304347826
+all,All players,Occupational,169,0.11480978260869565
+all,All players,Toponymic,365,0.24796195652173914
+all,All players,Patronage,14,0.009510869565217392
+all,All players,Compound,4,0.002717391304347826
+all,All players,Other,219,0.1487771739130435
+region,Asia,Patronymic,0,0.0
+region,Asia,Cognominal,0,0.0
+region,Asia,Ornamental/artificial,0,0.0
+region,Asia,Acquired/assigned,0,0.0
+region,Asia,Occupational,1,0.041666666666666664
+region,Asia,Toponymic,19,0.7916666666666666
+region,Asia,Patronage,0,0.0
+region,Asia,Compound,0,0.0
+region,Asia,Other,4,0.16666666666666666
+region,Europe,Patronymic,5,0.8333333333333334
+region,Europe,Cognominal,0,0.0
+region,Europe,Ornamental/artificial,0,0.0
+region,Europe,Acquired/assigned,0,0.0
+region,Europe,Occupational,0,0.0
+region,Europe,Toponymic,1,0.16666666666666666
+region,Europe,Patronage,0,0.0
+region,Europe,Compound,0,0.0
+region,Europe,Other,0,0.0
+region,Latin America & Caribbean,Patronymic,121,0.35693215339233036
+region,Latin America & Caribbean,Cognominal,28,0.08259587020648967
+region,Latin America & Caribbean,Ornamental/artificial,0,0.0
+region,Latin America & Caribbean,Acquired/assigned,1,0.0029498525073746312
+region,Latin America & Caribbean,Occupational,19,0.05604719764011799
+region,Latin America & Caribbean,Toponymic,114,0.336283185840708
+region,Latin America & Caribbean,Patronage,11,0.032448377581120944
+region,Latin America & Caribbean,Compound,0,0.0
+region,Latin America & Caribbean,Other,45,0.13274336283185842
+region,Oceania,Patronymic,1,0.25
+region,Oceania,Cognominal,0,0.0
+region,Oceania,Ornamental/artificial,0,0.0
+region,Oceania,Acquired/assigned,0,0.0
+region,Oceania,Occupational,0,0.0
+region,Oceania,Toponymic,2,0.5
+region,Oceania,Patronage,0,0.0
+region,Oceania,Compound,0,0.0
+region,Oceania,Other,1,0.25
+region,USA/Canada,Patronymic,387,0.3521383075523203
+region,USA/Canada,Cognominal,153,0.1392174704276615
+region,USA/Canada,Ornamental/artificial,2,0.0018198362147406734
+region,USA/Canada,Acquired/assigned,3,0.00272975432211101
+region,USA/Canada,Occupational,149,0.13557779799818018
+region,USA/Canada,Toponymic,229,0.2083712465878071
+region,USA/Canada,Patronage,3,0.00272975432211101
+region,USA/Canada,Compound,4,0.003639672429481347
+region,USA/Canada,Other,169,0.1537761601455869
+country,Canada,Patronymic,5,0.20833333333333334
+country,Canada,Cognominal,6,0.25
+country,Canada,Ornamental/artificial,0,0.0
+country,Canada,Acquired/assigned,0,0.0
+country,Canada,Occupational,5,0.20833333333333334
+country,Canada,Toponymic,1,0.041666666666666664
+country,Canada,Patronage,1,0.041666666666666664
+country,Canada,Compound,0,0.0
+country,Canada,Other,6,0.25
+country,Cuba,Patronymic,7,0.22580645161290322
+country,Cuba,Cognominal,6,0.1935483870967742
+country,Cuba,Ornamental/artificial,0,0.0
+country,Cuba,Acquired/assigned,0,0.0
+country,Cuba,Occupational,2,0.06451612903225806
+country,Cuba,Toponymic,13,0.41935483870967744
+country,Cuba,Patronage,0,0.0
+country,Cuba,Compound,0,0.0
+country,Cuba,Other,3,0.0967741935483871
+country,Dominican Republic,Patronymic,55,0.39568345323741005
+country,Dominican Republic,Cognominal,11,0.07913669064748201
+country,Dominican Republic,Ornamental/artificial,0,0.0
+country,Dominican Republic,Acquired/assigned,0,0.0
+country,Dominican Republic,Occupational,6,0.04316546762589928
+country,Dominican Republic,Toponymic,39,0.2805755395683453
+country,Dominican Republic,Patronage,10,0.07194244604316546
+country,Dominican Republic,Compound,0,0.0
+country,Dominican Republic,Other,18,0.12949640287769784
+country,Mexico,Patronymic,4,0.19047619047619047
+country,Mexico,Cognominal,1,0.047619047619047616
+country,Mexico,Ornamental/artificial,0,0.0
+country,Mexico,Acquired/assigned,0,0.0
+country,Mexico,Occupational,0,0.0
+country,Mexico,Toponymic,11,0.5238095238095238
+country,Mexico,Patronage,0,0.0
+country,Mexico,Compound,0,0.0
+country,Mexico,Other,5,0.23809523809523808
+country,Puerto Rico,Patronymic,11,0.4074074074074074
+country,Puerto Rico,Cognominal,0,0.0
+country,Puerto Rico,Ornamental/artificial,0,0.0
+country,Puerto Rico,Acquired/assigned,0,0.0
+country,Puerto Rico,Occupational,3,0.1111111111111111
+country,Puerto Rico,Toponymic,12,0.4444444444444444
+country,Puerto Rico,Patronage,0,0.0
+country,Puerto Rico,Compound,0,0.0
+country,Puerto Rico,Other,1,0.037037037037037035
+country,USA,Patronymic,382,0.3553488372093023
+country,USA,Cognominal,147,0.13674418604651162
+country,USA,Ornamental/artificial,2,0.0018604651162790699
+country,USA,Acquired/assigned,3,0.0027906976744186047
+country,USA,Occupational,144,0.13395348837209303
+country,USA,Toponymic,228,0.21209302325581394
+country,USA,Patronage,2,0.0018604651162790699
+country,USA,Compound,4,0.0037209302325581397
+country,USA,Other,163,0.1516279069767442
+country,Venezuela,Patronymic,37,0.3978494623655914
+country,Venezuela,Cognominal,6,0.06451612903225806
+country,Venezuela,Ornamental/artificial,0,0.0
+country,Venezuela,Acquired/assigned,0,0.0
+country,Venezuela,Occupational,5,0.053763440860215055
+country,Venezuela,Toponymic,28,0.3010752688172043
+country,Venezuela,Patronage,1,0.010752688172043012
+country,Venezuela,Compound,0,0.0
+country,Venezuela,Other,16,0.17204301075268819

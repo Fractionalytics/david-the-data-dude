@@ -1,0 +1,1473 @@
+mlb_id,full_name,surname,birth_country,primary_pos,surname_type,jev_type,jev_confidence,evidence,compound,overridden
+434378,Justin Verlander,Verlander,USA,P,Other,Other,0.29,jev_only,False,False
+445276,Kenley Jansen,Jansen,Curacao,P,Patronymic,Patronymic,1.0,source,False,False
+453286,Max Scherzer,Scherzer,USA,P,Other,Other,0.22,jev_only,False,False
+455119,Chris Martin,Martin,USA,P,Patronymic,Patronymic,0.97,source,False,False
+457705,Andrew McCutchen,McCutchen,USA,DH,Patronymic,Patronymic,0.61,source,False,False
+467793,Carlos Santana,Santana,Dominican Republic,1B,Toponymic,Toponymic,0.87,source,False,False
+471911,Carlos Carrasco,Carrasco,Venezuela,P,Toponymic,Toponymic,0.84,source,False,False
+472610,Luis García,García,Dominican Republic,P,Patronymic,Patronymic,0.71,source,False,False
+476594,Robert Stock,Stock,USA,P,Toponymic,Toponymic,0.35,source,False,False
+489446,Kirby Yates,Yates,USA,P,Toponymic,Toponymic,0.64,source,False,False
+500743,Miguel Rojas,Rojas,Venezuela,2B,Cognominal,Cognominal,0.95,source,False,False
+500779,Jose Quintana,Quintana,Colombia,P,Toponymic,Toponymic,1.0,source,False,False
+502054,Tommy Pham,Pham,USA,DH,Other,Other,0.29,source,False,False
+502671,Paul Goldschmidt,Goldschmidt,USA,1B,Occupational,Occupational,0.92,source,False,False
+506702,Sandy León,León,Venezuela,C,Toponymic,Toponymic,0.91,source,False,False
+514888,Jose Altuve,Altuve,Venezuela,2B,Other,Other,0.38,jev_only,False,False
+516782,Starling Marte,Marte,Dominican Republic,OF,Patronymic,Patronymic,0.75,source,False,False
+518585,Fernando Cruz,Cruz,Puerto Rico,P,Toponymic,Toponymic,0.71,source,False,False
+518595,Travis d'Arnaud,d'Arnaud,USA,C,Toponymic,Toponymic,0.64,jev_only,False,False
+518692,Freddie Freeman,Freeman,USA,1B,Acquired/assigned,Acquired/assigned,0.94,source,False,False
+518876,Merrill Kelly,Kelly,USA,P,Patronymic,Patronymic,0.8,source,False,False
+518886,Craig Kimbrel,Kimbrel,USA,P,Patronymic,Patronymic,0.38,jev_only,False,False
+519141,Drew Pomeranz,Pomeranz,USA,P,Toponymic,Toponymic,0.51,jev_only,False,False
+519242,Chris Sale,Sale,USA,P,Toponymic,Toponymic,0.81,source,False,False
+519317,Giancarlo Stanton,Stanton,USA,DH,Toponymic,Toponymic,0.99,source,False,False
+521692,Salvador Perez,Perez,Venezuela,DH,Patronymic,Patronymic,0.97,source,False,False
+527048,Martín Pérez,Pérez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+529017,Alexander Cornielle,Cornielle,Dominican Republic,P,Patronymic,Patronymic,0.44,jev_only,False,False
+542303,Marcell Ozuna,Ozuna,Dominican Republic,DH,Toponymic,Toponymic,0.99,source,False,False
+542888,Shawn Armstrong,Armstrong,USA,P,Cognominal,Cognominal,1.0,source,False,False
+543037,Gerrit Cole,Cole,USA,P,Cognominal,Cognominal,0.67,source,False,False
+543056,Danny Coulombe,Coulombe,USA,P,Cognominal,Cognominal,0.47,source,False,False
+543135,Nathan Eovaldi,Eovaldi,USA,P,Patronymic,Patronymic,0.36,jev_only,False,False
+543238,Anthony Gose,Gose,USA,P,Toponymic,Toponymic,0.4,jev_only,False,False
+543243,Sonny Gray,Gray,USA,P,Cognominal,Cognominal,0.73,source,False,False
+543309,Kyle Higashioka,Higashioka,USA,C,Toponymic,Toponymic,0.94,jev_only,False,False
+543510,James McCann,McCann,USA,C,Patronymic,Patronymic,0.93,source,False,False
+543760,Marcus Semien,Semien,USA,2B,Other,Other,0.58,jev_only,False,False
+543807,George Springer,Springer,USA,DH,Cognominal,Cognominal,0.71,source,False,False
+543877,Christian Vázquez,Vázquez,Puerto Rico,C,Patronymic,Patronymic,1.0,source,False,False
+544150,Albert Suárez,Suárez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+545121,Ildemaro Vargas,Vargas,Venezuela,1B,Toponymic,Toponymic,1.0,source,False,False
+545341,Randal Grichuk,Grichuk,USA,OF,Patronymic,Patronymic,0.64,jev_only,False,False
+545361,Mike Trout,Trout,USA,OF,Cognominal,Cognominal,0.76,source,False,False
+547179,Michael Lorenzen,Lorenzen,USA,P,Patronymic,Patronymic,0.74,jev_only,False,False
+547180,Bryce Harper,Harper,USA,1B,Occupational,Occupational,1.0,source,False,False
+547184,Michael Kelly,Kelly,USA,P,Patronymic,Patronymic,0.8,source,False,False
+547973,Aroldis Chapman,Chapman,Cuba,P,Occupational,Occupational,1.0,source,False,False
+548384,Brooks Raley,Raley,USA,P,Other,Other,0.28,jev_only,False,False
+552640,Andrew Kittredge,Kittredge,USA,P,Toponymic,Toponymic,0.51,jev_only,False,False
+553869,Elias Díaz,Díaz,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+553993,Eugenio Suárez,Suárez,Venezuela,DH,Patronymic,Patronymic,1.0,source,False,False
+554430,Zack Wheeler,Wheeler,USA,P,Occupational,Occupational,1.0,source,False,False
+571448,Nolan Arenado,Arenado,USA,3B,Toponymic,Toponymic,0.54,jev_only,False,False
+571510,Matthew Boyd,Boyd,USA,P,Toponymic,Toponymic,0.64,source,False,False
+571578,Patrick Corbin,Corbin,USA,P,Cognominal,Cognominal,0.68,source,False,False
+571657,Kyle Farmer,Farmer,USA,DH,Occupational,Occupational,1.0,jev_only,False,False
+571771,Enrique Hernández,Hernández,Puerto Rico,3B,Patronymic,Patronymic,1.0,source,False,False
+571882,Derek Law,Law,USA,P,Patronymic,Patronymic,0.53,source,False,False
+571912,Luke Maile,Maile,USA,C,Cognominal,Cognominal,0.21,source,False,False
+571927,Steven Matz,Matz,USA,P,Patronymic,Patronymic,0.99,source,False,False
+571945,Miles Mikolas,Mikolas,USA,P,Patronymic,Patronymic,0.84,jev_only,False,False
+571948,Hoby Milner,Milner,USA,P,Occupational,Occupational,1.0,source,False,False
+571970,Max Muncy,Muncy,USA,3B,Toponymic,Toponymic,1.0,source,False,False
+572143,Burch Smith,Smith,USA,P,Occupational,Occupational,1.0,source,False,False
+572233,Christian Walker,Walker,USA,1B,Occupational,Occupational,1.0,source,False,False
+572955,Pierce Johnson,Johnson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+573009,Joe Mantiply,Mantiply,USA,P,Other,Other,0.66,jev_only,False,False
+573124,Taylor Rogers,Rogers,USA,P,Patronymic,Patronymic,1.0,source,False,False
+573204,Caleb Thielbar,Thielbar,USA,P,Other,Other,0.51,jev_only,False,False
+573262,Mike Yastrzemski,Yastrzemski,USA,OF,Patronymic,Patronymic,0.43,jev_only,False,False
+575929,Willson Contreras,Contreras,Venezuela,1B,Toponymic,Toponymic,0.99,source,False,False
+579328,Yusei Kikuchi,Kikuchi,Japan,P,Toponymic,Toponymic,0.98,jev_only,False,False
+592094,Jason Adam,Adam,USA,P,Patronymic,Patronymic,0.95,source,False,False
+592155,Cam Booser,Booser,USA,P,Other,Other,0.6,jev_only,False,False
+592206,Nick Castellanos,Castellanos,USA,OF,Toponymic,Toponymic,0.76,jev_only,False,False
+592288,Kent Emanuel,Emanuel,USA,P,Patronymic,Patronymic,0.98,source,False,False
+592332,Kevin Gausman,Gausman,USA,P,Other,Other,0.29,jev_only,False,False
+592450,Aaron Judge,Judge,USA,OF,Occupational,Occupational,0.87,source,False,False
+592454,Tommy Kahnle,Kahnle,USA,P,Other,Other,0.57,jev_only,False,False
+592518,Manny Machado,Machado,USA,3B,Occupational,Occupational,0.37,jev_only,False,False
+592626,Joc Pederson,Pederson,USA,DH,Patronymic,Patronymic,1.0,source,False,False
+592662,Robbie Ray,Ray,USA,P,Patronymic,Patronymic,0.66,source,False,False
+592663,J.T. Realmuto,Realmuto,USA,C,Toponymic,Toponymic,0.54,jev_only,False,False
+592773,Ryne Stanek,Stanek,USA,P,Patronymic,Patronymic,0.35,source,False,False
+592779,Brock Stewart,Stewart,USA,P,Occupational,Occupational,1.0,source,False,False
+592791,Jameson Taillon,Taillon,USA,P,Cognominal,Cognominal,0.4,source,False,False
+592826,Vince Velasquez,Velasquez,USA,P,Patronymic,Patronymic,0.99,source,False,False
+592836,Taijuan Walker,Walker,USA,P,Occupational,Occupational,1.0,source,False,False
+592866,Trevor Williams,Williams,USA,P,Patronymic,Patronymic,1.0,source,False,False
+592885,Christian Yelich,Yelich,USA,DH,Patronymic,Matronymic,0.31,source,False,False
+593428,Xander Bogaerts,Bogaerts,Aruba,SS,Toponymic,Toponymic,1.0,source,False,False
+593871,Jorge Polanco,Polanco,Dominican Republic,DH,Toponymic,Toponymic,1.0,source,False,False
+593958,Eduardo Rodriguez,Rodriguez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+593974,Wandy Peralta,Peralta,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+594027,Tyron Guerrero,Guerrero,Colombia,P,Cognominal,Cognominal,0.52,source,False,False
+594580,Sam Moll,Moll,USA,P,Cognominal,Cognominal,0.74,source,False,False
+594798,Jacob deGrom,deGrom,USA,P,Other,Other,0.3,jev_only,False,False
+594835,Marco Gonzales,Gonzales,USA,P,Patronymic,Patronymic,1.0,source,False,False
+595014,Blake Treinen,Treinen,USA,P,Other,Other,0.45,source,False,False
+595345,Steven Okert,Okert,USA,P,Patronymic,Patronymic,0.88,source,False,False
+595879,Javier Báez,Báez,Puerto Rico,SS,Patronymic,Patronymic,1.0,source,False,False
+595978,Austin Hedges,Hedges,USA,C,Toponymic,Toponymic,0.68,jev_only,False,False
+596001,Jakob Junis,Junis,USA,P,Other,Other,0.75,jev_only,False,False
+596019,Francisco Lindor,Lindor,Puerto Rico,SS,Patronymic,Patronymic,0.84,source,False,False
+596103,Austin Slater,Slater,USA,OF,Occupational,Occupational,0.99,source,False,False
+596115,Trevor Story,Story,USA,SS,Occupational,Occupational,0.48,jev_only,False,False
+596117,Garrett Stubbs,Stubbs,USA,C,Cognominal,Cognominal,0.4,jev_only,False,False
+596133,Luke Weaver,Weaver,USA,P,Occupational,Occupational,1.0,source,False,False
+596142,Gary Sánchez,Sánchez,Dominican Republic,C,Patronymic,Patronymic,1.0,source,False,False
+596146,Max Kepler,Kepler,Germany,OF,Patronymic,Patronymic,0.16,jev_only,False,False
+600869,Jeimer Candelario,Candelario,USA,3B,Occupational,Occupational,0.51,source,False,False
+601713,Nick Pivetta,Pivetta,Canada,P,Other,Other,0.25,jev_only,False,False
+602104,Ramón Urías,Urías,Mexico,3B,Other,Other,0.39,jev_only,False,False
+605130,Scott Barlow,Barlow,USA,P,Toponymic,Toponymic,1.0,source,False,False
+605135,Chris Bassitt,Bassitt,USA,P,Other,Other,0.49,jev_only,False,False
+605137,Josh Bell,Bell,USA,DH,Occupational,Occupational,1.0,source,False,False
+605141,Mookie Betts,Betts,USA,SS,Patronymic,Patronymic,0.87,source,False,False
+605154,John Brebbia,Brebbia,USA,P,Toponymic,Toponymic,0.93,jev_only,False,False
+605156,Aaron Brooks,Brooks,USA,P,Toponymic,Toponymic,1.0,source,False,False
+605170,Victor Caratini,Caratini,Puerto Rico,C,Other,Other,0.51,jev_only,False,False
+605218,Carl Edwards Jr.,Edwards,USA,P,Patronymic,Patronymic,1.0,source,False,False
+605242,Michael Fulmer,Fulmer,USA,P,Toponymic,Toponymic,0.93,source,False,False
+605244,Aramis Garcia,Garcia,USA,C,Patronymic,Patronymic,0.85,source,False,False
+605280,Clay Holmes,Holmes,USA,P,Toponymic,Toponymic,1.0,source,False,False
+605288,Adrian Houser,Houser,USA,P,Occupational,Occupational,0.48,source,False,False
+605335,Brandon Leibrandt,Leibrandt,USA,P,Other,Other,0.47,jev_only,False,False
+605353,Vimael Machín,Machín,Puerto Rico,3B,Occupational,Occupational,0.79,source,False,False
+605400,Aaron Nola,Nola,USA,P,Toponymic,Toponymic,0.82,source,False,False
+605441,Yacksel Ríos,Ríos,Puerto Rico,P,Toponymic,Toponymic,1.0,source,False,False
+605447,Jordan Romano,Romano,Canada,P,Cognominal,Cognominal,0.49,source,False,False
+605452,Joe Ross,Ross,USA,P,Toponymic,Toponymic,0.99,source,False,False
+605483,Blake Snell,Snell,USA,P,Cognominal,Cognominal,0.99,source,False,False
+605488,Jeffrey Springs,Springs,USA,P,Toponymic,Toponymic,0.95,jev_only,False,False
+605540,Brandon Woodruff,Woodruff,USA,P,Toponymic,Toponymic,0.49,source,False,False
+606115,Orlando Arcia,Arcia,Venezuela,SS,Other,Other,0.49,jev_only,False,False
+606192,Teoscar Hernández,Hernández,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+606303,Joel Payamps,Payamps,Dominican Republic,P,Other,Other,0.7,jev_only,False,False
+606466,Ketel Marte,Marte,Dominican Republic,2B,Patronymic,Patronymic,0.75,source,False,False
+606965,Chris Devenski,Devenski,USA,P,Other,Other,0.44,jev_only,False,False
+606992,Eric Haase,Haase,USA,C,Patronymic,Patronymic,0.31,source,False,False
+606996,Kyle Hart,Hart,USA,P,Cognominal,Cognominal,0.95,source,False,False
+607043,Brandon Nimmo,Nimmo,USA,OF,Other,Other,0.28,jev_only,False,False
+607067,Colin Rea,Rea,USA,P,Patronymic,Patronymic,0.57,jev_only,False,False
+607074,Carlos Rodón,Rodón,USA,P,Cognominal,Cognominal,0.99,source,False,False
+607192,Tyler Glasnow,Glasnow,USA,P,Other,Other,0.37,jev_only,False,False
+607200,Erick Fedde,Fedde,USA,P,Patronymic,Patronymic,0.58,jev_only,False,False
+607208,Trea Turner,Turner,USA,SS,Occupational,Occupational,1.0,source,False,False
+607259,Nick Martinez,Martinez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+607455,Anthony Banda,Banda,USA,P,Toponymic,Toponymic,0.63,source,False,False
+607481,Aaron Bummer,Bummer,USA,P,Other,Other,0.39,jev_only,False,False
+607536,Kyle Freeland,Freeland,USA,P,Toponymic,Toponymic,0.37,jev_only,False,False
+607625,Seth Lugo,Lugo,USA,P,Toponymic,Toponymic,0.83,jev_only,False,False
+608032,Carlos Estévez,Estévez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+608070,José Ramírez,Ramírez,Dominican Republic,3B,Patronymic,Patronymic,1.0,source,False,False
+608324,Alex Bregman,Bregman,USA,3B,Toponymic,Toponymic,1.0,source,False,False
+608331,Max Fried,Fried,USA,P,Patronymic,Patronymic,0.72,source,False,False
+608337,Lucas Giolito,Giolito,USA,P,Patronymic,Patronymic,0.64,jev_only,False,False
+608344,Cole Irvin,Irvin,USA,P,Patronymic,Patronymic,0.9,jev_only,False,False
+608348,Carson Kelly,Kelly,USA,C,Patronymic,Patronymic,0.8,source,False,False
+608369,Corey Seager,Seager,USA,SS,Patronymic,Patronymic,0.91,source,False,False
+608371,Lucas Sims,Sims,USA,P,Patronymic,Patronymic,1.0,source,False,False
+608372,Tomoyuki Sugano,Sugano,Japan,P,Toponymic,Toponymic,0.88,jev_only,False,False
+608379,Michael Wacha,Wacha,USA,P,Patronymic,Patronymic,0.98,source,False,False
+608566,Germán Márquez,Márquez,Venezuela,P,Patronymic,Patronymic,0.95,source,False,False
+608650,Dietrich Enns,Enns,USA,P,Patronymic,Patronymic,0.29,jev_only,False,False
+608701,Rob Refsnyder,Refsnyder,Republic of Korea,DH,Occupational,Other,0.42,hand,False,True
+608718,Brent Suter,Suter,USA,P,Occupational,Occupational,1.0,source,False,False
+608723,Austin Voth,Voth,USA,P,Other,Other,0.51,jev_only,False,False
+608841,Joey Meneses,Meneses,Mexico,1B,Toponymic,Toponymic,0.78,source,False,False
+609280,Miguel Andujar,Andujar,Dominican Republic,DH,Toponymic,Toponymic,0.42,jev_only,False,False
+615698,Cal Quantrill,Quantrill,Canada,P,Other,Other,0.46,jev_only,False,False
+620443,Luis Torrens,Torrens,Venezuela,C,Toponymic,Toponymic,0.93,source,False,False
+621016,Jose Cuas,Cuas,Dominican Republic,P,Other,Other,0.81,jev_only,False,False
+621020,Dansby Swanson,Swanson,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+621043,Carlos Correa,Correa,Puerto Rico,SS,Occupational,Occupational,1.0,source,False,False
+621053,Tyler Ferguson,Ferguson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+621074,Michael Rucker,Rucker,USA,P,Toponymic,Toponymic,0.22,jev_only,False,False
+621097,Jacob Waguespack,Waguespack,USA,P,Other,Other,0.55,jev_only,False,False
+621107,Zach Eflin,Eflin,USA,P,Other,Other,0.67,jev_only,False,False
+621111,Walker Buehler,Buehler,USA,P,Toponymic,Toponymic,0.95,source,False,False
+621112,Paul Blackburn,Blackburn,USA,P,Toponymic,Toponymic,1.0,source,False,False
+621121,Lance McCullers Jr.,McCullers,USA,P,Patronymic,Patronymic,0.7,source,False,False
+621139,Brooks Kriske,Kriske,USA,P,Other,Other,0.61,jev_only,False,False
+621237,José Alvarado,Alvarado,Venezuela,P,Toponymic,Toponymic,0.66,source,False,False
+621242,Edwin Díaz,Díaz,Puerto Rico,P,Patronymic,Patronymic,1.0,source,False,False
+621345,A.J. Minter,Minter,USA,P,Occupational,Occupational,1.0,source,False,False
+621366,Ryan Borucki,Borucki,USA,P,Toponymic,Toponymic,1.0,source,False,False
+621381,Matt Strahm,Strahm,USA,P,Other,Other,0.43,jev_only,False,False
+621383,Tanner Banks,Banks,USA,P,Toponymic,Toponymic,1.0,source,False,False
+621389,Ty Blach,Blach,USA,P,Cognominal,Cognominal,0.37,jev_only,False,False
+621438,Tyrone Taylor,Taylor,USA,OF,Occupational,Occupational,1.0,source,False,False
+621439,Byron Buxton,Buxton,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+621493,Taylor Ward,Ward,USA,DH,Occupational,Occupational,0.99,source,False,False
+621550,Patrick Wisdom,Wisdom,USA,3B,Cognominal,Cognominal,0.89,jev_only,False,False
+621566,Matt Olson,Olson,USA,1B,Patronymic,Patronymic,1.0,source,False,False
+622088,Tejay Antone,Antone,USA,P,Patronymic,Patronymic,0.9,jev_only,False,False
+622268,Donovan Walton,Walton,USA,2B,Toponymic,Toponymic,0.91,source,False,False
+622491,Luis Castillo,Castillo,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+622554,Seranthony Domínguez,Domínguez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+622608,Antonio Senzatela,Senzatela,Venezuela,P,Other,Other,0.47,jev_only,False,False
+622663,Luis Severino,Severino,Dominican Republic,P,Patronymic,Patronymic,0.85,source,False,False
+622694,Elieser Hernández,Hernández,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+622761,Jorge Mateo,Mateo,Dominican Republic,SS,Patronymic,Patronymic,1.0,source,False,False
+623149,Paul Sewald,Sewald,USA,P,Other,Other,0.36,jev_only,False,False
+623168,Tyler Heineman,Heineman,USA,C,Patronymic,Patronymic,0.88,jev_only,False,False
+623205,Andrew Velazquez,Velazquez,USA,SS,Patronymic,Patronymic,0.99,source,False,False
+623211,Huascar Brazobán,Brazobán,Dominican Republic,P,Other,Other,0.43,jev_only,False,False
+623352,Josh Hader,Hader,USA,P,Cognominal,Cognominal,0.84,source,False,False
+623381,Thomas Pannone,Pannone,USA,P,Other,Other,0.26,jev_only,False,False
+623437,Justin Topa,Topa,USA,P,Other,Other,0.57,jev_only,False,False
+623454,Drew Anderson,Anderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+623465,Evan Phillips,Phillips,USA,P,Patronymic,Patronymic,1.0,source,False,False
+623474,Jimmy Herget,Herget,USA,P,Patronymic,Patronymic,0.38,jev_only,False,False
+624133,Ranger Suarez,Suarez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+624413,Pete Alonso,Alonso,USA,1B,Patronymic,Patronymic,1.0,source,False,False
+624424,Michael Conforto,Conforto,USA,DH,Patronymic,Patronymic,0.98,source,False,False
+624428,Adam Frazier,Frazier,USA,2B,Patronymic,Patronymic,0.24,jev_only,False,False
+624431,Jose Trevino,Trevino,USA,C,Toponymic,Toponymic,0.97,source,False,False
+624512,Reese McGuire,McGuire,USA,C,Patronymic,Patronymic,1.0,source,False,False
+624522,Keegan Thompson,Thompson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+624585,Jorge Soler,Soler,Cuba,DH,Cognominal,Cognominal,0.3,jev_only,False,False
+624641,Edmundo Sosa,Sosa,Panama,OF,Toponymic,Toponymic,0.97,source,False,False
+625643,Reynaldo López,López,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+628451,Andy Ibáñez,Ibáñez,Cuba,3B,Patronymic,Patronymic,1.0,source,False,False
+628452,Raisel Iglesias,Iglesias,Cuba,P,Toponymic,Toponymic,0.89,source,False,False
+628708,Yunior Marte,Marte,Dominican Republic,P,Patronymic,Patronymic,0.75,source,False,False
+630105,Jake Cronenworth,Cronenworth,USA,2B,Other,Other,0.31,jev_only,False,False
+640448,Kyle Finnegan,Finnegan,USA,P,Patronymic,Patronymic,1.0,source,False,False
+640451,Hunter Harvey,Harvey,USA,P,Patronymic,Patronymic,0.83,source,False,False
+640454,Matt Krook,Krook,USA,P,Other,Other,0.33,jev_only,False,False
+640455,Sean Manaea,Manaea,USA,P,Other,Other,0.44,jev_only,False,False
+640459,Brian Navarreto,Navarreto,Puerto Rico,C,Toponymic,Toponymic,0.9,jev_only,False,False
+640492,José Azócar,Azócar,Venezuela,OF,Other,Other,0.34,jev_only,False,False
+640902,Jhonny Pereda,Pereda,Venezuela,C,Toponymic,Toponymic,0.76,jev_only,False,False
+641302,Tyler Alexander,Alexander,USA,P,Patronymic,Patronymic,1.0,source,False,False
+641312,Shaun Anderson,Anderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+641329,Bryan Baker,Baker,USA,P,Occupational,Occupational,1.0,source,False,False
+641343,Jake Bauers,Bauers,USA,1B,Occupational,Occupational,1.0,source,False,False
+641355,Cody Bellinger,Bellinger,USA,OF,Patronymic,Patronymic,0.55,source,False,False
+641386,Ben Bowden,Bowden,USA,P,Toponymic,Toponymic,1.0,source,False,False
+641401,Connor Brogdon,Brogdon,USA,P,Toponymic,Toponymic,0.34,jev_only,False,False
+641487,J.P. Crawford,Crawford,USA,SS,Toponymic,Toponymic,1.0,source,False,False
+641555,J.C. Escarra,Escarra,USA,C,Other,Other,0.51,jev_only,False,False
+641584,Jake Fraley,Fraley,USA,OF,Patronymic,Patronymic,0.49,jev_only,False,False
+641585,J.P. France,France,USA,P,Cognominal,Cognominal,0.6,source,False,False
+641598,Mitch Garver,Garver,USA,C,Other,Other,0.35,jev_only,False,False
+641656,Ian Hamilton,Hamilton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+641680,Jonah Heim,Heim,USA,C,Toponymic,Toponymic,0.97,source,False,False
+641743,Anthony Kay,Kay,USA,P,Patronymic,Patronymic,0.38,jev_only,False,False
+641745,Brad Keller,Keller,USA,P,Occupational,Occupational,0.92,source,False,False
+641755,Tyler Kinley,Kinley,USA,P,Patronymic,Patronymic,0.93,source,False,False
+641778,Eric Lauer,Lauer,USA,P,Other,Other,0.26,jev_only,False,False
+641793,Zack Littell,Littell,USA,P,Cognominal,Cognominal,1.0,source,False,False
+641816,Tyler Mahle,Mahle,USA,P,Patronymic,Patronymic,0.57,jev_only,False,False
+641820,Trey Mancini,Mancini,USA,1B,Cognominal,Cognominal,0.98,source,False,False
+641835,Tim Mayza,Mayza,USA,P,Other,Other,0.78,jev_only,False,False
+641857,Ryan McMahon,McMahon,USA,3B,Patronymic,Patronymic,0.99,source,False,False
+641927,Bailey Ober,Ober,USA,P,Cognominal,Cognominal,0.54,source,False,False
+641933,Tyler O'Neill,O'Neill,Canada,OF,Patronymic,Patronymic,1.0,source,False,False
+641941,Emilio Pagán,Pagán,USA,P,Cognominal,Cognominal,0.81,jev_only,False,False
+642020,Chuckie Robinson,Robinson,USA,C,Patronymic,Patronymic,1.0,source,False,False
+642048,Tayler Saucedo,Saucedo,USA,P,Toponymic,Toponymic,1.0,source,False,False
+642086,Dominic Smith,Smith,USA,DH,Occupational,Occupational,1.0,source,False,False
+642100,Gabe Speier,Speier,USA,P,Toponymic,Toponymic,0.95,source,False,False
+642121,Cole Sulser,Sulser,USA,P,Toponymic,Toponymic,0.71,source,False,False
+642133,Rowdy Tellez,Tellez,USA,1B,Patronymic,Patronymic,0.71,jev_only,False,False
+642152,Lou Trivino III,Trivino,USA,P,Toponymic,Toponymic,0.97,source,False,False
+642201,Eli White,White,USA,OF,Cognominal,Cognominal,1.0,source,False,False
+642207,Devin Williams,Williams,USA,P,Patronymic,Patronymic,1.0,source,False,False
+642215,Weston Wilson,Wilson,USA,3B,Patronymic,Patronymic,1.0,source,False,False
+642232,Ryan Yarbrough,Yarbrough,USA,P,Toponymic,Toponymic,1.0,source,False,False
+642350,Jose Siri,Siri,Dominican Republic,OF,Patronymic,Patronymic,0.85,source,False,False
+642376,Jefry Yan,Yan,Dominican Republic,P,Toponymic,Toponymic,0.47,source,False,False
+642397,Gregory Soto,Soto,Dominican Republic,P,Toponymic,Toponymic,0.91,source,False,False
+642528,Jonathan Loáisiga,Loáisiga,Nicaragua,P,Toponymic,Toponymic,0.43,jev_only,False,False
+642546,Jonathan Hernández,Hernández,USA,P,Patronymic,Patronymic,1.0,source,False,False
+642547,Freddy Peralta,Peralta,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+642585,Félix Bautista,Bautista,Dominican Republic,P,Patronage,Patronage,0.76,source,False,False
+642701,Dennis Santana,Santana,Dominican Republic,P,Toponymic,Toponymic,0.87,source,False,False
+642708,Amed Rosario,Rosario,Dominican Republic,3B,Patronage,Patronage,0.85,source,False,False
+642715,Willy Adames,Adames,Dominican Republic,SS,Patronymic,Patronymic,1.0,source,False,False
+642759,Julian Fernández,Fernández,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+642851,Austin Wynns,Wynns,USA,C,Patronymic,Patronymic,0.68,jev_only,False,False
+643217,Andrew Benintendi,Benintendi,USA,DH,Cognominal,Cognominal,0.72,source,False,False
+643289,Mauricio Dubón,Dubón,Honduras,OF,Cognominal,Cognominal,0.97,source,False,False
+643361,Kevin Herget,Herget,USA,P,Patronymic,Patronymic,0.38,jev_only,False,False
+643376,Danny Jansen,Jansen,USA,C,Patronymic,Patronymic,1.0,source,False,False
+643377,Griffin Jax,Jax,USA,P,Patronymic,Patronymic,0.99,source,False,False
+643396,Isiah Kiner-Falefa,Kiner-Falefa,USA,2B,Compound,Other,0.38,hand,True,False
+643410,Mark Leiter Jr.,Leiter,USA,P,Occupational,Occupational,0.51,jev_only,False,False
+643446,Jeff McNeil,McNeil,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+643511,Tyler Rogers,Rogers,USA,P,Patronymic,Patronymic,1.0,source,False,False
+644433,Chadwick Tromp,Tromp,Aruba,C,Occupational,Occupational,0.46,source,False,False
+645261,Sandy Alcantara,Alcantara,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+645277,Ozzie Albies,Albies,Curacao,2B,Other,Other,0.47,jev_only,False,False
+645302,Victor Robles,Robles,Dominican Republic,OF,Toponymic,Toponymic,0.76,source,False,False
+645305,Ali Sánchez,Sánchez,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+646240,Rafael Devers,Devers,Dominican Republic,1B,Toponymic,Toponymic,0.42,source,False,False
+646241,Enmanuel De Jesus,De Jesus,Venezuela,P,Patronage,Patronage,1.0,jev_only,False,False
+646242,Jhonathan Díaz,Díaz,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+647304,Josh Naylor,Naylor,Canada,1B,Occupational,Occupational,1.0,source,False,False
+647315,Zach Pop,Pop,Canada,P,Occupational,Occupational,0.75,source,False,False
+647336,Michael Soroka,Soroka,Canada,P,Cognominal,Cognominal,0.93,source,False,False
+649966,Luis Urías,Urías,Mexico,2B,Other,Other,0.39,jev_only,False,False
+650333,Luis Arraez,Arraez,Venezuela,2B,Toponymic,Toponymic,0.99,source,False,False
+650391,Eloy Jiménez,Jiménez,Dominican Republic,DH,Patronymic,Patronymic,1.0,source,False,False
+650402,Gleyber Torres,Torres,Venezuela,2B,Toponymic,Toponymic,1.0,source,False,False
+650489,Willi Castro,Castro,Puerto Rico,2B,Toponymic,Toponymic,1.0,source,False,False
+650490,Yandy Díaz,Díaz,Cuba,DH,Patronymic,Patronymic,1.0,source,False,False
+650556,Bryan Abreu,Abreu,Dominican Republic,P,Toponymic,Toponymic,0.85,source,False,False
+650559,Bryan De La Cruz,De La Cruz,Dominican Republic,OF,Patronage,Patronage,1.0,jev_only,False,False
+650633,Michael King,King,USA,P,Cognominal,Cognominal,0.98,source,False,False
+650644,Aaron Civale,Civale,USA,P,Other,Other,0.52,jev_only,False,False
+650859,Luis Rengifo,Rengifo,Venezuela,3B,Other,Other,0.4,jev_only,False,False
+650911,Cristopher Sánchez,Sánchez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+650960,Daniel Duarte,Duarte,Mexico,P,Patronymic,Patronymic,0.99,source,False,False
+650968,Yohel Pozo,Pozo,Venezuela,C,Toponymic,Toponymic,0.79,jev_only,False,False
+655316,Andruw Monasterio,Monasterio,Venezuela,SS,Toponymic,Toponymic,0.7,jev_only,False,False
+655889,Manuel Rodríguez,Rodríguez,Mexico,P,Patronymic,Patronymic,1.0,source,False,False
+656212,Charlie Barnes,Barnes,USA,P,Toponymic,Toponymic,0.92,source,False,False
+656222,Jalen Beeks,Beeks,USA,P,Other,Other,0.34,jev_only,False,False
+656234,Jake Bird,Bird,USA,P,Cognominal,Cognominal,0.94,source,False,False
+656240,Scott Blewett,Blewett,USA,P,Other,Other,0.22,jev_only,False,False
+656271,Brock Burke,Burke,USA,P,Toponymic,Toponymic,0.99,source,False,False
+656288,Griffin Canning,Canning,USA,P,Toponymic,Toponymic,0.37,source,False,False
+656302,Dylan Cease,Cease,USA,P,Other,Other,0.38,source,False,False
+656305,Matt Chapman,Chapman,USA,3B,Occupational,Occupational,1.0,source,False,False
+656413,Stuart Fairchild,Fairchild,USA,OF,Cognominal,Cognominal,0.65,jev_only,False,False
+656427,Jack Flaherty,Flaherty,USA,P,Patronymic,Patronymic,0.84,source,False,False
+656457,Tyler Gilbert,Gilbert,USA,P,Patronymic,Patronymic,0.98,source,False,False
+656464,Kevin Ginkel,Ginkel,USA,P,Other,Other,0.31,jev_only,False,False
+656484,Tristan Gray,Gray,USA,SS,Cognominal,Cognominal,0.73,source,False,False
+656492,Foster Griffin,Griffin,USA,P,Patronymic,Patronymic,0.66,source,False,False
+656529,Sam Hentges,Hentges,USA,P,Patronymic,Patronymic,0.45,jev_only,False,False
+656537,Derek Hill,Hill,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+656546,Jeff Hoffman,Hoffman,USA,P,Occupational,Occupational,0.97,source,False,False
+656550,Grant Holmes,Holmes,USA,P,Toponymic,Toponymic,1.0,source,False,False
+656555,Rhys Hoskins,Hoskins,USA,1B,Patronymic,Patronymic,0.57,jev_only,False,False
+656557,Tanner Houck,Houck,USA,P,Toponymic,Toponymic,0.85,source,False,False
+656577,Alex Jackson,Jackson,USA,C,Patronymic,Patronymic,1.0,source,False,False
+656582,Connor Joe,Joe,USA,OF,Patronymic,Patronymic,0.99,source,False,False
+656605,Mitch Keller,Keller,USA,P,Occupational,Occupational,0.92,source,False,False
+656638,Alex Lange,Lange,USA,P,Cognominal,Cognominal,1.0,source,False,False
+656641,Jacob Latz,Latz,USA,P,Cognominal,Cognominal,0.34,source,False,False
+656686,Corbin Martin,Martin,USA,P,Patronymic,Patronymic,0.97,source,False,False
+656716,Zach McKinstry,McKinstry,USA,OF,Patronymic,Patronymic,0.62,source,False,False
+656730,Trevor Megill,Megill,USA,P,Patronymic,Patronymic,0.49,source,False,False
+656756,Jordan Montgomery,Montgomery,USA,P,Toponymic,Toponymic,1.0,source,False,False
+656775,Cedric Mullins,Mullins,USA,OF,Patronymic,Patronymic,0.49,jev_only,False,False
+656786,Parker Mushinski,Mushinski,USA,P,Other,Other,0.46,jev_only,False,False
+656794,Sean Newcomb,Newcomb,USA,P,Cognominal,Cognominal,0.93,source,False,False
+656811,Ryan O'Hearn,O'Hearn,USA,1B,Patronymic,Patronymic,0.95,jev_only,False,False
+656848,Michael Petersen,Petersen,United Kingdom,P,Patronymic,Patronymic,1.0,source,False,False
+656849,David Peterson,Peterson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+656876,Drew Rasmussen,Rasmussen,USA,P,Patronymic,Patronymic,1.0,source,False,False
+656941,Kyle Schwarber,Schwarber,USA,DH,Cognominal,Cognominal,0.65,jev_only,False,False
+656945,Tanner Scott,Scott,USA,P,Cognominal,Cognominal,1.0,source,False,False
+656976,Pavin Smith,Smith,USA,1B,Occupational,Occupational,1.0,source,False,False
+656986,Bennett Sousa,Sousa,USA,P,Toponymic,Toponymic,1.0,source,False,False
+657041,Lane Thomas,Thomas,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+657044,Ryan Thompson,Thompson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+657097,Jacob Webb,Webb,USA,P,Occupational,Occupational,1.0,source,False,False
+657136,Connor Wong,Wong,USA,C,Cognominal,Cognominal,0.54,source,False,False
+657265,Peter Strzelecki,Strzelecki,USA,P,Occupational,Occupational,0.43,jev_only,False,False
+657277,Logan Webb,Webb,USA,P,Occupational,Occupational,1.0,source,False,False
+657376,Clarke Schmidt,Schmidt,USA,P,Occupational,Occupational,1.0,source,False,False
+657424,Matt Gage,Gage,USA,P,Occupational,Occupational,1.0,source,False,False
+657514,Brennan Bernardino,Bernardino,USA,P,Patronymic,Patronymic,0.97,source,False,False
+657571,Caleb Ferguson,Ferguson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+657612,Tim Hill,Hill,USA,P,Toponymic,Toponymic,1.0,source,False,False
+657649,Jared Koenig,Koenig,USA,P,Cognominal,Cognominal,0.92,source,False,False
+657656,Ramón Laureano,Laureano,Dominican Republic,OF,Patronymic,Patronymic,0.74,jev_only,False,False
+657675,Rudy Martin Jr.,Martin,USA,OF,Patronymic,Patronymic,0.97,source,False,False
+657746,Joe Ryan,Ryan,USA,P,Patronymic,Patronymic,1.0,source,False,False
+657756,Connor Seabold,Seabold,USA,P,Toponymic,Toponymic,0.38,jev_only,False,False
+657757,Gavin Sheets,Sheets,USA,1B,Occupational,Occupational,0.67,jev_only,False,False
+660162,Yoán Moncada,Moncada,Cuba,3B,Toponymic,Toponymic,1.0,source,False,False
+660271,Shohei Ohtani,Ohtani,Japan,TWP,Toponymic,Toponymic,1.0,source,False,False
+660604,Alan Rangel,Rangel,Mexico,P,Toponymic,Toponymic,0.43,jev_only,False,False
+660644,Vidal Bruján,Bruján,Dominican Republic,SS,Other,Other,0.57,jev_only,False,False
+660670,Ronald Acuña Jr.,Acuña,Venezuela,OF,Toponymic,Toponymic,0.78,source,False,False
+660688,Keibert Ruiz,Ruiz,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+660710,Rodolfo Durán,Durán,Dominican Republic,C,Cognominal,Cognominal,0.47,jev_only,False,False
+660761,José Suarez,Suarez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+660787,Yerry De los Santos,De los Santos,Dominican Republic,P,Patronage,Patronage,1.0,jev_only,False,False
+660821,Jesús Sánchez,Sánchez,Dominican Republic,DH,Patronymic,Patronymic,1.0,source,False,False
+660825,Eduard Bazardo,Bazardo,Venezuela,P,Other,Other,0.67,jev_only,False,False
+660844,Leo Rivas,Rivas,Venezuela,3B,Toponymic,Toponymic,0.92,jev_only,False,False
+660853,Enyel De Los Santos,De Los Santos,Dominican Republic,P,Patronage,Patronage,1.0,jev_only,False,False
+661388,William Contreras,Contreras,Venezuela,C,Toponymic,Toponymic,0.99,source,False,False
+661395,Jhoan Duran,Duran,Dominican Republic,P,Cognominal,Cognominal,0.58,source,False,False
+661527,Seth Martinez,Martinez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+661531,Brian Serven,Serven,USA,C,Other,Other,0.57,jev_only,False,False
+661563,Luis Gil,Gil,Dominican Republic,P,Patronymic,Patronymic,0.98,source,False,False
+662139,Daulton Varsho,Varsho,USA,OF,Other,Other,0.78,jev_only,False,False
+662144,Brian Keller,Keller,USA,P,Occupational,Occupational,0.92,source,False,False
+662253,Andrés Muñoz,Muñoz,Mexico,P,Patronymic,Patronymic,0.95,source,False,False
+663158,Robert Suarez,Suarez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+663330,Jahmai Jones,Jones,USA,DH,Patronymic,Patronymic,1.0,source,False,False
+663362,Matt Waldron,Waldron,USA,P,Toponymic,Toponymic,0.76,jev_only,False,False
+663368,Blake Perkins,Perkins,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+663372,Ryan Feltner,Feltner,USA,P,Other,Other,0.36,jev_only,False,False
+663423,Trent Thornton,Thornton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+663432,Tanner Rainey,Rainey,USA,P,Patronymic,Patronymic,0.98,source,False,False
+663436,Davis Martin,Martin,USA,P,Patronymic,Patronymic,0.97,source,False,False
+663457,Lars Nootbaar,Nootbaar,USA,OF,Other,Other,0.38,jev_only,False,False
+663460,Kris Bubic,Bubic,USA,P,Other,Other,0.33,jev_only,False,False
+663465,Kolby Allard,Allard,USA,P,Patronymic,Patronymic,1.0,source,False,False
+663485,Cole Sands,Sands,USA,P,Toponymic,Toponymic,0.87,jev_only,False,False
+663494,Bryan Torres,Torres,Puerto Rico,OF,Toponymic,Toponymic,1.0,source,False,False
+663538,Nico Hoerner,Hoerner,USA,2B,Toponymic,Toponymic,0.85,source,False,False
+663542,Bryan Hudson,Hudson,USA,P,Patronymic,Patronymic,0.94,source,False,False
+663554,Casey Mize,Mize,USA,P,Other,Other,0.38,jev_only,False,False
+663556,Shane McClanahan,McClanahan,USA,P,Patronymic,Patronymic,0.99,source,False,False
+663558,Jovani Morán,Morán,Puerto Rico,P,Patronymic,Patronymic,0.2,jev_only,False,False
+663559,Bailey Falter,Falter,USA,P,Cognominal,Cognominal,0.36,jev_only,False,False
+663567,Peter Lambert,Lambert,USA,P,Patronymic,Patronymic,0.95,source,False,False
+663568,Stephen Kolek,Kolek,USA,P,Patronymic,Patronymic,0.93,source,False,False
+663574,Tony Santillan,Santillan,USA,P,Toponymic,Toponymic,0.99,source,False,False
+663584,Hayden Senger,Senger,USA,C,Other,Other,0.49,jev_only,False,False
+663586,Austin Riley,Riley,USA,3B,Toponymic,Toponymic,0.97,source,False,False
+663604,Brandon Lockridge,Lockridge,USA,OF,Toponymic,Toponymic,0.98,source,False,False
+663609,Luken Baker,Baker,USA,1B,Occupational,Occupational,1.0,source,False,False
+663611,Nick Madrigal,Madrigal,USA,2B,Occupational,Occupational,0.63,jev_only,False,False
+663616,Trevor Larnach,Larnach,USA,OF,Toponymic,Toponymic,0.56,jev_only,False,False
+663623,Jake Irvin,Irvin,USA,P,Patronymic,Patronymic,0.9,jev_only,False,False
+663624,Ryan Mountcastle,Mountcastle,USA,1B,Toponymic,Toponymic,1.0,source,False,False
+663647,Ke'Bryan Hayes,Hayes,USA,3B,Toponymic,Toponymic,0.89,source,False,False
+663656,Kyle Tucker,Tucker,USA,OF,Occupational,Occupational,0.95,source,False,False
+663662,Daz Cameron,Cameron,USA,OF,Cognominal,Cognominal,0.68,source,False,False
+663687,Hogan Harris,Harris,USA,P,Patronymic,Patronymic,0.99,source,False,False
+663697,Jonathan India,India,USA,2B,Toponymic,Toponymic,0.61,jev_only,False,False
+663698,Joey Bart,Bart,USA,C,Patronymic,Patronymic,0.51,jev_only,False,False
+663728,Cal Raleigh,Raleigh,USA,C,Toponymic,Toponymic,1.0,source,False,False
+663738,Daniel Lynch IV,Lynch,USA,P,Patronymic,Patronymic,0.79,source,False,False
+663743,Nick Fortes,Fortes,USA,C,Cognominal,Cognominal,0.55,jev_only,False,False
+663757,Trent Grisham,Grisham,USA,OF,Patronymic,Patronymic,0.31,jev_only,False,False
+663765,Jake Woodford,Woodford,USA,P,Toponymic,Toponymic,1.0,source,False,False
+663767,Chase Shugart,Shugart,USA,P,Patronymic,Patronymic,0.27,source,False,False
+663776,Patrick Sandoval,Sandoval,USA,P,Toponymic,Toponymic,1.0,source,False,False
+663795,Justin Hagenman,Hagenman,USA,P,Other,Other,0.28,jev_only,False,False
+663837,Matt Vierling,Vierling,USA,OF,Other,Other,0.34,jev_only,False,False
+663853,Romy Gonzalez,Gonzalez,USA,DH,Patronymic,Patronymic,1.0,source,False,False
+663855,Jordan Hicks,Hicks,USA,P,Patronymic,Patronymic,0.95,source,False,False
+663878,Nate Pearson,Pearson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+663884,Nolan Kingham,Kingham,USA,P,Toponymic,Toponymic,0.49,jev_only,False,False
+663886,Tyler Stephenson,Stephenson,USA,C,Patronymic,Patronymic,1.0,source,False,False
+663893,Brendon Little,Little,USA,P,Cognominal,Cognominal,1.0,source,False,False
+663897,Luke Williams,Williams,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+663903,Brady Singer,Singer,USA,P,Occupational,Occupational,1.0,source,False,False
+663941,Tristan Beck,Beck,USA,P,Toponymic,Toponymic,0.67,source,False,False
+663947,Tyler Holton,Holton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+663967,César Salazar,Salazar,Mexico,C,Toponymic,Toponymic,1.0,source,False,False
+663968,Jake Mangum,Mangum,USA,OF,Other,Other,0.35,jev_only,False,False
+663969,Tyler Phillips,Phillips,USA,P,Patronymic,Patronymic,1.0,source,False,False
+663978,Chris Paddack,Paddack,USA,P,Other,Other,0.4,jev_only,False,False
+663992,Richard Lovelady,Lovelady,USA,P,Other,Other,0.35,jev_only,False,False
+663993,Nathaniel Lowe,Lowe,USA,1B,Toponymic,Toponymic,0.97,source,False,False
+664023,Ian Happ,Happ,USA,OF,Occupational,Occupational,0.97,source,False,False
+664034,Ty France,France,USA,1B,Cognominal,Cognominal,0.6,source,False,False
+664040,Brandon Lowe,Lowe,USA,2B,Toponymic,Toponymic,0.97,source,False,False
+664056,Harrison Bader,Bader,USA,OF,Other,Other,0.16,jev_only,False,False
+664059,Sam Haggerty,Haggerty,USA,OF,Patronymic,Patronymic,0.91,source,False,False
+664062,Tony Gonsolin,Gonsolin,USA,P,Other,Other,0.29,jev_only,False,False
+664068,Scott Kingery,Kingery,USA,DH,Cognominal,Cognominal,0.33,jev_only,False,False
+664074,Cody Ponce,Ponce,USA,P,Patronymic,Patronymic,0.95,source,False,False
+664076,Garrett Cleavinger,Cleavinger,USA,P,Other,Other,0.39,jev_only,False,False
+664126,Pete Fairbanks,Fairbanks,USA,P,Toponymic,Toponymic,1.0,source,False,False
+664129,Geoff Hartlieb,Hartlieb,USA,P,Cognominal,Cognominal,0.51,jev_only,False,False
+664141,JT Brubaker,Brubaker,USA,P,Occupational,Occupational,0.55,jev_only,False,False
+664192,Joey Lucchesi,Lucchesi,USA,P,Toponymic,Toponymic,0.89,source,False,False
+664199,Taylor Clarke,Clarke,USA,P,Occupational,Occupational,0.97,source,False,False
+664208,Phil Maton,Maton,USA,P,Patronymic,Patronymic,1.0,source,False,False
+664238,Dylan Moore,Moore,USA,OF,Cognominal,Cognominal,0.37,source,False,False
+664285,Framber Valdez,Valdez,Dominican Republic,P,Toponymic,Toponymic,0.91,source,False,False
+664299,Cristian Javier,Javier,Dominican Republic,P,Toponymic,Toponymic,0.73,source,False,False
+664353,José Urquidy,Urquidy,Mexico,P,Toponymic,Toponymic,0.57,jev_only,False,False
+664702,Myles Straw,Straw,USA,OF,Cognominal,Cognominal,0.74,source,False,False
+664728,Kyle Isbel,Isbel,USA,OF,Other,Other,0.7,jev_only,False,False
+664731,P.J. Higgins,Higgins,USA,C,Patronymic,Patronymic,1.0,source,False,False
+664744,Jose Espada,Espada,Puerto Rico,P,Occupational,Occupational,0.84,jev_only,False,False
+664761,Alec Bohm,Bohm,USA,3B,Cognominal,Cognominal,0.79,source,False,False
+664770,Nathan Lukes,Lukes,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+664774,LaMonte Wade Jr.,Wade,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+664849,Danny Young,Young,USA,P,Cognominal,Cognominal,0.98,source,False,False
+664854,Ryan Helsley,Helsley,USA,P,Toponymic,Toponymic,0.63,source,False,False
+664875,Justin Lawrence,Lawrence,Panama,P,Patronymic,Patronymic,0.97,source,False,False
+664954,Brett Sullivan,Sullivan,USA,C,Patronymic,Patronymic,0.67,source,False,False
+664983,Jake McCarthy,McCarthy,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+664991,Grant Wolfram,Wolfram,USA,P,Patronymic,Patronymic,0.48,source,False,False
+665019,Kody Clemens,Clemens,USA,2B,Patronymic,Patronymic,0.84,source,False,False
+665052,Griffin Conine,Conine,USA,OF,Other,Other,0.52,jev_only,False,False
+665152,Dean Kremer,Kremer,USA,P,Occupational,Occupational,0.98,source,False,False
+665161,Jeremy Peña,Peña,Dominican Republic,SS,Toponymic,Toponymic,1.0,source,False,False
+665487,Fernando Tatis Jr.,Tatis,Dominican Republic,OF,Other,Other,0.55,jev_only,False,False
+665489,Vladimir Guerrero Jr.,Guerrero,Canada,1B,Cognominal,Cognominal,0.72,source,False,False
+665506,Cristian Pache,Pache,Dominican Republic,OF,Other,Other,0.58,jev_only,False,False
+665561,Rafael Marchán,Marchán,Venezuela,C,Patronymic,Patronymic,0.29,jev_only,False,False
+665622,Luis Medina,Medina,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+665645,Kervin Castro,Castro,Venezuela,P,Toponymic,Toponymic,1.0,source,False,False
+665660,Elvis Alvarado,Alvarado,Dominican Republic,P,Toponymic,Toponymic,0.68,source,False,False
+665665,Reiver Sanmartin,Sanmartin,Colombia,P,Patronymic,Patronymic,0.43,jev_only,False,False
+665742,Juan Soto,Soto,Dominican Republic,OF,Toponymic,Toponymic,0.91,source,False,False
+665750,Leody Taveras,Taveras,Dominican Republic,OF,Occupational,Occupational,0.42,source,False,False
+665795,Edward Cabrera,Cabrera,Dominican Republic,P,Occupational,Occupational,0.99,source,False,False
+665804,Miguel Amaya,Amaya,Panama,C,Toponymic,Toponymic,0.99,source,False,False
+665828,Oswaldo Cabrera,Cabrera,Venezuela,3B,Occupational,Occupational,0.99,source,False,False
+665833,Oneil Cruz,Cruz,Dominican Republic,OF,Toponymic,Toponymic,0.62,source,False,False
+665856,Jair Camargo,Camargo,Colombia,C,Toponymic,Toponymic,0.7,jev_only,False,False
+665861,Sebastián Rivero,Rivero,Venezuela,C,Toponymic,Toponymic,1.0,source,False,False
+665862,Jazz Chisholm Jr.,Chisholm,Bahamas,2B,Toponymic,Toponymic,1.0,source,False,False
+665871,Javier Assad,Assad,Mexico,P,Cognominal,Cognominal,0.92,source,False,False
+665877,José Fermín,Fermín,Dominican Republic,OF,Patronymic,Patronymic,0.88,jev_only,False,False
+665923,Esteury Ruiz,Ruiz,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+665926,Andrés Giménez,Giménez,Venezuela,SS,Patronymic,Patronymic,0.99,source,False,False
+665953,Andrés Chaparro,Chaparro,Venezuela,1B,Cognominal,Cognominal,0.98,source,False,False
+665966,Carlos Narváez,Narváez,Venezuela,C,Patronymic,Patronymic,0.48,jev_only,False,False
+666018,Jonathan Aranda,Aranda,Mexico,1B,Toponymic,Toponymic,0.99,source,False,False
+666023,Freddy Fermin,Fermin,Venezuela,C,Patronymic,Patronymic,0.83,jev_only,False,False
+666126,Carlos Cortes,Cortes,USA,OF,Cognominal,Cognominal,0.58,source,False,False
+666129,Braxton Garrett,Garrett,USA,P,Patronymic,Patronymic,0.99,source,False,False
+666139,Josh Lowe,Lowe,USA,OF,Toponymic,Toponymic,0.97,source,False,False
+666142,Cole Ragans,Ragans,USA,P,Patronymic,Patronymic,0.46,jev_only,False,False
+666152,David Hamilton,Hamilton,USA,3B,Toponymic,Toponymic,1.0,source,False,False
+666157,Nick Lodolo,Lodolo,USA,P,Toponymic,Toponymic,0.49,jev_only,False,False
+666160,Mickey Moniak,Moniak,USA,OF,Patronymic,Patronymic,0.39,jev_only,False,False
+666163,Ben Rortvedt,Rortvedt,USA,C,Toponymic,Toponymic,0.38,jev_only,False,False
+666171,Ryan Zeferjahn,Zeferjahn,USA,P,Other,Other,0.48,jev_only,False,False
+666176,Jo Adell,Adell,USA,OF,Patronymic,Patronymic,0.6,source,False,False
+666181,Will Benson,Benson,USA,OF,Toponymic,Toponymic,0.87,source,False,False
+666182,Bo Bichette,Bichette,USA,3B,Cognominal,Cognominal,0.46,jev_only,False,False
+666185,Dylan Carlson,Carlson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+666200,Jesús Luzardo,Luzardo,Peru,P,Cognominal,Other,0.17,hand,False,True
+666201,Alek Manoah,Manoah,USA,P,Patronymic,Patronymic,0.81,jev_only,False,False
+666211,Taylor Trammell,Trammell,USA,OF,Toponymic,Toponymic,0.27,source,False,False
+666277,George Soriano,Soriano,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+666310,Bo Naylor,Naylor,Canada,C,Occupational,Occupational,1.0,source,False,False
+666374,Matt Brash,Brash,Canada,P,Cognominal,Cognominal,1.0,source,False,False
+666397,Edouard Julien,Julien,Canada,2B,Patronymic,Patronymic,0.98,jev_only,False,False
+666464,Jerar Encarnacion,Encarnacion,Dominican Republic,OF,Patronage,Patronage,1.0,source,False,False
+666619,Gregory Santos,Santos,Dominican Republic,P,Patronage,Patronage,0.97,source,False,False
+666624,Christopher Morel,Morel,Dominican Republic,1B,Cognominal,Cognominal,0.46,source,False,False
+666661,Juan Morillo,Morillo,Venezuela,P,Toponymic,Toponymic,1.0,source,False,False
+666711,Joel Peguero,Peguero,Dominican Republic,P,Toponymic,Toponymic,0.49,jev_only,False,False
+666745,Jhony Brito,Brito,Dominican Republic,P,Toponymic,Toponymic,0.48,jev_only,False,False
+666808,Camilo Doval,Doval,Dominican Republic,P,Other,Other,0.36,jev_only,False,False
+666931,Jared Oliva,Oliva,USA,OF,Cognominal,Cognominal,0.4,source,False,False
+666969,Adolis García,García,Cuba,OF,Patronymic,Patronymic,0.67,source,False,False
+666971,Lourdes Gurriel Jr.,Gurriel,Cuba,OF,Other,Other,0.36,jev_only,False,False
+666974,Yennier Cano,Cano,Cuba,P,Cognominal,Cognominal,0.99,source,False,False
+667297,Tommy Nance,Nance,USA,P,Toponymic,Toponymic,0.51,source,False,False
+667452,Corey Julks,Julks,USA,OF,Other,Other,0.85,jev_only,False,False
+667463,John King,King,USA,P,Cognominal,Cognominal,0.98,source,False,False
+667472,Dane Myers,Myers,USA,OF,Patronymic,Patronymic,0.71,source,False,False
+667652,Jack Ralston,Ralston,USA,P,Toponymic,Toponymic,0.97,source,False,False
+667670,Brent Rooker,Rooker,USA,DH,Occupational,Occupational,0.43,jev_only,False,False
+667755,José Soriano,Soriano,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+668227,Randy Arozarena,Arozarena,Cuba,OF,Toponymic,Toponymic,0.64,source,False,False
+668390,Cole Winn,Winn,USA,P,Cognominal,Cognominal,0.55,source,False,False
+668670,Jake Rogers,Rogers,USA,C,Patronymic,Patronymic,1.0,source,False,False
+668674,Lucas Erceg,Erceg,USA,P,Cognominal,Cognominal,0.49,source,False,False
+668678,Zac Gallen,Gallen,USA,P,Toponymic,Toponymic,0.49,source,False,False
+668709,JJ Bleday,Bleday,USA,OF,Other,Other,0.72,jev_only,False,False
+668715,Spencer Steer,Steer,USA,OF,Occupational,Occupational,0.74,jev_only,False,False
+668716,Noah Murdock,Murdock,USA,P,Patronymic,Patronymic,0.93,source,False,False
+668723,Ryan Vilade,Vilade,USA,OF,Other,Other,0.44,jev_only,False,False
+668800,Andrew Knizner,Knizner,USA,C,Other,Other,0.65,jev_only,False,False
+668804,Bryan Reynolds,Reynolds,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+668820,Max Kranick,Kranick,USA,P,Other,Other,0.61,jev_only,False,False
+668831,Garrett Stallings,Stallings,USA,P,Patronymic,Patronymic,0.24,jev_only,False,False
+668834,Easton McGee,McGee,USA,P,Patronymic,Patronymic,1.0,source,False,False
+668873,Caleb Kilian,Kilian,USA,P,Patronymic,Patronymic,0.91,source,False,False
+668881,Hunter Greene,Greene,USA,P,Cognominal,Cognominal,0.95,source,False,False
+668885,Austin Martin,Martin,USA,OF,Patronymic,Patronymic,0.97,source,False,False
+668901,Mark Vientos,Vientos,USA,1B,Cognominal,Cognominal,0.53,jev_only,False,False
+668904,Royce Lewis,Lewis,USA,1B,Patronymic,Patronymic,0.97,source,False,False
+668909,Gavin Williams,Williams,USA,P,Patronymic,Patronymic,1.0,source,False,False
+668930,Brice Turang,Turang,USA,2B,Other,Other,0.68,hand,False,True
+668933,Graham Ashcraft,Ashcraft,USA,P,Toponymic,Toponymic,1.0,source,False,False
+668939,Adley Rutschman,Rutschman,USA,C,Other,Other,0.35,jev_only,False,False
+668941,JoJo Romero,Romero,USA,P,Patronymic,Patronymic,0.49,source,False,False
+668942,Josh Rojas,Rojas,USA,3B,Cognominal,Cognominal,0.93,source,False,False
+668952,Ryan Kreidler,Kreidler,USA,SS,Occupational,Occupational,1.0,source,False,False
+668964,Tobias Myers,Myers,USA,P,Patronymic,Patronymic,0.71,source,False,False
+668970,Gavin Hollowell,Hollowell,USA,P,Toponymic,Toponymic,0.64,jev_only,False,False
+668974,Maverick Handley,Handley,USA,C,Toponymic,Toponymic,0.65,jev_only,False,False
+668984,Casey Legumina,Legumina,USA,P,Other,Other,0.33,jev_only,False,False
+669003,Garrett Mitchell,Mitchell,USA,OF,Patronymic,Patronymic,0.99,source,False,False
+669004,MJ Melendez,Melendez,USA,OF,Patronymic,Patronymic,0.85,jev_only,False,False
+669016,Brandon Marsh,Marsh,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+669020,Ryan Rolison,Rolison,USA,P,Other,Other,0.4,jev_only,False,False
+669022,MacKenzie Gore,Gore,USA,P,Toponymic,Toponymic,1.0,source,False,False
+669060,Bryse Wilson,Wilson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669062,Erik Miller,Miller,USA,P,Occupational,Occupational,1.0,source,False,False
+669065,Kyle Stowers,Stowers,USA,1B,Toponymic,Toponymic,1.0,source,False,False
+669084,DL Hall,Hall,USA,P,Toponymic,Toponymic,1.0,source,False,False
+669087,Sam Huff,Huff,USA,C,Other,Other,0.19,jev_only,False,False
+669093,Jeremiah Estrada,Estrada,USA,P,Toponymic,Toponymic,0.98,source,False,False
+669127,Shea Langeliers,Langeliers,USA,C,Patronymic,Patronymic,0.34,source,False,False
+669134,Luis Campusano,Campusano,USA,C,Toponymic,Toponymic,0.46,jev_only,False,False
+669145,Bruce Zimmermann,Zimmermann,USA,P,Occupational,Occupational,1.0,source,False,False
+669160,Dustin May,May,USA,P,Patronymic,Patronymic,0.54,source,False,False
+669165,Kyle Hurt,Hurt,USA,P,Cognominal,Cognominal,0.73,source,False,False
+669169,Jonathan Heasley,Heasley,USA,P,Other,Other,0.33,jev_only,False,False
+669194,Ryne Nelson,Nelson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669199,Lake Bachar,Bachar,USA,P,Other,Other,0.33,source,False,False
+669203,Corbin Burnes,Burnes,USA,P,Patronymic,Patronymic,0.53,jev_only,False,False
+669208,Ryan Bliss,Bliss,USA,2B,Cognominal,Cognominal,1.0,source,False,False
+669211,Keegan Akin,Akin,USA,P,Other,Other,0.57,jev_only,False,False
+669212,Eli Morgan,Morgan,USA,P,Patronymic,Patronymic,0.89,source,False,False
+669221,Sean Murphy,Murphy,USA,C,Patronymic,Patronymic,1.0,source,False,False
+669224,Austin Wells,Wells,USA,C,Toponymic,Toponymic,1.0,source,False,False
+669236,Jeremiah Jackson,Jackson,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+669242,Tommy Edman,Edman,USA,2B,Patronymic,Patronymic,0.83,jev_only,False,False
+669256,Nick Solak,Solak,USA,DH,Cognominal,Cognominal,0.34,source,False,False
+669257,Will Smith,Smith,USA,C,Occupational,Occupational,1.0,source,False,False
+669270,Joel Kuhnel,Kuhnel,USA,P,Other,Other,0.34,jev_only,False,False
+669276,Dylan Lee,Lee,USA,P,Toponymic,Toponymic,0.97,source,False,False
+669288,Daniel Johnson,Johnson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+669289,Santiago Espinal,Espinal,Dominican Republic,3B,Toponymic,Toponymic,0.85,jev_only,False,False
+669298,TJ Shook,Shook,USA,P,Cognominal,Cognominal,0.67,jev_only,False,False
+669302,Logan Gilbert,Gilbert,USA,P,Patronymic,Patronymic,0.98,source,False,False
+669310,CJ Van Eyk,Van Eyk,USA,P,Toponymic,Toponymic,0.63,jev_only,False,False
+669326,Bryce Teodosio,Teodosio,USA,OF,Patronymic,Patronymic,0.95,jev_only,False,False
+669330,Tyler Wells,Wells,USA,P,Toponymic,Toponymic,1.0,source,False,False
+669357,Nolan Gorman,Gorman,USA,3B,Patronymic,Patronymic,0.98,source,False,False
+669358,Shane Baz,Baz,USA,P,Cognominal,Cognominal,0.54,source,False,False
+669360,Trei Cruz,Cruz,Canada,OF,Patronage,Patronage,0.64,source,False,False
+669364,Xavier Edwards,Edwards,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+669369,Bryce Johnson,Johnson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+669371,Cole Henry,Henry,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669372,J.T. Ginn,Ginn,USA,P,Cognominal,Cognominal,0.82,source,False,False
+669373,Tarik Skubal,Skubal,USA,P,Occupational,Occupational,0.88,source,False,False
+669384,Raynel Delgado,Delgado,Cuba,2B,Cognominal,Cognominal,1.0,source,False,False
+669387,Carmen Mlodzinski,Mlodzinski,USA,P,Cognominal,Cognominal,0.35,jev_only,False,False
+669392,Samad Taylor,Taylor,USA,OF,Occupational,Occupational,1.0,source,False,False
+669394,Jake Burger,Burger,USA,1B,Occupational,Occupational,0.28,source,False,False
+669397,Nick Allen,Allen,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+669398,Gage Workman,Workman,USA,3B,Occupational,Occupational,0.95,jev_only,False,False
+669432,Trevor Rogers,Rogers,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669438,Mason Englert,Englert,USA,P,Cognominal,Cognominal,0.36,source,False,False
+669456,Shane Bieber,Bieber,USA,P,Cognominal,Cognominal,0.33,source,False,False
+669461,Matthew Liberatore,Liberatore,USA,P,Cognominal,Cognominal,0.46,jev_only,False,False
+669467,Andre Pallante,Pallante,USA,P,Patronymic,Patronymic,0.97,source,False,False
+669477,Casey Schmitt,Schmitt,USA,OF,Occupational,Occupational,1.0,source,False,False
+669620,Brady Basso,Basso,USA,P,Cognominal,Cognominal,0.7,jev_only,False,False
+669622,Anthony Bender,Bender,USA,P,Cognominal,Cognominal,0.64,source,False,False
+669684,Chris Murphy,Murphy,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669699,Braden Shewmake,Shewmake,USA,3B,Occupational,Occupational,0.36,jev_only,False,False
+669701,Josh Smith,Smith,USA,2B,Occupational,Occupational,1.0,source,False,False
+669704,Kade Strowd,Strowd,USA,P,Toponymic,Toponymic,0.55,jev_only,False,False
+669707,Jared Triolo,Triolo,USA,SS,Cognominal,Cognominal,0.55,source,False,False
+669711,Greg Weissert,Weissert,USA,P,Cognominal,Cognominal,0.51,jev_only,False,False
+669713,Hayden Wesneski,Wesneski,USA,P,Other,Other,0.35,jev_only,False,False
+669717,Will Wilson,Wilson,USA,3B,Patronymic,Patronymic,1.0,source,False,False
+669720,Austin Hays,Hays,USA,OF,Toponymic,Toponymic,0.66,source,False,False
+669724,Brenan Hanifee,Hanifee,USA,P,Other,Other,0.46,jev_only,False,False
+669743,Alex Call,Call,USA,OF,Patronymic,Patronymic,0.19,source,False,False
+669854,Ronel Blanco,Blanco,Dominican Republic,P,Cognominal,Cognominal,1.0,source,False,False
+669899,Ryan Ward,Ward,USA,OF,Occupational,Occupational,0.99,source,False,False
+669911,Michael Toglia,Toglia,USA,1B,Other,Other,0.39,jev_only,False,False
+669920,Jason Alexander,Alexander,USA,P,Patronymic,Patronymic,1.0,source,False,False
+669923,George Kirby,Kirby,USA,P,Toponymic,Toponymic,1.0,source,False,False
+669947,Jesse Scholtens,Scholtens,USA,P,Patronymic,Patronymic,0.36,jev_only,False,False
+670032,Nicky Lopez,Lopez,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+670036,Matt Festa,Festa,USA,P,Cognominal,Cognominal,0.63,source,False,False
+670042,Luke Raley,Raley,USA,OF,Other,Other,0.28,jev_only,False,False
+670059,Colin Holderman,Holderman,USA,P,Occupational,Occupational,0.26,jev_only,False,False
+670062,Julian Garcia,Garcia,USA,P,Patronymic,Patronymic,0.85,source,False,False
+670090,Wyatt Mills,Mills,USA,P,Occupational,Occupational,1.0,source,False,False
+670097,Zack Short,Short,USA,SS,Cognominal,Cognominal,1.0,jev_only,False,False
+670103,Raymond Burgos,Burgos,Puerto Rico,P,Toponymic,Toponymic,1.0,source,False,False
+670156,Miles Mastrobuoni,Mastrobuoni,USA,OF,Patronymic,Patronymic,0.52,jev_only,False,False
+670167,John Schreiber,Schreiber,USA,P,Occupational,Occupational,1.0,source,False,False
+670183,Garrett Acton,Acton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+670224,Kameron Misner,Misner,USA,OF,Other,Other,0.38,jev_only,False,False
+670231,John Rave,Rave,USA,OF,Other,Other,0.49,jev_only,False,False
+670242,Matt Wallner,Wallner,USA,OF,Occupational,Occupational,0.61,jev_only,False,False
+670245,Ryan Watson,Watson,USA,P,Patronymic,Patronymic,0.91,source,False,False
+670280,David Bednar,Bednar,USA,P,Occupational,Occupational,1.0,source,False,False
+670329,Rico Garcia,Garcia,USA,P,Patronymic,Patronymic,0.85,source,False,False
+670541,Yordan Alvarez,Alvarez,Cuba,DH,Patronymic,Patronymic,1.0,source,False,False
+670623,Isaac Paredes,Paredes,Mexico,3B,Toponymic,Toponymic,0.83,source,False,False
+670764,Taylor Walls,Walls,USA,SS,Toponymic,Toponymic,1.0,source,False,False
+670770,TJ Friedl,Friedl,USA,OF,Patronymic,Patronymic,0.61,jev_only,False,False
+670871,Guillo Zuñiga,Zuñiga,Colombia,P,Toponymic,Toponymic,1.0,source,False,False
+670912,Johan Oviedo,Oviedo,Cuba,P,Toponymic,Toponymic,1.0,source,False,False
+670950,Trevor Richards,Richards,USA,P,Patronymic,Patronymic,1.0,source,False,False
+670970,Adrian Morejon,Morejon,Cuba,P,Toponymic,Toponymic,0.36,jev_only,False,False
+670990,Yohan Ramírez,Ramírez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+671056,Iván Herrera,Herrera,Panama,DH,Occupational,Occupational,0.99,source,False,False
+671083,Buddy Kennedy,Kennedy,USA,3B,Patronymic,Patronymic,0.47,source,False,False
+671096,Andrew Abbott,Abbott,USA,P,Occupational,Occupational,1.0,source,False,False
+671106,Logan Allen,Allen,USA,P,Patronymic,Patronymic,1.0,source,False,False
+671109,Jake Eder,Eder,USA,P,Toponymic,Toponymic,0.58,source,False,False
+671111,Sammy Peralta,Peralta,USA,P,Toponymic,Toponymic,1.0,source,False,False
+671131,Jackson Rutledge,Rutledge,USA,P,Other,Other,0.51,source,False,False
+671155,Ivan Johnson,Johnson,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+671162,Connor Thomas,Thomas,USA,P,Patronymic,Patronymic,1.0,source,False,False
+671212,Joe Boyle,Boyle,USA,P,Toponymic,Toponymic,0.57,source,False,False
+671218,Heliot Ramos,Ramos,Puerto Rico,OF,Toponymic,Toponymic,0.35,source,False,False
+671277,Luis García Jr.,García,USA,1B,Patronymic,Patronymic,0.73,source,False,False
+671286,Johnathan Rodríguez,Rodríguez,Puerto Rico,OF,Patronymic,Patronymic,1.0,source,False,False
+671289,Tyler Freeman,Freeman,USA,OF,Acquired/assigned,Acquired/assigned,0.94,source,False,False
+671345,Jason Foley,Foley,USA,P,Cognominal,Cognominal,0.48,source,False,False
+671382,Cameron Foster,Foster,USA,P,Occupational,Occupational,0.84,source,False,False
+671655,George Valera,Valera,USA,OF,Patronymic,Patronymic,0.34,source,False,False
+671732,Lawrence Butler,Butler,USA,OF,Occupational,Occupational,1.0,source,False,False
+671737,Taj Bradley,Bradley,USA,P,Toponymic,Toponymic,1.0,source,False,False
+671739,Michael Harris II,Harris,USA,OF,Patronymic,Patronymic,0.99,source,False,False
+671922,Cade Smith,Smith,Canada,P,Occupational,Occupational,1.0,source,False,False
+671936,Adam Macko,Macko,Slovakia,P,Patronymic,Patronymic,0.54,jev_only,False,False
+671976,Tristan Peters,Peters,Canada,OF,Patronymic,Patronymic,1.0,source,False,False
+672012,Tyler Black,Black,Canada,DH,Cognominal,Cognominal,1.0,source,False,False
+672016,Denzel Clarke,Clarke,Canada,OF,Occupational,Occupational,0.98,source,False,False
+672021,Eric Cerantola,Cerantola,Canada,P,Other,Other,0.42,jev_only,False,False
+672275,Patrick Bailey,Bailey,USA,C,Toponymic,Toponymic,0.6,source,False,False
+672279,Michael Siani,Siani,USA,OF,Other,Other,0.48,jev_only,False,False
+672282,Reid Detmers,Detmers,USA,P,Patronymic,Patronymic,1.0,source,False,False
+672284,Jarred Kelenic,Kelenic,USA,OF,Other,Other,0.65,jev_only,False,False
+672335,Cionel Pérez,Pérez,Cuba,P,Patronymic,Patronymic,1.0,source,False,False
+672356,Gabriel Arias,Arias,Venezuela,SS,Patronymic,Patronymic,0.98,source,False,False
+672386,Alejandro Kirk,Kirk,Mexico,C,Toponymic,Toponymic,0.88,source,False,False
+672442,Yovanny Cruz,Cruz,Dominican Republic,P,Toponymic,Toponymic,0.62,source,False,False
+672456,Keider Montero,Montero,Venezuela,P,Occupational,Occupational,1.0,source,False,False
+672515,Gabriel Moreno,Moreno,Venezuela,C,Cognominal,Cognominal,1.0,source,False,False
+672569,Gustavo Campero,Campero,Colombia,OF,Other,Other,0.31,jev_only,False,False
+672578,Carlos Hernández,Hernández,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+672580,Maikel Garcia,Garcia,Venezuela,3B,Patronymic,Patronymic,0.76,source,False,False
+672582,Angel Zerpa,Zerpa,Venezuela,P,Other,Other,0.6,jev_only,False,False
+672613,Eliezer Alfonzo,Alfonzo,Venezuela,C,Patronymic,Patronymic,0.83,jev_only,False,False
+672629,Gerardo Carrillo,Carrillo,Mexico,P,Toponymic,Toponymic,0.38,source,False,False
+672640,Otto Lopez,Lopez,Dominican Republic,SS,Patronymic,Patronymic,1.0,source,False,False
+672642,Steward Berroa,Berroa,Dominican Republic,OF,Toponymic,Toponymic,0.82,source,False,False
+672695,Geraldo Perdomo,Perdomo,Dominican Republic,SS,Cognominal,Cognominal,0.57,source,False,False
+672724,Oswald Peraza,Peraza,Venezuela,2B,Patronymic,Patronymic,0.28,jev_only,False,False
+672761,Wenceel Pérez,Pérez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+672782,Yoendrys Gómez,Gómez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+672820,Lenyn Sosa,Sosa,Venezuela,2B,Toponymic,Toponymic,0.97,source,False,False
+672841,Carlos Vargas,Vargas,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+672960,Kazuma Okamoto,Okamoto,Japan,3B,Toponymic,Toponymic,1.0,source,False,False
+673237,Yainer Diaz,Diaz,Dominican Republic,C,Patronymic,Patronymic,1.0,source,False,False
+673357,Luis Robert Jr.,Robert,Cuba,OF,Patronymic,Patronymic,1.0,source,False,False
+673380,Dedniel Núñez,Núñez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+673490,Ha-Seong Kim,Kim,Republic of Korea,SS,Toponymic,Toponymic,0.64,jev_only,False,False
+673513,Yuki Matsui,Matsui,Japan,P,Toponymic,Toponymic,1.0,source,False,False
+673540,Kodai Senga,Senga,Japan,P,Other,Other,0.46,jev_only,False,False
+673548,Seiya Suzuki,Suzuki,Japan,OF,Toponymic,Toponymic,0.62,source,False,False
+673929,Jordan Leasure,Leasure,USA,P,Other,Other,0.38,jev_only,False,False
+673962,Josh Jung,Jung,USA,3B,Cognominal,Cognominal,0.83,source,False,False
+673995,Davis Wendzel,Wendzel,USA,1B,Occupational,Occupational,0.65,source,False,False
+674003,Cody Bradford,Bradford,USA,P,Toponymic,Toponymic,1.0,source,False,False
+674073,Jack Weisenburger,Weisenburger,USA,P,Other,Other,0.3,jev_only,False,False
+674370,Osvaldo Bido,Bido,Dominican Republic,P,Patronymic,Patronymic,0.63,source,False,False
+674444,Steven Cruz,Cruz,Dominican Republic,P,Toponymic,Toponymic,0.62,source,False,False
+674841,Andrew Alvarez,Alvarez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+675448,Blake Hunt,Hunt,USA,C,Occupational,Occupational,0.97,source,False,False
+675512,Troy Melton,Melton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+675540,Xzavion Curry,Curry,USA,P,Patronymic,Patronymic,0.67,source,False,False
+675627,Michael Grove,Grove,USA,P,Toponymic,Toponymic,1.0,source,False,False
+675659,Greg Jones,Jones,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+675660,Shane Drohan,Drohan,USA,P,Patronymic,Patronymic,0.7,source,False,False
+675848,Juan Mejia,Mejia,Dominican Republic,P,Patronymic,Patronymic,0.61,source,False,False
+675911,Spencer Strider,Strider,USA,P,Cognominal,Cognominal,0.57,jev_only,False,False
+675916,James Karinchak,Karinchak,USA,P,Other,Other,0.74,jev_only,False,False
+675919,Nick Raquet,Raquet,USA,P,Other,Other,0.4,jev_only,False,False
+675920,Seth Lonsway,Lonsway,USA,P,Other,Other,0.46,jev_only,False,False
+675961,Alika Williams,Williams,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+675989,Cody Bolton,Bolton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+676051,Codi Heuer,Heuer,USA,P,Occupational,Occupational,0.33,source,False,False
+676083,Janson Junk,Junk,USA,P,Patronymic,Patronymic,0.36,source,False,False
+676105,Jeff Criswell,Criswell,USA,P,Other,Other,0.35,jev_only,False,False
+676106,Emerson Hancock,Hancock,USA,P,Patronymic,Patronymic,0.74,source,False,False
+676130,José Buttó,Buttó,Venezuela,P,Other,Other,0.65,jev_only,False,False
+676254,Ryan Walker,Walker,USA,P,Occupational,Occupational,1.0,source,False,False
+676263,Jack Dreyer,Dreyer,USA,P,Cognominal,Cognominal,0.19,jev_only,False,False
+676272,Bobby Miller,Miller,USA,P,Occupational,Occupational,1.0,source,False,False
+676282,Joey Cantillo,Cantillo,USA,P,Other,Other,0.36,jev_only,False,False
+676356,Jonny DeLuca,DeLuca,USA,OF,Patronymic,Patronymic,0.58,jev_only,False,False
+676369,Nelson Velázquez,Velázquez,Puerto Rico,OF,Patronymic,Patronymic,0.92,source,False,False
+676391,Ernie Clement,Clement,USA,2B,Patronymic,Patronymic,0.79,source,False,False
+676395,Robert Garcia,Garcia,USA,P,Patronymic,Patronymic,0.85,source,False,False
+676428,Brant Hurter,Hurter,USA,P,Other,Other,0.47,jev_only,False,False
+676439,Hunter Feduccia,Feduccia,USA,C,Patronymic,Patronymic,0.42,jev_only,False,False
+676440,Tanner Bibee,Bibee,USA,P,Other,Other,0.52,jev_only,False,False
+676454,Brendan Cellucci,Cellucci,USA,P,Cognominal,Cognominal,0.17,source,False,False
+676467,Colton Gordon,Gordon,USA,P,Toponymic,Toponymic,1.0,source,False,False
+676475,Alec Burleson,Burleson,USA,1B,Toponymic,Toponymic,1.0,source,False,False
+676477,Garrett Whitlock,Whitlock,USA,P,Cognominal,Cognominal,0.89,source,False,False
+676480,José Barrero,Barrero,Cuba,2B,Toponymic,Toponymic,0.37,jev_only,False,False
+676508,Ben Casparius,Casparius,USA,P,Patronymic,Patronymic,0.85,jev_only,False,False
+676510,Nolan Hoffman,Hoffman,USA,P,Occupational,Occupational,0.97,source,False,False
+676534,Calvin Faucher,Faucher,USA,P,Cognominal,Cognominal,0.34,source,False,False
+676551,Brewer Hicklen,Hicklen,USA,OF,Other,Other,0.28,jev_only,False,False
+676566,Shawn Ross,Ross,Puerto Rico,C,Toponymic,Toponymic,0.99,source,False,False
+676568,Ricky Vanasco,Vanasco,USA,P,Other,Other,0.54,jev_only,False,False
+676571,PJ Poulin,Poulin,USA,P,Patronymic,Patronymic,0.48,source,False,False
+676572,Eric Wagaman,Wagaman,USA,1B,Other,Other,0.58,jev_only,False,False
+676596,Josh Fleming,Fleming,USA,P,Toponymic,Toponymic,0.33,source,False,False
+676604,Tyler Zuber,Zuber,USA,P,Occupational,Occupational,0.57,source,False,False
+676609,José Caballero,Caballero,Panama,SS,Occupational,Occupational,0.89,source,False,False
+676617,Riley O'Brien,O'Brien,USA,P,Patronymic,Patronymic,1.0,source,False,False
+676620,Blake Weiman,Weiman,USA,P,Patronymic,Patronymic,0.28,jev_only,False,False
+676661,Max Lazar,Lazar,USA,P,Cognominal,Cognominal,0.43,source,False,False
+676664,JP Sears,Sears,USA,P,Patronymic,Patronymic,0.26,jev_only,False,False
+676679,Luis Vázquez,Vázquez,Puerto Rico,3B,Patronymic,Patronymic,1.0,source,False,False
+676680,Tom Cosgrove,Cosgrove,USA,P,Toponymic,Toponymic,0.89,source,False,False
+676684,Will Vest,Vest,USA,P,Occupational,Occupational,0.54,jev_only,False,False
+676694,Jake Meyers,Meyers,USA,OF,Patronymic,Patronymic,0.79,jev_only,False,False
+676702,Hunter Stratton,Stratton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+676724,Jared Young,Young,Canada,1B,Cognominal,Cognominal,0.98,source,False,False
+676742,Cam Sanders,Sanders,USA,P,Patronymic,Patronymic,1.0,source,False,False
+676755,Isaac Mattson,Mattson,USA,P,Patronymic,Patronymic,0.98,jev_only,False,False
+676760,Ron Marinaccio,Marinaccio,USA,P,Patronymic,Patronymic,0.73,source,False,False
+676775,Keaton Winn,Winn,USA,P,Cognominal,Cognominal,0.55,source,False,False
+676879,Aaron Ashby,Ashby,USA,P,Toponymic,Toponymic,1.0,source,False,False
+676910,Matt Seelinger,Seelinger,USA,P,Other,Other,0.43,jev_only,False,False
+676914,Davis Schneider,Schneider,USA,OF,Occupational,Occupational,1.0,source,False,False
+676917,Cade Cavalli,Cavalli,USA,P,Occupational,Occupational,0.95,source,False,False
+676962,Ben Brown,Brown,USA,P,Cognominal,Cognominal,1.0,source,False,False
+676974,Max Meyer,Meyer,USA,P,Occupational,Occupational,0.95,source,False,False
+676979,Garrett Crochet,Crochet,USA,P,Occupational,Occupational,0.58,jev_only,False,False
+677008,Heston Kjerstad,Kjerstad,USA,OF,Toponymic,Toponymic,0.68,jev_only,False,False
+677020,Josh Walker,Walker,USA,P,Occupational,Occupational,1.0,source,False,False
+677053,Andrew Nardi,Nardi,USA,P,Patronymic,Patronymic,0.99,source,False,False
+677060,Chad Stevens,Stevens,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+677161,Zack Kelly,Kelly,USA,P,Patronymic,Patronymic,0.8,source,False,False
+677347,Kyren Paris,Paris,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+677587,Brayan Rocchio,Rocchio,Venezuela,SS,Toponymic,Toponymic,1.0,source,False,False
+677588,José Tena,Tena,Dominican Republic,DH,Other,Other,0.61,jev_only,False,False
+677592,Everson Pereira,Pereira,Venezuela,OF,Toponymic,Toponymic,0.98,source,False,False
+677594,Julio Rodríguez,Rodríguez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+677595,Ronny Mauricio,Mauricio,Dominican Republic,SS,Patronymic,Patronymic,0.91,jev_only,False,False
+677649,Ezequiel Duran,Duran,Dominican Republic,3B,Cognominal,Cognominal,0.58,source,False,False
+677800,Wilyer Abreu,Abreu,Venezuela,OF,Toponymic,Toponymic,0.82,source,False,False
+677865,Justin Bruihl,Bruihl,USA,P,Toponymic,Toponymic,0.74,jev_only,False,False
+677870,Leo Jiménez,Jiménez,Panama,3B,Patronymic,Patronymic,1.0,source,False,False
+677942,Blaze Alexander,Alexander,USA,3B,Patronymic,Patronymic,1.0,source,False,False
+677943,Will Banfield,Banfield,USA,C,Toponymic,Toponymic,1.0,source,False,False
+677944,Slade Cecconi,Cecconi,USA,P,Patronymic,Patronymic,0.74,jev_only,False,False
+677950,Alek Thomas,Thomas,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+677951,Bobby Witt Jr.,Witt,USA,SS,Cognominal,Cognominal,0.56,source,False,False
+677952,Braxton Ashcraft,Ashcraft,USA,P,Toponymic,Toponymic,1.0,source,False,False
+677955,Jaden Hill,Hill,USA,P,Toponymic,Toponymic,1.0,source,False,False
+677956,Rece Hinds,Hinds,USA,OF,Toponymic,Toponymic,0.15,jev_only,False,False
+677958,Kumar Rocker,Rocker,USA,P,Other,Other,0.27,jev_only,False,False
+677960,Ryan Weathers,Weathers,USA,P,Cognominal,Cognominal,0.98,source,False,False
+677961,Cole Wilcox,Wilcox,USA,P,Patronymic,Patronymic,0.99,source,False,False
+677976,Randy Dobnak,Dobnak,USA,P,Other,Other,0.7,jev_only,False,False
+678009,Parker Meadows,Meadows,USA,OF,Toponymic,Toponymic,0.82,source,False,False
+678011,Anthony Seigler,Seigler,USA,2B,Other,Other,0.48,jev_only,False,False
+678020,Seth Halvorsen,Halvorsen,USA,P,Patronymic,Patronymic,1.0,source,False,False
+678022,Jack Perkins,Perkins,USA,P,Patronymic,Patronymic,1.0,source,False,False
+678061,Ray Kerr,Kerr,USA,P,Toponymic,Toponymic,1.0,source,False,False
+678218,Brandon Valenzuela,Valenzuela,Mexico,C,Toponymic,Toponymic,1.0,source,False,False
+678225,Jihwan Bae,Bae,Republic of Korea,2B,Toponymic,Toponymic,0.45,jev_only,False,False
+678246,Miguel Vargas,Vargas,Cuba,3B,Toponymic,Toponymic,1.0,source,False,False
+678368,Valente Bellozo,Bellozo,Mexico,P,Other,Other,0.43,jev_only,False,False
+678391,Jorbit Vivas,Vivas,Venezuela,2B,Patronymic,Patronymic,0.3,jev_only,False,False
+678394,Brayan Bello,Bello,Dominican Republic,P,Cognominal,Cognominal,0.95,source,False,False
+678489,Jorge Barrosa,Barrosa,Venezuela,OF,Toponymic,Toponymic,0.84,jev_only,False,False
+678545,Osleivis Basabe,Basabe,Venezuela,2B,Other,Other,0.49,jev_only,False,False
+678554,Curtis Mead,Mead,Australia,2B,Toponymic,Toponymic,0.84,source,False,False
+678576,Wilkin Ramos,Ramos,Dominican Republic,P,Cognominal,Cognominal,0.36,source,False,False
+678577,Junior Perez,Perez,Dominican Republic,OF,Patronymic,Patronymic,0.97,source,False,False
+678606,José A. Ferrer,Ferrer,Dominican Republic,P,Occupational,Occupational,1.0,source,False,False
+678662,Ezequiel Tovar,Tovar,Venezuela,SS,Other,Other,0.28,jev_only,False,False
+678760,Eddys Leonard,Leonard,Dominican Republic,OF,Patronymic,Patronymic,0.98,source,False,False
+678868,Eddy Yean,Yean,Dominican Republic,P,Other,Other,0.74,jev_only,False,False
+678882,Ceddanne Rafaela,Rafaela,Curacao,OF,Acquired/assigned,Acquired/assigned,0.84,source,False,False
+678906,Kai-Wei Teng,Teng,Taiwan,P,Other,Other,0.42,jev_only,False,False
+679358,Eric Orze,Orze,USA,P,Other,Other,0.57,jev_only,False,False
+679529,Spencer Torkelson,Torkelson,USA,1B,Patronymic,Patronymic,1.0,source,False,False
+679775,Kyle Backhus,Backhus,USA,P,Other,Other,0.47,jev_only,False,False
+679822,Justin Foscue,Foscue,USA,2B,Other,Other,0.57,jev_only,False,False
+679845,Nick Loftin,Loftin,USA,3B,Toponymic,Toponymic,0.65,source,False,False
+679883,Luinder Avila,Avila,Venezuela,P,Toponymic,Toponymic,1.0,source,False,False
+679885,Justin Martinez,Martinez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+679922,Carlos Duran,Duran,Dominican Republic,P,Cognominal,Cognominal,0.58,source,False,False
+680474,Max Schuemann,Schuemann,USA,OF,Patronymic,Patronymic,0.4,jev_only,False,False
+680570,Grayson Rodriguez,Rodriguez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+680573,Simeon Woods Richardson,Woods Richardson,USA,P,Compound,Other,0.19,hand,True,False
+680574,Matt McLain,McLain,USA,2B,Patronymic,Patronymic,0.74,jev_only,False,False
+680577,DaShawn Keirsey Jr.,Keirsey,USA,OF,Other,Other,0.43,jev_only,False,False
+680604,Blas Castaño,Castaño,Dominican Republic,P,Cognominal,Cognominal,0.45,jev_only,False,False
+680664,Eduardo Valencia,Valencia,Venezuela,C,Toponymic,Toponymic,1.0,source,False,False
+680686,Josiah Gray,Gray,USA,P,Cognominal,Cognominal,0.73,source,False,False
+680689,Lyon Richardson,Richardson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+680694,Kyle Bradish,Bradish,USA,P,Patronymic,Patronymic,0.58,source,False,False
+680700,Richie Palacios,Palacios,USA,2B,Toponymic,Toponymic,0.84,source,False,False
+680702,Joey Gerber,Gerber,USA,P,Occupational,Occupational,0.71,jev_only,False,False
+680704,Nick Sandlin,Sandlin,USA,P,Other,Other,0.38,jev_only,False,False
+680716,Jonathan Ornelas,Ornelas,USA,2B,Patronymic,Patronymic,0.42,jev_only,False,False
+680718,Addison Barger,Barger,USA,OF,Occupational,Occupational,0.52,jev_only,False,False
+680723,Drew Rom,Rom,USA,P,Other,Other,0.47,jev_only,False,False
+680728,Adrian Del Castillo,Del Castillo,USA,DH,Toponymic,Toponymic,0.99,jev_only,False,False
+680730,Mitchell Parker,Parker,USA,P,Occupational,Occupational,1.0,source,False,False
+680732,Sean Burke,Burke,USA,P,Toponymic,Toponymic,0.99,source,False,False
+680736,Justin Wrobleski,Wrobleski,USA,P,Toponymic,Toponymic,0.71,source,False,False
+680737,Michael Helman,Helman,USA,OF,Patronymic,Patronymic,0.71,jev_only,False,False
+680742,Jonathan Bowlan,Bowlan,USA,P,Other,Other,0.73,jev_only,False,False
+680744,Ty Madden,Madden,USA,P,Patronymic,Patronymic,0.98,source,False,False
+680755,Braydon Fisher,Fisher,USA,P,Occupational,Occupational,1.0,source,False,False
+680757,Steven Kwan,Kwan,USA,OF,Other,Other,0.43,source,False,False
+680767,Victor Vodnik,Vodnik,USA,P,Occupational,Occupational,0.57,jev_only,False,False
+680776,Jarren Duran,Duran,USA,OF,Cognominal,Cognominal,0.46,source,False,False
+680777,Ryan Jeffers,Jeffers,USA,C,Patronymic,Patronymic,1.0,source,False,False
+680779,Henry Davis,Davis,USA,C,Patronymic,Patronymic,1.0,source,False,False
+680802,Ryan Weiss,Weiss,USA,P,Cognominal,Cognominal,0.93,source,False,False
+680869,Zack Gelof,Gelof,USA,3B,Other,Other,0.81,jev_only,False,False
+680880,Grant Holman,Holman,USA,P,Occupational,Occupational,0.28,jev_only,False,False
+680899,Erik Tolman,Tolman,USA,P,Patronymic,Patronymic,0.2,jev_only,False,False
+680911,Owen Miller,Miller,USA,2B,Occupational,Occupational,1.0,source,False,False
+680916,Franco Aleman,Aleman,Cuba,P,Cognominal,Cognominal,0.76,jev_only,False,False
+680951,Doug Nikhazy,Nikhazy,USA,P,Other,Other,0.64,jev_only,False,False
+680977,Brendan Donovan,Donovan,Germany,3B,Patronymic,Patronymic,0.99,source,False,False
+681006,Josh Simpson,Simpson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681035,Christian Scott,Scott,USA,P,Cognominal,Cognominal,1.0,source,False,False
+681047,Christian Franklin,Franklin,USA,OF,Occupational,Occupational,0.28,source,False,False
+681082,Bryson Stott,Stott,USA,2B,Occupational,Occupational,0.73,source,False,False
+681084,Tanner Andrews,Andrews,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681146,Jonah Bride,Bride,USA,3B,Patronymic,Patronymic,0.7,source,False,False
+681151,Jayden Murray,Murray,USA,P,Toponymic,Toponymic,1.0,source,False,False
+681168,Luis Curvelo,Curvelo,Venezuela,P,Other,Other,0.28,jev_only,False,False
+681190,Randy Vásquez,Vásquez,Dominican Republic,P,Patronymic,Patronymic,0.99,source,False,False
+681198,TJ Rumfield,Rumfield,USA,1B,Toponymic,Toponymic,1.0,source,False,False
+681217,Chase Silseth,Silseth,USA,P,Toponymic,Toponymic,0.83,jev_only,False,False
+681230,BJ Murray Jr.,Murray,Bahamas,1B,Toponymic,Toponymic,1.0,source,False,False
+681252,Jack Anderson,Anderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681293,Spencer Arrighetti,Arrighetti,USA,P,Patronymic,Patronymic,0.63,jev_only,False,False
+681297,Colton Cowser,Cowser,USA,OF,Occupational,Occupational,1.0,source,False,False
+681320,Nate Lavender,Lavender,USA,P,Occupational,Occupational,1.0,source,False,False
+681343,Shane Smith,Smith,USA,P,Occupational,Occupational,1.0,source,False,False
+681347,Mike Burrows,Burrows,USA,P,Toponymic,Toponymic,1.0,source,False,False
+681351,Logan O'Hoppe,O'Hoppe,USA,C,Other,Other,0.31,jev_only,False,False
+681393,Connor Norby,Norby,USA,1B,Toponymic,Toponymic,1.0,source,False,False
+681402,Gus Varland,Varland,USA,P,Toponymic,Toponymic,1.0,source,False,False
+681432,Luke Little,Little,USA,P,Cognominal,Cognominal,1.0,source,False,False
+681481,Kerry Carpenter,Carpenter,USA,OF,Occupational,Occupational,1.0,source,False,False
+681508,Mickey Gasper,Gasper,USA,DH,Patronymic,Patronymic,0.84,source,False,False
+681517,Kyle Leahy,Leahy,USA,P,Patronymic,Patronymic,0.98,source,False,False
+681520,Antoine Kelly,Kelly,USA,P,Patronymic,Patronymic,0.8,source,False,False
+681544,Wyatt Olds,Olds,USA,P,Cognominal,Cognominal,0.62,jev_only,False,False
+681546,James Outman,Outman,USA,OF,Cognominal,Cognominal,0.24,source,False,False
+681624,Andy Pages,Pages,Cuba,OF,Occupational,Occupational,0.88,source,False,False
+681676,Ryan Fernandez,Fernandez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681715,Heriberto Hernández,Hernández,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+681751,Lazaro Estrada,Estrada,Cuba,P,Toponymic,Toponymic,0.95,source,False,False
+681799,Ethan Roberts,Roberts,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681806,Andrew Wantz,Wantz,USA,P,Patronymic,Patronymic,0.33,source,False,False
+681807,David Fry,Fry,USA,OF,Occupational,Occupational,0.89,jev_only,False,False
+681810,Austin Warren,Warren,USA,P,Toponymic,Toponymic,1.0,source,False,False
+681867,Cooper Criswell,Criswell,USA,P,Other,Other,0.35,jev_only,False,False
+681870,Erik Sabrowski,Sabrowski,Canada,P,Toponymic,Toponymic,0.93,jev_only,False,False
+681892,Kody Funderburk,Funderburk,USA,P,Other,Other,0.4,jev_only,False,False
+681895,Evan Sisk,Sisk,USA,P,Patronymic,Patronymic,0.39,jev_only,False,False
+681909,Justin Dean,Dean,USA,OF,Toponymic,Toponymic,0.75,source,False,False
+681911,Alex Vesia,Vesia,USA,P,Other,Other,0.46,jev_only,False,False
+681916,Dylan Smith,Smith,USA,P,Occupational,Occupational,1.0,source,False,False
+681973,Josh Hendrickson,Hendrickson,Australia,P,Patronymic,Patronymic,0.98,jev_only,False,False
+681982,Grant Anderson,Anderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+681987,Nate Eaton,Eaton,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+682052,Jacob Lopez,Lopez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+682120,Tim Herrin,Herrin,USA,P,Patronymic,Patronymic,0.49,jev_only,False,False
+682177,Daniel Schneemann,Schneemann,USA,OF,Cognominal,Cognominal,0.54,jev_only,False,False
+682227,Brandon Williamson,Williamson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+682243,Bryce Miller,Miller,USA,P,Occupational,Occupational,1.0,source,False,False
+682254,Mason Montgomery,Montgomery,USA,P,Toponymic,Toponymic,1.0,source,False,False
+682274,Yaramil Hiraldo,Hiraldo,Dominican Republic,P,Other,Other,0.51,jev_only,False,False
+682445,Domingo Gonzalez,Gonzalez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+682515,Logan Porter,Porter,USA,C,Occupational,Occupational,1.0,source,False,False
+682608,Peyton Gray,Gray,USA,P,Cognominal,Cognominal,0.73,source,False,False
+682610,Roddery Muñoz,Muñoz,Dominican Republic,P,Patronymic,Patronymic,0.97,source,False,False
+682622,Noelvi Marte,Marte,Dominican Republic,OF,Patronymic,Patronymic,0.75,source,False,False
+682626,Francisco Alvarez,Alvarez,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+682634,Kevin Alcántara,Alcántara,Dominican Republic,OF,Toponymic,Toponymic,0.98,source,False,False
+682641,Luis Matos,Matos,Venezuela,OF,Toponymic,Toponymic,0.66,source,False,False
+682657,Angel Martínez,Martínez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+682663,Agustín Ramírez,Ramírez,Dominican Republic,DH,Patronymic,Patronymic,1.0,source,False,False
+682668,Luisangel Acuña,Acuña,Venezuela,SS,Toponymic,Toponymic,0.78,source,False,False
+682674,Victor Bericoto,Bericoto,Venezuela,OF,Other,Other,0.64,jev_only,False,False
+682729,Jonatan Clase,Clase,Dominican Republic,OF,Other,Other,0.45,jev_only,False,False
+682769,Eiberson Castellano,Castellano,Venezuela,P,Cognominal,Cognominal,0.55,jev_only,False,False
+682818,Yohendrick Piñango,Piñango,Venezuela,OF,Other,Other,0.44,jev_only,False,False
+682825,Luis Mey,Mey,Dominican Republic,P,Other,Other,0.63,jev_only,False,False
+682829,Elly De La Cruz,De La Cruz,Dominican Republic,SS,Patronage,Patronage,1.0,jev_only,False,False
+682842,Abner Uribe,Uribe,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+682848,Endy Rodríguez,Rodríguez,Dominican Republic,C,Patronymic,Patronymic,1.0,source,False,False
+682877,Juan Brito,Brito,Dominican Republic,2B,Toponymic,Toponymic,0.48,jev_only,False,False
+682927,Ronny Simon,Simon,Dominican Republic,OF,Patronymic,Patronymic,0.95,source,False,False
+682928,CJ Abrams,Abrams,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+682982,Daniel Espino,Espino,Panama,P,Cognominal,Cognominal,0.6,source,False,False
+682985,Riley Greene,Greene,USA,OF,Cognominal,Cognominal,0.95,source,False,False
+682987,Spencer Jones,Jones,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+682988,Tyler Locklear,Locklear,USA,1B,Toponymic,Toponymic,0.49,source,False,False
+682989,Victor Mederos,Mederos,Cuba,P,Other,Other,0.26,jev_only,False,False
+682995,Hunter Barco,Barco,USA,P,Occupational,Occupational,0.26,jev_only,False,False
+682997,Tyler Callihan,Callihan,USA,OF,Patronymic,Patronymic,0.58,source,False,False
+682998,Corbin Carroll,Carroll,USA,OF,Patronymic,Patronymic,0.91,source,False,False
+683000,Riley Cornelio,Cornelio,USA,P,Patronymic,Patronymic,0.83,jev_only,False,False
+683002,Gunnar Henderson,Henderson,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+683003,Jared Jones,Jones,USA,P,Patronymic,Patronymic,1.0,source,False,False
+683004,Jack Leiter,Leiter,USA,P,Occupational,Occupational,0.51,jev_only,False,False
+683011,Anthony Volpe,Volpe,USA,SS,Cognominal,Cognominal,1.0,source,False,False
+683021,Michael Stefanic,Stefanic,USA,2B,Patronymic,Patronymic,0.85,jev_only,False,False
+683079,Omar Martinez,Martinez,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+683083,Nasim Nuñez,Nuñez,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+683090,Matthew Lugo,Lugo,Puerto Rico,OF,Toponymic,Toponymic,0.81,jev_only,False,False
+683146,Brett Baty,Baty,USA,3B,Other,Other,0.37,jev_only,False,False
+683155,Joey Estes,Estes,USA,P,Toponymic,Toponymic,0.61,source,False,False
+683175,Connor Phillips,Phillips,USA,P,Patronymic,Patronymic,1.0,source,False,False
+683227,Cody Freeman,Freeman,USA,3B,Acquired/assigned,Acquired/assigned,0.94,source,False,False
+683232,Nick Mears,Mears,USA,P,Toponymic,Toponymic,1.0,source,False,False
+683352,Mitch Bratt,Bratt,Canada,P,Other,Other,0.22,jev_only,False,False
+683357,Owen Caissie,Caissie,Canada,OF,Other,Other,0.43,jev_only,False,False
+683363,Matt Wilkinson,Wilkinson,Canada,P,Patronymic,Patronymic,1.0,source,False,False
+683409,Angel Chivilli,Chivilli,Dominican Republic,P,Other,Other,0.76,jev_only,False,False
+683618,Edgardo Henriquez,Henriquez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+683627,Anthony Molina,Molina,Venezuela,P,Occupational,Occupational,0.98,source,False,False
+683679,Jesus Rodriguez,Rodriguez,Venezuela,C,Patronymic,Patronymic,1.0,source,False,False
+683734,Andrew Vaughn,Vaughn,USA,1B,Cognominal,Cognominal,0.89,source,False,False
+683737,Michael Busch,Busch,USA,1B,Toponymic,Toponymic,0.92,source,False,False
+683742,Jose Franco,Franco,Venezuela,P,Cognominal,Cognominal,0.97,source,False,False
+683748,Victor Mesa Jr.,Mesa,Cuba,OF,Toponymic,Toponymic,1.0,source,False,False
+683766,Christian Koss,Koss,USA,SS,Other,Other,0.47,jev_only,False,False
+683769,Hunter Gaddis,Gaddis,USA,P,Toponymic,Toponymic,0.74,source,False,False
+683953,Travis Bazzana,Bazzana,Australia,2B,Toponymic,Toponymic,0.92,source,False,False
+684007,Shota Imanaga,Imanaga,Japan,P,Toponymic,Toponymic,0.79,jev_only,False,False
+684049,Brandan Bidois,Bidois,Australia,P,Other,Other,0.43,jev_only,False,False
+684320,Yariel Rodríguez,Rodríguez,Cuba,P,Patronymic,Patronymic,1.0,source,False,False
+684442,Kohl Drake,Drake,USA,P,Cognominal,Cognominal,0.99,source,False,False
+684516,Hancel Rincon,Rincon,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+684665,Luke Murphy,Murphy,USA,P,Patronymic,Patronymic,1.0,source,False,False
+684974,Craig Yoho,Yoho,USA,P,Other,Other,0.64,jev_only,False,False
+685005,Christian Roa,Roa,USA,P,Toponymic,Toponymic,0.91,source,False,False
+685112,Zach McCambley,McCambley,USA,P,Other,Other,0.49,jev_only,False,False
+685126,Brandon Eisert,Eisert,USA,P,Patronymic,Patronymic,0.34,jev_only,False,False
+685133,Wade Meckler,Meckler,USA,OF,Other,Other,0.51,jev_only,False,False
+685299,Tanner Gordon,Gordon,USA,P,Toponymic,Toponymic,1.0,source,False,False
+685464,Cade Winquest,Winquest,USA,P,Ornamental/artificial,Ornamental/artificial,1.0,source,False,False
+685801,Hunter Bigge,Bigge,USA,P,Cognominal,Cognominal,0.39,jev_only,False,False
+686217,Sal Frelick,Frelick,USA,OF,Other,Other,0.55,jev_only,False,False
+686218,Emmet Sheehan,Sheehan,USA,P,Patronymic,Patronymic,0.93,source,False,False
+686228,Juan Burgos,Burgos,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+686452,Drew Millas,Millas,USA,C,Other,Other,0.38,jev_only,False,False
+686469,Vinnie Pasquantino,Pasquantino,USA,1B,Patronymic,Patronymic,0.99,source,False,False
+686475,Tyler Tolbert,Tolbert,USA,OF,Other,Other,0.26,jev_only,False,False
+686527,Dominic Canzone,Canzone,USA,DH,Occupational,Occupational,0.83,source,False,False
+686554,Oliver Dunn,Dunn,USA,SS,Patronymic,Patronymic,0.51,source,False,False
+686555,Isaac Collins,Collins,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+686560,Gavin Collyer,Collyer,USA,P,Occupational,Occupational,1.0,source,False,False
+686563,Jonathan Cannon,Cannon,USA,P,Patronymic,Patronymic,0.57,source,False,False
+686580,Justin Slaten,Slaten,USA,P,Other,Other,0.38,jev_only,False,False
+686610,Ken Waldichuk,Waldichuk,USA,P,Other,Other,0.43,jev_only,False,False
+686611,Dylan Crews,Crews,USA,OF,Occupational,Occupational,0.51,jev_only,False,False
+686613,Hunter Brown,Brown,USA,P,Cognominal,Cognominal,1.0,source,False,False
+686628,Blake Burkhalter,Burkhalter,USA,P,Occupational,Occupational,0.83,jev_only,False,False
+686668,Brenton Doyle,Doyle,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+686678,Chase Solesky,Solesky,USA,P,Other,Other,0.53,jev_only,False,False
+686681,Michael Massey,Massey,USA,2B,Patronymic,Patronymic,0.8,source,False,False
+686730,Carson Spiers,Spiers,USA,P,Patronymic,Patronymic,0.51,jev_only,False,False
+686747,Joe La Sorsa,La Sorsa,USA,P,Cognominal,Cognominal,0.29,jev_only,False,False
+686751,Seth Johnson,Johnson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+686753,Drey Jameson,Jameson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+686765,Nick Sogard,Sogard,USA,2B,Other,Other,0.58,jev_only,False,False
+686780,Pedro Pagés,Pagés,Venezuela,C,Occupational,Occupational,0.36,jev_only,False,False
+686790,Trevor McDonald,McDonald,USA,P,Patronymic,Patronymic,1.0,source,False,False
+686796,Blake Walston,Walston,USA,P,Toponymic,Toponymic,0.74,jev_only,False,False
+686797,Brooks Lee,Lee,USA,3B,Toponymic,Toponymic,0.97,source,False,False
+686799,Jack Kochanowicz,Kochanowicz,USA,P,Patronymic,Patronymic,0.95,source,False,False
+686823,Will Brennan,Brennan,USA,OF,Patronymic,Patronymic,0.98,source,False,False
+686894,Joey Wiemer,Wiemer,USA,OF,Patronymic,Patronymic,0.45,jev_only,False,False
+686930,Mason Barnett,Barnett,USA,P,Patronymic,Patronymic,0.52,source,False,False
+686934,Alex McFarlane,McFarlane,USA,P,Patronymic,Patronymic,1.0,source,False,False
+686948,Drake Baldwin,Baldwin,USA,C,Patronymic,Patronymic,0.65,source,False,False
+686973,Louis Varland,Varland,USA,P,Toponymic,Toponymic,1.0,source,False,False
+686993,Justin Sterner,Sterner,USA,P,Occupational,Occupational,0.34,jev_only,False,False
+687060,Blake Adams,Adams,USA,P,Patronymic,Patronymic,0.91,source,False,False
+687064,Brandon Young,Young,USA,P,Cognominal,Cognominal,0.98,source,False,False
+687075,Brandon Sproat,Sproat,USA,P,Other,Other,0.37,jev_only,False,False
+687093,Vaughn Grissom,Grissom,USA,1B,Patronymic,Patronymic,0.52,jev_only,False,False
+687134,Bradley Blalock,Blalock,USA,P,Toponymic,Toponymic,0.72,source,False,False
+687209,Zach Maxwell,Maxwell,USA,P,Toponymic,Toponymic,1.0,source,False,False
+687221,Dalton Rushing,Rushing,USA,C,Cognominal,Cognominal,0.85,jev_only,False,False
+687223,Carson Palmquist,Palmquist,USA,P,Ornamental/artificial,Ornamental/artificial,0.75,source,False,False
+687231,Darell Hernaiz,Hernaiz,Puerto Rico,SS,Toponymic,Toponymic,0.31,jev_only,False,False
+687239,Ben Peoples,Peoples,USA,P,Cognominal,Cognominal,0.49,jev_only,False,False
+687263,Zach Neto,Neto,USA,SS,Cognominal,Cognominal,0.54,source,False,False
+687273,Quinn Mathews,Mathews,USA,P,Patronymic,Patronymic,0.97,jev_only,False,False
+687282,Gabriel Rincones Jr.,Rincones,USA,OF,Toponymic,Toponymic,0.99,source,False,False
+687287,Patrick Monteverde,Monteverde,USA,P,Toponymic,Toponymic,0.99,jev_only,False,False
+687309,Cooper Hjerpe,Hjerpe,USA,P,Toponymic,Toponymic,0.61,jev_only,False,False
+687312,Gabriel Hughes,Hughes,USA,P,Patronymic,Patronymic,1.0,source,False,False
+687330,Kevin Kelly,Kelly,USA,P,Patronymic,Patronymic,0.8,source,False,False
+687363,Victor Scott II,Scott,USA,OF,Cognominal,Cognominal,1.0,source,False,False
+687377,Orlando Ribalta,Ribalta,Cuba,P,Toponymic,Toponymic,0.83,jev_only,False,False
+687394,Jack Brannigan,Brannigan,USA,3B,Patronymic,Patronymic,0.99,source,False,False
+687396,Brent Headrick,Headrick,USA,P,Toponymic,Toponymic,1.0,source,False,False
+687401,Joey Ortiz,Ortiz,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+687462,Spencer Horwitz,Horwitz,USA,1B,Toponymic,Toponymic,0.61,source,False,False
+687473,Ryan Gusto,Gusto,USA,P,Cognominal,Cognominal,0.42,jev_only,False,False
+687515,Colby Thomas,Thomas,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+687529,Grant McCray,McCray,USA,OF,Patronymic,Patronymic,0.65,jev_only,False,False
+687531,William Kempner,Kempner,USA,P,Occupational,Occupational,0.51,source,False,False
+687551,Drew Gilbert,Gilbert,USA,OF,Patronymic,Patronymic,0.98,source,False,False
+687562,Jake Bennett,Bennett,USA,P,Patronymic,Patronymic,0.84,source,False,False
+687570,Connor Prielipp,Prielipp,USA,P,Other,Other,0.64,jev_only,False,False
+687597,Jordan Beck,Beck,USA,OF,Toponymic,Toponymic,0.67,source,False,False
+687605,Andrew Pinckney,Pinckney,USA,OF,Toponymic,Toponymic,0.55,jev_only,False,False
+687606,Paxton Schultz,Schultz,USA,P,Occupational,Occupational,1.0,source,False,False
+687637,Dylan Beavers,Beavers,USA,OF,Cognominal,Cognominal,0.67,jev_only,False,False
+687721,Cameron Weston,Weston,USA,P,Toponymic,Toponymic,1.0,source,False,False
+687749,Jase Bowen,Bowen,USA,OF,Patronymic,Patronymic,0.99,source,False,False
+687765,Mitch Spence,Spence,USA,P,Occupational,Occupational,0.4,jev_only,False,False
+687792,DJ Herz,Herz,USA,P,Cognominal,Cognominal,0.53,jev_only,False,False
+687849,Zak Kent,Kent,USA,P,Toponymic,Toponymic,1.0,source,False,False
+687859,Troy Johnston,Johnston,USA,OF,Toponymic,Toponymic,0.91,source,False,False
+687911,Bryan King,King,USA,P,Cognominal,Cognominal,0.98,source,False,False
+687924,Julian Aguiar,Aguiar,USA,P,Toponymic,Toponymic,1.0,source,False,False
+687931,Carson Whisenhunt,Whisenhunt,USA,P,Other,Other,0.33,jev_only,False,False
+687941,Alec Gamboa,Gamboa,USA,P,Toponymic,Toponymic,0.88,source,False,False
+687952,Christian Encarnacion-Strand,Encarnacion-Strand,USA,3B,Compound,Patronage,0.6,hand,True,False
+687957,Dustin Harris,Harris,USA,OF,Patronymic,Patronymic,0.99,source,False,False
+687985,Josh White,White,USA,P,Cognominal,Cognominal,1.0,source,False,False
+688107,Robert Gasser,Gasser,USA,P,Toponymic,Toponymic,1.0,source,False,False
+688158,David Morgan,Morgan,USA,P,Patronymic,Patronymic,0.89,source,False,False
+688297,Chris Roycroft,Roycroft,USA,P,Toponymic,Toponymic,0.78,source,False,False
+688363,Graham Pauley,Pauley,USA,3B,Patronymic,Patronymic,1.0,source,False,False
+688497,Taylor Rashi,Rashi,USA,P,Other,Other,0.49,jev_only,False,False
+688642,Zach Agnos,Agnos,USA,P,Other,Other,0.63,jev_only,False,False
+688692,Jared Simpson,Simpson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+688883,Peyton Pallette,Pallette,USA,P,Occupational,Occupational,0.98,source,False,False
+689017,Landon Knack,Knack,USA,P,Cognominal,Cognominal,0.95,source,False,False
+689147,Orion Kerkering,Kerkering,USA,P,Other,Other,0.38,jev_only,False,False
+689149,Chad Dallas,Dallas,USA,P,Toponymic,Toponymic,1.0,source,False,False
+689225,Beau Brieske,Brieske,USA,P,Other,Other,0.43,jev_only,False,False
+689254,Mason Fluharty,Fluharty,USA,P,Patronymic,Patronymic,0.8,source,False,False
+689266,Dylan Dodd,Dodd,USA,P,Patronymic,Patronymic,0.74,source,False,False
+689296,Anthony Nunez,Nunez,USA,P,Patronymic,Patronymic,1.0,source,False,False
+689414,Liam Hicks,Hicks,Canada,C,Patronymic,Patronymic,0.95,source,False,False
+689441,Coleman Crow,Crow,USA,P,Cognominal,Cognominal,0.89,source,False,False
+689520,Cody Laweryson,Laweryson,USA,P,Patronymic,Patronymic,0.61,jev_only,False,False
+689546,Nick Davila,Davila,USA,P,Toponymic,Toponymic,1.0,source,False,False
+689690,Alek Jacob,Jacob,USA,P,Patronymic,Patronymic,1.0,source,False,False
+689818,David Sandlin,Sandlin,USA,P,Other,Other,0.38,jev_only,False,False
+689981,River Ryan,Ryan,USA,P,Patronymic,Patronymic,1.0,source,False,False
+690022,Ryan Ritter,Ritter,USA,2B,Occupational,Occupational,0.78,source,False,False
+690155,Matt Pushard,Pushard,USA,P,Other,Other,0.75,jev_only,False,False
+690279,Mason Adams,Adams,USA,P,Patronymic,Patronymic,0.91,source,False,False
+690291,Jace Jung,Jung,USA,DH,Cognominal,Cognominal,0.83,source,False,False
+690440,Bradley Hanner,Hanner,USA,P,Patronymic,Patronymic,0.56,jev_only,False,False
+690829,Ben Joyce,Joyce,USA,P,Patronymic,Patronymic,0.98,source,False,False
+690924,Braxton Fulford,Fulford,USA,C,Toponymic,Toponymic,0.98,source,False,False
+690925,Clayton Beeter,Beeter,USA,P,Other,Other,0.47,jev_only,False,False
+690928,Hunter Dobbins,Dobbins,USA,P,Patronymic,Patronymic,0.88,source,False,False
+690953,Mick Abel,Abel,USA,P,Patronymic,Patronymic,1.0,source,False,False
+690976,Alex Freeland,Freeland,USA,2B,Toponymic,Toponymic,0.37,jev_only,False,False
+690978,Dax Fulton,Fulton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+690984,Petey Halpin,Halpin,USA,OF,Patronymic,Patronymic,0.4,jev_only,False,False
+690986,Kyle Harrison,Harrison,USA,P,Patronymic,Patronymic,1.0,source,False,False
+690990,Cade Horton,Horton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+690993,Colt Keith,Keith,USA,3B,Toponymic,Toponymic,0.99,source,False,False
+690997,Nolan McLean,McLean,USA,P,Patronymic,Patronymic,0.73,source,False,False
+691002,Yohandy Morales,Morales,USA,1B,Toponymic,Toponymic,0.87,source,False,False
+691008,Max Rajcic,Rajcic,USA,P,Patronymic,Patronymic,0.29,jev_only,False,False
+691011,Drew Romo,Romo,USA,C,Patronymic,Patronymic,0.89,source,False,False
+691016,Tyler Soderstrom,Soderstrom,USA,OF,Toponymic,Toponymic,0.95,source,False,False
+691019,Kyle Teel,Teel,USA,C,Other,Other,0.57,jev_only,False,False
+691023,Jordan Walker,Walker,USA,OF,Occupational,Occupational,1.0,source,False,False
+691026,Masyn Winn,Winn,USA,SS,Cognominal,Cognominal,0.55,source,False,False
+691176,Jasson Domínguez,Domínguez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+691181,Emmanuel Rodriguez,Rodriguez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+691182,Adael Amador,Amador,Dominican Republic,2B,Patronymic,Patronymic,0.81,jev_only,False,False
+691277,Deyvison De Los Santos,De Los Santos,Dominican Republic,1B,Patronage,Patronage,1.0,jev_only,False,False
+691373,Jhostynxon Garcia,Garcia,Venezuela,OF,Patronymic,Patronymic,0.76,source,False,False
+691384,Luis Perales,Perales,Venezuela,P,Patronymic,Patronymic,0.29,jev_only,False,False
+691406,Junior Caminero,Caminero,Dominican Republic,3B,Occupational,Occupational,0.92,source,False,False
+691458,Blaze Jordan,Jordan,USA,3B,Patronymic,Patronymic,0.89,source,False,False
+691548,Rolddy Muñoz,Muñoz,Dominican Republic,P,Patronymic,Patronymic,0.97,source,False,False
+691587,Eury Pérez,Pérez,Dominican Republic,P,Patronymic,Patronymic,1.0,source,False,False
+691594,Javier Sanoja,Sanoja,Venezuela,3B,Other,Other,0.66,source,False,False
+691620,Jeferson Quero,Quero,Venezuela,C,Other,Other,0.56,jev_only,False,False
+691718,Pete Crow-Armstrong,Crow-Armstrong,USA,OF,Cognominal,Cognominal,0.49,hand,True,False
+691720,Kyle Karros,Karros,USA,3B,Other,Other,0.61,jev_only,False,False
+691723,Coby Mayo,Mayo,USA,3B,Toponymic,Toponymic,0.91,source,False,False
+691725,Andrew Painter,Painter,USA,P,Occupational,Occupational,1.0,source,False,False
+691728,Zac Veen,Veen,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+691740,Daniel Susac,Susac,USA,C,Other,Other,0.42,jev_only,False,False
+691769,Philip Abner,Abner,USA,P,Patronymic,Patronymic,0.92,jev_only,False,False
+691777,Max Muncy,Muncy,USA,3B,Toponymic,Toponymic,1.0,source,False,False
+691781,Brady House,House,USA,3B,Toponymic,Toponymic,0.98,source,False,False
+691783,Jordan Lawlar,Lawlar,USA,OF,Other,Other,0.7,jev_only,False,False
+691785,Marcelo Mayer,Mayer,USA,2B,Occupational,Occupational,0.56,source,False,False
+691788,Joe Mack,Mack,USA,C,Patronymic,Patronymic,0.64,source,False,False
+691799,Grant Taylor,Taylor,USA,P,Occupational,Occupational,1.0,source,False,False
+691858,Jared Serna,Serna,Mexico,2B,Toponymic,Toponymic,0.93,source,False,False
+691907,Tsung-Che Cheng,Cheng,Taiwan,SS,Toponymic,Toponymic,0.62,jev_only,False,False
+691945,Carter Baumler,Baumler,USA,P,Occupational,Occupational,0.76,source,False,False
+691946,George Klassen,Klassen,USA,P,Patronymic,Patronymic,0.55,jev_only,False,False
+691951,Sam Aldegheri,Aldegheri,Italy,P,Patronymic,Patronymic,0.48,jev_only,False,False
+692030,Jose Corniell,Corniell,Dominican Republic,P,Other,Other,0.54,jev_only,False,False
+692064,José Rodríguez,Rodríguez,Mexico,P,Patronymic,Patronymic,1.0,source,False,False
+692216,CJ Kayfus,Kayfus,USA,OF,Other,Other,0.89,jev_only,False,False
+692230,Carlos Rodriguez,Rodriguez,Nicaragua,P,Patronymic,Patronymic,1.0,source,False,False
+692437,Winston Santos,Santos,Dominican Republic,P,Patronage,Patronage,0.97,source,False,False
+693304,Nick Gonzales,Gonzales,USA,3B,Patronymic,Patronymic,1.0,source,False,False
+693306,Aaron Sabato,Sabato,USA,1B,Patronymic,Patronymic,0.66,jev_only,False,False
+693307,Dillon Dingler,Dingler,USA,C,Occupational,Occupational,1.0,source,False,False
+693308,Nick Frasso,Frasso,USA,P,Toponymic,Toponymic,0.94,jev_only,False,False
+693312,Kyle Nicolas,Nicolas,USA,P,Patronymic,Patronymic,1.0,source,False,False
+693313,Carson Seymour,Seymour,USA,P,Toponymic,Toponymic,0.99,source,False,False
+693409,César Prieto,Prieto,Cuba,3B,Cognominal,Cognominal,1.0,source,False,False
+693433,Bryan Woo,Woo,USA,P,Other,Other,0.65,source,False,False
+693459,Kyler Fedko,Fedko,USA,OF,Patronymic,Patronymic,0.82,jev_only,False,False
+693645,Cam Schlittler,Schlittler,USA,P,Occupational,Occupational,0.48,source,False,False
+693686,Spencer Miles,Miles,USA,P,Patronymic,Patronymic,0.95,source,False,False
+693713,Emiliano Teodo,Teodo,Dominican Republic,P,Patronymic,Patronymic,0.36,jev_only,False,False
+693821,Bryce Elder,Elder,USA,P,Cognominal,Cognominal,0.78,jev_only,False,False
+693855,Ian Seymour,Seymour,USA,P,Toponymic,Toponymic,0.99,source,False,False
+694025,Felix Reyes,Reyes,Dominican Republic,OF,Cognominal,Cognominal,0.52,source,False,False
+694037,Daniel Palencia,Palencia,Venezuela,P,Toponymic,Toponymic,0.99,jev_only,False,False
+694192,Jackson Chourio,Chourio,Venezuela,OF,Other,Other,0.55,jev_only,False,False
+694197,Angel Genao,Genao,Dominican Republic,2B,Other,Other,0.75,jev_only,False,False
+694203,Denzer Guzman,Guzman,Dominican Republic,3B,Patronymic,Patronymic,0.52,source,False,False
+694208,Moisés Ballesteros,Ballesteros,Venezuela,DH,Occupational,Occupational,1.0,source,False,False
+694212,Samuel Basallo,Basallo,Dominican Republic,C,Other,Other,0.75,jev_only,False,False
+694224,Gabriel Gonzalez,Gonzalez,Venezuela,OF,Patronymic,Patronymic,1.0,source,False,False
+694249,Cole Carrigg,Carrigg,USA,OF,Toponymic,Toponymic,0.46,jev_only,False,False
+694297,Brandon Pfaadt,Pfaadt,USA,P,Other,Other,0.71,jev_only,False,False
+694335,Matt Svanson,Svanson,USA,P,Patronymic,Patronymic,0.92,jev_only,False,False
+694341,Brendan Beck,Beck,USA,P,Toponymic,Toponymic,0.67,source,False,False
+694346,Trey Gibson,Gibson,USA,P,Patronymic,Patronymic,0.68,source,False,False
+694350,Zach Brzykcy,Brzykcy,USA,P,Cognominal,Cognominal,0.53,source,False,False
+694357,Ricky Tiedemann,Tiedemann,USA,P,Patronymic,Patronymic,0.9,jev_only,False,False
+694360,Beck Way,Way,USA,P,Toponymic,Toponymic,0.36,source,False,False
+694361,Will Klein,Klein,USA,P,Cognominal,Cognominal,1.0,source,False,False
+694362,Blake Dunn,Dunn,USA,OF,Patronymic,Patronymic,0.51,source,False,False
+694363,Jared Shuster,Shuster,USA,P,Other,Other,0.22,jev_only,False,False
+694371,Tommy Troy,Troy,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+694374,Tim Tawa,Tawa,USA,OF,Other,Other,0.87,jev_only,False,False
+694376,Shay Whitcomb,Whitcomb,USA,3B,Toponymic,Toponymic,0.98,source,False,False
+694377,Nick Yorke,Yorke,USA,3B,Toponymic,Toponymic,1.0,source,False,False
+694378,Jacob Gonzalez,Gonzalez,USA,1B,Patronymic,Patronymic,1.0,source,False,False
+694384,Nolan Schanuel,Schanuel,USA,1B,Other,Other,0.26,jev_only,False,False
+694388,Joey Loperfido,Loperfido,USA,OF,Cognominal,Cognominal,0.33,jev_only,False,False
+694397,Marco Raya,Raya,USA,P,Other,Other,0.49,source,False,False
+694410,LuJames Groover,Groover,USA,1B,Occupational,Occupational,0.54,jev_only,False,False
+694462,Hurston Waldrep,Waldrep,USA,P,Toponymic,Toponymic,0.72,source,False,False
+694477,Chad Patrick,Patrick,USA,P,Patronymic,Patronymic,0.98,source,False,False
+694494,Ty Johnson,Johnson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+694497,Evan Carter,Carter,USA,OF,Occupational,Occupational,1.0,source,False,False
+694514,Sterlin Thompson,Thompson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+694646,Chayce McDermott,McDermott,USA,P,Patronymic,Patronymic,1.0,source,False,False
+694671,Wyatt Langford,Langford,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+694673,Abimelec Ortiz,Ortiz,Puerto Rico,1B,Patronymic,Patronymic,1.0,source,False,False
+694680,Trevor Martin,Martin,USA,P,Patronymic,Patronymic,0.97,source,False,False
+694728,Brice Matthews,Matthews,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+694738,Landen Roupp,Roupp,USA,P,Other,Other,0.57,jev_only,False,False
+694753,Khristian Curtis,Curtis,USA,P,Cognominal,Cognominal,1.0,source,False,False
+694795,Josh Ekness,Ekness,USA,P,Other,Other,0.66,jev_only,False,False
+694819,Jacob Misiorowski,Misiorowski,USA,P,Cognominal,Patronymic,0.29,hand,False,True
+694820,Braxton Roxby,Roxby,USA,P,Toponymic,Toponymic,0.93,jev_only,False,False
+694851,Andrew Hoffmann,Hoffmann,USA,P,Occupational,Occupational,1.0,source,False,False
+694876,Cooper Ingle,Ingle,USA,OF,Other,Other,0.18,jev_only,False,False
+694918,Blade Tidwell,Tidwell,USA,P,Toponymic,Toponymic,1.0,source,False,False
+694973,Paul Skenes,Skenes,USA,P,Toponymic,Toponymic,1.0,source,False,False
+695001,Alimber Santa,Santa,Dominican Republic,P,Toponymic,Toponymic,0.66,source,False,False
+695020,Tanner Murray,Murray,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+695034,Kade Morris,Morris,USA,P,Patronymic,Patronymic,0.99,source,False,False
+695049,Brett Kerry,Kerry,USA,P,Patronymic,Patronymic,0.49,source,False,False
+695076,Rhett Lowder,Lowder,USA,P,Toponymic,Toponymic,0.99,source,False,False
+695238,Will Wagner,Wagner,USA,DH,Occupational,Occupational,1.0,source,False,False
+695239,Robby Ahlstrom,Ahlstrom,USA,P,Toponymic,Toponymic,0.99,source,False,False
+695243,Mason Miller,Miller,USA,P,Occupational,Occupational,1.0,source,False,False
+695257,Billy Cook,Cook,USA,OF,Occupational,Occupational,1.0,source,False,False
+695336,Thomas Saggese,Saggese,USA,SS,Other,Other,0.28,source,False,False
+695378,Jack Sinclair,Sinclair,USA,P,Patronage,Patronage,0.65,source,False,False
+695380,Alex Hoppe,Hoppe,USA,P,Cognominal,Cognominal,0.87,source,False,False
+695391,Brett Harris,Harris,USA,1B,Patronymic,Patronymic,0.99,source,False,False
+695418,Brad Lord,Lord,USA,P,Cognominal,Cognominal,0.71,source,False,False
+695445,Chase Lee,Lee,USA,P,Toponymic,Toponymic,0.97,source,False,False
+695490,Edwin Arroyo,Arroyo,Puerto Rico,2B,Toponymic,Toponymic,1.0,source,False,False
+695491,Joshua Báez,Báez,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+695505,Chase Burns,Burns,Italy,P,Toponymic,Toponymic,0.95,source,False,False
+695506,Jac Caglianone,Caglianone,USA,OF,Toponymic,Toponymic,0.8,jev_only,False,False
+695508,Cam Cauley,Cauley,USA,OF,Toponymic,Toponymic,0.35,jev_only,False,False
+695534,Chase Petty,Petty,USA,P,Cognominal,Cognominal,0.51,jev_only,False,False
+695549,Jackson Jobe,Jobe,USA,P,Other,Other,0.45,jev_only,False,False
+695578,James Wood,Wood,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+695600,Carter Jensen,Jensen,USA,C,Patronymic,Patronymic,1.0,source,False,False
+695611,Gage Jump,Jump,USA,P,Cognominal,Cognominal,0.84,jev_only,False,False
+695657,Colson Montgomery,Montgomery,USA,SS,Toponymic,Toponymic,1.0,source,False,False
+695670,Harry Ford,Ford,USA,C,Toponymic,Toponymic,0.98,source,False,False
+695681,Christian Moore,Moore,USA,2B,Cognominal,Cognominal,0.37,source,False,False
+695684,Elmer Rodríguez,Rodríguez,Puerto Rico,P,Patronymic,Patronymic,1.0,source,False,False
+695720,Tommy White,White,USA,1B,Cognominal,Cognominal,1.0,source,False,False
+695731,Braden Montgomery,Montgomery,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+695734,Daylen Lile,Lile,USA,OF,Cognominal,Cognominal,0.49,jev_only,False,False
+696030,Alejandro Osuna,Osuna,Mexico,OF,Toponymic,Toponymic,1.0,source,False,False
+696062,Wilber Dotel,Dotel,Dominican Republic,P,Other,Other,0.66,jev_only,False,False
+696070,Kendry Rojas,Rojas,Cuba,P,Cognominal,Cognominal,0.92,source,False,False
+696100,Hunter Goodman,Goodman,USA,C,Cognominal,Cognominal,0.87,source,False,False
+696131,Mason Black,Black,USA,P,Cognominal,Cognominal,1.0,source,False,False
+696135,Kahlil Watson,Watson,USA,OF,Patronymic,Patronymic,0.91,source,False,False
+696136,Jordan Wicks,Wicks,USA,P,Occupational,Occupational,0.82,jev_only,False,False
+696146,Hagen Smith,Smith,USA,P,Occupational,Occupational,1.0,source,False,False
+696147,Sam Bachman,Bachman,USA,P,Occupational,Occupational,0.38,jev_only,False,False
+696149,Bubba Chandler,Chandler,USA,P,Occupational,Occupational,1.0,source,False,False
+696270,Ryan Johnson,Johnson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+696285,Jacob Young,Young,USA,OF,Cognominal,Cognominal,0.98,source,False,False
+696519,Samy Natera Jr.,Natera,Mexico,P,Other,Other,0.43,jev_only,False,False
+696522,Hayden Juenger,Juenger,USA,P,Cognominal,Cognominal,0.51,source,False,False
+697811,Dylan Ross,Ross,USA,P,Toponymic,Toponymic,0.99,source,False,False
+697812,Joe Rock,Rock,USA,P,Toponymic,Toponymic,0.98,source,False,False
+699008,Antwone Kelly,Kelly,Aruba,P,Patronymic,Patronymic,0.84,source,False,False
+699013,Esmerlyn Valdez,Valdez,Dominican Republic,OF,Toponymic,Toponymic,0.91,source,False,False
+699024,Leo Bernal,Bernal,Panama,C,Patronymic,Patronymic,0.93,source,False,False
+699044,Miguel Ullola,Ullola,Dominican Republic,P,Other,Other,0.74,jev_only,False,False
+699115,Carlos Jorge,Jorge,Dominican Republic,OF,Patronymic,Patronymic,0.92,jev_only,False,False
+699134,Bradgley Rodriguez,Rodriguez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+699151,Jedixson Paez,Paez,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+699302,Héctor Rodríguez,Rodríguez,Dominican Republic,OF,Patronymic,Patronymic,1.0,source,False,False
+699393,Pedro Ramírez,Ramírez,Venezuela,2B,Patronymic,Patronymic,1.0,source,False,False
+699625,Jimmy Crooks,Crooks,USA,C,Cognominal,Cognominal,0.89,jev_only,False,False
+699823,Tyler Davis,Davis,USA,P,Patronymic,Patronymic,1.0,source,False,False
+699912,Jose Fernandez,Fernandez,Venezuela,3B,Patronymic,Patronymic,1.0,source,False,False
+700187,Troy Taylor,Taylor,USA,P,Occupational,Occupational,1.0,source,False,False
+700241,Michael McGreevy,McGreevy,USA,P,Patronymic,Patronymic,0.65,source,False,False
+700246,Carson Williams,Williams,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+700249,Cade Povich,Povich,USA,P,Patronymic,Patronymic,0.45,jev_only,False,False
+700250,Ben Rice,Rice,USA,DH,Patronymic,Patronymic,0.97,source,False,False
+700270,Yilber Díaz,Díaz,Venezuela,P,Patronymic,Patronymic,1.0,source,False,False
+700327,Welinton Herrera,Herrera,Dominican Republic,P,Occupational,Occupational,0.99,source,False,False
+700337,Edgar Quero,Quero,Cuba,C,Other,Other,0.56,jev_only,False,False
+700363,AJ Smith-Shawver,Smith-Shawver,USA,P,Occupational,Occupational,0.47,hand,True,False
+700413,Tyler Uberstine,Uberstine,USA,P,Other,Other,0.49,jev_only,False,False
+700652,Kenny Piper,Piper,USA,C,Occupational,Occupational,0.88,source,False,False
+700669,Gordon Graceffo,Graceffo,USA,P,Cognominal,Cognominal,0.29,jev_only,False,False
+700712,Walbert Ureña,Ureña,Dominican Republic,P,Toponymic,Toponymic,1.0,source,False,False
+700842,Eduardo Rivera,Rivera,Puerto Rico,P,Toponymic,Toponymic,1.0,source,False,False
+700932,Kyle Manzardo,Manzardo,USA,1B,Other,Other,0.36,jev_only,False,False
+701121,Logan VanWey,VanWey,USA,P,Toponymic,Toponymic,0.55,jev_only,False,False
+701162,Ben Malgeri,Malgeri,USA,OF,Occupational,Occupational,0.93,source,False,False
+701305,Zach Dezenzo,Dezenzo,USA,OF,Patronymic,Patronymic,0.61,jev_only,False,False
+701350,Roman Anthony,Anthony,USA,OF,Patronymic,Patronymic,0.98,source,False,False
+701358,Cam Smith,Smith,USA,OF,Occupational,Occupational,1.0,source,False,False
+701398,Sal Stewart,Stewart,USA,1B,Occupational,Occupational,1.0,source,False,False
+701474,Duncan Davitt,Davitt,USA,P,Patronymic,Patronymic,0.99,source,False,False
+701519,Travis Adams,Adams,USA,P,Patronymic,Patronymic,0.91,source,False,False
+701538,Jackson Merrill,Merrill,USA,OF,Patronymic,Matronymic,0.75,source,False,False
+701542,Will Warren,Warren,USA,P,Toponymic,Toponymic,1.0,source,False,False
+701552,Andre Granillo,Granillo,USA,P,Cognominal,Cognominal,0.45,jev_only,False,False
+701649,James Triantos,Triantos,USA,2B,Patronymic,Patronymic,0.78,jev_only,False,False
+701656,Logan Henderson,Henderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+701675,Nathan Church,Church,USA,OF,Toponymic,Toponymic,0.29,source,False,False
+701678,Hao-Yu Lee,Lee,Taiwan,2B,Other,Other,0.28,jev_only,False,False
+701719,Tyler Samaniego,Samaniego,USA,P,Toponymic,Toponymic,1.0,source,False,False
+701762,Nick Kurtz,Kurtz,USA,1B,Cognominal,Cognominal,0.93,source,False,False
+701780,Tanner McDougal,McDougal,USA,P,Patronymic,Patronymic,0.99,source,False,False
+701785,Kaelen Culpepper,Culpepper,USA,SS,Occupational,Occupational,0.97,source,False,False
+701807,Carson Benge,Benge,USA,OF,Patronymic,Patronymic,0.62,source,False,False
+701852,Drew Cavanaugh,Cavanaugh,USA,C,Patronymic,Patronymic,0.53,source,False,False
+702021,Will Dion,Dion,USA,P,Patronymic,Patronymic,0.99,source,False,False
+702047,Alex Cook,Cook,USA,P,Occupational,Occupational,1.0,source,False,False
+702056,Trey Yesavage,Yesavage,USA,P,Other,Other,0.47,jev_only,False,False
+702070,Noah Cameron,Cameron,USA,P,Cognominal,Cognominal,0.68,source,False,False
+702153,Brian Fitzpatrick,Fitzpatrick,USA,P,Patronymic,Patronymic,0.8,source,False,False
+702176,Alan Roden,Roden,USA,OF,Toponymic,Toponymic,0.55,jev_only,False,False
+702193,Andrew Morris,Morris,USA,P,Patronymic,Patronymic,0.99,source,False,False
+702222,Justin Crawford,Crawford,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+702273,Noah Schultz,Schultz,USA,P,Occupational,Occupational,1.0,source,False,False
+702275,JR Ritchie,Ritchie,USA,P,Patronymic,Patronymic,0.99,source,False,False
+702281,Robby Snelling,Snelling,USA,P,Other,Other,0.27,jev_only,False,False
+702284,Cole Young,Young,USA,2B,Cognominal,Cognominal,0.98,source,False,False
+702303,Riley Martin,Martin,USA,P,Patronymic,Patronymic,0.97,source,False,False
+702332,Caleb Durbin,Durbin,USA,3B,Toponymic,Toponymic,0.64,source,False,False
+702352,Spencer Bivens,Bivens,USA,P,Patronymic,Patronymic,0.33,jev_only,False,False
+702474,Mike Paredes,Paredes,USA,P,Toponymic,Toponymic,0.85,source,False,False
+702566,Owen Murphy,Murphy,USA,P,Patronymic,Patronymic,1.0,source,False,False
+702616,Jackson Holliday,Holliday,USA,2B,Cognominal,Cognominal,0.57,source,False,False
+702752,Jonathan Pintaro,Pintaro,USA,P,Other,Other,0.42,jev_only,False,False
+702885,Cesar Perdomo,Perdomo,Venezuela,P,Cognominal,Cognominal,0.54,source,False,False
+703155,Lazaro Montes,Montes,Cuba,OF,Toponymic,Toponymic,1.0,source,False,False
+703197,Michael Arroyo,Arroyo,Colombia,2B,Toponymic,Toponymic,1.0,source,False,False
+703492,Nick Morabito,Morabito,USA,OF,Occupational,Occupational,0.72,source,False,False
+703520,Brett Bateman,Bateman,USA,OF,Patronage,Patronage,0.61,source,False,False
+703601,Max Clark,Clark,USA,OF,Occupational,Occupational,0.99,source,False,False
+703607,Henry Bolte,Bolte,USA,OF,Cognominal,Cognominal,0.62,source,False,False
+703615,Jose Cabrera,Cabrera,Dominican Republic,P,Occupational,Occupational,0.99,source,False,False
+703725,Luis Gastelum,Gastelum,Mexico,P,Other,Other,0.33,jev_only,False,False
+800048,Parker Messick,Messick,USA,P,Toponymic,Toponymic,0.75,source,False,False
+800050,Chase DeLauter,DeLauter,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+800311,Didier Fuentes,Fuentes,Colombia,P,Toponymic,Toponymic,1.0,source,False,False
+800325,Luis Lara,Lara,Venezuela,OF,Toponymic,Toponymic,0.47,source,False,False
+800543,Josue De Paula,De Paula,USA,DH,Patronymic,Matronymic,0.53,jev_only,False,False
+800600,Jackson Kent,Kent,USA,P,Toponymic,Toponymic,1.0,source,False,False
+801126,Brock Rodden,Rodden,USA,3B,Other,Other,0.4,jev_only,False,False
+801139,Payton Tolle,Tolle,USA,P,Occupational,Occupational,1.0,source,False,False
+801403,Chase Dollander,Dollander,USA,P,Other,Other,0.66,jev_only,False,False
+801434,Paul Gervase,Gervase,USA,P,Patronymic,Patronymic,0.88,jev_only,False,False
+801501,Nate Furman,Furman,USA,2B,Patronymic,Patronymic,0.89,source,False,False
+801725,Luis De León,De León,Dominican Republic,P,Toponymic,Toponymic,0.57,jev_only,False,False
+802139,JJ Wetherholt,Wetherholt,USA,2B,Toponymic,Toponymic,0.42,source,False,False
+802408,Brycen Mautz,Mautz,USA,P,Other,Other,0.37,source,False,False
+802415,Chandler Simpson,Simpson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+803011,Sam Antonacci,Antonacci,USA,OF,Patronymic,Patronymic,0.95,source,False,False
+804267,Zac Thornton,Thornton,USA,P,Toponymic,Toponymic,1.0,source,False,False
+804606,Konnor Griffin,Griffin,USA,SS,Patronymic,Patronymic,0.66,source,False,False
+804619,John Klein,Klein,USA,P,Cognominal,Cognominal,1.0,source,False,False
+804636,Jonah Tong,Tong,Canada,P,Other,Other,0.7,source,False,False
+804668,Rafael Flores Jr.,Flores,USA,C,Cognominal,Cognominal,0.26,source,False,False
+804926,Austin Peterson,Peterson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+805074,Yunior Marte,Marte,Dominican Republic,P,Patronymic,Patronymic,0.75,source,False,False
+805123,AJ Blubaugh,Blubaugh,USA,P,Other,Other,0.58,jev_only,False,False
+805249,Otto Kemp,Kemp,USA,OF,Cognominal,Cognominal,0.78,source,False,False
+805299,Brandyn Garcia,Garcia,USA,P,Patronymic,Patronymic,0.85,source,False,False
+805300,Jakob Marsee,Marsee,USA,OF,Other,Other,0.47,jev_only,False,False
+805326,Tyler Schweitzer,Schweitzer,USA,P,Cognominal,Cognominal,0.67,source,False,False
+805345,Trent Harris,Harris,USA,P,Patronymic,Patronymic,0.99,source,False,False
+805346,Ben Ross,Ross,USA,SS,Toponymic,Toponymic,0.99,source,False,False
+805347,Jim Jarvis,Jarvis,USA,SS,Patronymic,Patronymic,0.99,source,False,False
+805367,Chase Meidroth,Meidroth,USA,2B,Other,Other,0.6,jev_only,False,False
+805427,Drew Sommers,Sommers,USA,P,Occupational,Occupational,0.21,jev_only,False,False
+805672,Collin Price,Price,USA,C,Patronymic,Patronymic,0.7,source,False,False
+805673,Zebby Matthews,Matthews,USA,P,Patronymic,Patronymic,1.0,source,False,False
+805779,Jacob Wilson,Wilson,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+805805,Walker Jenkins,Jenkins,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+805808,Kevin McGonigle,McGonigle,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+805811,Bryce Eldridge,Eldridge,USA,DH,Patronymic,Patronymic,0.83,source,False,False
+805904,Zach Cole,Cole,USA,OF,Cognominal,Cognominal,0.67,source,False,False
+805999,A.J. Ewing,Ewing,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+806068,Colt Emerson,Emerson,USA,SS,Patronymic,Patronymic,1.0,source,False,False
+806146,George Lombard Jr.,Lombard,USA,SS,Cognominal,Cognominal,0.98,source,False,False
+806188,Cade Gibson,Gibson,USA,P,Patronymic,Patronymic,0.68,source,False,False
+806198,Cooper Pratt,Pratt,USA,SS,Toponymic,Toponymic,0.93,source,False,False
+806367,Turner Hill,Hill,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+806956,Ethan Salas,Salas,USA,C,Toponymic,Toponymic,1.0,source,False,False
+806960,Luis Morales,Morales,Cuba,P,Toponymic,Toponymic,0.99,source,False,False
+807712,Luke Keaschall,Keaschall,USA,OF,Other,Other,0.68,jev_only,False,False
+807713,Matt Shaw,Shaw,USA,OF,Toponymic,Toponymic,1.0,source,False,False
+807726,John Peck,Peck,USA,SS,Cognominal,Cognominal,0.25,source,False,False
+807727,Charles McAdoo,McAdoo,USA,2B,Patronymic,Patronymic,0.98,source,False,False
+807739,Kade Anderson,Anderson,USA,P,Patronymic,Patronymic,1.0,source,False,False
+807743,Sean Sullivan,Sullivan,USA,P,Patronymic,Patronymic,0.67,source,False,False
+807747,Rikuu Nishida,Nishida,Japan,OF,Toponymic,Toponymic,0.99,source,False,False
+807799,Masataka Yoshida,Yoshida,Japan,DH,Toponymic,Toponymic,1.0,source,False,False
+808825,Andrew Sears,Sears,USA,P,Patronymic,Patronymic,0.26,jev_only,False,False
+808959,Munetaka Murakami,Murakami,Japan,1B,Toponymic,Toponymic,1.0,source,False,False
+808963,Roki Sasaki,Sasaki,Japan,P,Toponymic,Toponymic,0.91,source,False,False
+808967,Yoshinobu Yamamoto,Yamamoto,Japan,P,Toponymic,Toponymic,1.0,source,False,False
+808970,Woo-Suk Go,Go,Republic of Korea,P,Toponymic,Toponymic,0.38,jev_only,False,False
+808975,Hyeseong Kim,Kim,Republic of Korea,SS,Toponymic,Toponymic,0.64,jev_only,False,False
+808982,Jung Hoo Lee,Lee,Republic of Korea,OF,Toponymic,Toponymic,0.25,jev_only,False,False
+810938,Ben Williamson,Williamson,USA,2B,Patronymic,Patronymic,1.0,source,False,False
+811315,Brody Hopkins,Hopkins,USA,P,Patronymic,Patronymic,1.0,source,False,False
+811965,Joshua Kuroda-Grauer,Kuroda-Grauer,USA,3B,Compound,Other,0.43,hand,True,False
+813349,Connelly Early,Early,USA,P,Cognominal,Cognominal,0.62,jev_only,False,False
+813841,Jonah Cox,Cox,USA,OF,Patronymic,Patronymic,0.62,source,False,False
+814154,Scott Bandura,Bandura,USA,OF,Other,Other,0.34,jev_only,False,False
+814305,Yunior Tur,Tur,Cuba,P,Toponymic,Toponymic,0.7,source,False,False
+814430,Brett Callahan,Callahan,USA,OF,Patronymic,Patronymic,0.98,source,False,False
+814439,Ryan Waldschmidt,Waldschmidt,USA,OF,Occupational,Occupational,0.81,source,False,False
+814490,Ethan Pecko,Pecko,USA,P,Other,Other,0.58,jev_only,False,False
+815081,Mark Manfredi,Manfredi,USA,P,Patronymic,Patronymic,0.94,jev_only,False,False
+815083,Mitch Farris,Farris,USA,P,Occupational,Occupational,0.63,source,False,False
+815589,Bo Davidson,Davidson,USA,OF,Patronymic,Patronymic,1.0,source,False,False
+815873,Sean Keys,Keys,USA,1B,Occupational,Occupational,0.72,jev_only,False,False
+820862,José Fermin,Fermin,Dominican Republic,P,Patronymic,Patronymic,0.84,jev_only,False,False
+823550,Sung-Mun Song,Song,Republic of Korea,2B,Other,Other,0.3,jev_only,False,False
+828599,Lucas Spence,Spence,USA,OF,Occupational,Occupational,0.4,jev_only,False,False
+837227,Tatsuya Imai,Imai,Japan,P,Toponymic,Toponymic,0.98,source,False,False
