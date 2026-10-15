@@ -5,9 +5,9 @@ A game where all you need is a last name. Every 2026 Major League Baseball playe
 This folder is the behind-the-scenes companion to David the Data Dude's Instagram Reel and carousel.
 
 <p align="center">
-  <a href="https://www.instagram.com/p/DehLzE8lCwS/"><img src="cover.jpg" alt="Reel cover: the World Series of Last Names" width="300"></a>
+  <a href="https://www.instagram.com/reel/DegxmR8Bf4h/"><img src="cover.jpg" alt="Reel cover: the World Series of Last Names" width="300"></a>
   <br>
-  <b>▶ <a href="https://www.instagram.com/p/DehLzE8lCwS/">See it on Instagram</a></b>
+  <b>▶ <a href="https://www.instagram.com/reel/DegxmR8Bf4h/">Watch the Reel on Instagram</a></b> · <a href="https://www.instagram.com/p/DehLzE8lCwS/">See the carousel</a>
 </p>
 
 ## The result
