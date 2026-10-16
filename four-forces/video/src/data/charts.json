@@ -1,0 +1,78 @@
+{
+ "benchmark": {
+  "outside_office_pct_2022_25": 6.6
+ },
+ "waterfall": {
+  "raw": 1801280,
+  "pretrend": 672450,
+  "loans": 262186,
+  "final": 866644
+ },
+ "breakdown": [
+  {
+   "soc": "43-4051",
+   "label": "Customer service reps",
+   "change": -284090,
+   "pct": -9.9
+  },
+  {
+   "soc": "43-3031",
+   "label": "Bookkeeping clerks",
+   "change": -177070,
+   "pct": -11.4
+  },
+  {
+   "soc": "43-6014",
+   "label": "Secretaries & admin assistants",
+   "change": -119920,
+   "pct": -6.6
+  },
+  {
+   "soc": "43-4171",
+   "label": "Receptionists",
+   "change": -100990,
+   "pct": -10.0
+  }
+ ],
+ "officeVsRest": [
+  {
+   "year": 2019,
+   "office": 100.0,
+   "rest": 100.0
+  },
+  {
+   "year": 2022,
+   "office": 95.6,
+   "rest": 101.5
+  },
+  {
+   "year": 2023,
+   "office": 94.9,
+   "rest": 104.7
+  },
+  {
+   "year": 2024,
+   "office": 93.3,
+   "rest": 106.8
+  },
+  {
+   "year": 2025,
+   "office": 90.9,
+   "rest": 108.2
+  }
+ ],
+ "slowLane": {
+  "paralegals_pct_2022_25": 13.8,
+  "lawyers_pct_2022_25": 6.7,
+  "radiologists_medicare_pct_2016_24": 12.8,
+  "physicians_medicare_pct_2016_24": 7.2,
+  "radiology_reading_share_pct": 36
+ },
+ "callCenters": {
+  "from": "Aug 2022",
+  "to": "Aug 2026",
+  "from_k": 439.8,
+  "to_k": 303.3,
+  "pct": -31
+ }
+}
