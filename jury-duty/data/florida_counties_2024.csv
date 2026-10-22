@@ -1,0 +1,68 @@
+county,summoning_yield_pct,pct_to_voir_dire,jdpt,avg_panel,trials_2024,CODE2023,urbanicity,CTYPOP
+Escambia,22.8,76.8,47.6,26.7,216,3,small metro,324878
+Okaloosa,57.4,87.6,49.4,36.0,28,3,small metro,216482
+Santa Rosa,44.1,43.7,135.8,46.3,38,3,small metro,198268
+Walton,35.0,37.3,65.8,19.1,8,3,small metro,83304
+Franklin,20.4,48.5,47.1,16.5,6,6,rural,12498
+Gadsden,32.3,46.5,57.7,22.4,31,3,small metro,43403
+Jefferson,37.0,77.8,64.0,56.0,1,3,small metro,15042
+Leon,40.2,62.4,76.8,38.2,151,3,small metro,297369
+Liberty,47.1,69.8,71.0,35.6,15,6,rural,7603
+Wakulla,65.0,69.8,76.0,33.5,5,3,small metro,35178
+Columbia,37.2,71.0,76.5,39.0,13,5,rural,71908
+Dixie,25.2,53.6,28.7,13.5,16,6,rural,17124
+Hamilton,28.4,79.4,71.0,47.0,3,6,rural,13217
+Lafayette,0.0,0.0,0.0,0.0,0,6,rural,7786
+Madison,25.1,91.5,46.2,39.7,6,6,rural,18198
+Suwannee,43.3,62.0,59.8,5.0,32,6,rural,45411
+Taylor,28.5,43.6,73.5,22.4,10,6,rural,21283
+Clay,37.9,31.2,150.9,37.1,25,2,suburban,226589
+Duval,17.2,66.9,86.2,44.0,244,1,urban,1016536
+Nassau,82.7,53.0,187.7,30.4,9,2,suburban,97899
+Citrus,26.5,46.0,85.3,27.7,33,4,small metro,162529
+Hernando,53.7,53.8,131.9,48.3,25,2,suburban,206896
+Lake,41.4,53.8,76.7,31.3,69,2,suburban,410139
+Marion,33.3,36.4,106.7,33.4,105,3,small metro,396415
+Sumter,18.9,72.0,49.7,25.0,42,4,small metro,144970
+Pasco,42.7,38.4,126.5,43.4,88,2,suburban,608794
+Pinellas,46.8,38.7,107.4,38.8,259,1,urban,961739
+Flagler,45.9,57.8,54.0,24.8,34,3,small metro,126705
+Putnam,28.9,56.5,96.0,38.1,9,5,rural,74731
+St. Johns,36.4,49.3,75.1,28.9,38,2,suburban,306841
+Volusia,44.6,64.0,81.6,38.7,118,3,small metro,579192
+Alachua,19.6,73.3,58.3,35.6,99,3,small metro,284030
+Baker,51.7,10.9,310.4,23.5,4,2,suburban,27803
+Bradford,32.7,24.4,114.8,21.3,7,6,rural,27313
+Gilchrist,28.1,83.6,37.0,30.8,3,3,small metro,18992
+Levy,41.2,50.2,66.1,44.5,21,3,small metro,45260
+Union,37.8,74.7,75.0,49.3,4,6,rural,15460
+Orange,66.2,58.9,82.4,37.8,390,1,urban,1452726
+Osceola,58.6,44.0,96.9,37.4,113,2,suburban,422545
+Hardee,47.4,11.4,81.2,6.8,4,6,rural,25645
+Highlands,26.0,65.5,96.5,37.6,22,4,small metro,105618
+Polk,85.2,15.2,178.3,26.4,322,3,small metro,787404
+Miami-Dade,59.6,40.9,167.0,58.6,634,1,urban,2673837
+Desoto,13.2,95.2,86.6,59.6,12,5,rural,35312
+Manatee,42.5,53.6,97.0,41.7,88,3,small metro,429125
+Sarasota,39.6,42.3,113.3,39.6,112,3,small metro,462286
+Hillsborough,37.8,48.4,107.8,42.0,284,1,urban,1513301
+Bay,45.6,62.6,52.2,27.4,106,4,small metro,185134
+Calhoun,51.2,0.0,0.0,0.0,0,6,rural,13464
+Gulf,31.8,77.7,45.3,22.9,10,6,rural,15314
+Holmes,51.8,40.2,79.2,21.0,7,6,rural,19651
+Jackson,31.3,44.7,63.3,22.8,10,6,rural,48211
+Washington,33.2,24.2,110.2,23.2,4,4,small metro,25414
+Palm Beach,37.7,92.6,66.6,41.9,361,2,suburban,1518477
+Monroe,72.4,4.1,1006.6,30.6,26,5,rural,81708
+Broward,41.9,75.4,95.7,50.1,611,2,suburban,1947026
+Brevard,70.3,23.8,176.1,37.8,124,3,small metro,630693
+Seminole,60.9,60.5,63.9,30.9,114,2,suburban,478772
+Indian River,63.0,49.8,102.6,39.4,37,4,small metro,167352
+Martin,38.4,65.4,78.8,40.8,40,3,small metro,162006
+Okeechobee,26.1,43.3,92.0,33.0,19,5,rural,40412
+St. Lucie,30.4,53.2,105.8,47.4,102,3,small metro,358704
+Charlotte,34.6,61.2,92.0,51.2,59,4,small metro,202661
+Collier,58.2,47.2,71.8,29.0,82,3,small metro,397994
+Glades,71.5,22.1,121.5,20.0,2,5,rural,12454
+Hendry,24.1,83.4,49.5,33.1,47,5,rural,41339
+Lee,44.9,40.9,104.0,37.4,157,3,small metro,822453

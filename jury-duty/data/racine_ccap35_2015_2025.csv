@@ -1,0 +1,12 @@
+jury_year,step,questionnaires_sent,summons_sent,eligible_available,called_off,reported_for_selection,not_used,sent_to_voir_dire,questioned_in_voir_dire,sworn,voir_dires_begun,trial_days,days_jurors_reported,no_trial_start_days,source_url
+2015,1,,15722,9018,5132,4218,1845,2535,1586,803,70,153,93,33,https://www.racinecounty.gov/home/showpublisheddocument/22473/636610198874800000
+2016,1,,16330,8801,5050,3873,1572,2722,1456,623,58,152,81,33,https://www.racinecounty.gov/home/showpublisheddocument/22475/636610199040100000
+2017,1,,15573,8541,4946,3657,1313,2587,1532,631,69,168,73,22,https://www.racinecounty.gov/home/showpublisheddocument/22477/636610199171670000
+2018,1,,15134,8035,4941,3128,1231,1929,1276,540,56,133,71,25,https://www.racinecounty.gov/home/showpublisheddocument/26740/636882655302630000
+2019,1,,15153,8182,5577,2684,919,1831,1203,528,53,116,59,19,https://www.racinecounty.gov/home/showpublisheddocument/44448/638152524596770000
+2020,2,14319,9263,5610,4603,1053,251,840,553,218,23,77,19,2,https://www.racinecounty.gov/home/showpublisheddocument/44450/638152524599570000
+2021,2,13792,8886,6118,3515,2783,763,2082,1425,594,61,148,58,13,https://www.racinecounty.gov/home/showpublisheddocument/44452/638152524602700000
+2022,2,15161,8817,6025,2816,3521,1120,2498,1686,714,70,163,78,17,https://www.racinecounty.gov/home/showpublisheddocument/44454/638152524605500000
+2023,2,15277,9809,7223,4536,2816,1287,1530,913,342,40,87,61,23,https://www.racinecounty.gov/home/showpublisheddocument/49672/638714305370430000
+2024,2,16072,10232,7664,5119,2467,889,1870,1205,422,48,95,57,18,https://www.racinecounty.gov/home/showpublisheddocument/50739/638803138939070000
+2025,2,16673,10793,7877,4632,3335,1292,2137,1359,617,55,131,70,25,https://www.racinecounty.gov/home/showpublisheddocument/54288/639148821364130000

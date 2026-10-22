@@ -1,0 +1,113 @@
+level,source,year,eligible_per_summoned,reported_per_summoned,voir_dire_per_reported,sworn_per_reported,sworn_per_summoned,trial_days_per_trial,urbanicity
+county,"Milwaukee County, WI (CCAP-35)",2024,0.3636084591954792,0.12833610111996976,1.038084140807065,0.37722310805838344,0.04841134294056998,1.6583969465648856,
+county,"Racine County, WI (CCAP-35)",2025,0.7298248865005096,0.30899657185212637,0.6407796101949026,0.18500749625187407,0.05716668210877421,2.381818181818182,
+county,"Waukesha County, WI (Annual Jury Program Report)",2025,0.4494098567438508,0.2523650779349491,0.9046769011067476,0.3670117815066048,0.09262095684295883,2.0,
+county,"Jackson County, MO (16th Circuit)",2025,,,0.5743838590218363,0.12999616907163836,,4.2465753424657535,
+state,Oregon (OJD Jury Data Overview),2025,0.2745256368229237,0.1268752771939297,,,,,
+state,Massachusetts (OJC annual report),2015,0.6632481209419046,0.31506809682174225,,,,,
+state,Massachusetts (OJC demographic report),2025,,,,0.13512842989695836,,,
+state,Pennsylvania (AOPC InfoShare),2015,,0.19191770792383317,0.8100013038961258,,,,
+state,"Minnesota (House Research, Nov 2025)",2024,,,,,0.051403373245783444,,
+state,"New Mexico (AOC release, trial + grand juries)",2025,,,,0.18222222222222223,,,
+federal,"U.S. district courts (J-2, J-10, T-1)",2025,,,0.8650010253605851,0.21600246086540434,,4.5564605701592,
+county,Oregon county: Baker,2025,0.6333333333333333,,,,,,rural
+county,Oregon county: Benton,2025,0.3235758106923751,,,,,,small metro
+county,Oregon county: Clackamas,2025,0.3812920198772289,,,,,,suburban
+county,Oregon county: Clatsop,2025,0.42277777777777775,,,,,,rural
+county,Oregon county: Columbia,2025,0.4401555123576784,,,,,,suburban
+county,Oregon county: Coos,2025,0.3602469135802469,,,,,,rural
+county,Oregon county: Crook,2025,0.5581553839164016,,,,,,small metro
+county,Oregon county: Curry,2025,0.42243738160387284,,,,,,rural
+county,Oregon county: Deschutes,2025,0.42622675464907017,,,,,,small metro
+county,Oregon county: Douglas,2025,0.3790909090909091,,,,,,rural
+county,Oregon county: Gilliam,2025,0.3621621621621622,,,,,,rural
+county,Oregon county: Grant,2025,0.528,,,,,,rural
+county,Oregon county: Harney,2025,0.514,,,,,,rural
+county,Oregon county: Hood River,2025,0.37035726918995404,,,,,,rural
+county,Oregon county: Jackson,2025,0.31054054054054053,,,,,,small metro
+county,Oregon county: Jefferson,2025,0.5591666666666667,,,,,,small metro
+county,Oregon county: Josephine,2025,0.4182679029394358,,,,,,small metro
+county,Oregon county: Klamath,2025,0.48928571428571427,,,,,,rural
+county,Oregon county: Lake,2025,0.405,,,,,,rural
+county,Oregon county: Lane,2025,0.322013093289689,,,,,,small metro
+county,Oregon county: Lincoln,2025,0.520497512437811,,,,,,rural
+county,Oregon county: Linn,2025,0.3731805253471641,,,,,,small metro
+county,Oregon county: Malheur,2025,0.37405405405405406,,,,,,rural
+county,Oregon county: Marion,2025,0.25602320675105483,,,,,,small metro
+county,Oregon county: Morrow,2025,0.23475,,,,,,rural
+county,Oregon county: Polk,2025,0.3238095238095238,,,,,,small metro
+county,Oregon county: Sherman,2025,0.36086956521739133,,,,,,rural
+county,Oregon county: Tillamook,2025,0.49740932642487046,,,,,,rural
+county,Oregon county: Umatilla,2025,0.38356596482927213,,,,,,rural
+county,Oregon county: Union,2025,0.5274820143884892,,,,,,rural
+county,Oregon county: Wallowa,2025,0.5369491525423729,,,,,,rural
+county,Oregon county: Wasco,2025,0.2968503937007874,,,,,,rural
+county,Oregon county: Washington,2025,0.372013923949725,,,,,,suburban
+county,Oregon county: Wheeler,2025,0.2864864864864865,,,,,,rural
+county,Oregon county: Yamhill,2025,0.568477366255144,,,,,,suburban
+county,Oregon county: Multnomah,2025,0.36849398499181424,,,,,,urban
+county,Florida county: Escambia,2024,0.228,,0.768,,,,small metro
+county,Florida county: Okaloosa,2024,0.574,,0.8759999999999999,,,,small metro
+county,Florida county: Santa Rosa,2024,0.441,,0.43700000000000006,,,,small metro
+county,Florida county: Walton,2024,0.35,,0.373,,,,small metro
+county,Florida county: Franklin,2024,0.204,,0.485,,,,rural
+county,Florida county: Gadsden,2024,0.32299999999999995,,0.465,,,,small metro
+county,Florida county: Jefferson,2024,0.37,,0.778,,,,small metro
+county,Florida county: Leon,2024,0.402,,0.624,,,,small metro
+county,Florida county: Liberty,2024,0.47100000000000003,,0.698,,,,rural
+county,Florida county: Wakulla,2024,0.65,,0.698,,,,small metro
+county,Florida county: Columbia,2024,0.37200000000000005,,0.71,,,,rural
+county,Florida county: Dixie,2024,0.252,,0.536,,,,rural
+county,Florida county: Hamilton,2024,0.284,,0.794,,,,rural
+county,Florida county: Madison,2024,0.251,,0.915,,,,rural
+county,Florida county: Suwannee,2024,0.433,,0.62,,,,rural
+county,Florida county: Taylor,2024,0.285,,0.436,,,,rural
+county,Florida county: Clay,2024,0.379,,0.312,,,,suburban
+county,Florida county: Duval,2024,0.172,,0.669,,,,urban
+county,Florida county: Nassau,2024,0.8270000000000001,,0.53,,,,suburban
+county,Florida county: Citrus,2024,0.265,,0.46,,,,small metro
+county,Florida county: Hernando,2024,0.537,,0.5379999999999999,,,,suburban
+county,Florida county: Lake,2024,0.414,,0.5379999999999999,,,,suburban
+county,Florida county: Marion,2024,0.33299999999999996,,0.364,,,,small metro
+county,Florida county: Sumter,2024,0.18899999999999997,,0.72,,,,small metro
+county,Florida county: Pasco,2024,0.42700000000000005,,0.384,,,,suburban
+county,Florida county: Pinellas,2024,0.46799999999999997,,0.387,,,,urban
+county,Florida county: Flagler,2024,0.45899999999999996,,0.578,,,,small metro
+county,Florida county: Putnam,2024,0.289,,0.565,,,,rural
+county,Florida county: St. Johns,2024,0.364,,0.493,,,,suburban
+county,Florida county: Volusia,2024,0.446,,0.64,,,,small metro
+county,Florida county: Alachua,2024,0.196,,0.733,,,,small metro
+county,Florida county: Baker,2024,0.517,,0.109,,,,suburban
+county,Florida county: Bradford,2024,0.327,,0.244,,,,rural
+county,Florida county: Gilchrist,2024,0.281,,0.836,,,,small metro
+county,Florida county: Levy,2024,0.41200000000000003,,0.502,,,,small metro
+county,Florida county: Union,2024,0.37799999999999995,,0.747,,,,rural
+county,Florida county: Orange,2024,0.662,,0.589,,,,urban
+county,Florida county: Osceola,2024,0.586,,0.44,,,,suburban
+county,Florida county: Hardee,2024,0.474,,0.114,,,,rural
+county,Florida county: Highlands,2024,0.26,,0.655,,,,small metro
+county,Florida county: Polk,2024,0.852,,0.152,,,,small metro
+county,Florida county: Miami-Dade,2024,0.596,,0.409,,,,urban
+county,Florida county: Desoto,2024,0.132,,0.9520000000000001,,,,rural
+county,Florida county: Manatee,2024,0.425,,0.536,,,,small metro
+county,Florida county: Sarasota,2024,0.396,,0.423,,,,small metro
+county,Florida county: Hillsborough,2024,0.37799999999999995,,0.484,,,,urban
+county,Florida county: Bay,2024,0.456,,0.626,,,,small metro
+county,Florida county: Gulf,2024,0.318,,0.777,,,,rural
+county,Florida county: Holmes,2024,0.518,,0.402,,,,rural
+county,Florida county: Jackson,2024,0.313,,0.447,,,,rural
+county,Florida county: Washington,2024,0.332,,0.242,,,,small metro
+county,Florida county: Palm Beach,2024,0.377,,0.9259999999999999,,,,suburban
+county,Florida county: Monroe,2024,0.7240000000000001,,0.040999999999999995,,,,rural
+county,Florida county: Broward,2024,0.419,,0.754,,,,suburban
+county,Florida county: Brevard,2024,0.703,,0.23800000000000002,,,,small metro
+county,Florida county: Seminole,2024,0.609,,0.605,,,,suburban
+county,Florida county: Indian River,2024,0.63,,0.498,,,,small metro
+county,Florida county: Martin,2024,0.384,,0.654,,,,small metro
+county,Florida county: Okeechobee,2024,0.261,,0.433,,,,rural
+county,Florida county: St. Lucie,2024,0.304,,0.532,,,,small metro
+county,Florida county: Charlotte,2024,0.34600000000000003,,0.612,,,,small metro
+county,Florida county: Collier,2024,0.5820000000000001,,0.47200000000000003,,,,small metro
+county,Florida county: Glades,2024,0.715,,0.221,,,,rural
+county,Florida county: Hendry,2024,0.24100000000000002,,0.8340000000000001,,,,rural
+county,Florida county: Lee,2024,0.449,,0.409,,,,small metro
