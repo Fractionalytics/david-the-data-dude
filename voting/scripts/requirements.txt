@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+duckdb
+python-dotenv
+typesafe-sdk
+sentence-transformers
+pdfplumber
