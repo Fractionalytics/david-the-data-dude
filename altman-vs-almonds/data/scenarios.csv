@@ -1,0 +1,21 @@
+almond_basis,almond_L,query_basis,query_mL,queries_per_almond
+"Total footprint (blue+green+grey), Fulton kernel",12.288,"Altman / OpenAI, 0.000085 gal (unverified)",0.322,38189.973
+"Total footprint (blue+green+grey), Fulton kernel",12.288,"Google Gemini median prompt, onsite (Aug 2025)",0.26,47261.538
+"Total footprint (blue+green+grey), Fulton kernel",12.288,Altman's 0.34 Wh x US onsite + electricity water,1.437,8551.817
+"Total footprint (blue+green+grey), Fulton kernel",12.288,"Ren et al. GPT-3, US average, onsite + electricity",16.904,726.929
+"Total footprint (blue+green+grey), Fulton kernel",12.288,"Mistral Large 2 lifecycle, 400-token reply",45.0,273.067
+"Blue (irrigation) only, Fulton kernel",6.348,"Altman / OpenAI, 0.000085 gal (unverified)",0.322,19729.0
+"Blue (irrigation) only, Fulton kernel",6.348,"Google Gemini median prompt, onsite (Aug 2025)",0.26,24415.385
+"Blue (irrigation) only, Fulton kernel",6.348,Altman's 0.34 Wh x US onsite + electricity water,1.437,4417.882
+"Blue (irrigation) only, Fulton kernel",6.348,"Ren et al. GPT-3, US average, onsite + electricity",16.904,375.532
+"Blue (irrigation) only, Fulton kernel",6.348,"Mistral Large 2 lifecycle, 400-token reply",45.0,141.067
+"Total footprint, NASS kernel weight",16.384,"Altman / OpenAI, 0.000085 gal (unverified)",0.322,50919.964
+"Total footprint, NASS kernel weight",16.384,"Google Gemini median prompt, onsite (Aug 2025)",0.26,63015.385
+"Total footprint, NASS kernel weight",16.384,Altman's 0.34 Wh x US onsite + electricity water,1.437,11402.423
+"Total footprint, NASS kernel weight",16.384,"Ren et al. GPT-3, US average, onsite + electricity",16.904,969.238
+"Total footprint, NASS kernel weight",16.384,"Mistral Large 2 lifecycle, 400-token reply",45.0,364.089
+"Blue only, NASS kernel weight",8.464,"Altman / OpenAI, 0.000085 gal (unverified)",0.322,26305.333
+"Blue only, NASS kernel weight",8.464,"Google Gemini median prompt, onsite (Aug 2025)",0.26,32553.846
+"Blue only, NASS kernel weight",8.464,Altman's 0.34 Wh x US onsite + electricity water,1.437,5890.509
+"Blue only, NASS kernel weight",8.464,"Ren et al. GPT-3, US average, onsite + electricity",16.904,500.71
+"Blue only, NASS kernel weight",8.464,"Mistral Large 2 lifecycle, 400-token reply",45.0,188.089

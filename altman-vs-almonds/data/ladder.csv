@@ -1,0 +1,12 @@
+rung,almond_L,query_mL,queries_per_almond,altman_too_high_by
+"0. Altman: total almond, his query water",12.288,0.322,38189.973,0.995
+1. Irrigation-only almond,6.348,0.322,19729.0,1.926
+2. + research & training (2025 split),6.348,0.644,9864.5,3.852
+"3. US grid, no hydro [0.34 Wh x PUE]",6.348,1.265,5020.055,7.57
+4. + 300-token GPT-5 reply (EcoLogits) [0.34 Wh x PUE],6.348,2.083,3047.89,12.468
+5. 2024 R&D split instead [0.34 Wh x PUE],6.348,2.389,2657.676,14.298
+6. count hydro evaporation [0.34 Wh x PUE],6.348,2.874,2208.941,17.203
+"3. US grid, no hydro [0.34 Wh incl. PUE]",6.348,1.09,5823.264,6.526
+4. + 300-token GPT-5 reply (EcoLogits) [0.34 Wh incl. PUE],6.348,1.795,3535.553,10.748
+5. 2024 R&D split instead [0.34 Wh incl. PUE],6.348,2.059,3082.904,12.326
+6. count hydro evaporation [0.34 Wh incl. PUE],6.348,2.477,2562.372,14.83

@@ -1,0 +1,25 @@
+grid,training,query_mL,queries_per_almond,altman_too_high_by
+"ERCOT, low factors",Inference only,0.384,16540.209,2.297
+"ERCOT, low factors",+ final training runs (2024),0.484,13115.584,2.897
+"ERCOT, low factors","+ all R&D (2025, ~even split)",0.768,8270.105,4.595
+"ERCOT, low factors","+ all R&D (2024, $5.0B vs $1.8B)",1.45,4378.291,8.679
+"ERCOT, median factors",Inference only,0.478,13267.9,2.864
+"ERCOT, median factors",+ final training runs (2024),0.603,10520.801,3.612
+"ERCOT, median factors","+ all R&D (2025, ~even split)",0.957,6633.95,5.728
+"ERCOT, median factors","+ all R&D (2024, $5.0B vs $1.8B)",1.807,3512.091,10.82
+Texas-heavy fleet (60% ERCOT),Inference only,0.542,11721.866,3.242
+Texas-heavy fleet (60% ERCOT),+ final training runs (2024),0.683,9294.872,4.088
+Texas-heavy fleet (60% ERCOT),"+ all R&D (2025, ~even split)",1.083,5860.933,6.484
+Texas-heavy fleet (60% ERCOT),"+ all R&D (2024, $5.0B vs $1.8B)",2.046,3102.847,12.247
+"US average, no hydro",Inference only,0.632,10040.11,3.785
+"US average, no hydro",+ final training runs (2024),0.797,7961.321,4.773
+"US average, no hydro","+ all R&D (2025, ~even split)",1.265,5020.055,7.57
+"US average, no hydro","+ all R&D (2024, $5.0B vs $1.8B)",2.389,2657.676,14.298
+"Li et al. state mix, with hydro",Inference only,1.074,5910.659,6.429
+"Li et al. state mix, with hydro",+ final training runs (2024),1.354,4686.866,8.108
+"Li et al. state mix, with hydro","+ all R&D (2025, ~even split)",2.148,2955.329,12.858
+"Li et al. state mix, with hydro","+ all R&D (2024, $5.0B vs $1.8B)",4.057,1564.586,24.288
+"Li et al. US average, with hydro",Inference only,1.437,4417.882,8.601
+"Li et al. US average, with hydro",+ final training runs (2024),1.812,3503.166,10.847
+"Li et al. US average, with hydro","+ all R&D (2025, ~even split)",2.874,2208.941,17.203
+"Li et al. US average, with hydro","+ all R&D (2024, $5.0B vs $1.8B)",5.428,1169.439,32.494
