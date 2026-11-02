@@ -5,14 +5,14 @@
 Copied: the processed tables (aggregate counts from CMS, Census, FDA, NRMP, and pay figures as
 published by Doximity and Medscape), the dated claims log, our scripts, the data-challenges doc,
 the spot-checks (trimmed, below), the exploratory chart, the Remotion source, the rendered videos
-and stills for the Reel's charts, and the Reel cover.
+and stills for the Reel's charts, the Reel cover, and the posted carousel's slides and PDF.
 
 Deliberately NOT copied:
 - data/raw (1.4 GB of CMS, Census, FDA and NRMP downloads; the scripts say where to get them);
 - spot-checks rows 1-4, which name individual radiologists by NPI with their Medicare volumes:
   public records, but a public repo shouldn't single out people;
 - docs/research and docs/beat-skeleton.md (working notes, including unverified pasted research);
-- the superseded "Sheet1" compositions' renders, and the .env file.
+- the superseded "Sheet1" compositions' renders, the unposted drawn-chest carousel, and the .env file.
 The public README.md is maintained by hand.
 
 The public repo is found next to the main checkout (via git's common dir). Writing files here
@@ -54,7 +54,7 @@ def trim_spot_checks(text: str) -> str:
 
 
 def main() -> None:
-    for sub in ("data", "scripts", "docs", "charts", "videos", "video/src"):
+    for sub in ("data", "scripts", "docs", "charts", "videos", "video/src", "carousel"):
         shutil.rmtree(PUBLIC / sub, ignore_errors=True)
     for folder in ("processed", "claims"):
         for f in (ROOT / "data" / folder).glob("*.*"):
@@ -80,6 +80,9 @@ def main() -> None:
         copy(out / f"{name}.mp4", PUBLIC / "videos" / f"{name}.mp4")
         copy(out / "stills" / f"{name}.png", PUBLIC / "videos" / "stills" / f"{name}.png")
     copy(ROOT / "cover.jpg", PUBLIC / "cover.jpg")
+    for png in sorted((ROOT / "carousel" / "instagram-real-scan").glob("*.png")):
+        copy(png, PUBLIC / "carousel" / png.name)
+    copy(ROOT / "carousel" / "radiology-carousel-real-scan.pdf", PUBLIC / "carousel" / "radiology-carousel.pdf")
     print(f"published to {PUBLIC}: {len(VIDEOS)} videos")
 
 

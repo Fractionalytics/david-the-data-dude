@@ -5,3 +5,4 @@ duckdb
 python-dotenv
 typesafe-sdk
 sentence-transformers
+pdfplumber

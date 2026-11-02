@@ -26,11 +26,20 @@ If AI were replacing radiologists, their price relative to other doctors should 
 
 Supporting evidence, 2016–2024:
 - **Headcount:** radiologists billing Medicare grew 12.8% (31,389 → 35,403), against 7.2% for all physicians (602,317 → 645,633).
-- **Demand:** the 65+ population grew 24% (49.2M → 61.2M), and imaging services per traditional-Medicare patient rose 38%, against 27% for all physician services.
+- **Demand:** the 65+ population grew 24% (49.2M → 61.2M), and imaging services per traditional-Medicare patient rose 38%, against 26% for all physician services. (The Reel showed 27%, a number we'd rounded twice; the figure is 26.45%.)
 - **Supply per patient:** radiologists per 100,000 Americans aged 65+ fell 9%.
 - **AI did arrive:** 1,230 of the FDA's 1,614 AI-enabled medical devices (76%, through June 29, 2026) were reviewed by its radiology panel. Every radiology detection and triage product code is defined as aiding or assisting a clinician, not replacing one.
 
 These are correlations. They show radiologists weren't replaced, not why.
+
+## The carousel
+
+The [follow-up carousel](https://www.instagram.com/p/DfP4bjBFHb4/) tells the Reel's story in 11 slides.
+
+- [`carousel/`](carousel/): the slides as posted on Instagram (1080×1440).
+- [`carousel/radiology-carousel.pdf`](carousel/radiology-carousel.pdf): the same slides as a LinkedIn document.
+
+Photo credits: Geoffrey Hinton by Vaughn Ridley/Collision via Sportsfile, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_at_Collision_2024_in_Toronto_(cropped).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), cropped and made black and white. Chest X-ray by Nevit Dilmen, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radiology_ND_0125_ACJ.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), cropped and faded.
 
 ## Definitions
 
@@ -64,4 +73,4 @@ These are correlations. They show radiologists weren't replaced, not why.
 
 ## License
 
-Code, docs and charts are under the repo's [MIT License](../LICENSE). CMS, Census and FDA data are U.S. government works. Pay figures belong to Doximity and Medscape, and quoted statements to their speakers and publishers.
+Code, docs and charts are under the repo's [MIT License](../LICENSE). CMS, Census and FDA data are U.S. government works. Pay figures belong to Doximity and Medscape, and quoted statements to their speakers and publishers. The carousel's photos stay under their own licenses (above), and the slides that use the chest X-ray (1, 2, 4 and 11) are shared under CC BY-SA 3.0, not MIT.

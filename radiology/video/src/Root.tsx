@@ -15,11 +15,15 @@ import {CARD08_DURATION, Card08Amara} from './charts/Card08Amara';
 import {CARD0910_DURATION, Card0910Prescription} from './charts/Card0910Prescription';
 import {CARD1113_DURATION, Card1113Reasons} from './charts/Card1113Reasons';
 import {CARD16_DURATION, Card16Square} from './charts/Card16Square';
+import {CAROUSEL, SLIDES} from './carousel/Carousel';
 
 export const RemotionRoot: React.FC = () => (
 	<>
 		{/* "Revised Script" tab (2026-10-13) card numbers. */}
-		<Composition id="rev03-headline-square" component={Card03Square} durationInFrames={CARD03_DURATION} {...SQUARE} />
+		{SLIDES.map((S, i) => (
+			<Composition key={i} id={`carousel-${String(i + 1).padStart(2, '0')}`} component={S} durationInFrames={1} {...CAROUSEL} />
+		))}
+		<Composition id="rev03-headline-square"component={Card03Square} durationInFrames={CARD03_DURATION} {...SQUARE} />
 		<Composition id="rev06-07-capability" component={Card0607Capability} durationInFrames={CARD0607_DURATION} {...VIDEO} />
 		<Composition id="rev08-amara" component={Card08Amara} durationInFrames={CARD08_DURATION} {...VIDEO} />
 		<Composition id="rev09-10-prescription" component={Card0910Prescription} durationInFrames={CARD0910_DURATION} {...VIDEO} />
