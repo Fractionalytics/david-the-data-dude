@@ -1,0 +1,561 @@
+tax_year,as_of,within_3yr_statute,section,category,returns_filed,examined_closed,examined_in_process,examined_total,pct_published,pct_computed,no_change,recommended_additional_tax_thousands
+2023,"September 30, 2025",True,,"All returns, total",211253861,126222,45484,171706,,0.0813,10856,1082938
+2022,"September 30, 2025",True,,"All returns, total",212688164,441113,59971,501084,,0.2356,51521,6763988
+2021,"September 30, 2025",False,,"All returns, total",212127659,544417,18191,562608,,0.2652,77722,9310125
+2020,"September 30, 2025",False,,"All returns, total",208076471,538002,10143,548145,,0.2634,80009,10203545
+2019,"September 30, 2025",False,,"All returns, total",205411081,558712,9287,567999,,0.2765,68335,12010946
+2018,"September 30, 2025",False,,"All returns, total",200603266,615253,9138,624391,,0.3113,73390,18400400
+2017,"September 30, 2025",False,,"All returns, total",198945685,798181,14963,813144,,0.4087,98436,18335933
+2016,"September 30, 2025",False,,"All returns, total",196088058,882100,13149,895249,,0.4566,99830,24876243
+2015,"September 30, 2025",False,,"All returns, total",195729183,966177,5738,971915,,0.4966,100423,33057181
+2014,"September 30, 2024",False,,"All returns, total",193714769,969187,4482,973669,,0.5026,103884,24795451
+2013,"September 30, 2023",False,,"All returns, total",191617388,1059783,4043,1063826,,0.5552,125590,24560697.083999958
+2012,"September 30, 2022",False,,"All returns, total",189013475,1305205,3274,1308479,,0.6923,188323,27432077.217
+2011,"September 30, 2021",False,,"All returns, total",188677016,1440390,3907,1444297,,0.7655,197623,24739291.509000957
+2010,"September 30, 2020",False,,"All returns, total",186507283,1589877,4561,1594438,,0.8549,256158,26823457.044
+2023,"September 30, 2025",True,,"Individual income tax returns, total",160934651,119805,39461,159266,0.1,0.099,10010,788574
+2022,"September 30, 2025",True,,"Individual income tax returns, total",161666477,421832,50781,472613,0.3,0.2923,47358,5846307
+2021,"September 30, 2025",False,,"Individual income tax returns, total",161206833,498386,11989,510375,0.3,0.3166,65979,6970351
+2020,"September 30, 2025",False,,"Individual income tax returns, total",164511483,488468,6646,495114,0.3,0.301,69345,5555769
+2019,"September 30, 2025",False,,"Individual income tax returns, total",157951815,504465,6583,511048,0.3,0.3235,57449,6171964
+2018,"September 30, 2025",False,,"Individual income tax returns, total",153927628,549390,7018,556408,0.4,0.3615,61962,9041569
+2017,"September 30, 2025",False,,"Individual income tax returns, total",153062634,721464,12955,734419,0.5,0.4798,84898,8684440
+2016,"September 30, 2025",False,,"Individual income tax returns, total",150447029,789900,11360,801260,0.5,0.5326,80223,8418813
+2015,"September 30, 2025",False,,"Individual income tax returns, total",150675111,872542,4611,877153,0.6,0.5821,80821,8793687
+2014,"September 30, 2024",False,,"Individual income tax returns, total",148796860,865670,3466,869136,0.6,0.5841,80267,8751572
+2013,"September 30, 2023",False,,"Individual income tax returns, total",147552433,952374,2795,955169,0.6473420875411793,0.6473,99575,8895708.476999957
+2012,"September 30, 2022",False,,"Individual income tax returns, total",145143496,1181966,2290,1184256,0.8159208181123044,0.8159,157495,10111128.786000015
+2011,"September 30, 2021",False,,"Individual income tax returns, total",145586312,1297031,2857,1299888,0.8928641588228432,0.8929,160488,10477449.612000955
+2010,"September 30, 2020",False,,"Individual income tax returns, total",143113663,1435760,3397,1439157,1.0056041958761128,1.0056,216120,11020659.692
+2023,"September 30, 2025",True,Size of total positive income [7],No total positive income,964115,1087,2065,3152,0.3,0.3269,42,39207
+2022,"September 30, 2025",True,Size of total positive income [7],No total positive income,1946923,10639,3804,14443,0.7,0.7418,114,467916
+2021,"September 30, 2025",False,Size of total positive income [7],No total positive income,2931717,51677,2417,54094,1.8,1.8451,947,1888361
+2020,"September 30, 2025",False,Size of total positive income [7],No total positive income,3631912,36512,1721,38233,1.1,1.0527,632,2056503
+2019,"September 30, 2025",False,Size of total positive income [7],No total positive income,822945,44905,1382,46287,5.6,5.6246,577,2411129
+2018,"September 30, 2025",False,Size of total positive income [7],No total positive income,688753,80996,1476,82472,12,11.9741,734,5276860
+2017,"September 30, 2025",False,Size of total positive income [7],No total positive income,691967,64075,637,64712,9.4,9.3519,702,3573251
+2016,"September 30, 2025",False,Size of total positive income [7],No total positive income,677256,56434,415,56849,8.4,8.394,610,2709551
+2015,"September 30, 2025",False,Size of total positive income [7],No total positive income,694606,48369,226,48595,7,6.9961,682,2140028
+2014,"September 30, 2024",False,Size of total positive income [7],No total positive income,653832,58300,288,58588,9,8.9607,1029,2355751
+2013,"September 30, 2023",False,Size of total positive income [7],No total positive income,612213,81272,420,81692,13.343721874576332,13.3437,935,2641204.3670000243
+2012,"September 30, 2022",False,Size of total positive income [7],No total positive income,547039,139362,309,139671,25.532183262984905,25.5322,1627,3410798.549000104
+2011,"September 30, 2021",False,Size of total positive income [7],No total positive income,776400,167846,436,168282,21.67465224111283,21.6747,2355,3839470.7220002054
+2010,"September 30, 2020",False,Size of total positive income [7],No total positive income,774329,158777,572,159349,20.578978702851114,20.579,3455,3870496.845
+2023,"September 30, 2025",True,Size of total positive income [7],"$1 under $25,000",39730822,52457,11522,63979,0.2,0.161,3847,268377
+2022,"September 30, 2025",True,Size of total positive income [7],"$1 under $25,000",42539044,193082,13728,206810,0.5,0.4862,13769,1958506
+2021,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",44983091,225429,2077,227506,0.5,0.5058,34224,2162318
+2020,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",49787775,213022,316,213338,0.4,0.4285,36957,1102343
+2019,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",49276854,217545,174,217719,0.4,0.4418,21597,1237274
+2018,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",49364340,209243,103,209346,0.4,0.4241,25971,982683
+2017,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",51853559,297528,116,297644,0.6,0.574,34000,1399477
+2016,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",52677494,339952,161,340113,0.6,0.6457,33581,1602069
+2015,"September 30, 2025",False,Size of total positive income [7],"$1 under $25,000",54053915,357887,68,357955,0.7,0.6622,30048,1769441
+2014,"September 30, 2024",False,Size of total positive income [7],"$1 under $25,000",54883084,390893,67,390960,0.7,0.7124,32351,1966301
+2013,"September 30, 2023",False,Size of total positive income [7],"$1 under $25,000",56100370,464756,112,464868,0.8286362460711044,0.8286,38490,2189669.096999918
+2012,"September 30, 2022",False,Size of total positive income [7],"$1 under $25,000",56004999,548658,89,548747,0.9798178908993463,0.9798,53938,2283932.575999897
+2011,"September 30, 2021",False,Size of total positive income [7],"$1 under $25,000",57464484,571253,112,571365,0.9942924050270773,0.9943,42330,2552100.3440006813
+2010,"September 30, 2020",False,Size of total positive income [7],"$1 under $25,000",56318669,578763,180,578943,1.0279770638755685,1.028,43575,2522661.372
+2023,"September 30, 2025",True,Size of total positive income [7],"$25,000 under $50,000",36184914,38345,9843,48188,0.1,0.1332,2997,233996
+2022,"September 30, 2025",True,Size of total positive income [7],"$25,000 under $50,000",36910750,94558,7388,101946,0.3,0.2762,6153,1108718
+2021,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",37679393,81804,1101,82905,0.2,0.22,10074,680207
+2020,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",39516857,93166,276,93442,0.2,0.2365,12534,494223
+2019,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",37980961,81014,120,81134,0.2,0.2136,8586,465644
+2018,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",36664872,92743,123,92866,0.3,0.2533,11813,479767
+2017,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",36111731,87533,123,87656,0.2,0.2427,10784,463781
+2016,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",35816063,131068,105,131173,0.4,0.3662,13213,704565
+2015,"September 30, 2025",False,Size of total positive income [7],"$25,000 under $50,000",35552228,142152,57,142209,0.4,0.4,11096,787800
+2014,"September 30, 2024",False,Size of total positive income [7],"$25,000 under $50,000",35052633,147894,44,147938,0.4,0.422,11455,876267
+2013,"September 30, 2023",False,Size of total positive income [7],"$25,000 under $50,000",34699278,121724,153,121877,0.35124073763148617,0.3512,10767,693649.7080000194
+2012,"September 30, 2022",False,Size of total positive income [7],"$25,000 under $50,000",34190851,145569,65,145634,0.4259443556991313,0.4259,14294,871142.0870000467
+2011,"September 30, 2021",False,Size of total positive income [7],"$25,000 under $50,000",34603921,192270,100,192370,0.5559196600870752,0.5559,17795,945674.6960001261
+2010,"September 30, 2020",False,Size of total positive income [7],"$25,000 under $50,000",34652897,210849,216,211065,0.6090861609636851,0.6091,28658,893552.493
+2023,"September 30, 2025",True,Size of total positive income [7],"$50,000 under $75,000",24596896,11460,4245,15705,0.1,0.0638,742,73362
+2022,"September 30, 2025",True,Size of total positive income [7],"$50,000 under $75,000",24185929,23912,3160,27072,0.1,0.1119,1036,404046
+2021,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",23132910,34343,557,34900,0.2,0.1509,3407,296177
+2020,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",23041847,38600,158,38758,0.2,0.1682,3570,214390
+2019,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",22635798,42298,112,42410,0.2,0.1874,5264,218510
+2018,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",21730391,46604,109,46713,0.2,0.215,5543,258954
+2017,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",21252437,71432,131,71563,0.3,0.3367,7946,344834
+2016,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",20578233,68611,152,68763,0.3,0.3342,5868,369255
+2015,"September 30, 2025",False,Size of total positive income [7],"$50,000 under $75,000",20264175,108633,66,108699,0.5,0.5364,8244,494327
+2014,"September 30, 2024",False,Size of total positive income [7],"$50,000 under $75,000",19641122,82867,88,82955,0.4,0.4224,8297,504836
+2013,"September 30, 2023",False,Size of total positive income [7],"$50,000 under $75,000",19498974,63494,258,63752,0.3269505359615332,0.327,7015,342132.51099999476
+2012,"September 30, 2022",False,Size of total positive income [7],"$50,000 under $75,000",19297146,80383,74,80457,0.4169373025420443,0.4169,11537,354402.788999998
+2011,"September 30, 2021",False,Size of total positive income [7],"$50,000 under $75,000",19234495,88334,106,88440,0.45979891855751864,0.4598,15869,397699.2599999694
+2010,"September 30, 2020",False,Size of total positive income [7],"$50,000 under $75,000",19047120,130953,125,131078,0.6881775302512926,0.6882,29696,490159.054
+2023,"September 30, 2025",True,Size of total positive income [7],"$75,000 under $100,000",16133400,5083,2001,7084,<0.05,0.0439,461,32728
+2022,"September 30, 2025",True,Size of total positive income [7],"$75,000 under $100,000",15518078,11004,1731,12735,0.1,0.0821,671,195278
+2021,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",14828621,22545,375,22920,0.2,0.1546,2227,203838
+2020,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",14726736,24545,164,24709,0.2,0.1678,1829,159514
+2019,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",14507318,26815,109,26924,0.2,0.1856,2596,171541
+2018,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",13988214,30816,87,30903,0.2,0.2209,3242,206981
+2017,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",13630981,57179,124,57303,0.4,0.4204,6179,309195
+2016,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",13199129,49437,117,49554,0.4,0.3754,4636,289793
+2015,"September 30, 2025",False,Size of total positive income [7],"$75,000 under $100,000",13055089,64676,60,64736,0.5,0.4959,6275,347334
+2014,"September 30, 2024",False,Size of total positive income [7],"$75,000 under $100,000",13079844,49790,61,49851,0.4,0.3811,5799,294206
+2013,"September 30, 2023",False,Size of total positive income [7],"$75,000 under $100,000",12768455,52821,91,52912,0.4143962601583355,0.4144,7495,310778.36499999295
+2012,"September 30, 2022",False,Size of total positive income [7],"$75,000 under $100,000",12413710,51952,105,52057,0.41935891848609325,0.4194,9594,252182.86399999537
+2011,"September 30, 2021",False,Size of total positive income [7],"$75,000 under $100,000",12239639,57187,77,57264,0.46785693597662475,0.4679,12846,262475.9299999904
+2010,"September 30, 2020",False,Size of total positive income [7],"$75,000 under $100,000",12240568,79859,110,79969,0.6533111862129274,0.6533,21771,337095.851
+2023,"September 30, 2025",True,Size of total positive income [7],"$100,000 under $200,000",28469184,7421,2796,10217,<0.05,0.0359,831,53260
+2022,"September 30, 2025",True,Size of total positive income [7],"$100,000 under $200,000",26782219,19591,3274,22865,0.1,0.0854,1895,423416
+2021,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",24900466,39391,678,40069,0.2,0.1609,4697,373974
+2020,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",23403399,43662,345,44007,0.2,0.188,3929,315655
+2019,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",22850934,48376,339,48715,0.2,0.2132,6728,350757
+2018,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",22077272,53795,325,54120,0.2,0.2451,6769,406575
+2017,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",20929068,93488,507,93995,0.4,0.4491,15135,668948
+2016,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",19755417,86714,388,87102,0.4,0.4409,9367,625247
+2015,"September 30, 2025",False,Size of total positive income [7],"$100,000 under $200,000",19459447,92958,253,93211,0.5,0.479,11913,664374
+2014,"September 30, 2024",False,Size of total positive income [7],"$100,000 under $200,000",18437294,73939,199,74138,0.4,0.4021,9649,597881
+2013,"September 30, 2023",False,Size of total positive income [7],"$100,000 under $200,000",17486970,90108,280,90388,0.5168877169686915,0.5169,17648,583606.5460000191
+2012,"September 30, 2022",False,Size of total positive income [7],"$100,000 under $200,000",16635432,86721,194,86915,0.5224691489827256,0.5225,18322,531055.3319999888
+2011,"September 30, 2021",False,Size of total positive income [7],"$100,000 under $200,000",15767677,95995,250,96245,0.6103942895329476,0.6104,23424,566551.1730000018
+2010,"September 30, 2020",False,Size of total positive income [7],"$100,000 under $200,000",15016527,127221,361,127582,0.8496105657453284,0.8496,33741,707900.819
+2023,"September 30, 2025",True,Size of total positive income [7],"$200,000 under $500,000",11633274,2115,2069,4184,<0.05,0.036,521,28059
+2022,"September 30, 2025",True,Size of total positive income [7],"$200,000 under $500,000",10632180,30411,6825,37236,0.4,0.3502,8603,347155
+2021,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",9597600,20305,757,21062,0.2,0.2195,4269,256019
+2020,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",8165629,20791,709,21500,0.3,0.2633,5163,208595
+2019,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",7784215,19621,839,20460,0.3,0.2628,5088,234068
+2018,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",7377133,19183,1118,20301,0.3,0.2752,3904,261122
+2017,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",6721305,28258,2598,30856,0.5,0.4591,5206,423722
+2016,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",6051639,32339,2299,34638,0.6,0.5724,7220,474047
+2015,"September 30, 2025",False,Size of total positive income [7],"$200,000 under $500,000",5884773,32375,819,33194,0.6,0.5641,6274,477404
+2014,"September 30, 2024",False,Size of total positive income [7],"$200,000 under $500,000",5423436,29916,541,30457,0.6,0.5616,6002,424098
+2013,"September 30, 2023",False,Size of total positive income [7],"$200,000 under $500,000",4935434,40080,384,40464,0.8198671079382279,0.8199,10981,669874.9049999929
+2012,"September 30, 2022",False,Size of total positive income [7],"$200,000 under $500,000",4577671,73577,322,73899,1.614336198472979,1.6143,31276,572279.7369999874
+2011,"September 30, 2021",False,Size of total positive income [7],"$200,000 under $500,000",4225699,69583,480,70063,1.658021548624263,1.658,27644,528250.5069999886
+2010,"September 30, 2020",False,Size of total positive income [7],"$200,000 under $500,000",3869967,87837,522,88359,2.2831977637018612,2.2832,35371,584741.837
+2023,"September 30, 2025",True,Size of total positive income [7],"$500,000 under $1,000,000",1957595,831,1002,1833,0.1,0.0936,222,18263
+2022,"September 30, 2025",True,Size of total positive income [7],"$500,000 under $1,000,000",1875646,21323,4045,25368,1.4,1.3525,8421,228022
+2021,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1779838,9858,787,10645,0.6,0.5981,2615,168021
+2020,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1385407,8104,751,8855,0.6,0.6392,2020,152120
+2019,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1298420,9012,973,9985,0.8,0.769,2798,165067
+2018,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1249264,5380,1378,6758,0.5,0.541,1093,135780
+2017,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1140173,9392,3853,13245,1.2,1.1617,2093,239938
+2016,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1017244,11197,3442,14639,1.4,1.4391,2765,282873
+2015,"September 30, 2025",False,Size of total positive income [7],"$500,000 under $1,000,000",1011282,11084,1204,12288,1.2,1.2151,2916,291151
+2014,"September 30, 2024",False,Size of total positive income [7],"$500,000 under $1,000,000",953500,10044,859,10903,1.1,1.1435,2451,275764
+2013,"September 30, 2023",False,Size of total positive income [7],"$500,000 under $1,000,000",837779,11580,415,11995,1.4317618369522274,1.4318,3139,283530.8409999988
+2012,"September 30, 2022",False,Size of total positive income [7],"$500,000 under $1,000,000",804750,21299,326,21625,2.6871699285492388,2.6872,8726,239710.26499999853
+2011,"September 30, 2021",False,Size of total positive income [7],"$500,000 under $1,000,000",700673,22195,395,22590,3.224043169923773,3.224,8922,270049.6839999978
+2010,"September 30, 2020",False,Size of total positive income [7],"$500,000 under $1,000,000",639453,22765,381,23146,3.6196561748869738,3.6197,8695,306192.662
+2023,"September 30, 2025",True,Size of total positive income [7],"$1,000,000 under $5,000,000",836921,634,1182,1816,0.2,0.217,186,19449
+2022,"September 30, 2025",True,Size of total positive income [7],"$1,000,000 under $5,000,000",839856,12889,3117,16006,1.9,1.9058,4590,225628
+2021,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",867592,6777,1397,8174,0.9,0.9421,1416,290958
+2020,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",622329,5198,1114,6312,1,1.0143,1221,223020
+2019,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",574713,8806,1307,10113,1.8,1.7597,2783,333542
+2018,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",566107,6797,1763,8560,1.5,1.5121,1678,403811
+2017,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",511640,9156,4065,13221,2.6,2.584,2204,552682
+2016,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",449500,9937,3677,13614,3,3.0287,2293,561316
+2015,"September 30, 2025",False,Size of total positive income [7],"$1,000,000 under $5,000,000",462824,10597,1494,12091,2.6,2.6124,2543,674281
+2014,"September 30, 2024",False,Size of total positive income [7],"$1,000,000 under $5,000,000",431033,10416,1031,11447,2.7,2.6557,2199,638911
+2013,"September 30, 2023",False,Size of total positive income [7],"$1,000,000 under $5,000,000",371171,10464,583,11047,2.9762562269142796,2.9763,2187,536962.623999998
+2012,"September 30, 2022",False,Size of total positive income [7],"$1,000,000 under $5,000,000",405427,19406,510,19916,4.912351668734445,4.9124,6426,548697.0359999973
+2011,"September 30, 2021",False,Size of total positive income [7],"$1,000,000 under $5,000,000",320496,20153,533,20686,6.454370725375667,6.4544,7510,468238.3389999965
+2010,"September 30, 2020",False,Size of total positive income [7],"$1,000,000 under $5,000,000",298247,23820,593,24413,8.1854972556304,8.1855,8883,500950.053
+2023,"September 30, 2025",True,Size of total positive income [7],"$5,000,000 under $10,000,000",58288,220,950,1170,2,2.0073,94,10445
+2022,"September 30, 2025",True,Size of total positive income [7],"$5,000,000 under $10,000,000",63842,2257,900,3157,4.9,4.945,1144,103264
+2021,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",71862,2317,454,2771,3.9,3.856,919,169622
+2020,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",46254,923,210,1133,2.4,2.4495,311,87502
+2019,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",40191,1130,238,1368,3.4,3.4037,329,116886
+2018,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",41434,950,247,1197,2.9,2.8889,217,124786
+2017,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",36895,1152,434,1586,4.3,4.2987,270,109399
+2016,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",31232,1304,391,1695,5.4,5.4271,320,292221
+2015,"September 30, 2025",False,Size of total positive income [7],"$5,000,000 under $10,000,000",33774,1518,227,1745,5.2,5.1667,357,174319
+2014,"September 30, 2024",False,Size of total positive income [7],"$5,000,000 under $10,000,000",31353,1535,163,1698,5.4,5.4157,375,182875
+2013,"September 30, 2023",False,Size of total positive income [7],"$5,000,000 under $10,000,000",25504,1439,135,1574,6.171580928481807,6.1716,331,151716.3680000001
+2012,"September 30, 2022",False,Size of total positive income [7],"$5,000,000 under $10,000,000",31160,2503,125,2628,8.433889602053915,8.4339,712,160459.71100000013
+2011,"September 30, 2021",False,Size of total positive income [7],"$5,000,000 under $10,000,000",22910,2422,169,2591,11.300742034046268,11.3095,871,96742.43299999996
+2010,"September 30, 2020",False,Size of total positive income [7],"$5,000,000 under $10,000,000",20952,2678,158,2836,13.54524627720504,13.5357,924,172224.322
+2023,"September 30, 2025",True,Size of total positive income [7],"$10,000,000 or more",36697,145,1747,1892,5.2,5.1557,64,11428
+2022,"September 30, 2025",True,Size of total positive income [7],"$10,000,000 or more",42191,1759,1014,2773,6.6,6.5725,954,379024
+2021,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",51250,2680,695,3375,6.6,6.5854,1151,469619
+2020,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",30646,2410,323,2733,8.9,8.918,1152,529840
+2019,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",24457,2541,283,2824,11.5,11.5468,1091,457156
+2018,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",26517,2517,289,2806,10.6,10.5819,986,501621
+2017,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",23475,1384,367,1751,7.5,7.459,330,594241
+2016,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",18947,1351,333,1684,8.9,8.888,321,502699
+2015,"September 30, 2025",False,Size of total positive income [7],"$10,000,000 or more",21149,1818,190,2008,9.5,9.4945,449,972671
+2014,"September 30, 2024",False,Size of total positive income [7],"$10,000,000 or more",19447,1759,146,1905,9.8,9.7959,357,613611
+2013,"September 30, 2023",False,Size of total positive income [7],"$10,000,000 or more",15151,1614,185,1799,11.873803709326117,11.8738,418,464956.4849999999
+2012,"September 30, 2022",False,Size of total positive income [7],"$10,000,000 or more",20287,2559,204,2763,13.619559323704836,13.6196,659,860336.9600000008
+2011,"September 30, 2021",False,Size of total positive income [7],"$10,000,000 or more",13846,2287,218,2505,18.09186768741875,18.0919,807,533285.0180000002
+2010,"September 30, 2020",False,Size of total positive income [7],"$10,000,000 or more",13322,2605,257,2862,21.498273532502626,21.4833,956,610397.384
+2023,"September 30, 2025",True,,International returns [9],332545,7,39,46,<0.05,0.0138,3,0
+2022,"September 30, 2025",True,,International returns [9],329819,407,1795,2202,0.7,0.6676,8,5334
+2021,"September 30, 2025",False,,International returns [9],382493,1260,694,1954,0.5,0.5109,33,11237
+2020,"September 30, 2025",False,,International returns [9],152692,1535,559,2094,1.4,1.3714,27,12063
+2019,"September 30, 2025",False,,International returns [9],155009,2402,707,3109,2,2.0057,11,10391
+2018,"September 30, 2025",False,,International returns [9],153331,355,12,367,0.2,0.2394,10,2628
+2017,"September 30, 2025",False,,International returns [9],159403,887,0,887,0.6,0.5565,49,4973
+2016,"September 30, 2025",False,,International returns [9],174875,1434,0,1434,0.8,0.82,22,5178
+2015,"September 30, 2025",False,,International returns [9],181849,419,0,419,0.2,0.2304,17,554
+2014,"September 30, 2024",False,,International returns [9],190282,8288,8,8296,4.4,4.3598,301,21070
+2013,"September 30, 2023",False,,International returns [9],201134,12796,4,12800,6.363916592918153,6.3639,169,27626.66
+2012,"September 30, 2022",False,,International returns [9],215024,9939,3,9942,4.624134980281271,4.6237,380,26130.88
+2011,"September 30, 2021",False,,International returns [9],216072,7484,5,7489,3.4659743048613425,3.466,111,16911.506
+2010,"September 30, 2020",False,,International returns [9],221612,9546,4,9550,4.309333429597675,4.3093,385,24287
+2023,"September 30, 2025",True,,Returns with earned income tax credit [10],24439936,70283,8607,78890,0.3,0.3228,6618,423736
+2022,"September 30, 2025",True,,Returns with earned income tax credit [10],24086346,180502,422,180924,0.8,0.7511,18746,983178
+2021,"September 30, 2025",False,,Returns with earned income tax credit [10],32216183,223959,164,224123,0.7,0.6957,42051,1242885
+2020,"September 30, 2025",False,,Returns with earned income tax credit [10],26025709,247930,49,247979,1,0.9528,48167,1205551
+2019,"September 30, 2025",False,,Returns with earned income tax credit [10],26738391,211306,33,211339,0.8,0.7904,23174,1035698
+2018,"September 30, 2025",False,,Returns with earned income tax credit [10],26492486,243179,37,243216,0.9,0.9181,31550,1107956
+2017,"September 30, 2025",False,,Returns with earned income tax credit [10],27030382,283855,37,283892,1.1,1.0503,35712,1261940
+2016,"September 30, 2025",False,,Returns with earned income tax credit [10],27382904,330442,11,330453,1.2,1.2068,35396,1494886
+2015,"September 30, 2025",False,,Returns with earned income tax credit [10],28081708,329045,,,1.2,,30015,1580366
+2014,"September 30, 2024",False,,Returns with earned income tax credit [10],28537908,360503,14,360517,1.3,1.2633,32473,1706810
+2013,"September 30, 2023",False,,Returns with earned income tax credit [10],28821785,425591,10,425601,1.4766642662832994,1.4767,38156,1944487
+2012,"September 30, 2022",False,,Returns with earned income tax credit [10],27848264,510167,4,510171,1.8319777491336624,1.832,53572,2022359.44
+2011,"September 30, 2021",False,,Returns with earned income tax credit [10],27911726,493705,14,493719,1.76885513995086,1.7689,38939,2183848.48
+2010,"September 30, 2020",False,,Returns with earned income tax credit [10],27367757,496277,11,496288,1.8134039994581945,1.8134,34125,2119652.291
+2023,"September 30, 2025",True,,"Corporation income tax returns, except Form 1120–S, total [11]",1575851,584,1719,2303,0.1,0.1461,272,24147
+2022,"September 30, 2025",True,,"Corporation income tax returns, except Form 1120–S, total [11]",1564896,2973,2197,5170,0.3,0.3304,1494,173154
+2021,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1557525,4929,1325,6254,0.4,0.4015,1830,559726
+2020,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1498819,9186,897,10083,0.7,0.6727,3504,2226126
+2019,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1523761,6263,748,7011,0.5,0.4601,2215,2635437
+2018,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1555943,8528,593,9121,0.6,0.5862,2886,6347565
+2017,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1593607,9985,526,10511,0.7,0.6596,3455,6914544
+2016,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1590314,14092,410,14502,0.9,0.9119,4859,13584870
+2015,"September 30, 2025",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1626283,15395,305,15700,1,0.9654,4999,21935005
+2014,"September 30, 2024",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1616362,17043,266,17309,1.1,1.0709,5589,13059091
+2013,"September 30, 2023",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1625306,19083,232,19315,1.188,1.1884,6426,13763923.658000004
+2012,"September 30, 2022",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1631811,21145,191,21336,1.3075043617183608,1.3075,7075,15032595.311
+2011,"September 30, 2021",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1661744,23481,216,23697,1.426031927902252,1.426,7701,11987678.897
+2010,"September 30, 2020",False,,"Corporation income tax returns, except Form 1120–S, total [11]",1684341,25939,229,26168,1.5536046441902203,1.5536,7802,13922416.352
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,348190,69,224,293,0.1,0.0841,11,2741
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,347995,365,345,710,0.2,0.204,55,19209
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,331115,560,198,758,0.2,0.2289,78,45847
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,297812,1200,142,1342,0.5,0.4506,227,80545
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,306698,707,118,825,0.3,0.269,130,70063
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,295294,933,90,1023,0.3,0.3464,141,90215
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,292916,1180,73,1253,0.4,0.4278,137,180804
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,293042,1706,84,1790,0.6,0.6108,267,198865
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,288630,1779,58,1837,0.6,0.6365,261,201444
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,277491,2154,66,2220,0.8,0.8,342,219584
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,279688,2573,45,2618,0.9360430193644347,0.936,516,113261.12599999993
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,330038,2542,24,2566,0.777486228858495,0.7775,471,99184.66399999999
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,278037,2843,27,2870,1.0322367166959794,1.0322,484,282756.03499999904
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets",No balance sheet,266121,2864,45,2909,1.093863317814077,1.0931,384,120920.49
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",614796,166,235,401,0.1,0.0652,43,5751
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",615493,754,366,1120,0.2,0.182,288,22292
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",632014,1290,123,1413,0.2,0.2236,351,45570
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",630817,3073,316,3389,0.5,0.5372,1262,92576
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",666383,1397,38,1435,0.2,0.2153,465,49140
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",709793,1513,61,1574,0.2,0.2218,491,56141
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",749689,1554,72,1626,0.2,0.2169,361,94628
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",749020,2915,83,2998,0.4,0.4003,876,129424
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",788271,3073,72,3145,0.4,0.399,828,122167
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",795409,3973,34,4007,0.5,0.5038,1127,175323
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",805528,5823,69,5892,0.7314457101429125,0.7314,2054,183547.7349999996
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",768252,6672,53,6725,0.8753638129155538,0.8754,2289,219074.85799999943
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",849261,7485,81,7566,0.8905389509232144,0.8909,2409,131239.2020000004
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1 under $250,000",875323,7609,78,7687,0.8781901081086639,0.8782,2178,160614.067
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",270334,107,159,266,0.1,0.0984,46,3042
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",268941,527,264,791,0.3,0.2941,189,17439
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",278878,1305,109,1414,0.5,0.507,440,44673
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",269608,2826,70,2896,1.1,1.0742,1209,80300
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",263681,1315,76,1391,0.5,0.5275,529,48899
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",270301,1684,50,1734,0.6,0.6415,635,57693
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",273141,1655,51,1706,0.6,0.6246,546,102243
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",277107,2601,35,2636,1,0.9513,872,142764
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",281342,2687,43,2730,1,0.9703,853,117662
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",281525,2911,22,2933,1,1.0418,1005,111527
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",285537,2895,36,2931,1.027187369762938,1.0265,1024,100108.72900000018
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",284904,3381,22,3403,1.1958414062280627,1.1944,1207,113511.2630000001
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",286106,3742,13,3755,1.3124506301860148,1.3125,1358,129303.03399999999
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000 under $1,000,000",299036,4213,17,4230,1.4155486295964366,1.4145,1358,116064.405
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",189329,61,113,174,0.1,0.0919,23,1220
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",184353,268,136,404,0.2,0.2191,118,11971
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",176971,731,109,840,0.5,0.4747,347,34038
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",171930,877,64,941,0.5,0.5473,390,56383
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",162802,815,71,886,0.5,0.5442,290,50557
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",161855,1319,85,1404,0.9,0.8674,500,53062
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",162403,1233,25,1258,0.8,0.7746,447,92353
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",159321,1387,20,1407,0.9,0.8831,471,124337
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",158355,1231,22,1253,0.8,0.7913,352,87017
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",156112,1435,11,1446,0.9,0.9263,469,120874
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",152321,1599,18,1617,1.0615739129863906,1.0616,529,74532.36999999998
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",150069,1806,50,1856,1.2367644216993516,1.2368,664,79653.17199999987
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",152207,1929,32,1961,1.29100501291005,1.2884,707,90142.22500000006
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000 under $5,000,000",150481,2444,23,2467,1.6394096264644706,1.6394,878,103421.641
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",41430,7,27,34,0.1,0.0821,,
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",39908,58,50,108,0.3,0.2706,30,927
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",37760,176,58,234,0.6,0.6197,90,11127
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",35656,157,39,196,0.5,0.5497,44,31485
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",33772,247,69,316,0.9,0.9357,58,33916
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",32116,251,50,301,0.9,0.9372,59,55682
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",30729,264,11,275,0.9,0.8949,107,76817
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",30136,413,9,422,1.4,1.4003,195,39053
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",29524,339,6,345,1.2,1.1685,101,26391
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",27967,477,10,487,1.7,1.7413,198,28423
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",27280,370,7,377,1.381964809384164,1.382,137,43211.66799999999
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",26479,386,10,396,1.5144076437931946,1.4955,122,30847.714999999997
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",26504,519,7,526,1.9921521279806822,1.9846,222,27795.924
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000 under $10,000,000",26172,553,7,560,2.1435121503897294,2.1397,193,40267.362
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",48540,56,254,310,0.6,0.6386,44,1674
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",45877,412,298,710,1.5,1.5476,336,4393
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",42316,323,126,449,1.1,1.0611,187,19947
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",38451,203,47,250,0.7,0.6502,68,863704
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",36409,583,37,620,1.7,1.7029,265,54675
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",34428,810,67,877,2.6,2.5473,362,80386
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",33032,1296,23,1319,4,3.9931,589,148859
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",31895,1547,20,1567,4.9,4.913,689,105816
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",30944,1892,11,1903,6.1,6.1498,860,144348
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",29854,1576,10,1586,5.3,5.3125,648,127157
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",28786,1542,22,1564,5.454040158410338,5.4332,607,111641.77700000006
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",27722,1692,21,1713,6.190029579395426,6.1792,654,142945.68000000005
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",27151,1872,23,1895,7.00894994659497,6.9795,741,434979.83899999934
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$10,000,000 under $50,000,000",26458,2312,6,2318,8.77239398291632,8.7611,820,241787.712
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",10116,24,121,145,1.4,1.4334,21,5018
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",9670,245,127,372,3.8,3.8469,197,13735
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",8835,158,71,229,2.6,2.592,96,12595
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",7931,90,29,119,1.5,1.5004,40,12860
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",7549,254,9,263,3.5,3.4839,127,60629
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",7033,378,18,396,5.7,5.6306,188,35272
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",6814,622,13,635,9.3,9.319,356,45915
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",6535,665,10,675,10.4,10.329,363,79832
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",6433,930,9,939,14.6,14.5966,484,160230
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",6289,895,7,902,14.4,14.3425,468,66980
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",6053,781,7,788,13.167024615892945,13.0183,379,367814.327
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",5905,792,8,800,13.666384419983066,13.5478,362,74741.02400000002
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",5826,,,,14.81290765533814,,384,62039.27599999998
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$50,000,000 under $100,000,000",5696,,,,18.92556179775281,,404,115378.134
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",8535,24,85,109,1.3,1.2771,18,2531
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",8295,232,134,366,4.4,4.4123,196,3648
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",7394,175,85,260,3.5,3.5164,111,7172
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",6506,78,39,117,1.8,1.7983,55,11416
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",6426,225,33,258,4.1,4.0149,115,25053
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5993,316,40,356,6,5.9403,164,43749
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5881,568,17,585,10,9.9473,319,113973
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5669,653,,,11.6,,336,116341
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5672,801,27,828,15,14.598,393,172149
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5635,920,9,929,16.5,16.4862,450,177995
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5523,804,17,821,14.955640050697086,14.8651,345,86143.29099999994
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5576,937,13,950,17.25251076040172,17.0373,414,580591.7200000002
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5542,990,9,999,18.080115481775533,18.026,406,154478.25899999996
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$100,000,000 under $250,000,000",5440,1169,7,1176,21.599264705882355,21.6176,475,126255.007
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",4213,,,,1.5,,,142
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",4061,14,71,85,2.1,2.0931,13,418
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3729,18,23,41,1.1,1.0995,10,1582
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3276,22,42,64,2,1.9536,24,359
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3304,52,26,78,2.4,2.3608,27,2319
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3116,151,14,165,5.3,5.2953,57,13941
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3100,284,19,303,9.8,9.7742,140,27856
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3091,406,19,425,13.7,13.7496,177,83216
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3127,532,27,559,17.8,17.8766,239,109304
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3107,559,17,576,18.6,18.5388,240,103429
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",3008,559,11,570,18.949468085106382,18.9495,230,1493106.106
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",2929,532,8,540,18.641174462273813,18.4363,208,235608.307
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",2942,,,,21.447994561522773,,222,185278.90099999995
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$250,000,000 under $500,000,000",2930,,,,24.197952218430032,,224,155136.398
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2937,,,,2.4,,,0
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2824,6,44,50,1.8,1.7705,,24
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2448,23,34,57,2.3,2.3284,15,1537
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2243,30,49,79,3.6,3.5221,26,67709
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2245,90,29,119,5.3,5.3007,25,26084
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2161,149,21,170,7.9,7.8667,41,76097
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2168,269,22,291,13.4,13.4225,104,57834
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2104,374,18,392,18.6,18.6312,130,105136
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2068,431,15,446,21.6,21.5667,138,147660
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",2025,447,9,456,22.5,22.5185,145,121299
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",1920,423,12,435,22.65625,22.6562,132,140157.021
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",1968,463,6,469,24.23780487804878,23.8313,136,313568.3719999999
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",1974,496,7,503,25.886524822695034,25.4813,144,162189.991
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$500,000,000 under $1,000,000,000",1854,546,9,555,29.827400215749726,29.9353,157,432888.557
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",3442,20,178,198,5.8,5.7525,19,0
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",3407.9152,27,103,130,3.8,3.8146,21,2286
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2973,59,109,168,5.7,5.6509,42,49796
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2498,139,106,245,9.8,9.8078,59,155892
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2701,185,93,278,10.3,10.2925,62,113990
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2537,350,74,424,16.7,16.7127,104,340026
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2492,446,64,510,20.5,20.4655,153,585336
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2439,623,65,688,28.2,28.2083,211,460075
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2397,667,47,714,29.8,29.7872,191,556626
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2365,701,43,744,31.5,31.4588,189,834383
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2287,644,35,679,29.68954962833406,29.6895,169,1239771.3350000004
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2202,727,11,738,33.5149863760218,33.515,185,757528.5410000006
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2141,816,11,827,38.626809901914996,38.6268,211,1857958.5089999987
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$1,000,000,000 under $5,000,000,000",2103,949,18,967,46.1245839277223,45.9819,184,2332295.751
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",1096,21,87,108,9.9,9.854,20,0
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",1045,29,125,154,14.7,14.7368,19,42282
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",932,53,119,172,18.5,18.4549,31,68924
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",824,91,96,187,22.7,22.6942,47,254312
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",867,141,101,242,27.9,27.9123,61,694409
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",815,213,66,279,34.2,34.2331,51,372411
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",819,253,62,315,38.5,38.4615,62,730521
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",768,313,47,360,46.9,46.875,97,903962
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",770,296,46,342,43.9,44.4156,55,1523821
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",751,339,27,366,48.7,48.735,78,2099626
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",704,307,28,335,50,47.5852,64,2963187.414000001
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",695,375,12,387,55.68345323741008,55.6835,70,3671343.244000001
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",685,399,15,414,60.43795620437956,60.438,67,2406643.680000001
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$5,000,000,000 under $20,000,000,000",662,423,12,435,65.70996978851964,65.71,73,2645555.248
+2023,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",570,25,100,125,21.9,21.9298,21,2028
+2022,"September 30, 2025",True,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",543,36,122,158,29.1,29.0976,25,34531
+2021,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",512,44,140,184,35.9,35.9375,29,215674
+2020,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",451,41,151,192,43.5,42.5721,37,516560
+2019,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",472,104,128,232,49.2,49.1525,40,1394808
+2018,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",451,171,111,282,62.5,62.5277,31,5038594
+2017,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",430,176,100,276,64.2,64.186,44,4619541
+2016,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",410,210,64,274,66.8,66.8293,57,11049127
+2015,"September 30, 2025",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",398,240,45,285,71.6,71.608,42,18465652
+2014,"September 30, 2024",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",382,236,34,270,70.7,70.6806,38,8824990
+2013,"September 30, 2023",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",371,245,30,275,74.12398921832884,74.124,29,6570737.208000001
+2012,"September 30, 2022",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",351,267,11,278,79.2022792022792,79.2023,29,8623381.701
+2011,"September 30, 2021",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",328,250,25,275,84.45121951219512,83.8415,29,5460187.06
+2010,"September 30, 2020",False,"Returns other than Forms 1120–C and 1120–F, by size of balance sheet assets","$20,000,000,000 or more",330,270,16,286,86.66666666666667,86.6667,29,7200201.58
+2023,"September 30, 2025",True,,Form 1120–C returns [13],8390,0,,,<0.05,,0,0
+2022,"September 30, 2025",True,,Form 1120–C returns [13],8796,0,,,<0.05,,0,0
+2021,"September 30, 2025",False,,Form 1120–C returns [13],8956,,,,<0.05,,,80
+2020,"September 30, 2025",False,,Form 1120–C returns [13],9276,,,,<0.05,,0,5
+2019,"September 30, 2025",False,,Form 1120–C returns [13],9415,,,,<0.05,,,485
+2018,"September 30, 2025",False,,Form 1120–C returns [13],9513,,,,0.1,,,241
+2017,"September 30, 2025",False,,Form 1120–C returns [13],9402,17,0,17,0.2,0.1808,,15242
+2016,"September 30, 2025",False,,Form 1120–C returns [13],9507,,,,0.2,,,14013
+2015,"September 30, 2025",False,,Form 1120–C returns [13],9535,28,,,0.3,,5,4376
+2014,"September 30, 2024",False,,Form 1120–C returns [13],9407,29,0,29,0.3,0.3083,,14356
+2013,"September 30, 2023",False,,Form 1120–C returns [13],9351,29,0,29,0.310127259116672,0.3101,,14441.2
+2012,"September 30, 2022",False,,Form 1120–C returns [13],9129,30,5,35,0.3505312739620988,0.3834,,8689.33
+2011,"September 30, 2021",False,,Form 1120–C returns [13],8963,35,0,35,0.39049425415597455,0.3905,,10613.856
+2010,"September 30, 2020",False,,Form 1120–C returns [13],8911,40,0,40,0.4488834025361912,0.4489,5,19160
+2023,"September 30, 2025",True,,Form 1120–F returns [14],23933,0,,,<0.05,,0,0
+2022,"September 30, 2025",True,,Form 1120–F returns [14],23687,0,,,<0.05,,0,0
+2021,"September 30, 2025",False,,Form 1120–F returns [14],22692,,,,0.1,,,1163
+2020,"September 30, 2025",False,,Form 1120–F returns [14],21540,31,18,49,0.2,0.2275,9,2022
+2019,"September 30, 2025",False,,Form 1120–F returns [14],21037,42,17,59,0.3,0.2805,11,10408
+2018,"September 30, 2025",False,,Form 1120–F returns [14],20537,79,22,101,0.5,0.4918,37,34055
+2017,"September 30, 2025",False,,Form 1120–F returns [14],20591,122,20,142,0.7,0.6896,62,22621
+2016,"September 30, 2025",False,,Form 1120–F returns [14],19270,165,21,186,1,0.9652,85,32908
+2015,"September 30, 2025",False,,Form 1120–F returns [14],18817,311,14,325,1.7,1.7272,172,96157
+2014,"September 30, 2024",False,,Form 1120–F returns [14],18043,333,11,344,1.9,1.9066,185,33143
+2013,"September 30, 2023",False,,Form 1120–F returns [14],16949,309,17,326,1.9883178948610538,1.9234,176,90416.55
+2012,"September 30, 2022",False,,Form 1120–F returns [14],15592,411,22,433,2.809132888660852,2.7771,251,81925.72
+2011,"September 30, 2021",False,,Form 1120–F returns [14],14077,534,13,547,3.928393833913476,3.8858,297,592073.106
+2010,"September 30, 2020",False,,Form 1120–F returns [14],12824,728,14,742,5.786026200873363,5.786,427,112470
+2023,"September 30, 2025",True,,Partnership returns [15],4575279.61,28,544,572,<0.05,0.0125,20,
+2022,"September 30, 2025",True,,Partnership returns [15],4500186,451,1160,1611,<0.05,0.0358,371,
+2021,"September 30, 2025",False,,Partnership returns [15],4467584,3845,1403,5248,0.1,0.1175,3405,
+2020,"September 30, 2025",False,,Partnership returns [15],4645903,2150,955,3105,0.1,0.0668,1793,
+2019,"September 30, 2025",False,,Partnership returns [15],4152992,2546,860,3406,0.1,0.082,1849,
+2018,"September 30, 2025",False,,Partnership returns [15],4010200,2079,695,2774,0.1,0.0692,1289,
+2017,"September 30, 2025",False,,Partnership returns [15],3905335,4290,650,4940,0.1,0.1265,1661,
+2016,"September 30, 2025",False,,Partnership returns [15],3763117,7201,668,7869,0.2,0.2091,3098,
+2015,"September 30, 2025",False,,Partnership returns [15],3715187,8077,322,8399,0.2,0.2261,3271,
+2014,"September 30, 2024",False,,Partnership returns [15],3611255,10068,316,10384,0.3,0.2875,4579,
+2013,"September 30, 2023",False,,Partnership returns [15],3460699,10247,240,10487,0.30303126622685184,0.303,4701,
+2012,"September 30, 2022",False,,Partnership returns [15],3388561,11432,259,11691,0.3450137093592236,0.345,5340,
+2011,"September 30, 2021",False,,Partnership returns [15],3285177,15407,198,15605,0.47501245747185006,0.475,8142,
+2010,"September 30, 2020",False,,Partnership returns [15],3248481,15385,345,15730,0.48422631993230064,0.4842,7598,
+2023,"September 30, 2025",True,,S corporation returns [16],5440879,143,915,1058,<0.05,0.0194,49,
+2022,"September 30, 2025",True,,S corporation returns [16],5266702,1279,1145,2424,<0.05,0.046,428,
+2021,"September 30, 2025",False,,S corporation returns [16],5120552,5663,835,6498,0.1,0.1269,2745,
+2020,"September 30, 2025",False,,S corporation returns [16],4892722,3183,406,3589,0.1,0.0734,1026,
+2019,"September 30, 2025",False,,S corporation returns [16],4940351,4649,309,4958,0.1,0.1004,1763,
+2018,"September 30, 2025",False,,S corporation returns [16],4874996,5488,272,5760,0.1,0.1182,1730,
+2017,"September 30, 2025",False,,S corporation returns [16],4725684,7596,268,7864,0.2,0.1664,2331,
+2016,"September 30, 2025",False,,S corporation returns [16],4592042,10132,238,10370,0.2,0.2258,3349,
+2015,"September 30, 2025",False,,S corporation returns [16],4487336,9828,149,9977,0.2,0.2223,2756,
+2014,"September 30, 2024",False,,S corporation returns [16],4380125,11960,123,12083,0.3,0.2759,3563,
+2013,"September 30, 2023",False,,S corporation returns [16],4257909,14679,149,14828,0.3482460522289227,0.3482,4834,
+2012,"September 30, 2022",False,,S corporation returns [16],4205452,16843,112,16955,0.4031671268629388,0.4032,6245,
+2011,"September 30, 2021",False,,S corporation returns [16],4158572,16902,134,17036,0.4097560412564698,0.4097,6349,
+2010,"September 30, 2020",False,,S corporation returns [16],4127554,17517,106,17623,0.4269598895617114,0.427,5725,
+2023,"September 30, 2025",True,,Estate and trust income tax returns [17],3091353,,,,<0.05,,0,0
+2022,"September 30, 2025",True,,Estate and trust income tax returns [17],3077105,8,63,71,<0.05,0.0023,0,512
+2021,"September 30, 2025",False,,Estate and trust income tax returns [17],3060773,77,114,191,<0.05,0.0062,33,100676
+2020,"September 30, 2025",False,,Estate and trust income tax returns [17],3020968,129,75,204,<0.05,0.0068,44,35777
+2019,"September 30, 2025",False,,Estate and trust income tax returns [17],3067792,181,101,282,<0.05,0.0092,40,30864
+2018,"September 30, 2025",False,,Estate and trust income tax returns [17],3086737,272,105,377,<0.05,0.0122,59,13314
+2017,"September 30, 2025",False,,Estate and trust income tax returns [17],3090259,565,149,714,<0.05,0.0231,103,11685
+2016,"September 30, 2025",False,,Estate and trust income tax returns [17],3096382,496,206,702,<0.05,0.0227,135,68074
+2015,"September 30, 2025",False,,Estate and trust income tax returns [17],3114960,771,128,899,<0.05,0.0289,122,83766
+2014,"September 30, 2024",False,,Estate and trust income tax returns [17],3130992,853,145,998,,0.0319,109,50957
+2013,"September 30, 2023",False,,Estate and trust income tax returns [17],3155875,1616,210,1826,0.05786033984235751,0.0579,638,42436
+2012,"September 30, 2022",False,,Estate and trust income tax returns [17],3142598,2354,217,2571,0.08181129116737171,0.0818,1048,78775
+2011,"September 30, 2021",False,,Estate and trust income tax returns [17],3012785,2283,286,2569,0.08526994126696728,0.0853,977,64103
+2010,"September 30, 2020",False,,Estate and trust income tax returns [17],2999204,3138,307,3445,0.1148638105310609,0.1149,1482,77398
+2023,"September 30, 2025",True,,Estate tax returns [18],27040,16,76,92,0.3,0.3402,8,387
+2022,"September 30, 2025",True,,Estate tax returns [18],30345,356,273,629,2.1,2.0728,154,40884
+2021,"September 30, 2025",False,,Estate tax returns [18],34367,856,48,904,2.6,2.6304,288,304566
+2020,"September 30, 2025",False,,Estate tax returns [18],33003,1118,7,1125,3.4,3.4088,312,1281752
+2019,"September 30, 2025",False,,Estate tax returns [18],26750,1310,6,1316,4.9,4.9196,418,1942379
+2018,"September 30, 2025",False,,Estate tax returns [18],25254,1153,10,1163,4.6,4.6052,262,896476
+2017,"September 30, 2025",False,,Estate tax returns [18],32658,2093,3,2096,6.4,6.418,444,1265165
+2016,"September 30, 2025",False,,Estate tax returns [18],34389,2774,0,2774,8.1,8.0665,553,1402213
+2015,"September 30, 2025",False,,Estate tax returns [18],35325,2889,,,8.2,,527,684898
+2014,"September 30, 2024",False,,Estate tax returns [18],34819,2954,0,2954,8.5,8.4839,613,1156884
+2013,"September 30, 2023",False,,Estate tax returns [18],34302,2503,0,2503,7.296950615124483,7.297,508,831173
+2012,"September 30, 2022",False,,Estate tax returns [18],33549,1944,4,1948,5.842200959790158,5.8064,374,566096
+2011,"September 30, 2021",False,,Estate tax returns [18],30373,4189,3,4192,13.801731801270867,13.8017,935,629141
+2010,"September 30, 2020",False,,Estate tax returns [18],10337,1037,3,1040,10.06094611589436,10.0609,398,36524
+2023,"September 30, 2025",True,,Gift tax returns,305484,,,,<0.05,,7,164
+2022,"September 30, 2025",True,,Gift tax returns,348643,184,72,256,0.1,0.0734,129,23517
+2021,"September 30, 2025",False,,Gift tax returns,448155,486,49,535,0.1,0.1194,277,112746
+2020,"September 30, 2025",False,,Gift tax returns,253425,706,24,730,0.3,0.2881,403,76612
+2019,"September 30, 2025",False,,Gift tax returns,248821,368,6,374,0.2,0.1503,168,148951
+2018,"September 30, 2025",False,,Gift tax returns,249936,962,4,966,0.4,0.3865,560,857043
+2017,"September 30, 2025",False,,Gift tax returns,235893,605,7,612,0.3,0.2594,301,233540
+2016,"September 30, 2025",False,,Gift tax returns,239785,1965,8,1973,0.8,0.8228,995,389077
+2015,"September 30, 2025",False,,Gift tax returns,242585,1426,7,1433,0.6,0.5907,542,488231
+2014,"September 30, 2024",False,,Gift tax returns,238935,1542,15,1557,0.7,0.6516,601,572123
+2013,"September 30, 2023",False,,Gift tax returns,265273,897,14,911,0.3434197977178228,0.3434,288,207768.19
+2012,"September 30, 2022",False,,Gift tax returns,369324,2405,22,2427,0.657146570490951,0.6571,834,534372.79
+2011,"September 30, 2021",False,,Gift tax returns,258393,2161,24,2185,0.8456111427167144,0.8456,776,245476
+2010,"September 30, 2020",False,,Gift tax returns,219544,2127,12,2139,0.9742921692234815,0.9743,858,658793
+2023,"September 30, 2025",True,,Employment tax returns,34233381,3651,2092,5743,<0.05,0.0168,190,100139
+2022,"September 30, 2025",True,,Employment tax returns,34801411,10457,3712,14169,<0.05,0.0407,834,426260
+2021,"September 30, 2025",False,,Employment tax returns,34798162,25097,2013,27110,0.1,0.0779,1792,1076429
+2020,"September 30, 2025",False,,Employment tax returns,27891847,28563,885,29448,0.1,0.1056,2641,778564
+2019,"September 30, 2025",False,,Employment tax returns,32174998,32587,514,33101,0.1,0.1029,2919,838565
+2018,"September 30, 2025",False,,Employment tax returns,31569807,40305,370,40675,0.1,0.1288,3016,1076085
+2017,"September 30, 2025",False,,Employment tax returns,31031897,42948,270,43218,0.1,0.1393,3070,1054006
+2016,"September 30, 2025",False,,Employment tax returns,31082200,45492,200,45692,0.1,0.147,4158,828100
+2015,"September 30, 2025",False,,Employment tax returns,30590977,41926,150,42076,0.1,0.1375,3927,849106
+2014,"September 30, 2024",False,,Employment tax returns,30693066,44163,130,44293,0.1,0.1443,5145,988067
+2013,"September 30, 2023",False,,Employment tax returns,30331258,43851,220,44071,0.1452989519920341,0.1453,4981,794954.91
+2012,"September 30, 2022",False,,Employment tax returns,30249684,51526,120,51646,0.17073236203062483,0.1707,5509,854101.74
+2011,"September 30, 2021",False,,Employment tax returns,29877737,55569,118,55687,0.18638292451667274,0.1864,6610,779878
+2010,"September 30, 2020",False,,Employment tax returns,30264833,71756,92,71848,0.23739764233954305,0.2374,11186,756838
+2023,"September 30, 2025",True,,Excise tax returns [19],1402486,1978,562,2540,0.2,0.1811,300,169527
+2022,"September 30, 2025",True,,Excise tax returns [19],1432399,3448,454,3902,0.3,0.2724,748,251962
+2021,"September 30, 2025",False,,Excise tax returns [19],1433708,4837,355,5192,0.4,0.3621,1257,183724
+2020,"September 30, 2025",False,,Excise tax returns [19],1328301,4411,215,4626,0.3,0.3483,923,241915
+2019,"September 30, 2025",False,,Excise tax returns [19],1323801,5927,127,6054,0.5,0.4573,1329,239445
+2018,"September 30, 2025",False,,Excise tax returns [19],1302765,6837,60,6897,0.5,0.5294,1593,156142
+2017,"September 30, 2025",False,,Excise tax returns [19],1267718,8111,39,8150,0.6,0.6429,2022,167873
+2016,"September 30, 2025",False,,Excise tax returns [19],1242800,9523,10,9533,0.8,0.7671,2387,174724
+2015,"September 30, 2025",False,,Excise tax returns [19],1241419,12785,6,12791,1,1.0304,3293,215485
+2014,"September 30, 2024",False,,Excise tax returns [19],1212355,14268,32,14300,1.2,1.1795,3267,203767
+2013,"September 30, 2023",False,,Excise tax returns [19],934333,13551,12,13563,1.4516237786741986,1.4516,3345,176973.65
+2012,"September 30, 2022",False,,Excise tax returns [19],849000,14092,25,14117,1.662897526501767,1.6628,3933,236949.59
+2011,"September 30, 2021",False,,Excise tax returns [19],805923,21316,20,21336,2.6473993173045067,2.6474,4856,470083
+2010,"September 30, 2020",False,,Excise tax returns [19],839326,17218,70,17288,2.0597479406094887,2.0597,4989,350828
+2023,"September 30, 2025",True,,Other taxable returns [20],,0,9,9,,,0,0
+2022,"September 30, 2025",True,,Other taxable returns [20],,113,14,127,,,,1392
+2021,"September 30, 2025",False,,Other taxable returns [20],,214,11,225,,,108,1906
+2020,"September 30, 2025",False,,Other taxable returns [20],,33,9,42,,,11,7029
+2019,"September 30, 2025",False,,Other taxable returns [20],,379,5,384,,,170,3342
+2018,"September 30, 2025",False,,Other taxable returns [20],,158,6,164,,,18,12206.165
+2017,"September 30, 2025",False,,Other taxable returns [20],,176,,,,,58,4679
+2016,"September 30, 2025",False,,Other taxable returns [20],,179,3,182,,,22,10372
+2015,"September 30, 2025",False,,Other taxable returns [20],,232,5,237,,,19,7003
+2014,"September 30, 2024",False,,Other taxable returns [20],,197,6,203,,,19,12991
+2013,"September 30, 2023",False,,Other taxable returns [20],,382,7,389,,,40,19605
+2012,"September 30, 2022",False,,Other taxable returns [20],,509,6,515,,,96,18058
+2011,"September 30, 2021",False,,Other taxable returns [20],,586,14,600,,,110,85482
+2010,"September 30, 2020",False,,Other taxable returns [20],,611,12,623,,,131,102840
+2023,"September 30, 2025",True,,Other nontaxable returns [21],,0,31,31,,,0,
+2022,"September 30, 2025",True,,Other nontaxable returns [21],,12,100,112,,,,
+2021,"September 30, 2025",False,,Other nontaxable returns [21],,27,49,76,,,8,
+2020,"September 30, 2025",False,,Other nontaxable returns [21],,20,60,80,,,7,
+2019,"September 30, 2025",False,,Other nontaxable returns [21],,37,28,65,,,11,
+2018,"September 30, 2025",False,,Other nontaxable returns [21],,55,18,73,,,11,
+2017,"September 30, 2025",False,,Other nontaxable returns [21],,310,101,411,,,89,
+2016,"September 30, 2025",False,,Other nontaxable returns [21],,294,97,391,,,87,
+2015,"September 30, 2025",False,,Other nontaxable returns [21],,366,76,442,,,141,
+2014,"September 30, 2024",False,,Other nontaxable returns [21],,390,57,447,,,130,
+2013,"September 30, 2023",False,,Other nontaxable returns [21],,643,126,769,,,271,
+2012,"September 30, 2022",False,,Other nontaxable returns [21],,947,57,1004,,,359,
+2011,"September 30, 2021",False,,Other nontaxable returns [21],,1402,99,1501,,,677,
+2010,"September 30, 2020",False,,Other nontaxable returns [21],,1739,151,1890,,,782,

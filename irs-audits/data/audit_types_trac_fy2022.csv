@@ -1,0 +1,6 @@
+income_class,returns,revenue_agents,tax_auditors,correspondence,total,revenue_agent_one_in,tax_auditor_one_in,correspondence_one_in,all_one_in,tax_auditor_share_of_non_mail_pct
+"Under $25,000 gross receipts, with EITC",23526357,3131,5725,289629,298485,7514,4109,81,79,64.6
+"Under $200,000 TPI, excluding the row above",130852772,31981,30921,187489,250391,4092,4232,698,523,49.2
+"$200,000 under $1 million TPI, no Schedule C or F",6869124,4509,1144,28111,33764,1523,6004,244,203,20.2
+"$200,000 under $1 million TPI, with Schedule C or F",2593338,5442,2045,19311,26798,477,1268,134,97,27.3
+$1 million or more TPI,703576,7710,987,8069,16766,91,713,87,42,11.3
