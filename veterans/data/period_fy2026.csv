@@ -1,0 +1,25 @@
+Period of Service,veterans
+(a) All Veterans (b+c),17260285
+(b) Wartime Veterans (i+j+k+m+n+p+q+r+s+u+v+w),13840104
+(c) Peacetime Veterans (h+l+o+t+x),3420160
+(d) World War II (i+j+k),30607
+(e) Korean Conflict (j+k+m+n),280509
+(f) Vietnam Era (k+n+p+q+r+s),4674496
+(g) Gulf War Era (q+r+s+u+v+w),9232051
+(h) Pre-WWII,0
+(i) WWII only,26911
+(j) WWII & KC,2378
+"(k) WWII, KC, VNE",1318
+(l) Between WWII & KC,8172
+(m) KC only,248318
+(n) KC & VNE,28494
+(o) Between KC & VNE,677009
+(p) VNE only,4300634
+(q) VNE & GW Era - Pre 9/11,236196
+"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",48950
+(s) VNE & GW Era - Post 9/11,58902
+(t) Between VNE & GW Era,2734978
+(u) GW Era - Pre 9/11 only,2701076
+(v) GW Era - Pre 9/11 & GW Era - Post 9/11,1635743
+(w) GW Era - Post 9/11 only,4551183
+(x) Post GW Era,0
