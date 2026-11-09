@@ -1,0 +1,942 @@
+{
+ "rates": {
+  "us": [
+   {
+    "year": 2000,
+    "rate": 1.715
+   },
+   {
+    "year": 2001,
+    "rate": 1.745
+   },
+   {
+    "year": 2002,
+    "rate": 1.708
+   },
+   {
+    "year": 2003,
+    "rate": 1.67
+   },
+   {
+    "year": 2004,
+    "rate": 1.622
+   },
+   {
+    "year": 2005,
+    "rate": 1.686
+   },
+   {
+    "year": 2006,
+    "rate": 1.646
+   },
+   {
+    "year": 2007,
+    "rate": 1.588
+   },
+   {
+    "year": 2008,
+    "rate": 1.49
+   },
+   {
+    "year": 2009,
+    "rate": 1.374
+   },
+   {
+    "year": 2010,
+    "rate": 1.429
+   },
+   {
+    "year": 2011,
+    "rate": 1.468
+   },
+   {
+    "year": 2012,
+    "rate": 1.579
+   },
+   {
+    "year": 2013,
+    "rate": 1.549
+   },
+   {
+    "year": 2014,
+    "rate": 1.586
+   },
+   {
+    "year": 2015,
+    "rate": 1.755
+   },
+   {
+    "year": 2016,
+    "rate": 1.927
+   },
+   {
+    "year": 2017,
+    "rate": 1.907
+   },
+   {
+    "year": 2018,
+    "rate": 1.984
+   },
+   {
+    "year": 2019,
+    "rate": 1.958
+   },
+   {
+    "year": 2020,
+    "rate": 2.033
+   },
+   {
+    "year": 2021,
+    "rate": 2.311
+   },
+   {
+    "year": 2022,
+    "rate": 2.346
+   },
+   {
+    "year": 2023,
+    "rate": 2.256
+   },
+   {
+    "year": 2024,
+    "rate": 2.161
+   }
+  ],
+  "eu": [
+   {
+    "year": 2000,
+    "rate": 2.288
+   },
+   {
+    "year": 2001,
+    "rate": 2.103
+   },
+   {
+    "year": 2002,
+    "rate": 2.137
+   },
+   {
+    "year": 2003,
+    "rate": 1.857
+   },
+   {
+    "year": 2004,
+    "rate": 1.843
+   },
+   {
+    "year": 2005,
+    "rate": 1.702
+   },
+   {
+    "year": 2006,
+    "rate": 1.659
+   },
+   {
+    "year": 2007,
+    "rate": 1.68
+   },
+   {
+    "year": 2008,
+    "rate": 1.593
+   },
+   {
+    "year": 2009,
+    "rate": 1.404
+   },
+   {
+    "year": 2010,
+    "rate": 1.266
+   },
+   {
+    "year": 2011,
+    "rate": 1.31
+   },
+   {
+    "year": 2012,
+    "rate": 1.171
+   },
+   {
+    "year": 2013,
+    "rate": 1.148
+   },
+   {
+    "year": 2014,
+    "rate": 1.113
+   },
+   {
+    "year": 2015,
+    "rate": 1.061
+   },
+   {
+    "year": 2016,
+    "rate": 1.064
+   },
+   {
+    "year": 2017,
+    "rate": 1.036
+   },
+   {
+    "year": 2018,
+    "rate": 1.016
+   },
+   {
+    "year": 2019,
+    "rate": 0.981
+   },
+   {
+    "year": 2020,
+    "rate": 0.771
+   },
+   {
+    "year": 2021,
+    "rate": 0.772
+   },
+   {
+    "year": 2022,
+    "rate": 0.802
+   },
+   {
+    "year": 2023,
+    "rate": 0.786
+   },
+   {
+    "year": 2024,
+    "rate": 0.75
+   }
+  ]
+ },
+ "stimulant": [
+  {
+   "year": 2000,
+   "share": 0.0869
+  },
+  {
+   "year": 2001,
+   "share": 0.1004
+  },
+  {
+   "year": 2002,
+   "share": 0.0976
+  },
+  {
+   "year": 2003,
+   "share": 0.1099
+  },
+  {
+   "year": 2004,
+   "share": 0.1202
+  },
+  {
+   "year": 2005,
+   "share": 0.1248
+  },
+  {
+   "year": 2006,
+   "share": 0.1106
+  },
+  {
+   "year": 2007,
+   "share": 0.1055
+  },
+  {
+   "year": 2008,
+   "share": 0.0903
+  },
+  {
+   "year": 2009,
+   "share": 0.09
+  },
+  {
+   "year": 2010,
+   "share": 0.0872
+  },
+  {
+   "year": 2011,
+   "share": 0.0897
+  },
+  {
+   "year": 2012,
+   "share": 0.1
+  },
+  {
+   "year": 2013,
+   "share": 0.1049
+  },
+  {
+   "year": 2014,
+   "share": 0.1067
+  },
+  {
+   "year": 2015,
+   "share": 0.1443
+  },
+  {
+   "year": 2016,
+   "share": 0.1527
+  },
+  {
+   "year": 2017,
+   "share": 0.1949
+  },
+  {
+   "year": 2018,
+   "share": 0.2284
+  },
+  {
+   "year": 2019,
+   "share": 0.2324
+  },
+  {
+   "year": 2020,
+   "share": 0.2781
+  },
+  {
+   "year": 2021,
+   "share": 0.2793
+  },
+  {
+   "year": 2022,
+   "share": 0.2853
+  },
+  {
+   "year": 2023,
+   "share": 0.2961
+  },
+  {
+   "year": 2024,
+   "share": 0.3142
+  }
+ ],
+ "states": [
+  {
+   "state": "AL",
+   "meth": 9.8,
+   "ped": 0.834
+  },
+  {
+   "state": "AK",
+   "meth": 15.6,
+   "ped": 0.83
+  },
+  {
+   "state": "AZ",
+   "meth": 15.2,
+   "ped": 1.39
+  },
+  {
+   "state": "AR",
+   "meth": 7.7,
+   "ped": 1.283
+  },
+  {
+   "state": "CA",
+   "meth": 11.5,
+   "ped": 1.281
+  },
+  {
+   "state": "CO",
+   "meth": 10.2,
+   "ped": 0.799
+  },
+  {
+   "state": "FL",
+   "meth": 8.2,
+   "ped": 0.933
+  },
+  {
+   "state": "GA",
+   "meth": 7.5,
+   "ped": 1.324
+  },
+  {
+   "state": "HI",
+   "meth": 8.9,
+   "ped": 0.118
+  },
+  {
+   "state": "ID",
+   "meth": 5.8,
+   "ped": 0.279
+  },
+  {
+   "state": "IL",
+   "meth": 4.1,
+   "ped": 0.571
+  },
+  {
+   "state": "IN",
+   "meth": 13.9,
+   "ped": 0.661
+  },
+  {
+   "state": "IA",
+   "meth": 5.6,
+   "ped": 0.072
+  },
+  {
+   "state": "KS",
+   "meth": 9.1,
+   "ped": 0.777
+  },
+  {
+   "state": "KY",
+   "meth": 22.0,
+   "ped": 0.747
+  },
+  {
+   "state": "LA",
+   "meth": 12.5,
+   "ped": 1.647
+  },
+  {
+   "state": "MA",
+   "meth": 3.0,
+   "ped": 0.123
+  },
+  {
+   "state": "MI",
+   "meth": 5.0,
+   "ped": 0.413
+  },
+  {
+   "state": "MN",
+   "meth": 7.8,
+   "ped": 0.077
+  },
+  {
+   "state": "MO",
+   "meth": 11.0,
+   "ped": 0.913
+  },
+  {
+   "state": "NE",
+   "meth": 3.1,
+   "ped": 0.511
+  },
+  {
+   "state": "NV",
+   "meth": 10.5,
+   "ped": 1.139
+  },
+  {
+   "state": "NJ",
+   "meth": 3.4,
+   "ped": 0.387
+  },
+  {
+   "state": "NM",
+   "meth": 20.9,
+   "ped": 2.52
+  },
+  {
+   "state": "NY",
+   "meth": 2.8,
+   "ped": -0.159
+  },
+  {
+   "state": "NC",
+   "meth": 9.4,
+   "ped": 0.673
+  },
+  {
+   "state": "OH",
+   "meth": 11.7,
+   "ped": 0.564
+  },
+  {
+   "state": "OK",
+   "meth": 10.8,
+   "ped": 1.187
+  },
+  {
+   "state": "OR",
+   "meth": 11.9,
+   "ped": 1.008
+  },
+  {
+   "state": "PA",
+   "meth": 7.6,
+   "ped": 0.16
+  },
+  {
+   "state": "SC",
+   "meth": 14.1,
+   "ped": 1.421
+  },
+  {
+   "state": "TN",
+   "meth": 20.1,
+   "ped": 1.414
+  },
+  {
+   "state": "TX",
+   "meth": 5.8,
+   "ped": 1.102
+  },
+  {
+   "state": "UT",
+   "meth": 7.0,
+   "ped": 0.282
+  },
+  {
+   "state": "VA",
+   "meth": 6.1,
+   "ped": 0.644
+  },
+  {
+   "state": "WA",
+   "meth": 11.9,
+   "ped": 0.72
+  },
+  {
+   "state": "WV",
+   "meth": 43.4,
+   "ped": 0.43
+  },
+  {
+   "state": "WI",
+   "meth": 6.4,
+   "ped": 0.1
+  }
+ ],
+ "deaths": [
+  {
+   "year": 2000,
+   "deaths": 4763
+  },
+  {
+   "year": 2001,
+   "deaths": 4901
+  },
+  {
+   "year": 2002,
+   "deaths": 4851
+  },
+  {
+   "year": 2003,
+   "deaths": 4774
+  },
+  {
+   "year": 2004,
+   "deaths": 4675
+  },
+  {
+   "year": 2005,
+   "deaths": 4892
+  },
+  {
+   "year": 2006,
+   "deaths": 4795
+  },
+  {
+   "year": 2007,
+   "deaths": 4699
+  },
+  {
+   "year": 2008,
+   "deaths": 4414
+  },
+  {
+   "year": 2009,
+   "deaths": 4109
+  },
+  {
+   "year": 2010,
+   "deaths": 4302
+  },
+  {
+   "year": 2011,
+   "deaths": 4457
+  },
+  {
+   "year": 2012,
+   "deaths": 4818
+  },
+  {
+   "year": 2013,
+   "deaths": 4779
+  },
+  {
+   "year": 2014,
+   "deaths": 4910
+  },
+  {
+   "year": 2015,
+   "deaths": 5494
+  },
+  {
+   "year": 2016,
+   "deaths": 6080
+  },
+  {
+   "year": 2017,
+   "deaths": 6075
+  },
+  {
+   "year": 2018,
+   "deaths": 6374
+  },
+  {
+   "year": 2019,
+   "deaths": 6272
+  },
+  {
+   "year": 2020,
+   "deaths": 6565
+  },
+  {
+   "year": 2021,
+   "deaths": 7470
+  },
+  {
+   "year": 2022,
+   "deaths": 7593
+  },
+  {
+   "year": 2023,
+   "deaths": 7367
+  },
+  {
+   "year": 2024,
+   "deaths": 7080
+  }
+ ],
+ "suv": {
+  "eu": [
+   {
+    "year": 2001,
+    "share": 0.034
+   },
+   {
+    "year": 2002,
+    "share": 0.041
+   },
+   {
+    "year": 2003,
+    "share": 0.048
+   },
+   {
+    "year": 2004,
+    "share": 0.054
+   },
+   {
+    "year": 2005,
+    "share": 0.061
+   },
+   {
+    "year": 2006,
+    "share": 0.068
+   },
+   {
+    "year": 2007,
+    "share": 0.078
+   },
+   {
+    "year": 2008,
+    "share": 0.073
+   },
+   {
+    "year": 2009,
+    "share": 0.07
+   },
+   {
+    "year": 2010,
+    "share": 0.092
+   },
+   {
+    "year": 2011,
+    "share": 0.116
+   },
+   {
+    "year": 2012,
+    "share": 0.15
+   },
+   {
+    "year": 2013,
+    "share": 0.168
+   },
+   {
+    "year": 2014,
+    "share": 0.196
+   },
+   {
+    "year": 2015,
+    "share": 0.218
+   },
+   {
+    "year": 2016,
+    "share": 0.245
+   },
+   {
+    "year": 2017,
+    "share": 0.275
+   },
+   {
+    "year": 2018,
+    "share": 0.321
+   },
+   {
+    "year": 2019,
+    "share": 0.357
+   },
+   {
+    "year": 2020,
+    "share": 0.382
+   },
+   {
+    "year": 2021,
+    "share": 0.435
+   },
+   {
+    "year": 2022,
+    "share": 0.469
+   },
+   {
+    "year": 2023,
+    "share": 0.484
+   },
+   {
+    "year": 2024,
+    "share": 0.486
+   }
+  ],
+  "us": [
+   {
+    "year": 2000,
+    "share": 0.494
+   },
+   {
+    "year": 2001,
+    "share": 0.512
+   },
+   {
+    "year": 2002,
+    "share": 0.522
+   },
+   {
+    "year": 2003,
+    "share": 0.546
+   },
+   {
+    "year": 2004,
+    "share": 0.556
+   },
+   {
+    "year": 2005,
+    "share": 0.548
+   },
+   {
+    "year": 2006,
+    "share": 0.53
+   },
+   {
+    "year": 2007,
+    "share": 0.53
+   },
+   {
+    "year": 2008,
+    "share": 0.487
+   },
+   {
+    "year": 2009,
+    "share": 0.481
+   },
+   {
+    "year": 2010,
+    "share": 0.512
+   },
+   {
+    "year": 2011,
+    "share": 0.522
+   },
+   {
+    "year": 2012,
+    "share": 0.498
+   },
+   {
+    "year": 2013,
+    "share": 0.512
+   },
+   {
+    "year": 2014,
+    "share": 0.531
+   },
+   {
+    "year": 2015,
+    "share": 0.568
+   },
+   {
+    "year": 2016,
+    "share": 0.606
+   },
+   {
+    "year": 2017,
+    "share": 0.645
+   },
+   {
+    "year": 2018,
+    "share": 0.692
+   },
+   {
+    "year": 2019,
+    "share": 0.722
+   },
+   {
+    "year": 2020,
+    "share": 0.765
+   },
+   {
+    "year": 2021,
+    "share": 0.776
+   },
+   {
+    "year": 2022,
+    "share": 0.792
+   },
+   {
+    "year": 2023,
+    "share": 0.799
+   },
+   {
+    "year": 2024,
+    "share": 0.812
+   }
+  ]
+ },
+ "poverty": [
+  {
+   "q": 1,
+   "pct": 49.6
+  },
+  {
+   "q": 2,
+   "pct": 51.0
+  },
+  {
+   "q": 3,
+   "pct": 68.6
+  },
+  {
+   "q": 4,
+   "pct": 71.0
+  },
+  {
+   "q": 5,
+   "pct": 83.4
+  }
+ ],
+ "meth": [
+  {
+   "year": 2015,
+   "deaths": 5777
+  },
+  {
+   "year": 2016,
+   "deaths": 7610
+  },
+  {
+   "year": 2017,
+   "deaths": 10435
+  },
+  {
+   "year": 2018,
+   "deaths": 12843
+  },
+  {
+   "year": 2019,
+   "deaths": 16342
+  },
+  {
+   "year": 2020,
+   "deaths": 24134
+  },
+  {
+   "year": 2021,
+   "deaths": 32962
+  },
+  {
+   "year": 2022,
+   "deaths": 34842
+  },
+  {
+   "year": 2023,
+   "deaths": 35982
+  },
+  {
+   "year": 2024,
+   "deaths": 29641
+  },
+  {
+   "year": 2025,
+   "deaths": 26260
+  }
+ ],
+ "road": [
+  {
+   "year": 2015,
+   "ped": 5494,
+   "other": 29990,
+   "projected": false
+  },
+  {
+   "year": 2016,
+   "ped": 6080,
+   "other": 31726,
+   "projected": false
+  },
+  {
+   "year": 2017,
+   "ped": 6075,
+   "other": 31398,
+   "projected": false
+  },
+  {
+   "year": 2018,
+   "ped": 6374,
+   "other": 30461,
+   "projected": false
+  },
+  {
+   "year": 2019,
+   "ped": 6272,
+   "other": 30083,
+   "projected": false
+  },
+  {
+   "year": 2020,
+   "ped": 6565,
+   "other": 32442,
+   "projected": false
+  },
+  {
+   "year": 2021,
+   "ped": 7470,
+   "other": 35760,
+   "projected": false
+  },
+  {
+   "year": 2022,
+   "ped": 7593,
+   "other": 35128,
+   "projected": false
+  },
+  {
+   "year": 2023,
+   "ped": 7367,
+   "other": 33658,
+   "projected": false
+  },
+  {
+   "year": 2024,
+   "ped": 7080,
+   "other": 32174,
+   "projected": false
+  },
+  {
+   "year": 2025,
+   "ped": 6732,
+   "other": 29908,
+   "projected": true
+  }
+ ]
+}
