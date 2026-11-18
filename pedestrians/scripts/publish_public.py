@@ -4,8 +4,9 @@
     python projects/sedans-to-suvs/scripts/publish_public.py --dry-run   (list what would be copied)
 
 Copies only what is ours to share:
-- README.md (from docs/public-README.md, written and fact-checked here) and the Reel cover.
-- data/: the frozen release behind the Reel (data/releases/2026-11-09-reel/).
+- README.md (from docs/public-README.md, written and fact-checked here) and both Reel covers.
+- data/: the frozen release behind the first Reel (data/releases/2026-11-09-reel/); data/follow-up/: the
+  follow-up's release (data/releases/2026-11-17-reel3/).
 - scripts/ (the pipeline) with requirements.txt; docs/hypothesis-test.md, bradford-hill.md and data-challenges.md;
   the Remotion source in video/.
 
@@ -24,6 +25,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REPO = ROOT.parents[1]
 PUBLIC = ROOT.parents[2] / "david-the-data-dude" / "pedestrians"
 RELEASE = ROOT / "data" / "releases" / "2026-11-09-reel"
+RELEASE3 = ROOT / "data" / "releases" / "2026-11-17-reel3"
 DOCS = ["hypothesis-test.md", "bradford-hill.md", "data-challenges.md"]
 VIDEO_FILES = ["package.json", "package-lock.json", "tsconfig.json", "remotion.config.ts", "README.md", "render-cards.mjs"]
 
@@ -45,8 +47,11 @@ def main() -> None:
         raise SystemExit(f"{PUBLIC.parent} isn't the public repo; run this from the main checkout")
     copy(ROOT / "docs" / "public-README.md", PUBLIC / "README.md")
     copy(ROOT / "cover.jpg", PUBLIC / "cover.jpg")
+    copy(ROOT / "cover-reel3.jpg", PUBLIC / "cover-reel3.jpg")
     for f in sorted(RELEASE.iterdir()):
         copy(f, PUBLIC / "data" / f.name)
+    for f in sorted(RELEASE3.iterdir()):
+        copy(f, PUBLIC / "data" / "follow-up" / f.name)
     for f in sorted((ROOT / "scripts").glob("*.py")):
         copy(f, PUBLIC / "scripts" / f.name)
     copy(REPO / "requirements.txt", PUBLIC / "scripts" / "requirements.txt")
