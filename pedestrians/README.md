@@ -98,7 +98,7 @@ The pattern holds counting tested positives only, and with meth overdoses that i
 ## Files
 
 - `data/`: the final datasets behind every number and chart in the first Reel. `data/follow-up/`: the same for the follow-up (US vs. Czechia buckets, the state test, meth-only overdoses, and `reel3_numbers.json` with every on-screen number).
-- `scripts/`: the pipeline. `fetch_fars.py`, `fetch_eurostat.py` and `fetch_fred.py` download the public source files, which aren't republished here. CDC WONDER and HUD files were downloaded by hand from their sites; `requirements.txt` lists the Python packages.
+- `scripts/`: the scripts behind the Reels' numbers (exploratory and research scripts aren't included, so some scripts named in `docs/` aren't here). `fetch_fars.py`, `fetch_eurostat.py` and `fetch_fred.py` download the public source files, which aren't republished here. CDC WONDER and HUD files were downloaded by hand from their sites; `requirements.txt` lists the Python packages.
 - `docs/hypothesis-test.md`: every pre-registered test, its rule and its result.
 - `docs/bradford-hill.md`: how the evidence scores on each of Hill's nine viewpoints, and why.
 - `docs/data-challenges.md`: what went sideways, from drug codes that changed four years after a file "overhaul" to two official numbers for the same country's deaths.
