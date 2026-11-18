@@ -81,6 +81,45 @@ The pattern holds counting tested positives only, and with meth overdoses that i
 
 **Other factors:** taller vehicles explain about 10% of the US rise (New York Times model). Getting hit became deadlier around 2020–21 (share of pedestrians hit who died: about 7.6% in 2016–18, about 11% in 2020–21).
 
+## Follow-up 2: Drugs, US vs. Europe (overdoses)
+
+<p align="center">
+  <i>The Reel's link and cover will go here.</i>
+</p>
+
+Americans and Europeans use stimulants at about the same rates, yet the US drug death rate is 13 times Europe's. This Reel asks why. The data is in [`data/overdoses/`](data/overdoses/), and the method notes are in the sections below.
+
+**The headline:** in 2024 the US had about **219** drug-induced deaths per million people; Europe had about **17**. That's **13×**, counting US deaths with Europe's own definition (see Definitions). On the usual US definition, it's 14×.
+
+**Use is similar; deaths aren't** (past-year use)
+
+| | US | Europe |
+|---|---|---|
+| Cocaine | 1.5% | 1.6% |
+| Meth / amphetamines | 0.8% (meth only) | 0.8% (amphetamine and meth) |
+| Cannabis | 22.3% | 8.4% |
+| Opioids: dependent or high-risk users | about 1.2–2.3% | about 0.2% |
+
+**The mix.** Fentanyl was in 60% of US overdose deaths in 2024 (47,735 of 79,384). In Europe it showed up in 208 deaths across 15 countries, out of about 7,600 EU drug deaths: about 3%, though not every country reports. Europe's main opioid is heroin and its main stimulant is cocaine. Meth is rare in Europe's wastewater outside Czechia, Slovakia, Lithuania and eastern Germany. In the US, meth deaths went from 5 per million in 2009 to 23 in 2016 and 84 in 2024, spreading from the West and South into Appalachia and the Northeast.
+
+**Potency.** Per milligram, fentanyl is about 50× heroin and about 100× morphine (DEA). Heroin is about 2× morphine and methadone's conversion factor is 4.7. These are rough conversions, measured in different ways.
+
+**The Deadly Pair.** Deaths involving fentanyl and a stimulant (cocaine or meth), the "fourth wave" of the opioid crisis. Drug-checking samples suggest lacing is rare (fentanyl in about 1 in 8 powder meth samples, 2 of 276 crystal samples); in a 2023 Washington State survey, 88% of syringe-program clients whose main drug was fentanyl also used a stimulant.
+
+**Where the 13× comes from** (US 2024, per million people, as multiples of Europe's whole rate of 16.7)
+
+| Slice | Per million | × Europe |
+|---|---|---|
+| Fentanyl with a stimulant | 82.5 | 4.9× |
+| Fentanyl, no stimulant | 57.8 | 3.5× |
+| Stimulant, no fentanyl | 55.6 | 3.3× |
+| Everything else | 22.7 | 1.4× |
+| **Total** | **218.6** | **13.1×** |
+
+**Good news:** Deadly Pair deaths fell from 41,583 in 2023 to 28,063 in 2024 (−33%), the first drop since the fourth wave began.
+
+**Limits.** Europe's death counts are minimums, and countries differ in how they record and test. Europe's 16.7 is a 2023 rate (2024 gives 13.0× instead of 13.1×). The opioid row mixes measures ("high-risk use" in Europe, "use disorder" in the US). The "stimulant, no fentanyl" slice comes from a not-yet-peer-reviewed preprint's provisional 2024 count, so "everything else" is approximate.
+
 ## Definitions
 
 - **Pedestrian death:** NHTSA FARS person type 5 (pedestrian), injury severity 4 (fatal). For the US vs. Europe comparison, people on personal conveyances (skateboards, scooters and similar) are added, to match how Europe counts pedestrians.
@@ -93,16 +132,19 @@ The pattern holds counting tested positives only, and with meth overdoses that i
 - **Heavy meth users (follow-up):** US = RAND's chronic users, 4 or more days a month (RR-3140, best estimate, 2016); Czechia = high-risk meth users (National Monitoring Centre, table 3-7, 2016). Definitions differ.
 - **Meth-only overdose deaths (follow-up):** overdose deaths (underlying cause X40–X44, X60–X64, X85, Y10–Y14) listing T43.6 and none of T40.0–T40.4 or T40.6, per 100,000 people.
 - **State groups (follow-up):** meth = meth (T43.6) overdose deaths per 100,000, 2018–24; roads = estimated pedestrians killed with no stimulants found per million a year (FARS). Each split at the median state. Vermont and Wyoming are left out (fewer than 30 tested pedestrians).
+- **Drug-induced death (overdoses Reel):** Europe's definition (EUDA "Selection B"): overdoses (accidental, suicide or undetermined intent) where the death certificate names an opioid, cocaine, cannabis, a hallucinogen or a stimulant like meth (ICD-10 underlying cause X41–X42, X44, X61–X62, X64, Y11–Y12, Y14 with T40.0–T40.9 or T43.6), plus deaths from drug-use disorders (F11, F12, F14–F16, F19). Alcohol, tobacco, medicine-only overdoses and indirect deaths aren't counted. US 2024 on this definition: 74,362 deaths (CDC WONDER), about 94% of the usual US count of 79,384.
+- **Deadly Pair (overdoses Reel):** overdose deaths listing fentanyl and other synthetic opioids (T40.4) and cocaine (T40.5) or meth (T43.6).
+- **Opioid dependence (overdoses Reel):** US = people with opioid use disorder, 4.0M (NSDUH 2025) to 6.7–7.6M (Keyes et al. 2022, modeled); Europe = 860,000 high-risk opioid users (EUDA). Shares are of the whole population.
 - **Pre-registered tests:** each test's prediction and pass/fail rule was written down and committed before it was run (`docs/hypothesis-test.md`), and every result is reported against its rule, passes and failures alike.
 
 ## Files
 
-- `data/`: the final datasets behind every number and chart in the first Reel. `data/follow-up/`: the same for the follow-up (US vs. Czechia buckets, the state test, meth-only overdoses, and `reel3_numbers.json` with every on-screen number).
+- `data/`: the final datasets behind every number and chart in the first Reel. `data/follow-up/`: the same for the follow-up (US vs. Czechia buckets, the state test, meth-only overdoses, and `reel3_numbers.json` with every on-screen number). `data/overdoses/`: the overdoses Reel (meth deaths per million by state, Deadly Pair deaths 2010–2024, the 13× split, and `reel2_numbers.json` with the charts' numbers).
 - `scripts/`: the scripts behind the Reels' numbers (exploratory and research scripts aren't included, so some scripts named in `docs/` aren't here). `fetch_fars.py`, `fetch_eurostat.py` and `fetch_fred.py` download the public source files, which aren't republished here. CDC WONDER and HUD files were downloaded by hand from their sites; `requirements.txt` lists the Python packages.
 - `docs/hypothesis-test.md`: every pre-registered test, its rule and its result.
 - `docs/bradford-hill.md`: how the evidence scores on each of Hill's nine viewpoints, and why.
 - `docs/data-challenges.md`: what went sideways, from drug codes that changed four years after a file "overhaul" to two official numbers for the same country's deaths.
-- `video/`: the Remotion source for the Reels' animated charts (`src/` for the first, `src/reel3/` for the follow-up). It imports layout and fonts from a shared kit that isn't published here.
+- `video/`: the Remotion source for the Reels' animated charts (`src/` for the first, `src/reel3/` for the follow-up, `src/reel2/` for the overdoses Reel). It imports layout and fonts from a shared kit that isn't published here.
 
 ## Sources
 
@@ -121,10 +163,11 @@ The pattern holds counting tested positives only, and with meth overdoses that i
 - CDC WONDER, Multiple Cause of Death (meth overdoses with and without opioids, 2009–2024; by state, 2018–2024); NHTSA CRSS/GES (pedestrians injured).
 - Tyndall, J. (2021), "Pedestrian deaths and large vehicles," *Economics of Transportation* 26, 100219.
 - Natural Earth, 1:50m countries (public domain), for the map.
+- Overdoses Reel: EUDA, *European Drug Report* 2025 and 2026; SAMHSA, National Survey on Drug Use and Health 2024 and 2025; Keyes, K. M. et al. (2022), *Drug and Alcohol Dependence Reports* 3, 100052; Ciccarone, D. (2021), "The rise of illicit fentanyls, stimulants and the fourth wave of the opioid overdose crisis," *Current Opinion in Psychiatry* 34(4), 344–350; Friedman, J. & Shover, C. (2023), "Charting the fourth wave," *Addiction*; Friedman, J., Palamar, J., Ciccarone, D. et al. (2026), "Charting the Decline of the Fourth Wave," medRxiv preprint, not peer reviewed; Wagner, K. D. et al. (2023), *Drug and Alcohol Dependence* 252, 110985; University of Washington Addictions, Drug & Alcohol Institute, 2023 Washington State Syringe Services Program Health Survey; CDC Clinical Practice Guideline for Prescribing Opioids for Pain (2022); Kaiko, R. F. et al. (1981), *New England Journal of Medicine* 304, 1501–1505; DEA, Fentanyl drug fact sheet.
 - Hill, A. B. (1965), "The Environment and Disease: Association or Causation?" *Proceedings of the Royal Society of Medicine* 58(5), 295–300.
 
 Made by [Fractionalytics](https://github.com/Fractionalytics).
 
 ## License
 
-Code, docs and charts are under the repo's [MIT License](../LICENSE). FARS, Census, CDC and BEA data are U.S. government works. Eurostat data is reused under Eurostat's reuse policy, with attribution. EU SUV shares are read from ICCT's pocketbook and belong to ICCT. The New York Times, GHSA and the cited papers (including Brumbelow's report and the Czech studies) are quoted and cited, not republished. EUDA's wastewater figures are summarized with attribution; its city table isn't republished. Natural Earth is public domain.
+Code, docs and charts are under the repo's [MIT License](../LICENSE). FARS, Census, CDC and BEA data are U.S. government works. Eurostat data is reused under Eurostat's reuse policy, with attribution. EU SUV shares are read from ICCT's pocketbook and belong to ICCT. The New York Times, GHSA and the cited papers (including Brumbelow's report and the Czech studies) are quoted and cited, not republished. EUDA's wastewater figures and European Drug Report figures are summarized with attribution; its tables aren't republished. NSDUH figures are U.S. government works. Natural Earth is public domain.

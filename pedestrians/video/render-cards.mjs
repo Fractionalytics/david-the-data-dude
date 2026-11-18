@@ -8,17 +8,20 @@
 //                                           old clips open (Windows then refuses to replace them: EPERM rename)
 //   node render-cards.mjs --reel3 ...       the same for Reel 3 (src/reel3/, ids r3-card-NN and r3-preview,
 //                                           default folder out/reel3/cards)
+//   node render-cards.mjs --reel2 ...       the same for Reel 2 (src/reel2/, ids r2-card-NN and r2-preview,
+//                                           default folder out/reel2/cards)
 import {execSync} from 'node:child_process';
 
 const args = process.argv.slice(2);
-const r3 = args.includes('--reel3');
-const entry = r3 ? 'src/reel3/index.ts ' : '';
-const prefix = r3 ? 'r3-' : '';
+const reel = args.includes('--reel3') ? 3 : args.includes('--reel2') ? 2 : 0;
+const r3 = reel > 0;
+const entry = reel ? `src/reel${reel}/index.ts ` : '';
+const prefix = reel ? `r${reel}-` : '';
 const listing = execSync(`npx remotion compositions ${entry}`, {encoding: 'utf8'});
 const all = [...listing.matchAll(new RegExp(`^(${prefix}card-\\d+)\\s`, 'gm'))].map((m) => m[1]);
 const previewId = `${prefix}preview`;
 const hasPreview = new RegExp(`^${previewId}\\s`, 'm').test(listing);
-const outDir = (args.find((a) => a.startsWith('--out=')) ?? `--out=${r3 ? 'out/reel3/cards' : 'out/cards'}`).slice('--out='.length);
+const outDir = (args.find((a) => a.startsWith('--out=')) ?? `--out=${r3 ? `out/reel${reel}/cards` : 'out/cards'}`).slice('--out='.length);
 const asked = args.filter((a) => !a.startsWith('--'));
 const unknown = asked.filter((id) => id !== previewId && !all.includes(id));
 if (unknown.length) throw new Error(`No such card composition: ${unknown.join(', ')} (have: ${all.join(', ')})`);
