@@ -10,10 +10,12 @@
 //                                           default folder out/reel3/cards)
 //   node render-cards.mjs --reel2 ...       the same for Reel 2 (src/reel2/, ids r2-card-NN and r2-preview,
 //                                           default folder out/reel2/cards)
+//   node render-cards.mjs --reel4 ...       the same for Reel 4 (src/reel4/, ids r4-card-NN and r4-preview,
+//                                           default folder out/reel4/cards)
 import {execSync} from 'node:child_process';
 
 const args = process.argv.slice(2);
-const reel = args.includes('--reel3') ? 3 : args.includes('--reel2') ? 2 : 0;
+const reel = args.includes('--reel4') ? 4 : args.includes('--reel3') ? 3 : args.includes('--reel2') ? 2 : 0;
 const r3 = reel > 0;
 const entry = reel ? `src/reel${reel}/index.ts ` : '';
 const prefix = reel ? `r${reel}-` : '';
