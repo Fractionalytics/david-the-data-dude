@@ -1,4 +1,4 @@
-"""Sync everything visitors should see into the public repo (../david-the-data-dude/thanksgiving-food-insecurity).
+"""Sync everything visitors should see into the public repo (../david-the-data-dude/holiday-season-food-insecurity).
 
     python projects/thanksgiving-food-insecurity/scripts/publish_public.py      (from the main checkout, after merging)
     python projects/thanksgiving-food-insecurity/scripts/publish_public.py --dry-run   (list what would be copied)
@@ -25,7 +25,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO = ROOT.parents[1]
-PUBLIC = ROOT.parents[2] / "david-the-data-dude" / "thanksgiving-food-insecurity"
+PUBLIC = ROOT.parents[2] / "david-the-data-dude" / "holiday-season-food-insecurity"
 
 DATA = ["cpi_wages.csv", "dinner_real.csv", "snap_wic_monthly.csv"]
 RAW = ["ers/trends.xlsx", "fns/keydata-August-2026.xlsx"]
