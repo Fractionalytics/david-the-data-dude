@@ -1,0 +1,572 @@
+series_id,name,year,month,value
+CES0500000003,"Avg hourly earnings, all private",2022,1,31.6
+CES0500000003,"Avg hourly earnings, all private",2022,2,31.64
+CES0500000003,"Avg hourly earnings, all private",2022,3,31.8
+CES0500000003,"Avg hourly earnings, all private",2022,4,31.96
+CES0500000003,"Avg hourly earnings, all private",2022,5,32.1
+CES0500000003,"Avg hourly earnings, all private",2022,6,32.19
+CES0500000003,"Avg hourly earnings, all private",2022,7,32.34
+CES0500000003,"Avg hourly earnings, all private",2022,8,32.44
+CES0500000003,"Avg hourly earnings, all private",2022,9,32.57
+CES0500000003,"Avg hourly earnings, all private",2022,10,32.7
+CES0500000003,"Avg hourly earnings, all private",2022,11,32.82
+CES0500000003,"Avg hourly earnings, all private",2022,12,32.94
+CES0500000003,"Avg hourly earnings, all private",2023,1,33.02
+CES0500000003,"Avg hourly earnings, all private",2023,2,33.15
+CES0500000003,"Avg hourly earnings, all private",2023,3,33.27
+CES0500000003,"Avg hourly earnings, all private",2023,4,33.43
+CES0500000003,"Avg hourly earnings, all private",2023,5,33.5
+CES0500000003,"Avg hourly earnings, all private",2023,6,33.69
+CES0500000003,"Avg hourly earnings, all private",2023,7,33.85
+CES0500000003,"Avg hourly earnings, all private",2023,8,33.89
+CES0500000003,"Avg hourly earnings, all private",2023,9,34.01
+CES0500000003,"Avg hourly earnings, all private",2023,10,34.08
+CES0500000003,"Avg hourly earnings, all private",2023,11,34.17
+CES0500000003,"Avg hourly earnings, all private",2023,12,34.29
+CES0500000003,"Avg hourly earnings, all private",2024,1,34.47
+CES0500000003,"Avg hourly earnings, all private",2024,2,34.52
+CES0500000003,"Avg hourly earnings, all private",2024,3,34.65
+CES0500000003,"Avg hourly earnings, all private",2024,4,34.76
+CES0500000003,"Avg hourly earnings, all private",2024,5,34.89
+CES0500000003,"Avg hourly earnings, all private",2024,6,35.01
+CES0500000003,"Avg hourly earnings, all private",2024,7,35.08
+CES0500000003,"Avg hourly earnings, all private",2024,8,35.22
+CES0500000003,"Avg hourly earnings, all private",2024,9,35.34
+CES0500000003,"Avg hourly earnings, all private",2024,10,35.46
+CES0500000003,"Avg hourly earnings, all private",2024,11,35.6
+CES0500000003,"Avg hourly earnings, all private",2024,12,35.69
+CES0500000003,"Avg hourly earnings, all private",2025,1,35.84
+CES0500000003,"Avg hourly earnings, all private",2025,2,35.94
+CES0500000003,"Avg hourly earnings, all private",2025,3,36.11
+CES0500000003,"Avg hourly earnings, all private",2025,4,36.12
+CES0500000003,"Avg hourly earnings, all private",2025,5,36.28
+CES0500000003,"Avg hourly earnings, all private",2025,6,36.36
+CES0500000003,"Avg hourly earnings, all private",2025,7,36.47
+CES0500000003,"Avg hourly earnings, all private",2025,8,36.62
+CES0500000003,"Avg hourly earnings, all private",2025,9,36.7
+CES0500000003,"Avg hourly earnings, all private",2025,10,36.85
+CES0500000003,"Avg hourly earnings, all private",2025,11,37.0
+CES0500000003,"Avg hourly earnings, all private",2025,12,37.02
+CES0500000003,"Avg hourly earnings, all private",2026,1,37.15
+CES0500000003,"Avg hourly earnings, all private",2026,2,37.27
+CES0500000003,"Avg hourly earnings, all private",2026,3,37.35
+CES0500000003,"Avg hourly earnings, all private",2026,4,37.41
+CES0500000003,"Avg hourly earnings, all private",2026,5,37.49
+CES0500000003,"Avg hourly earnings, all private",2026,6,37.59
+CES0500000003,"Avg hourly earnings, all private",2026,7,37.64
+CES0500000003,"Avg hourly earnings, all private",2026,8,37.76
+CES0500000003,"Avg hourly earnings, all private",2026,9,37.86
+CES0500000003,"Avg hourly earnings, all private",2026,10,38.0
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,1,26.91
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,2,26.97
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,3,27.1
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,4,27.28
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,5,27.4
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,6,27.52
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,7,27.66
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,8,27.75
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,9,27.87
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,10,27.99
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,11,28.11
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2022,12,28.22
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,1,28.31
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,2,28.42
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,3,28.56
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,4,28.7
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,5,28.78
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,6,28.89
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,7,29.01
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,8,29.06
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,9,29.18
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,10,29.26
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,11,29.37
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2023,12,29.47
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,1,29.61
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,2,29.66
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,3,29.78
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,4,29.85
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,5,29.97
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,6,30.07
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,7,30.16
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,8,30.27
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,9,30.39
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,10,30.48
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,11,30.56
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2024,12,30.66
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,1,30.79
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,2,30.89
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,3,31.02
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,4,31.09
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,5,31.2
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,6,31.31
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,7,31.39
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,8,31.49
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,9,31.56
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,10,31.7
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,11,31.79
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2025,12,31.83
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,1,31.94
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,2,32.04
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,3,32.12
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,4,32.23
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,5,32.31
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,6,32.38
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,7,32.42
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,8,32.55
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,9,32.63
+CES0500000008,"Avg hourly earnings, production & nonsupervisory",2026,10,32.75
+CUUR0000SA0,CPI all items,2022,1,281.148
+CUUR0000SA0,CPI all items,2022,2,283.716
+CUUR0000SA0,CPI all items,2022,3,287.504
+CUUR0000SA0,CPI all items,2022,4,289.109
+CUUR0000SA0,CPI all items,2022,5,292.296
+CUUR0000SA0,CPI all items,2022,6,296.311
+CUUR0000SA0,CPI all items,2022,7,296.276
+CUUR0000SA0,CPI all items,2022,8,296.171
+CUUR0000SA0,CPI all items,2022,9,296.808
+CUUR0000SA0,CPI all items,2022,10,298.012
+CUUR0000SA0,CPI all items,2022,11,297.711
+CUUR0000SA0,CPI all items,2022,12,296.797
+CUUR0000SA0,CPI all items,2023,1,299.17
+CUUR0000SA0,CPI all items,2023,2,300.84
+CUUR0000SA0,CPI all items,2023,3,301.836
+CUUR0000SA0,CPI all items,2023,4,303.363
+CUUR0000SA0,CPI all items,2023,5,304.127
+CUUR0000SA0,CPI all items,2023,6,305.109
+CUUR0000SA0,CPI all items,2023,7,305.691
+CUUR0000SA0,CPI all items,2023,8,307.026
+CUUR0000SA0,CPI all items,2023,9,307.789
+CUUR0000SA0,CPI all items,2023,10,307.671
+CUUR0000SA0,CPI all items,2023,11,307.051
+CUUR0000SA0,CPI all items,2023,12,306.746
+CUUR0000SA0,CPI all items,2024,1,308.417
+CUUR0000SA0,CPI all items,2024,2,310.326
+CUUR0000SA0,CPI all items,2024,3,312.332
+CUUR0000SA0,CPI all items,2024,4,313.548
+CUUR0000SA0,CPI all items,2024,5,314.069
+CUUR0000SA0,CPI all items,2024,6,314.175
+CUUR0000SA0,CPI all items,2024,7,314.54
+CUUR0000SA0,CPI all items,2024,8,314.796
+CUUR0000SA0,CPI all items,2024,9,315.301
+CUUR0000SA0,CPI all items,2024,10,315.664
+CUUR0000SA0,CPI all items,2024,11,315.493
+CUUR0000SA0,CPI all items,2024,12,315.605
+CUUR0000SA0,CPI all items,2025,1,317.671
+CUUR0000SA0,CPI all items,2025,2,319.082
+CUUR0000SA0,CPI all items,2025,3,319.799
+CUUR0000SA0,CPI all items,2025,4,320.795
+CUUR0000SA0,CPI all items,2025,5,321.465
+CUUR0000SA0,CPI all items,2025,6,322.561
+CUUR0000SA0,CPI all items,2025,7,323.048
+CUUR0000SA0,CPI all items,2025,8,323.976
+CUUR0000SA0,CPI all items,2025,9,324.8
+CUUR0000SA0,CPI all items,2025,11,324.122
+CUUR0000SA0,CPI all items,2025,12,324.054
+CUUR0000SA0,CPI all items,2026,1,325.252
+CUUR0000SA0,CPI all items,2026,2,326.785
+CUUR0000SA0,CPI all items,2026,3,330.213
+CUUR0000SA0,CPI all items,2026,4,333.02
+CUUR0000SA0,CPI all items,2026,5,335.123
+CUUR0000SA0,CPI all items,2026,6,333.952
+CUUR0000SA0,CPI all items,2026,7,333.918
+CUUR0000SA0,CPI all items,2026,8,334.98
+CUUR0000SA0,CPI all items,2026,9,336.94
+CUUR0000SA0,CPI all items,2026,10,337.511
+CUUR0000SAF11,Food at home,2022,1,270.711
+CUUR0000SAF11,Food at home,2022,2,274.568
+CUUR0000SAF11,Food at home,2022,3,278.612
+CUUR0000SAF11,Food at home,2022,4,282.161
+CUUR0000SAF11,Food at home,2022,5,285.953
+CUUR0000SAF11,Food at home,2022,6,288.884
+CUUR0000SAF11,Food at home,2022,7,292.972
+CUUR0000SAF11,Food at home,2022,8,295.007
+CUUR0000SAF11,Food at home,2022,9,296.771
+CUUR0000SAF11,Food at home,2022,10,298.401
+CUUR0000SAF11,Food at home,2022,11,298.284
+CUUR0000SAF11,Food at home,2022,12,299.089
+CUUR0000SAF11,Food at home,2023,1,301.435
+CUUR0000SAF11,Food at home,2023,2,302.483
+CUUR0000SAF11,Food at home,2023,3,301.918
+CUUR0000SAF11,Food at home,2023,4,302.328
+CUUR0000SAF11,Food at home,2023,5,302.535
+CUUR0000SAF11,Food at home,2023,6,302.335
+CUUR0000SAF11,Food at home,2023,7,303.455
+CUUR0000SAF11,Food at home,2023,8,303.716
+CUUR0000SAF11,Food at home,2023,9,303.925
+CUUR0000SAF11,Food at home,2023,10,304.788
+CUUR0000SAF11,Food at home,2023,11,303.224
+CUUR0000SAF11,Food at home,2023,12,303.005
+CUUR0000SAF11,Food at home,2024,1,305.037
+CUUR0000SAF11,Food at home,2024,2,305.469
+CUUR0000SAF11,Food at home,2024,3,305.426
+CUUR0000SAF11,Food at home,2024,4,305.707
+CUUR0000SAF11,Food at home,2024,5,305.679
+CUUR0000SAF11,Food at home,2024,6,305.752
+CUUR0000SAF11,Food at home,2024,7,306.643
+CUUR0000SAF11,Food at home,2024,8,306.402
+CUUR0000SAF11,Food at home,2024,9,307.767
+CUUR0000SAF11,Food at home,2024,10,308.2
+CUUR0000SAF11,Food at home,2024,11,307.972
+CUUR0000SAF11,Food at home,2024,12,308.38
+CUUR0000SAF11,Food at home,2025,1,310.936
+CUUR0000SAF11,Food at home,2025,2,311.284
+CUUR0000SAF11,Food at home,2025,3,312.815
+CUUR0000SAF11,Food at home,2025,4,311.84
+CUUR0000SAF11,Food at home,2025,5,312.491
+CUUR0000SAF11,Food at home,2025,6,313.028
+CUUR0000SAF11,Food at home,2025,7,313.263
+CUUR0000SAF11,Food at home,2025,8,314.608
+CUUR0000SAF11,Food at home,2025,9,316.042
+CUUR0000SAF11,Food at home,2025,11,313.954
+CUUR0000SAF11,Food at home,2025,12,315.664
+CUUR0000SAF11,Food at home,2026,1,317.431
+CUUR0000SAF11,Food at home,2026,2,318.898
+CUUR0000SAF11,Food at home,2026,3,318.755
+CUUR0000SAF11,Food at home,2026,4,320.859
+CUUR0000SAF11,Food at home,2026,5,321.047
+CUUR0000SAF11,Food at home,2026,6,321.631
+CUUR0000SAF11,Food at home,2026,7,321.643
+CUUR0000SAF11,Food at home,2026,8,321.5
+CUUR0000SAF11,Food at home,2026,9,321.758
+CUUR0000SAF11,Food at home,2026,10,322.876
+CUUR0000SAH1,Shelter,2022,1,342.604
+CUUR0000SAH1,Shelter,2022,2,344.607
+CUUR0000SAH1,Shelter,2022,3,346.618
+CUUR0000SAH1,Shelter,2022,4,348.389
+CUUR0000SAH1,Shelter,2022,5,350.58
+CUUR0000SAH1,Shelter,2022,6,352.967
+CUUR0000SAH1,Shelter,2022,7,354.935
+CUUR0000SAH1,Shelter,2022,8,357.264
+CUUR0000SAH1,Shelter,2022,9,359.704
+CUUR0000SAH1,Shelter,2022,10,362.093
+CUUR0000SAH1,Shelter,2022,11,364.195
+CUUR0000SAH1,Shelter,2022,12,366.868
+CUUR0000SAH1,Shelter,2023,1,369.585
+CUUR0000SAH1,Shelter,2023,2,372.51
+CUUR0000SAH1,Shelter,2023,3,374.971
+CUUR0000SAH1,Shelter,2023,4,376.636
+CUUR0000SAH1,Shelter,2023,5,378.776
+CUUR0000SAH1,Shelter,2023,6,380.594
+CUUR0000SAH1,Shelter,2023,7,382.226
+CUUR0000SAH1,Shelter,2023,8,383.221
+CUUR0000SAH1,Shelter,2023,9,385.433
+CUUR0000SAH1,Shelter,2023,10,386.435
+CUUR0000SAH1,Shelter,2023,11,387.892
+CUUR0000SAH1,Shelter,2023,12,389.433
+CUUR0000SAH1,Shelter,2024,1,391.896
+CUUR0000SAH1,Shelter,2024,2,393.906
+CUUR0000SAH1,Shelter,2024,3,396.174
+CUUR0000SAH1,Shelter,2024,4,397.539
+CUUR0000SAH1,Shelter,2024,5,399.274
+CUUR0000SAH1,Shelter,2024,6,400.234
+CUUR0000SAH1,Shelter,2024,7,401.545
+CUUR0000SAH1,Shelter,2024,8,403.257
+CUUR0000SAH1,Shelter,2024,9,404.133
+CUUR0000SAH1,Shelter,2024,10,405.287
+CUUR0000SAH1,Shelter,2024,11,406.25
+CUUR0000SAH1,Shelter,2024,12,407.242
+CUUR0000SAH1,Shelter,2025,1,409.153
+CUUR0000SAH1,Shelter,2025,2,410.635
+CUUR0000SAH1,Shelter,2025,3,411.99
+CUUR0000SAH1,Shelter,2025,4,413.389
+CUUR0000SAH1,Shelter,2025,5,414.689
+CUUR0000SAH1,Shelter,2025,6,415.455
+CUUR0000SAH1,Shelter,2025,7,416.271
+CUUR0000SAH1,Shelter,2025,8,417.902
+CUUR0000SAH1,Shelter,2025,9,418.598
+CUUR0000SAH1,Shelter,2025,11,418.593
+CUUR0000SAH1,Shelter,2025,12,420.134
+CUUR0000SAH1,Shelter,2026,1,421.526
+CUUR0000SAH1,Shelter,2026,2,422.776
+CUUR0000SAH1,Shelter,2026,3,424.45
+CUUR0000SAH1,Shelter,2026,4,427.049
+CUUR0000SAH1,Shelter,2026,5,428.677
+CUUR0000SAH1,Shelter,2026,6,429.062
+CUUR0000SAH1,Shelter,2026,7,429.491
+CUUR0000SAH1,Shelter,2026,8,430.611
+CUUR0000SAH1,Shelter,2026,9,432.092
+CUUR0000SAH1,Shelter,2026,10,432.745
+CUUR0000SAM,Medical care,2022,1,535.048
+CUUR0000SAM,Medical care,2022,2,536.932
+CUUR0000SAM,Medical care,2022,3,539.739
+CUUR0000SAM,Medical care,2022,4,541.515
+CUUR0000SAM,Medical care,2022,5,543.488
+CUUR0000SAM,Medical care,2022,6,546.717
+CUUR0000SAM,Medical care,2022,7,549.562
+CUUR0000SAM,Medical care,2022,8,553.429
+CUUR0000SAM,Medical care,2022,9,556.323
+CUUR0000SAM,Medical care,2022,10,554.043
+CUUR0000SAM,Medical care,2022,11,550.844
+CUUR0000SAM,Medical care,2022,12,551.002
+CUUR0000SAM,Medical care,2023,1,551.422
+CUUR0000SAM,Medical care,2023,2,549.487
+CUUR0000SAM,Medical care,2023,3,547.805
+CUUR0000SAM,Medical care,2023,4,547.219
+CUUR0000SAM,Medical care,2023,5,547.42
+CUUR0000SAM,Medical care,2023,6,547.432
+CUUR0000SAM,Medical care,2023,7,546.698
+CUUR0000SAM,Medical care,2023,8,548.082
+CUUR0000SAM,Medical care,2023,9,548.431
+CUUR0000SAM,Medical care,2023,10,549.762
+CUUR0000SAM,Medical care,2023,11,551.769
+CUUR0000SAM,Medical care,2023,12,553.485
+CUUR0000SAM,Medical care,2024,1,557.215
+CUUR0000SAM,Medical care,2024,2,557.236
+CUUR0000SAM,Medical care,2024,3,559.935
+CUUR0000SAM,Medical care,2024,4,561.612
+CUUR0000SAM,Medical care,2024,5,564.249
+CUUR0000SAM,Medical care,2024,6,565.301
+CUUR0000SAM,Medical care,2024,7,564.039
+CUUR0000SAM,Medical care,2024,8,564.407
+CUUR0000SAM,Medical care,2024,9,566.266
+CUUR0000SAM,Medical care,2024,10,567.87
+CUUR0000SAM,Medical care,2024,11,568.773
+CUUR0000SAM,Medical care,2024,12,569.189
+CUUR0000SAM,Medical care,2025,1,571.899
+CUUR0000SAM,Medical care,2025,2,573.32
+CUUR0000SAM,Medical care,2025,3,574.739
+CUUR0000SAM,Medical care,2025,4,576.988
+CUUR0000SAM,Medical care,2025,5,578.25
+CUUR0000SAM,Medical care,2025,6,580.978
+CUUR0000SAM,Medical care,2025,7,583.856
+CUUR0000SAM,Medical care,2025,8,583.875
+CUUR0000SAM,Medical care,2025,9,584.858
+CUUR0000SAM,Medical care,2025,11,585.213
+CUUR0000SAM,Medical care,2025,12,587.144
+CUUR0000SAM,Medical care,2026,1,590.169
+CUUR0000SAM,Medical care,2026,2,592.593
+CUUR0000SAM,Medical care,2026,3,592.286
+CUUR0000SAM,Medical care,2026,4,591.661
+CUUR0000SAM,Medical care,2026,5,593.239
+CUUR0000SAM,Medical care,2026,6,592.75
+CUUR0000SAM,Medical care,2026,7,593.781
+CUUR0000SAM,Medical care,2026,8,593.003
+CUUR0000SAM,Medical care,2026,9,593.651
+CUUR0000SAM,Medical care,2026,10,595.467
+CUUR0000SEHA,Rent of primary residence,2022,1,357.737
+CUUR0000SEHA,Rent of primary residence,2022,2,359.627
+CUUR0000SEHA,Rent of primary residence,2022,3,361.083
+CUUR0000SEHA,Rent of primary residence,2022,4,362.951
+CUUR0000SEHA,Rent of primary residence,2022,5,365.116
+CUUR0000SEHA,Rent of primary residence,2022,6,367.927
+CUUR0000SEHA,Rent of primary residence,2022,7,370.448
+CUUR0000SEHA,Rent of primary residence,2022,8,373.283
+CUUR0000SEHA,Rent of primary residence,2022,9,376.569
+CUUR0000SEHA,Rent of primary residence,2022,10,379.436
+CUUR0000SEHA,Rent of primary residence,2022,11,382.562
+CUUR0000SEHA,Rent of primary residence,2022,12,385.649
+CUUR0000SEHA,Rent of primary residence,2023,1,388.372
+CUUR0000SEHA,Rent of primary residence,2023,2,391.141
+CUUR0000SEHA,Rent of primary residence,2023,3,392.91
+CUUR0000SEHA,Rent of primary residence,2023,4,394.898
+CUUR0000SEHA,Rent of primary residence,2023,5,396.726
+CUUR0000SEHA,Rent of primary residence,2023,6,398.593
+CUUR0000SEHA,Rent of primary residence,2023,7,400.21
+CUUR0000SEHA,Rent of primary residence,2023,8,402.247
+CUUR0000SEHA,Rent of primary residence,2023,9,404.487
+CUUR0000SEHA,Rent of primary residence,2023,10,406.683
+CUUR0000SEHA,Rent of primary residence,2023,11,408.838
+CUUR0000SEHA,Rent of primary residence,2023,12,410.606
+CUUR0000SEHA,Rent of primary residence,2024,1,412.019
+CUUR0000SEHA,Rent of primary residence,2024,2,413.695
+CUUR0000SEHA,Rent of primary residence,2024,3,415.219
+CUUR0000SEHA,Rent of primary residence,2024,4,416.386
+CUUR0000SEHA,Rent of primary residence,2024,5,417.772
+CUUR0000SEHA,Rent of primary residence,2024,6,418.82
+CUUR0000SEHA,Rent of primary residence,2024,7,420.577
+CUUR0000SEHA,Rent of primary residence,2024,8,422.223
+CUUR0000SEHA,Rent of primary residence,2024,9,423.821
+CUUR0000SEHA,Rent of primary residence,2024,10,425.381
+CUUR0000SEHA,Rent of primary residence,2024,11,426.651
+CUUR0000SEHA,Rent of primary residence,2024,12,428.151
+CUUR0000SEHA,Rent of primary residence,2025,1,429.506
+CUUR0000SEHA,Rent of primary residence,2025,2,430.603
+CUUR0000SEHA,Rent of primary residence,2025,3,431.798
+CUUR0000SEHA,Rent of primary residence,2025,4,432.956
+CUUR0000SEHA,Rent of primary residence,2025,5,433.698
+CUUR0000SEHA,Rent of primary residence,2025,6,434.594
+CUUR0000SEHA,Rent of primary residence,2025,7,435.489
+CUUR0000SEHA,Rent of primary residence,2025,8,436.981
+CUUR0000SEHA,Rent of primary residence,2025,9,438.212
+CUUR0000SEHA,Rent of primary residence,2025,11,439.275
+CUUR0000SEHA,Rent of primary residence,2025,12,440.667
+CUUR0000SEHA,Rent of primary residence,2026,1,441.718
+CUUR0000SEHA,Rent of primary residence,2026,2,442.157
+CUUR0000SEHA,Rent of primary residence,2026,3,442.864
+CUUR0000SEHA,Rent of primary residence,2026,4,445.029
+CUUR0000SEHA,Rent of primary residence,2026,5,446.38
+CUUR0000SEHA,Rent of primary residence,2026,6,446.945
+CUUR0000SEHA,Rent of primary residence,2026,7,447.963
+CUUR0000SEHA,Rent of primary residence,2026,8,448.997
+CUUR0000SEHA,Rent of primary residence,2026,9,450.402
+CUUR0000SEHA,Rent of primary residence,2026,10,451.486
+CUUR0000SEHF01,Electricity,2022,1,238.183
+CUUR0000SEHF01,Electricity,2022,2,236.453
+CUUR0000SEHF01,Electricity,2022,3,240.558
+CUUR0000SEHF01,Electricity,2022,4,242.778
+CUUR0000SEHF01,Electricity,2022,5,247.461
+CUUR0000SEHF01,Electricity,2022,6,257.557
+CUUR0000SEHF01,Electricity,2022,7,262.347
+CUUR0000SEHF01,Electricity,2022,8,265.191
+CUUR0000SEHF01,Electricity,2022,9,265.487
+CUUR0000SEHF01,Electricity,2022,10,262.1
+CUUR0000SEHF01,Electricity,2022,11,258.864
+CUUR0000SEHF01,Electricity,2022,12,260.548
+CUUR0000SEHF01,Electricity,2023,1,266.528
+CUUR0000SEHF01,Electricity,2023,2,266.887
+CUUR0000SEHF01,Electricity,2023,3,265.033
+CUUR0000SEHF01,Electricity,2023,4,263.216
+CUUR0000SEHF01,Electricity,2023,5,262.135
+CUUR0000SEHF01,Electricity,2023,6,271.369
+CUUR0000SEHF01,Electricity,2023,7,270.268
+CUUR0000SEHF01,Electricity,2023,8,270.752
+CUUR0000SEHF01,Electricity,2023,9,272.401
+CUUR0000SEHF01,Electricity,2023,10,268.342
+CUUR0000SEHF01,Electricity,2023,11,267.545
+CUUR0000SEHF01,Electricity,2023,12,269.17
+CUUR0000SEHF01,Electricity,2024,1,276.698
+CUUR0000SEHF01,Electricity,2024,2,276.384
+CUUR0000SEHF01,Electricity,2024,3,278.233
+CUUR0000SEHF01,Electricity,2024,4,276.653
+CUUR0000SEHF01,Electricity,2024,5,277.584
+CUUR0000SEHF01,Electricity,2024,6,283.25
+CUUR0000SEHF01,Electricity,2024,7,283.415
+CUUR0000SEHF01,Electricity,2024,8,281.333
+CUUR0000SEHF01,Electricity,2024,9,282.522
+CUUR0000SEHF01,Electricity,2024,10,280.47
+CUUR0000SEHF01,Electricity,2024,11,275.801
+CUUR0000SEHF01,Electricity,2024,12,276.7
+CUUR0000SEHF01,Electricity,2025,1,281.888
+CUUR0000SEHF01,Electricity,2025,2,283.194
+CUUR0000SEHF01,Electricity,2025,3,285.983
+CUUR0000SEHF01,Electricity,2025,4,286.652
+CUUR0000SEHF01,Electricity,2025,5,290.055
+CUUR0000SEHF01,Electricity,2025,6,299.728
+CUUR0000SEHF01,Electricity,2025,7,299.107
+CUUR0000SEHF01,Electricity,2025,8,298.738
+CUUR0000SEHF01,Electricity,2025,9,296.887
+CUUR0000SEHF01,Electricity,2025,11,294.939
+CUUR0000SEHF01,Electricity,2025,12,295.121
+CUUR0000SEHF01,Electricity,2026,1,299.731
+CUUR0000SEHF01,Electricity,2026,2,296.798
+CUUR0000SEHF01,Electricity,2026,3,299.028
+CUUR0000SEHF01,Electricity,2026,4,304.095
+CUUR0000SEHF01,Electricity,2026,5,307.226
+CUUR0000SEHF01,Electricity,2026,6,311.818
+CUUR0000SEHF01,Electricity,2026,7,311.672
+CUUR0000SEHF01,Electricity,2026,8,310.057
+CUUR0000SEHF01,Electricity,2026,9,309.852
+CUUR0000SEHF01,Electricity,2026,10,307.673
+CUUR0000SEHF02,Utility (piped) gas,2022,1,225.181
+CUUR0000SEHF02,Utility (piped) gas,2022,2,226.491
+CUUR0000SEHF02,Utility (piped) gas,2022,3,225.679
+CUUR0000SEHF02,Utility (piped) gas,2022,4,230.916
+CUUR0000SEHF02,Utility (piped) gas,2022,5,248.854
+CUUR0000SEHF02,Utility (piped) gas,2022,6,269.278
+CUUR0000SEHF02,Utility (piped) gas,2022,7,258.666
+CUUR0000SEHF02,Utility (piped) gas,2022,8,268.866
+CUUR0000SEHF02,Utility (piped) gas,2022,9,275.894
+CUUR0000SEHF02,Utility (piped) gas,2022,10,264.774
+CUUR0000SEHF02,Utility (piped) gas,2022,11,258.872
+CUUR0000SEHF02,Utility (piped) gas,2022,12,267.683
+CUUR0000SEHF02,Utility (piped) gas,2023,1,285.407
+CUUR0000SEHF02,Utility (piped) gas,2023,2,258.976
+CUUR0000SEHF02,Utility (piped) gas,2023,3,238.182
+CUUR0000SEHF02,Utility (piped) gas,2023,4,226.062
+CUUR0000SEHF02,Utility (piped) gas,2023,5,221.484
+CUUR0000SEHF02,Utility (piped) gas,2023,6,219.272
+CUUR0000SEHF02,Utility (piped) gas,2023,7,223.29
+CUUR0000SEHF02,Utility (piped) gas,2023,8,224.539
+CUUR0000SEHF02,Utility (piped) gas,2023,9,221.045
+CUUR0000SEHF02,Utility (piped) gas,2023,10,222.955
+CUUR0000SEHF02,Utility (piped) gas,2023,11,231.976
+CUUR0000SEHF02,Utility (piped) gas,2023,12,230.862
+CUUR0000SEHF02,Utility (piped) gas,2024,1,234.515
+CUUR0000SEHF02,Utility (piped) gas,2024,2,236.218
+CUUR0000SEHF02,Utility (piped) gas,2024,3,230.601
+CUUR0000SEHF02,Utility (piped) gas,2024,4,221.729
+CUUR0000SEHF02,Utility (piped) gas,2024,5,222.024
+CUUR0000SEHF02,Utility (piped) gas,2024,6,227.478
+CUUR0000SEHF02,Utility (piped) gas,2024,7,226.593
+CUUR0000SEHF02,Utility (piped) gas,2024,8,224.259
+CUUR0000SEHF02,Utility (piped) gas,2024,9,225.366
+CUUR0000SEHF02,Utility (piped) gas,2024,10,227.463
+CUUR0000SEHF02,Utility (piped) gas,2024,11,236.179
+CUUR0000SEHF02,Utility (piped) gas,2024,12,242.224
+CUUR0000SEHF02,Utility (piped) gas,2025,1,246.117
+CUUR0000SEHF02,Utility (piped) gas,2025,2,250.38
+CUUR0000SEHF02,Utility (piped) gas,2025,3,252.218
+CUUR0000SEHF02,Utility (piped) gas,2025,4,256.501
+CUUR0000SEHF02,Utility (piped) gas,2025,5,255.981
+CUUR0000SEHF02,Utility (piped) gas,2025,6,259.734
+CUUR0000SEHF02,Utility (piped) gas,2025,7,257.867
+CUUR0000SEHF02,Utility (piped) gas,2025,8,255.253
+CUUR0000SEHF02,Utility (piped) gas,2025,9,251.728
+CUUR0000SEHF02,Utility (piped) gas,2025,11,257.731
+CUUR0000SEHF02,Utility (piped) gas,2025,12,268.415
+CUUR0000SEHF02,Utility (piped) gas,2026,1,270.302
+CUUR0000SEHF02,Utility (piped) gas,2026,2,277.644
+CUUR0000SEHF02,Utility (piped) gas,2026,3,268.466
+CUUR0000SEHF02,Utility (piped) gas,2026,4,264.314
+CUUR0000SEHF02,Utility (piped) gas,2026,5,263.682
+CUUR0000SEHF02,Utility (piped) gas,2026,6,267.609
+CUUR0000SEHF02,Utility (piped) gas,2026,7,268.999
+CUUR0000SEHF02,Utility (piped) gas,2026,8,266.448
+CUUR0000SEHF02,Utility (piped) gas,2026,9,264.25
+CUUR0000SEHF02,Utility (piped) gas,2026,10,263.875
+CUUR0000SETE,Motor vehicle insurance,2022,1,574.042
+CUUR0000SETE,Motor vehicle insurance,2022,2,584.317
+CUUR0000SETE,Motor vehicle insurance,2022,3,589.143
+CUUR0000SETE,Motor vehicle insurance,2022,4,592.317
+CUUR0000SETE,Motor vehicle insurance,2022,5,594.437
+CUUR0000SETE,Motor vehicle insurance,2022,6,603.932
+CUUR0000SETE,Motor vehicle insurance,2022,7,609.585
+CUUR0000SETE,Motor vehicle insurance,2022,8,615.559
+CUUR0000SETE,Motor vehicle insurance,2022,9,624.558
+CUUR0000SETE,Motor vehicle insurance,2022,10,637.103
+CUUR0000SETE,Motor vehicle insurance,2022,11,644.317
+CUUR0000SETE,Motor vehicle insurance,2022,12,648.771
+CUUR0000SETE,Motor vehicle insurance,2023,1,658.513
+CUUR0000SETE,Motor vehicle insurance,2023,2,668.806
+CUUR0000SETE,Motor vehicle insurance,2023,3,677.445
+CUUR0000SETE,Motor vehicle insurance,2023,4,684.166
+CUUR0000SETE,Motor vehicle insurance,2023,5,695.929
+CUUR0000SETE,Motor vehicle insurance,2023,6,705.717
+CUUR0000SETE,Motor vehicle insurance,2023,7,717.799
+CUUR0000SETE,Motor vehicle insurance,2023,8,733.141
+CUUR0000SETE,Motor vehicle insurance,2023,9,742.292
+CUUR0000SETE,Motor vehicle insurance,2023,10,759.704
+CUUR0000SETE,Motor vehicle insurance,2023,11,768.249
+CUUR0000SETE,Motor vehicle insurance,2023,12,780.284
+CUUR0000SETE,Motor vehicle insurance,2024,1,794.142
+CUUR0000SETE,Motor vehicle insurance,2024,2,806.444
+CUUR0000SETE,Motor vehicle insurance,2024,3,827.852
+CUUR0000SETE,Motor vehicle insurance,2024,4,839.077
+CUUR0000SETE,Motor vehicle insurance,2024,5,836.941
+CUUR0000SETE,Motor vehicle insurance,2024,6,843.579
+CUUR0000SETE,Motor vehicle insurance,2024,7,851.007
+CUUR0000SETE,Motor vehicle insurance,2024,8,854.307
+CUUR0000SETE,Motor vehicle insurance,2024,9,863.292
+CUUR0000SETE,Motor vehicle insurance,2024,10,865.985
+CUUR0000SETE,Motor vehicle insurance,2024,11,866.133
+CUUR0000SETE,Motor vehicle insurance,2024,12,868.417
+CUUR0000SETE,Motor vehicle insurance,2025,1,887.651
+CUUR0000SETE,Motor vehicle insurance,2025,2,895.97
+CUUR0000SETE,Motor vehicle insurance,2025,3,890.353
+CUUR0000SETE,Motor vehicle insurance,2025,4,892.553
+CUUR0000SETE,Motor vehicle insurance,2025,5,895.262
+CUUR0000SETE,Motor vehicle insurance,2025,6,895.281
+CUUR0000SETE,Motor vehicle insurance,2025,7,896.018
+CUUR0000SETE,Motor vehicle insurance,2025,8,894.075
+CUUR0000SETE,Motor vehicle insurance,2025,9,890.473
+CUUR0000SETE,Motor vehicle insurance,2025,12,892.879
+CUUR0000SETE,Motor vehicle insurance,2026,1,892.491
+CUUR0000SETE,Motor vehicle insurance,2026,2,897.406
+CUUR0000SETE,Motor vehicle insurance,2026,3,897.145
+CUUR0000SETE,Motor vehicle insurance,2026,4,894.315
+CUUR0000SETE,Motor vehicle insurance,2026,5,877.278
+CUUR0000SETE,Motor vehicle insurance,2026,6,858.481
+CUUR0000SETE,Motor vehicle insurance,2026,7,856.08
+CUUR0000SETE,Motor vehicle insurance,2026,8,848.231
+CUUR0000SETE,Motor vehicle insurance,2026,9,846.102
+CUUR0000SETE,Motor vehicle insurance,2026,10,854.597
