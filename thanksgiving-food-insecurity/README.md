@@ -1,11 +1,14 @@
-# Thanksgiving food insecurity: a cheaper dinner, a thinner margin
+# Holiday Season Food Insecurity: a cheaper dinner, a thinner margin
 
 The Thanksgiving dinner for 10 costs less than it did in 2022. But the bills people can't skip rose faster than pay at the bottom, SNAP shrank, food banks are getting less federal food, and USDA stopped publishing the national food-insecurity rate after 2024. This folder holds the data behind that picture, along with the evidence that points the other way.
 
-This folder is the behind-the-scenes companion to David the Data Dude's Instagram Reel.
+This folder is the behind-the-scenes companion to David the Data Dude's [Instagram Reel](https://www.instagram.com/reel/DgKbWX-h45I/).
 
-<!-- REEL LINK AND COVER: the Reel posts 2026-11-25. Add cover.jpg, then replace this comment and the line below with the usual 300px clickable cover linking to the Reel. -->
-<p align="center"><i>The Reel posts on Instagram on November 25, 2026. The link and cover will be added here.</i></p>
+<p align="center">
+  <a href="https://www.instagram.com/reel/DgKbWX-h45I/"><img src="cover.jpg" alt="Holiday Season Food Insecurity Reel cover" width="300"></a>
+  <br>
+  <b>▶ <a href="https://www.instagram.com/reel/DgKbWX-h45I/">Watch the Reel on Instagram</a></b>
+</p>
 
 ## The result
 
