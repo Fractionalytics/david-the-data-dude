@@ -4,7 +4,7 @@ data/raw/fns/keydata-August-2026.xlsx (FY2025-FY2026, generated 2026-11-13;
 recent months are preliminary).
 
 Writes data/snap_wic_monthly.csv and prints the changes.
-Run from the repo root: python -I projects/thanksgiving-food-insecurity/scripts/parse_keydata.py
+Run from the repo root: python -I projects/holiday-season-food-insecurity/scripts/parse_keydata.py
 """
 import csv
 import datetime as dt

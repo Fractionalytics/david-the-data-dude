@@ -2,7 +2,7 @@
 compare the latest month with the same month in 2022.
 
 Writes data/cpi_wages.csv (all months) and prints the comparison.
-Run from the repo root: python projects/thanksgiving-food-insecurity/scripts/fetch_cpi.py
+Run from the repo root: python projects/holiday-season-food-insecurity/scripts/fetch_cpi.py
 """
 import csv
 import json

@@ -5,7 +5,7 @@ Q3 average; plus unemployment in October of each year.
 Only full-time wage earners are covered. Part-time workers, the jobless and
 retirees are not, and many SNAP households are among them.
 
-Run from the repo root: python projects/thanksgiving-food-insecurity/scripts/fetch_low_end.py
+Run from the repo root: python projects/holiday-season-food-insecurity/scripts/fetch_low_end.py
 """
 import json
 import urllib.request

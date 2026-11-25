@@ -6,7 +6,7 @@ Prices: AFBF releases (fb.org). 2022, 2025 and 2026 read on fb.org's releases;
 2019-2021, 2023 and 2024 from fb.org pages via search summaries (see docs/the-case.md).
 
 Writes data/dinner_real.csv. Run from the repo root:
-python -I projects/thanksgiving-food-insecurity/scripts/dinner_real.py
+python -I projects/holiday-season-food-insecurity/scripts/dinner_real.py
 """
 import csv
 import json

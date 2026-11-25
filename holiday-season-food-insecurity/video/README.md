@@ -1,10 +1,10 @@
-# thanksgiving-food-insecurity video charts (Remotion)
+# holiday-season-food-insecurity video charts (Remotion)
 
 Animated charts for the Instagram video. Each chart is a Remotion **composition**: a React component plus a size, frame rate and length. Rendering one turns it into an MP4. Read `docs/video-playbook.md` section 6 first.
 
 ## First time
 
-Copy this template to `projects/<slug>/video/`, then replace `thanksgiving-food-insecurity` in `package.json` and this README.
+Copy this template to `projects/<slug>/video/`, then replace `holiday-season-food-insecurity` in `package.json` and this README.
 
 ```bash
 cd projects/<slug>/video

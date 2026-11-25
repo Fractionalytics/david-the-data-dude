@@ -2,7 +2,7 @@
 API v1, not seasonally adjusted, US city average). Compare with pay at the
 low end (fetch_low_end.py: 10th percentile full-time pay +13.2%).
 
-Run from the repo root: python -I projects/thanksgiving-food-insecurity/scripts/fetch_essentials.py
+Run from the repo root: python -I projects/holiday-season-food-insecurity/scripts/fetch_essentials.py
 """
 import json
 import urllib.request

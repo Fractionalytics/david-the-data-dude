@@ -1,7 +1,7 @@
 """Sync everything visitors should see into the public repo (../david-the-data-dude/holiday-season-food-insecurity).
 
-    python projects/thanksgiving-food-insecurity/scripts/publish_public.py      (from the main checkout, after merging)
-    python projects/thanksgiving-food-insecurity/scripts/publish_public.py --dry-run   (list what would be copied)
+    python projects/holiday-season-food-insecurity/scripts/publish_public.py      (from the main checkout, after merging)
+    python projects/holiday-season-food-insecurity/scripts/publish_public.py --dry-run   (list what would be copied)
 
 Copies only what is ours to share:
 - README.md (from docs/public-README.md, written and fact-checked here), plus the Reel cover once cover.jpg exists.

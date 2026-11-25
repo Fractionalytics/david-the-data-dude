@@ -1,4 +1,4 @@
-# Thanksgiving Food Insecurity: data challenges
+# Holiday Season Food Insecurity: data challenges
 
 The inside look at what went wrong with the data, logged as it happened.
 
